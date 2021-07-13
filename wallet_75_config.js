@@ -1,1 +1,1 @@
-var mnemonic = "muscle news now choose alley slide child wedding myself ride caught shield";
+var mnemonic = "farm catch cube enroll cup tube kit author tomato awful outside drastic";

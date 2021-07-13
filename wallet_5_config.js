@@ -1,1 +1,1 @@
-var mnemonic = "trophy story teach stem employ praise easy giggle bundle head target glide";
+var mnemonic = "clump same sleep drive stamp misery caught sniff wood word scatter mandate";

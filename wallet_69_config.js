@@ -1,1 +1,1 @@
-var mnemonic = "enemy game manual face flat pretty fish name shy glove feature history";
+var mnemonic = "shield cancel school impose elbow stumble expect appear staff ensure bright wise";

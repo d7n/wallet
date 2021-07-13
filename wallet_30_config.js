@@ -1,1 +1,1 @@
-var mnemonic = "super taxi hobby woman winter milk ice forum museum hill window spread";
+var mnemonic = "train plastic biology that pole junk dragon dinosaur push bracket laundry viable";

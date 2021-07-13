@@ -1,1 +1,1 @@
-var mnemonic = "inherit check stumble access number dog what roast cricket chef glare board";
+var mnemonic = "spider peace toddler scale attitude clerk airport solid potato sister fiction talent";

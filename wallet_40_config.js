@@ -1,1 +1,1 @@
-var mnemonic = "vapor mechanic cost hope cook quantum farm case column unaware october dry";
+var mnemonic = "page wise perfect annual crime twenty addict sudden champion there believe rocket";

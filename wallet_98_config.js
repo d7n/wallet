@@ -1,1 +1,1 @@
-var mnemonic = "clarify water raccoon finger abandon legend orbit undo humble display violin blush";
+var mnemonic = "lemon frog size pill dish mule card occur tackle scan diary acoustic";

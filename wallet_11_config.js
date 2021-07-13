@@ -1,1 +1,1 @@
-var mnemonic = "current recycle river casual teach find humor pilot fatigue fatal ticket crisp";
+var mnemonic = "close sustain humble nest evolve cage cargo net short cage saddle fix";

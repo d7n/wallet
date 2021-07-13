@@ -1,1 +1,1 @@
-var mnemonic = "mansion pulp rude output system ripple stem day spike wall bird poverty";
+var mnemonic = "letter theory clever ramp energy gravity half make drama dune foster uncle";

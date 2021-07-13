@@ -1,1 +1,1 @@
-var mnemonic = "any goat begin olympic three improve lawsuit virus copy force alcohol board";
+var mnemonic = "example imitate welcome bitter chair annual donor tornado spare mail silly ball";

@@ -1,1 +1,1 @@
-var mnemonic = "water choice resemble side width flash modify daring middle thumb dinner reflect";
+var mnemonic = "eagle squirrel script soldier chaos gun develop maze soon crowd egg develop";

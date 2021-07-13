@@ -1,1 +1,1 @@
-var mnemonic = "impose jump slot scatter frozen tissue gossip order profit fine walk brand";
+var mnemonic = "differ rhythm mouse fiction improve angle flower breeze entire tobacco shrimp energy";

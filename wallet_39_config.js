@@ -1,1 +1,1 @@
-var mnemonic = "fade spice network behind churn rich mixed result midnight claw drop salad";
+var mnemonic = "uncover shift replace business bag add maple alcohol recycle scorpion lunar outer";

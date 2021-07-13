@@ -1,1 +1,1 @@
-var mnemonic = "crowd grain deputy unique fat miss long happy beauty fetch salmon number";
+var mnemonic = "find cable music alone hybrid major catch asset peace surface option regret";

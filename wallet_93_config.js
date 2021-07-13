@@ -1,1 +1,1 @@
-var mnemonic = "goddess firm advance loyal current current search fade network predict holiday crush";
+var mnemonic = "example educate feed drip tribe ghost inject dial crane style envelope good";

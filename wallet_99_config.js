@@ -1,1 +1,1 @@
-var mnemonic = "ladder unable crime pizza office huge surround brass orient heavy raw symptom";
+var mnemonic = "neither material interest indoor staff mixture put cement quantum sample motion drip";

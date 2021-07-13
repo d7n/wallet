@@ -1,1 +1,1 @@
-var mnemonic = "convince claim capital phone essay raccoon outside trophy field category luxury affair";
+var mnemonic = "joy assume chronic afford ocean million above remove sport budget enable garbage";

@@ -1,1 +1,1 @@
-var mnemonic = "crazy advance despair puzzle property rich kiss pretty learn elephant club fragile";
+var mnemonic = "better senior canoe fortune joke grab museum strike shy observe asthma economy";

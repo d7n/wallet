@@ -1,1 +1,1 @@
-var mnemonic = "unveil curve copper net animal aerobic wing beauty price maid output atom";
+var mnemonic = "prosper proof pretty cereal double slender jacket juice open spoon pigeon enforce";

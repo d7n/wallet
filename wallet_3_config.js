@@ -1,1 +1,1 @@
-var mnemonic = "sentence arch magic gate result diary lesson saddle bargain harbor wing bicycle";
+var mnemonic = "avocado august carpet pupil rely poverty inform legal talent curve code pool";

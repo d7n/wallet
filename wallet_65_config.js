@@ -1,1 +1,1 @@
-var mnemonic = "hurt naive verb update surprise then area pupil toward typical embody title";
+var mnemonic = "retire maximum detect category select toy decorate leave empty fitness convince rail";

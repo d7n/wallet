@@ -1,1 +1,1 @@
-var mnemonic = "depart because barely luxury orange train thought snake strike hospital miss lemon";
+var mnemonic = "slice scrub neglect hockey hawk hill ice blue rifle beach merry expose";

@@ -1,1 +1,1 @@
-var mnemonic = "course spell scrub other deny custom present corn palm popular great betray";
+var mnemonic = "army ostrich bargain guide pull giraffe mimic jewel scorpion giggle bag devote";

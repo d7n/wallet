@@ -1,1 +1,1 @@
-var mnemonic = "ride shoe elephant misery own movie link shadow abandon true neither pizza";
+var mnemonic = "skate mixed hundred lesson genre dress enhance indicate drink before imitate extend";

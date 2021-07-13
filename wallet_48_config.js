@@ -1,1 +1,1 @@
-var mnemonic = "cushion goat shy project cram news fix dolphin various over absurd auction";
+var mnemonic = "bus error twist stage denial topple medal light plastic engine car paper";

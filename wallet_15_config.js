@@ -1,1 +1,1 @@
-var mnemonic = "ill assault lawn clip roast skull fault square attend scout atom sport";
+var mnemonic = "layer sauce domain bundle sniff regret drink enroll fly post fatigue alley";

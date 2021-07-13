@@ -1,1 +1,1 @@
-var mnemonic = "buzz table foam mule media insect sing decorate lab place wasp reunion";
+var mnemonic = "street soup bulb punch athlete thumb oyster near ready raccoon choice feature";

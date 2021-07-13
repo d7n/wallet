@@ -1,1 +1,1 @@
-var mnemonic = "keep where amazing else public squeeze charge rebuild goat proof secret smoke";
+var mnemonic = "voice ski coyote edit crew sing egg fly immense daughter raise field";

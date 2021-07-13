@@ -1,1 +1,1 @@
-var mnemonic = "wolf rib mango silly country pact brief stool human chuckle scissors stick";
+var mnemonic = "plunge debate grace promote banner knife october occur install wheat pause rookie";

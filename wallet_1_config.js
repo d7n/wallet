@@ -1,1 +1,1 @@
-var mnemonic = "mosquito pupil curve adult toss night initial together ball bundle tag mosquito";
+var mnemonic = "blush pole pool lab gasp dance breeze direct enrich gold clog warrior";

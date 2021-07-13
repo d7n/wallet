@@ -1,1 +1,1 @@
-var mnemonic = "slender album venue timber food skull burden home position oven orient across";
+var mnemonic = "club half dad engage hair limb dry crumble moment worth border mandate";

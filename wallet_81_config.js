@@ -1,1 +1,1 @@
-var mnemonic = "load nest legal around gain surge hurt shed chuckle lend buyer column";
+var mnemonic = "erupt find dragon motor inject rib rhythm soft usage little grape vehicle";

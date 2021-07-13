@@ -1,1 +1,1 @@
-var mnemonic = "eyebrow avocado bone horn cover bus reduce answer change situate aim exotic";
+var mnemonic = "rocket poem lounge saddle episode struggle private million foil move live image";

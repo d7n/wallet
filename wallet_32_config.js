@@ -1,1 +1,1 @@
-var mnemonic = "pioneer tortoise original safe advance trigger coast few lizard voice add welcome";
+var mnemonic = "baby elephant goat giggle dynamic forum lonely tennis erosion expose first comfort";

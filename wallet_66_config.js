@@ -1,1 +1,1 @@
-var mnemonic = "blanket city relax during length immense piano deposit company illness march dog";
+var mnemonic = "ghost thank post insect desk accuse person pencil crack oak apple cloud";

@@ -1,1 +1,1 @@
-var mnemonic = "uniform fox memory abandon pull polar episode original window destroy sunny chuckle";
+var mnemonic = "curtain mountain poem scout lesson coffee collect weekend prepare dilemma grit feature";

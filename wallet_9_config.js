@@ -1,1 +1,1 @@
-var mnemonic = "curtain squeeze green anchor later brisk program firm lunar wait lamp frog";
+var mnemonic = "merry daring awful fluid survey topic gather blur couch jazz myth attitude";

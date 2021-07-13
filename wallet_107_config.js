@@ -1,1 +1,1 @@
-var mnemonic = "snap auto employ middle there luggage live silver dragon rally polar amateur";
+var mnemonic = "clean cover oyster child system olive syrup garment ivory property business theory";

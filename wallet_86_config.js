@@ -1,1 +1,1 @@
-var mnemonic = "purity rocket banner cup lazy famous scrub know twice pipe script level";
+var mnemonic = "snow between shy witness rescue veteran bring purse ladder island kind must";

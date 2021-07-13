@@ -1,1 +1,1 @@
-var mnemonic = "wool supply uncle kiwi april print talent push bean tuna amount globe";
+var mnemonic = "focus arctic harbor gold own sand carpet airport thought engage bring mosquito";

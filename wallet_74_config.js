@@ -1,1 +1,1 @@
-var mnemonic = "patch whale work slim rabbit special seek mango sound bring name supreme";
+var mnemonic = "jeans plug promote vibrant first rail uniform twice myth stay clay news";

@@ -1,1 +1,1 @@
-var mnemonic = "expire unknown surge only category clarify era impose more legal hard elbow";
+var mnemonic = "armor exist solid collect shoot wrist sadness ecology execute dizzy interest decade";

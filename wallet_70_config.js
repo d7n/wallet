@@ -1,1 +1,1 @@
-var mnemonic = "oven photo tattoo symbol alarm attack earn wrap target faith lunar soft";
+var mnemonic = "sunny wave near nominee season payment review live spare attend frequent label";

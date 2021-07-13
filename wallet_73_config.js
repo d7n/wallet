@@ -1,1 +1,1 @@
-var mnemonic = "purpose match tomato sausage video fortune kid miss legend elder multiply cruel";
+var mnemonic = "card judge poverty crash sphere what must verb ordinary novel various fine";

@@ -1,1 +1,1 @@
-var mnemonic = "bitter offer dragon bring unit fiber negative develop wonder cereal cinnamon bundle";
+var mnemonic = "work avoid swamp theory cushion bus soap critic wing spider injury submit";

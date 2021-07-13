@@ -1,1 +1,1 @@
-var mnemonic = "lock today vital mix fatal whisper there bargain provide pledge donkey boy";
+var mnemonic = "depart wagon gloom east fatigue problem hunt smooth lucky scatter attitude weekend";

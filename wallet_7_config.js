@@ -1,1 +1,1 @@
-var mnemonic = "hospital bullet quality phrase metal struggle road spoon insect congress meadow index";
+var mnemonic = "pride outdoor behave love wage baby chunk cycle case rack shoulder citizen";

@@ -1,1 +1,1 @@
-var mnemonic = "random mad wage across ladder test attack fatigue have blind hotel easily";
+var mnemonic = "spread host impose drink stem kangaroo next twin tide hungry hunt warrior";

@@ -1,1 +1,1 @@
-var mnemonic = "slender battle type punch birth kingdom blind coast ladder inner trim muffin";
+var mnemonic = "round state index either scorpion fatigue blind joke demise snow pattern debate";

@@ -1,1 +1,1 @@
-var mnemonic = "old minimum feel speed bless toss frame park chat rail ill glimpse";
+var mnemonic = "eternal expect hood volume senior one season usage blanket together student fetch";

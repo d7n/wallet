@@ -1,1 +1,1 @@
-var mnemonic = "sentence purpose pig law survey weekend cricket badge work festival witness envelope";
+var mnemonic = "avocado educate must senior analyst green satoshi blouse hip club extend afford";

@@ -1,1 +1,1 @@
-var mnemonic = "hidden claim express simple patient dial science clerk midnight casual call excuse";
+var mnemonic = "innocent coconut uphold ripple chief exhaust idea balance private mixed slide over";

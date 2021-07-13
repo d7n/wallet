@@ -1,1 +1,1 @@
-var mnemonic = "hole together fade road expand knee wall slab film gesture miss virtual";
+var mnemonic = "just salute save poem record body tone below hair frown nuclear glance";

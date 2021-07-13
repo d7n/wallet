@@ -1,1 +1,1 @@
-var mnemonic = "photo uphold outer prefer agent cloth cup margin blood midnight claim expect";
+var mnemonic = "expect vapor phrase style devote file wife arrange inspire supreme casino bomb";

@@ -1,1 +1,1 @@
-var mnemonic = "suspect foil silent color point notable photo busy deposit bid use clog";
+var mnemonic = "december power area merry hurry jeans smooth grab bar industry arrow guitar";

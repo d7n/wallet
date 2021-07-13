@@ -1,1 +1,1 @@
-var mnemonic = "enhance mutual hub hundred cube evoke cactus stuff lawn strong supreme height";
+var mnemonic = "grab hard amateur approve chaos fever tape squeeze lyrics wink birth elbow";

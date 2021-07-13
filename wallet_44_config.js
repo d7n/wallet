@@ -1,1 +1,1 @@
-var mnemonic = "mystery stumble paddle logic year entry page best spike anxiety rebuild promote";
+var mnemonic = "legal police manage annual unhappy anchor august ski silent attract can abstract";

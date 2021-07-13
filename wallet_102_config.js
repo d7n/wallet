@@ -1,1 +1,1 @@
-var mnemonic = "unveil trip potato avoid hollow civil there width head deputy wink connect";
+var mnemonic = "mobile easy perfect rug describe swallow what midnight what hybrid auto snow";

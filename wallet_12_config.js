@@ -1,1 +1,1 @@
-var mnemonic = "fly river document again chief sad depth treat crazy health unable valve";
+var mnemonic = "solution toddler diamond wrestle pistol element apple mimic december token card battle";

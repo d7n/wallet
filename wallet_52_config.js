@@ -1,1 +1,1 @@
-var mnemonic = "search tenant kitten material culture kiss drive language chef garment deal achieve";
+var mnemonic = "inhale today control light exit quick behave over present kiwi scrub lunch";

@@ -1,1 +1,1 @@
-var mnemonic = "divert other match drop split false universe hunt small answer gym donor";
+var mnemonic = "wide mule diary label stone hurdle crisp skate basket beach dove tissue";

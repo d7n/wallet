@@ -1,1 +1,1 @@
-var mnemonic = "round address faith ripple asthma agree social sad pretty adult dutch skirt";
+var mnemonic = "cluster afford wife peanut crane advice chase chicken breeze dream marble team";

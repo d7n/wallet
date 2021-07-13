@@ -1,1 +1,1 @@
-var mnemonic = "present lion tomorrow refuse fatal sand custom wool very gas tomorrow film";
+var mnemonic = "next maze advice trip involve sound neck blush arm dynamic picnic wage";

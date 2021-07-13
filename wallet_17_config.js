@@ -1,1 +1,1 @@
-var mnemonic = "tent cliff glow danger quote acoustic pool like output nation wisdom author";
+var mnemonic = "essay source catch portion gossip pact home trend body speak asset pretty";

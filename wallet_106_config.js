@@ -1,1 +1,1 @@
-var mnemonic = "myth obtain tumble federal fence way hybrid rain disease boring salt amused";
+var mnemonic = "arm divorce melt extend jewel train wolf mother jealous mosquito smooth food";

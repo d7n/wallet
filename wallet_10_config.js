@@ -1,1 +1,1 @@
-var mnemonic = "twelve junk bunker page barrel delay melt admit drill various wood toddler";
+var mnemonic = "slice spread useful raw option enough opera capital galaxy vast autumn setup";

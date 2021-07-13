@@ -1,1 +1,1 @@
-var mnemonic = "absent vicious process duck lawn slim advice quality swim observe target napkin";
+var mnemonic = "direct day crawl poverty feed enlist jeans soul churn segment carbon spot";

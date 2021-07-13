@@ -1,1 +1,1 @@
-var mnemonic = "morning slice cash drip when cattle anchor pave fever identify fiscal early";
+var mnemonic = "clip cram number segment cheese laptop hurt despair recycle wood travel cup";

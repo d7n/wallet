@@ -1,1 +1,1 @@
-var mnemonic = "cabin bubble cash flight move recycle solve omit border luxury unfair nerve";
+var mnemonic = "modify defy scan move virtual fetch laptop merge few pioneer gesture action";

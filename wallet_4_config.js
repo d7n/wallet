@@ -1,1 +1,1 @@
-var mnemonic = "pledge frog erosion horse there fitness bread between fancy salt uniform cool";
+var mnemonic = "earth penalty kite universe have honey hover vague pitch liar protect capable";

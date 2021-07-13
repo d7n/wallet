@@ -1,1 +1,1 @@
-var mnemonic = "foam syrup clutch combine mention flush claw stadium inform captain wool donate";
+var mnemonic = "ranch warm opera position dust cannon system edge miracle sing kitten violin";

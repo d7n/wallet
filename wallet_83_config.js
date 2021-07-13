@@ -1,1 +1,1 @@
-var mnemonic = "scatter core left supreme bird zero borrow quiz girl aim lesson couple";
+var mnemonic = "submit verb tissue pride suspect traffic great donkey laptop never pretty lock";

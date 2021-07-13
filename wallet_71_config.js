@@ -1,1 +1,1 @@
-var mnemonic = "husband know denial hero robot father client six image hub wrap grief";
+var mnemonic = "mechanic grief west immense jump annual ugly nuclear minimum bone damp law";

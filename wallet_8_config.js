@@ -1,1 +1,1 @@
-var mnemonic = "prevent index decide diesel base keen thank ranch catalog awful voyage involve";
+var mnemonic = "thing various torch vocal half approve critic memory pencil public day dizzy";

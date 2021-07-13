@@ -1,1 +1,1 @@
-var mnemonic = "segment motion matrix cactus jelly bargain brown anger large giraffe reflect jump";
+var mnemonic = "pelican truth atom clean diagram spin fee pave gap party meadow they";

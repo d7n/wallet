@@ -1,1 +1,1 @@
-var mnemonic = "dwarf square grape matter side enjoy blood frame vocal blur between burst";
+var mnemonic = "adjust stereo blast give twice dinosaur draft theme biology warfare spatial lion";

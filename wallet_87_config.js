@@ -1,1 +1,1 @@
-var mnemonic = "theory humor disease impulse upon pattern beauty drop rude together bargain gym";
+var mnemonic = "famous salad print baby copper craft witness stable room estate begin record";

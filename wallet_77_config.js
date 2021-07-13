@@ -1,1 +1,1 @@
-var mnemonic = "valley gallery immune butter tent pigeon utility sick twelve satisfy switch energy";
+var mnemonic = "tide ocean region put toss cigar goat cool ketchup clap south pluck";

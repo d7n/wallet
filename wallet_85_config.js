@@ -1,1 +1,1 @@
-var mnemonic = "modify expand universe asthma roof police host gift group enter caught elephant";
+var mnemonic = "breeze immune mansion broken robust swarm goose deny drama price soldier output";

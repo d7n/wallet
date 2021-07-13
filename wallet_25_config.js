@@ -1,1 +1,1 @@
-var mnemonic = "try cart display unhappy friend avoid average cheese tumble thumb second valid";
+var mnemonic = "wisdom canyon fatal regular ribbon umbrella hammer cheese turn torch romance stomach";

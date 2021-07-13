@@ -1,1 +1,1 @@
-var mnemonic = "twice bridge ribbon mystery balcony second suit jungle dinner chat praise skull";
+var mnemonic = "sting child plug sun zebra glue faith session uniform curious drama suspect";

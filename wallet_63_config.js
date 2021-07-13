@@ -1,1 +1,1 @@
-var mnemonic = "crumble tobacco tackle winner also deal planet economy prosper artefact truck reveal";
+var mnemonic = "slice country dwarf kite hint job panda brief saddle then vanish repair";

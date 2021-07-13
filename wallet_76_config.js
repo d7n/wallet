@@ -1,1 +1,1 @@
-var mnemonic = "heavy pistol level gravity fun fluid sting sing sphere cook potato normal";
+var mnemonic = "hill extra skin food long fruit want business sick surface offer slab";

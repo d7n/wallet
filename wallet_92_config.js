@@ -1,1 +1,1 @@
-var mnemonic = "pipe tank pipe own always decrease virus unable comic metal pottery blame";
+var mnemonic = "over usual gesture hurdle number village turkey aisle subway muffin glove improve";

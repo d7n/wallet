@@ -1,1 +1,1 @@
-var mnemonic = "festival card remember horse primary birth style sniff pet grab oxygen recycle";
+var mnemonic = "warrior heavy short bean pyramid north riot defense east pepper good unlock";

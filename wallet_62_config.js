@@ -1,1 +1,1 @@
-var mnemonic = "symptom mushroom trend hedgehog toss tourist donor keen myself bicycle reject jewel";
+var mnemonic = "yellow shed journey duck visa student picture shrug potato angry apple staff";

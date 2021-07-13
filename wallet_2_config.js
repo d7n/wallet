@@ -1,1 +1,1 @@
-var mnemonic = "conduct member oak surface gas cargo liquid device session coffee skull toy";
+var mnemonic = "rhythm talent plunge blouse must cup write payment legal chalk beef fly";

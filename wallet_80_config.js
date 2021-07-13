@@ -1,1 +1,1 @@
-var mnemonic = "game quote syrup harbor struggle eternal rough alter suspect author best half";
+var mnemonic = "improve make mechanic caution siren grain whip rent chaos record wait rice";

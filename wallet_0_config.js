@@ -1,1 +1,1 @@
-var mnemonic = "battle defense ivory arena census merry path derive member welcome toast height";
+var mnemonic = "sock chaos spin hard nice pony include lumber body sock ostrich author";

@@ -1,1 +1,1 @@
-var mnemonic = "pig budget speak result quote art almost ski you govern bacon artefact";
+var mnemonic = "song rural area jump elegant chest gospel sock stock faith inject relief";

@@ -1,1 +1,1 @@
-var mnemonic = "foil mystery avocado cactus boost shell route race brand pyramid roast moral";
+var mnemonic = "album quit return satisfy around truck virus kangaroo ceiling enroll bring merge";
