@@ -1,1 +1,1 @@
-var mnemonic = "guilt fun festival attack knife symbol better celery annual bundle aspect seminar";
+var mnemonic = "barrel cradle random top guess evidence smooth master oppose hint crack weasel";

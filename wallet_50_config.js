@@ -1,1 +1,1 @@
-var mnemonic = "come sister solar spatial old over coach diesel bicycle myself math century";
+var mnemonic = "round conduct prefer rare awake decline aunt divide garment forum exhibit remind";

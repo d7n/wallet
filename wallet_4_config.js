@@ -1,1 +1,1 @@
-var mnemonic = "pudding weapon stone attract dash regret general aim shrug eight until problem";
+var mnemonic = "case goat face source little wood beauty scare protect school wolf maple";

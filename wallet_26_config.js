@@ -1,1 +1,1 @@
-var mnemonic = "crisp party cage assault bright question tape swap school rare series arctic";
+var mnemonic = "vehicle nominee cube regular hour shiver subway scatter flash style seed seat";

@@ -1,1 +1,1 @@
-var mnemonic = "cross gloom stumble size answer badge minimum promote produce net initial coyote";
+var mnemonic = "hamster decorate glare club essence evidence deal evil next ribbon test kingdom";

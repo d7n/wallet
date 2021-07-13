@@ -1,1 +1,1 @@
-var mnemonic = "cinnamon stomach timber proof peace letter blind eyebrow lonely fiber script swap";
+var mnemonic = "banner pipe barely aerobic satoshi twin fringe usage power earn law awkward";

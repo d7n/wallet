@@ -1,1 +1,1 @@
-var mnemonic = "truly eight harsh fetch sadness follow embark visa office category become wrong";
+var mnemonic = "version toast party purity depth wink pottery meadow gorilla artwork address divert";

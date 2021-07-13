@@ -1,1 +1,1 @@
-var mnemonic = "pill ski diagram concert alpha dial sketch volume scorpion slice own myself";
+var mnemonic = "ensure beauty bring panic arctic scrub lion program piece mistake quarter next";

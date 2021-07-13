@@ -1,1 +1,1 @@
-var mnemonic = "oval title surround castle warm dance device leaf achieve rapid topic visual";
+var mnemonic = "okay bullet crumble rural faculty input kit twelve matter now always hood";

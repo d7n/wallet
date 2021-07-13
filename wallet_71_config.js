@@ -1,1 +1,1 @@
-var mnemonic = "trial mandate hospital brush fun east help bone evolve desert near divorce";
+var mnemonic = "country field prefer crash exercise gold cliff chef notice mercy ivory journey";

@@ -1,1 +1,1 @@
-var mnemonic = "summer indicate egg collect clarify marine awkward chair trash fatigue found favorite";
+var mnemonic = "close kind dog erupt multiply dress group detail inhale blame shadow torch";

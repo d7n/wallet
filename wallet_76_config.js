@@ -1,1 +1,1 @@
-var mnemonic = "grunt job suffer visit toss bird elder slide pool parent unhappy rather";
+var mnemonic = "slab tool pulp curious rookie lounge wear denial stove truck there picnic";

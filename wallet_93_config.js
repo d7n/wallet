@@ -1,1 +1,1 @@
-var mnemonic = "track cousin mimic next dry pony unknown stick time cram turn glad";
+var mnemonic = "april shrimp key blame capable quantum rabbit refuse banana push govern rough";

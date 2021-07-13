@@ -1,1 +1,1 @@
-var mnemonic = "spider crater mammal maple tunnel assault employ drift alley coconut umbrella drum";
+var mnemonic = "tattoo blue churn dream sheriff floor gain sketch seek ask menu away";

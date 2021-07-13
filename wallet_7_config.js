@@ -1,1 +1,1 @@
-var mnemonic = "cave twin silent stool mystery hundred march curve measure artist like champion";
+var mnemonic = "supreme interest olive labor main benefit admit human cute float spoon aerobic";

@@ -1,1 +1,1 @@
-var mnemonic = "hero profit amount define knock zero garage cinnamon arrow sort rude game";
+var mnemonic = "disease mansion twenty car sniff two valid worth stem reflect museum spread";

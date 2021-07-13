@@ -1,1 +1,1 @@
-var mnemonic = "polar vapor repeat range cart holiday equal cost exclude proud milk enter";
+var mnemonic = "draw doll true caution time winner amateur junior rib gadget liquid repeat";

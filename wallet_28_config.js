@@ -1,1 +1,1 @@
-var mnemonic = "hope van garden hire maple impose pilot oxygen noodle picture price reward";
+var mnemonic = "merge burger tribe goddess grit body fatigue already dance tragic surprise chief";

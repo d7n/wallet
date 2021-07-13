@@ -1,1 +1,1 @@
-var mnemonic = "humble snake minor furnace mass favorite monster clerk across uniform want trophy";
+var mnemonic = "amount transfer science scale spider mind hollow goose badge capable blur awake";

@@ -1,1 +1,1 @@
-var mnemonic = "video rigid execute youth attack execute rebuild judge fine twice foster grape";
+var mnemonic = "month surround diet repair uphold youth face stomach negative where page accident";

@@ -1,1 +1,1 @@
-var mnemonic = "inch frequent morning cabbage civil fiber milk empty derive shaft cycle cabin";
+var mnemonic = "gallery plunge hawk solid rate vote shadow hungry uncle cream upgrade man";

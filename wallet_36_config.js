@@ -1,1 +1,1 @@
-var mnemonic = "question slide basket assault old goddess clever enroll palm unhappy mountain agent";
+var mnemonic = "palm buzz attract bus eternal thank either razor arrest bread knock sunny";

@@ -1,1 +1,1 @@
-var mnemonic = "mix deer always drum drip auction fatigue tattoo junior tourist clog mystery";
+var mnemonic = "future girl please moon fancy armor laundry tube drastic curve method sock";

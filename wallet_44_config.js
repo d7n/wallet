@@ -1,1 +1,1 @@
-var mnemonic = "myself there theme clinic teach toe river couch essay prize oval hurt";
+var mnemonic = "multiply security lunar anchor left cost dentist west salmon audit used figure";

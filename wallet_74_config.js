@@ -1,1 +1,1 @@
-var mnemonic = "rate dynamic tail tube item punch ladder receive crowd traffic light hub";
+var mnemonic = "physical wear angle wealth whip aware mother smoke feel frown pony ghost";

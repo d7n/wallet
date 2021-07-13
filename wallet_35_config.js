@@ -1,1 +1,1 @@
-var mnemonic = "captain season lava inhale anger tattoo inmate culture choice dizzy repeat between";
+var mnemonic = "trash ask reveal tackle glory spread okay can glove guess kit gym";

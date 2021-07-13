@@ -1,1 +1,1 @@
-var mnemonic = "shield shine shop rigid curve earn shrug best path cloth cart mountain";
+var mnemonic = "human donate virtual dream success ready simple exact until cash boring multiply";

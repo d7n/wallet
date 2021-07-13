@@ -1,1 +1,1 @@
-var mnemonic = "view harbor wing skate left risk ritual want start goddess small forward";
+var mnemonic = "army pluck involve final sketch know dust lava crystal sorry carbon purity";

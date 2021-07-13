@@ -1,1 +1,1 @@
-var mnemonic = "enhance devote twice inspire hope expect idle fabric flavor clinic rookie weekend";
+var mnemonic = "quiz theme host also melody deal tent ignore moon property salute trap";

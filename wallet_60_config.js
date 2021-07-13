@@ -1,1 +1,1 @@
-var mnemonic = "sauce want palm daughter book cat pole fetch print dignity glow matter";
+var mnemonic = "educate valley time sign umbrella web dog radar echo lend label below";

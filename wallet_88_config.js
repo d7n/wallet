@@ -1,1 +1,1 @@
-var mnemonic = "patrol runway gospel tell stand novel hurt major debris bird claim wisdom";
+var mnemonic = "cattle prefer field token cherry globe alley lumber behind asthma panda meadow";

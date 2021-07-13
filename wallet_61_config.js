@@ -1,1 +1,1 @@
-var mnemonic = "system reduce punch buffalo nest merit web rail camp rather barrel anxiety";
+var mnemonic = "magnet peanut long symbol reward energy only forum senior museum dizzy snack";

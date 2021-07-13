@@ -1,1 +1,1 @@
-var mnemonic = "wasp mango smooth rival public message fatigue maximum logic young flip novel";
+var mnemonic = "evolve make matter mechanic weird answer swap museum orient memory special deputy";

@@ -1,1 +1,1 @@
-var mnemonic = "wire cover segment kiss park aware change vessel near sketch nasty art";
+var mnemonic = "service umbrella slow oppose helmet curtain spoon tomorrow owner face relief elder";

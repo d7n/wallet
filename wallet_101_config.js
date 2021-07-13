@@ -1,1 +1,1 @@
-var mnemonic = "mechanic huge smoke salt wagon maze forward decorate friend canyon quarter elevator";
+var mnemonic = "trash hotel ticket embrace broom upgrade glow foam lizard purchase source journey";

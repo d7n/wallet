@@ -1,1 +1,1 @@
-var mnemonic = "extra tennis daring satisfy end struggle turn holiday volume among group choice";
+var mnemonic = "exhibit slight fabric become fresh potato sugar canvas inner act bike noise";

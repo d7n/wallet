@@ -1,1 +1,1 @@
-var mnemonic = "ensure scout miss travel pave gentle bridge stem wise turn always divorce";
+var mnemonic = "thunder harvest punch carbon host hospital exotic parent toilet joy remain shop";

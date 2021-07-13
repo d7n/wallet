@@ -1,1 +1,1 @@
-var mnemonic = "trip extra hover pottery gap then zone special ethics rice inmate junior";
+var mnemonic = "demand abandon focus service bonus equip door inspire rug perfect reduce power";

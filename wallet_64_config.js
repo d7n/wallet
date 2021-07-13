@@ -1,1 +1,1 @@
-var mnemonic = "trial library amateur million math goat devote trumpet squirrel what core tree";
+var mnemonic = "fit diesel local fortune entire spoil demand machine slim bridge left bless";

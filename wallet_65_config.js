@@ -1,1 +1,1 @@
-var mnemonic = "kitten pilot already hope fiscal quit capital process coast hotel twelve bunker";
+var mnemonic = "cage sock violin element unveil adult fiction suspect gift circle lecture sentence";

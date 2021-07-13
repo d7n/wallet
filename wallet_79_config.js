@@ -1,1 +1,1 @@
-var mnemonic = "cheese survey leaf slender census hint cement trap sun sword amateur wait";
+var mnemonic = "cinnamon myself boring perfect tribe cupboard coffee brisk guard fury asset solve";

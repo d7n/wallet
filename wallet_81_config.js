@@ -1,1 +1,1 @@
-var mnemonic = "neutral brief gold suit solution ethics shed sister gloom roof advance announce";
+var mnemonic = "bar sing rely panel mass plunge expect appear half flavor balcony stage";

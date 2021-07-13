@@ -1,1 +1,1 @@
-var mnemonic = "reopen gesture furnace art vintage oppose fun concert expose bamboo chaos hurry";
+var mnemonic = "carry excuse produce spoil energy strong initial faith observe subway prefer idle";

@@ -1,1 +1,1 @@
-var mnemonic = "rug frame voyage work silly weird become twenty flight retreat gaze document";
+var mnemonic = "only fish arrow blanket bamboo axis reduce bus clinic adjust space bulk";

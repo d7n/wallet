@@ -1,1 +1,1 @@
-var mnemonic = "wheat rose deny obvious fade indoor style obey carry sadness setup fiscal";
+var mnemonic = "attend couple shift slice first rural cactus pink creek arrive pond morning";

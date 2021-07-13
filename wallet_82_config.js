@@ -1,1 +1,1 @@
-var mnemonic = "fold color shy click mutual radio butter people believe quarter half zero";
+var mnemonic = "jungle collect rude dog demise clump innocent enact divide cry refuse pet";

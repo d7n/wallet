@@ -1,1 +1,1 @@
-var mnemonic = "source beach mercy pizza mad trust emotion require prison minor drink hope";
+var mnemonic = "group scan modify clean engage peanut flip nuclear grunt grass spare width";

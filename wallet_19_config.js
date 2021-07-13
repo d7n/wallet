@@ -1,1 +1,1 @@
-var mnemonic = "crowd mouse other caution blossom column obtain night phrase plate picnic help";
+var mnemonic = "slot pull dust copy balcony claw brand surge token slim ill person";

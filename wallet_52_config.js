@@ -1,1 +1,1 @@
-var mnemonic = "genre garlic similar find vote garden banner enter estate hard reopen case";
+var mnemonic = "start dice monster arm clinic thought dress intact light connect emotion stadium";

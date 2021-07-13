@@ -1,1 +1,1 @@
-var mnemonic = "bargain voice wall peanut battle rocket advice bench saddle domain rose venture";
+var mnemonic = "guess still practice crime rail awesome process image upper salad frog float";

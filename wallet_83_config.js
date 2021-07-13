@@ -1,1 +1,1 @@
-var mnemonic = "elephant print galaxy leg lyrics royal antique gospel bind invite bomb shuffle";
+var mnemonic = "nephew yard rail tackle wash student own luggage endless letter seek purse";

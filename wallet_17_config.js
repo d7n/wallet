@@ -1,1 +1,1 @@
-var mnemonic = "cabbage cost goose fitness stand faint elbow elder neglect direct exact pen";
+var mnemonic = "song food envelope brave will jazz raw warfare peanut finish grow demand";

@@ -1,1 +1,1 @@
-var mnemonic = "general tortoise marriage either whale acoustic relief excite appear cube soft metal";
+var mnemonic = "sauce also ticket vendor praise monster wage twice become wait parade bind";

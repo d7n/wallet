@@ -1,1 +1,1 @@
-var mnemonic = "head sheriff wolf bid company duck advance element pole syrup magic peace";
+var mnemonic = "gorilla artefact volcano crystal zebra rookie liberty gym crystal ribbon valley ecology";

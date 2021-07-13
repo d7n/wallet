@@ -1,1 +1,1 @@
-var mnemonic = "income stuff badge million throw kingdom lucky reunion jealous sing lend okay";
+var mnemonic = "scheme sting relax slight pass cereal carry alert curtain wet worry pause";

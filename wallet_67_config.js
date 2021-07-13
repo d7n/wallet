@@ -1,1 +1,1 @@
-var mnemonic = "leopard soup fame feature average smoke moment palm shift twin pizza answer";
+var mnemonic = "ride need bachelor wolf burst need pencil retire orphan hill unique spy";

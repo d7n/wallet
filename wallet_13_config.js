@@ -1,1 +1,1 @@
-var mnemonic = "join youth filter glide consider decrease agree friend carry inform matrix twice";
+var mnemonic = "lobster comfort hedgehog bird fatal blush offer hawk equal march siege finger";

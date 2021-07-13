@@ -1,1 +1,1 @@
-var mnemonic = "enable copper divide cliff enemy verb blanket lumber kingdom bring any hurry";
+var mnemonic = "put seven panic holiday idea neck rent world weird error soap one";

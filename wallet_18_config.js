@@ -1,1 +1,1 @@
-var mnemonic = "execute arctic mask leave genre bench steak travel across canoe prefer know";
+var mnemonic = "people august regular source unable expand useful ramp industry affair gloom april";

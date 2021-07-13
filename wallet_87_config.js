@@ -1,1 +1,1 @@
-var mnemonic = "steak retire inhale dust vivid gallery resource piece merit slim endorse style";
+var mnemonic = "uphold indicate sister person certain acquire tool hole pumpkin opera calm swift";

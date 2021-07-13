@@ -1,1 +1,1 @@
-var mnemonic = "situate flip price metal waste settle elegant awesome link box say best";
+var mnemonic = "bar remove group mirror federal soldier hurt garbage zebra case boil cousin";

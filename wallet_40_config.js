@@ -1,1 +1,1 @@
-var mnemonic = "wool size bone input space crouch agent ladder member lucky delay carbon";
+var mnemonic = "response ugly act able sick dinosaur rookie disease describe salmon glad cruise";

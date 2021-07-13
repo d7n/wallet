@@ -1,1 +1,1 @@
-var mnemonic = "reflect where dawn patrol junk juice increase promote pilot arm cheese govern";
+var mnemonic = "student question matter describe payment spray onion deal broccoli jaguar ice usual";

@@ -1,1 +1,1 @@
-var mnemonic = "harsh festival index manual trouble spray student best educate firm disorder gown";
+var mnemonic = "brain divide point banner hour gaze lift axis cake code quality push";

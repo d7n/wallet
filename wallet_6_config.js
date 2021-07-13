@@ -1,1 +1,1 @@
-var mnemonic = "gentle tuna income because film novel fancy lunar rate huge torch travel";
+var mnemonic = "latin waste heavy motor future tube obvious kid doll inner parent hold";

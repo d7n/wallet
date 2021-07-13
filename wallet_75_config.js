@@ -1,1 +1,1 @@
-var mnemonic = "emerge weird bracket flower second canyon brand century video exist comic reflect";
+var mnemonic = "enhance knee rich depth away decline flush mask reward venue rely boss";

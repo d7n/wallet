@@ -1,1 +1,1 @@
-var mnemonic = "recall outdoor ugly anxiety suspect remove grace exotic camera depend this decline";
+var mnemonic = "party board weekend violin kidney inject pigeon puppy mimic garlic protect blouse";

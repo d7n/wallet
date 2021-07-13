@@ -1,1 +1,1 @@
-var mnemonic = "expand siege among blouse family desert risk life drip shock peasant repeat";
+var mnemonic = "injury prison apology hockey camera chapter magnet chapter attack wing salon ramp";

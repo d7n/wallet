@@ -1,1 +1,1 @@
-var mnemonic = "hazard pave bid trim detect welcome call mercy dry dune across aim";
+var mnemonic = "lemon injury pass enable put neutral wrong lecture museum flee vacuum chest";

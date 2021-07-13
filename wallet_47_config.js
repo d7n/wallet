@@ -1,1 +1,1 @@
-var mnemonic = "ridge animal east theory moral surround tomato possible syrup ugly bench sign";
+var mnemonic = "slice fire giggle mule bid canvas rude lemon avoid promote rough provide";

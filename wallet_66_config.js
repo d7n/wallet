@@ -1,1 +1,1 @@
-var mnemonic = "love know dance start silver capital indicate chest laptop ancient wide parade";
+var mnemonic = "usual teach power text tooth buzz ribbon latin vacuum gentle mango hero";

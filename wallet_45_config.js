@@ -1,1 +1,1 @@
-var mnemonic = "acquire twenty razor kick elder illegal capable then lunar useless mirror obey";
+var mnemonic = "hold naive domain exotic certain front hover acid pole type board eagle";

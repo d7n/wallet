@@ -1,1 +1,1 @@
-var mnemonic = "file luxury erupt give often nuclear bachelor home attitude elder art broom";
+var mnemonic = "adult shell keen traffic another response wait phrase split slot purchase gift";

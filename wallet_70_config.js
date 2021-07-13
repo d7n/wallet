@@ -1,1 +1,1 @@
-var mnemonic = "hawk pulse exchange toward option square panel spare inside off patch despair";
+var mnemonic = "rather deal common basic penalty sustain yard exotic subject skin squeeze atom";

@@ -1,1 +1,1 @@
-var mnemonic = "mind sugar evoke useless practice bulb object ceiling two rail ridge skin";
+var mnemonic = "rely employ exhaust drama payment design giggle monitor grape winner neck portion";

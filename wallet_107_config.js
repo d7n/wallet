@@ -1,1 +1,1 @@
-var mnemonic = "quick frozen bench favorite thank wire eyebrow behave present trap discover across";
+var mnemonic = "actress divert youth equal guard subway depth appear error amateur north holiday";

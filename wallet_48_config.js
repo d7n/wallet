@@ -1,1 +1,1 @@
-var mnemonic = "giant salute lemon dance float vibrant police six reject toddler cherry harbor";
+var mnemonic = "snake someone margin visit photo wing gossip jewel shield cheese slow design";

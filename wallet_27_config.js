@@ -1,1 +1,1 @@
-var mnemonic = "pioneer casual ten mean arrest donkey army column deny noble boat orchard";
+var mnemonic = "round dilemma jewel dragon clump plate reflect forum end squeeze science cry";

@@ -1,1 +1,1 @@
-var mnemonic = "envelope link betray noise victory increase require easily tragic often infant kid";
+var mnemonic = "forum crash winner moral special lady dumb behave decide unfair blossom coast";

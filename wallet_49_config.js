@@ -1,1 +1,1 @@
-var mnemonic = "frown own bargain middle found relief fortune foster velvet trick dream surface";
+var mnemonic = "swap print neither duck night occur cannon bench danger thumb amused shy";

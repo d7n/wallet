@@ -1,1 +1,1 @@
-var mnemonic = "twist critic duty that invest build hospital element salon daughter way develop";
+var mnemonic = "volcano hen absurd way avocado weather august exhaust pig gate vital rally";

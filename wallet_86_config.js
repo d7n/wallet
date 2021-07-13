@@ -1,1 +1,1 @@
-var mnemonic = "gun sword require clog dial circle master mind light exist response leisure";
+var mnemonic = "plunge burst discover wall slide surge mercy journey card identify wrap panic";

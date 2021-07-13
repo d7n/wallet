@@ -1,1 +1,1 @@
-var mnemonic = "camp advance indicate jewel ritual cricket nominee autumn reason owner planet traffic";
+var mnemonic = "amused check curtain student category lend now bitter humor half almost secret";

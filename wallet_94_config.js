@@ -1,1 +1,1 @@
-var mnemonic = "alien grid zebra amazing plastic brief call whip resemble punch vague wine";
+var mnemonic = "basket coffee toward pool harbor cupboard cook endorse plunge board train display";
