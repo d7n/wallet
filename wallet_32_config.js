@@ -1,1 +1,1 @@
-var mnemonic = "coin amount drip rotate orange dinosaur mix era remind exhibit omit grunt";
+var mnemonic = "beach spot must upgrade bacon egg shallow case fade peace portion pistol";

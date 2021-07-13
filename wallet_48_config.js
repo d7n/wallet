@@ -1,1 +1,1 @@
-var mnemonic = "bind zero parade hotel employ reflect cook oak train element outside relief";
+var mnemonic = "video base village next police glove inform lawn decade heavy move dial";

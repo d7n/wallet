@@ -1,1 +1,1 @@
-var mnemonic = "garden spider hip safe spell future black improve woman asthma twist foster";
+var mnemonic = "pond rice tool chunk pony digital angry news album furnace across virtual";

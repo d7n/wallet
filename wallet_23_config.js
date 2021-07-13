@@ -1,1 +1,1 @@
-var mnemonic = "reason stool federal connect deer runway cousin village flip dog chapter text";
+var mnemonic = "fit social fix tray check armed olympic lava task magic danger uncle";

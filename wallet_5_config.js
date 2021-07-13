@@ -1,1 +1,1 @@
-var mnemonic = "evolve wood student rubber auction buddy pass drama ill diamond diary raw";
+var mnemonic = "harsh first excess defense turn fault happy method castle trade crucial pen";

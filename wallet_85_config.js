@@ -1,1 +1,1 @@
-var mnemonic = "palace pause deal switch tenant nothing stadium come machine tortoise army gun";
+var mnemonic = "search total bonus couch identify tennis borrow intact ethics foot leaf present";

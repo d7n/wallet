@@ -1,1 +1,1 @@
-var mnemonic = "ship rate modify zone click involve release wrist sibling despair fiber bargain";
+var mnemonic = "trophy daring police royal gasp video convince couch debate saddle vacuum design";

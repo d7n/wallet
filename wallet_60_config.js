@@ -1,1 +1,1 @@
-var mnemonic = "radio reward gain figure off tooth cushion layer suspect cricket liar sort";
+var mnemonic = "humor typical pepper penalty reflect wish woman core census assume sister march";

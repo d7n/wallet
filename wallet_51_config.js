@@ -1,1 +1,1 @@
-var mnemonic = "pioneer casual rice oppose worth sphere you invite clown job start vendor";
+var mnemonic = "zoo awake cloud dad clock depart access entry version august smooth tumble";

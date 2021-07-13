@@ -1,1 +1,1 @@
-var mnemonic = "isolate game pioneer assault excess goddess chronic crucial team dream leopard appear";
+var mnemonic = "allow access play patrol present often hungry replace grass planet soap parade";

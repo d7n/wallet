@@ -1,1 +1,1 @@
-var mnemonic = "gentle draw penalty unveil food process miracle people ladder visit excuse glad";
+var mnemonic = "utility target metal shell protect element ivory patrol pause neglect actor extend";

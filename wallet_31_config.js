@@ -1,1 +1,1 @@
-var mnemonic = "curtain unfold enrich tackle illegal airport token draw side radar want used";
+var mnemonic = "chronic alert attitude bamboo silent flip practice animal wrong offer atom sword";

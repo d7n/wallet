@@ -1,1 +1,1 @@
-var mnemonic = "chair solution recipe logic duty accuse master exile venture power object absurd";
+var mnemonic = "airport wear entire box junk poverty drip absorb evolve apology blush clip";

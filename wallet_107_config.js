@@ -1,1 +1,1 @@
-var mnemonic = "fetch snap open title matter never sample gossip patrol pattern caught wrist";
+var mnemonic = "valley aspect happy armor jealous sting twelve swarm seven access giant trial";

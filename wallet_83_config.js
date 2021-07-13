@@ -1,1 +1,1 @@
-var mnemonic = "concert entry neutral holiday much still defy giraffe trophy verify hunt item";
+var mnemonic = "unlock cram dose clock jelly this great wide ethics detect duck stick";

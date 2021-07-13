@@ -1,1 +1,1 @@
-var mnemonic = "leader pony state rack oven remember double whale shift used potato soldier";
+var mnemonic = "lazy they brown maze hidden attack belt siren either grain planet initial";

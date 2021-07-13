@@ -1,1 +1,1 @@
-var mnemonic = "huge latin hint muscle ghost cover better siren almost candy spell laptop";
+var mnemonic = "mother trash corn flag exclude stay side seven tenant urge behave shock";

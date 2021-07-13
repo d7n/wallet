@@ -1,1 +1,1 @@
-var mnemonic = "dilemma reveal confirm portion lady inform drift left upset stock bubble flock";
+var mnemonic = "iron paper floor shrug spike brain proof connect document analyst open eagle";

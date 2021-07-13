@@ -1,1 +1,1 @@
-var mnemonic = "soul marriage wink curtain neck element coin coach negative magnet squirrel earn";
+var mnemonic = "stumble feature habit autumn poem arch extra caution ill flight square weather";

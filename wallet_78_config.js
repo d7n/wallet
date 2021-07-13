@@ -1,1 +1,1 @@
-var mnemonic = "hundred vacant dune range kick name viable salute wrong tank want firm";
+var mnemonic = "wild squeeze teach toast blue cruise shy deal lesson clown scan wrestle";

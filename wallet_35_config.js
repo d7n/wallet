@@ -1,1 +1,1 @@
-var mnemonic = "all turn ghost album arrive skin fancy barely delay offer where pipe";
+var mnemonic = "buyer prosper rebuild popular wagon elite reveal cycle local fire actual island";

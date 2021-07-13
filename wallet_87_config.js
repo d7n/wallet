@@ -1,1 +1,1 @@
-var mnemonic = "tip eternal rice stock keep busy quarter rely anxiety code vital artwork";
+var mnemonic = "hedgehog visual buyer surface orbit barely drift you art umbrella flag cook";

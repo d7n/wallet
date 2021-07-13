@@ -1,1 +1,1 @@
-var mnemonic = "slush acoustic series decline robot robust say absorb verb oven envelope nation";
+var mnemonic = "split badge worth bench unlock mosquito blade tourist retreat grab abuse cement";

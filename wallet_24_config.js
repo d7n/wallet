@@ -1,1 +1,1 @@
-var mnemonic = "satisfy make ready rough surface song require device oil thumb royal oppose";
+var mnemonic = "silent segment ride suggest bargain upper mind sunset delay crane join proud";

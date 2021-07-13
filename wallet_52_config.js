@@ -1,1 +1,1 @@
-var mnemonic = "cube mobile puzzle disorder three force sustain hawk harbor season sister lend";
+var mnemonic = "limit doll cool raise tray doctor memory glimpse soul because news involve";

@@ -1,1 +1,1 @@
-var mnemonic = "prefer patient method angry style tomorrow minute kitten essay omit marine various";
+var mnemonic = "space visa present broom narrow time pulp flavor enlist session bachelor exhibit";

@@ -1,1 +1,1 @@
-var mnemonic = "cube two exchange elevator blind system again recycle crater wait coast collect";
+var mnemonic = "civil adapt chimney lobster define spot civil bind else conduct differ fluid";

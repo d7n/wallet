@@ -1,1 +1,1 @@
-var mnemonic = "diagram city zone best blood gravity detail gallery remove undo reason model";
+var mnemonic = "blush enrich friend drift fitness fame replace group paper angry first add";

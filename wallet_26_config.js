@@ -1,1 +1,1 @@
-var mnemonic = "trust shadow suffer flavor find castle rule slam sister speak liquid orange";
+var mnemonic = "sausage tent canoe sell toilet gate teach drama cry toilet vanish virtual";

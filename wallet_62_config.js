@@ -1,1 +1,1 @@
-var mnemonic = "awkward supreme camp vital matrix cluster feed scene often warfare razor type";
+var mnemonic = "miracle entry struggle age attitude vendor shock angry cement rocket dentist spring";

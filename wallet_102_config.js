@@ -1,1 +1,1 @@
-var mnemonic = "fortune pencil result grunt dial harsh involve story rule envelope topple shift";
+var mnemonic = "love buzz potato token bronze fold recycle maximum rib divide swamp age";

@@ -1,1 +1,1 @@
-var mnemonic = "prize fury point jar fabric slight want exhaust note theme glimpse mystery";
+var mnemonic = "praise together cousin phone broom soon cabbage april luggage couple curve satoshi";

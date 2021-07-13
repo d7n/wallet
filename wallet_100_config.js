@@ -1,1 +1,1 @@
-var mnemonic = "panther decade expect cricket axis soul crew combine large dirt ten front";
+var mnemonic = "state media clock shallow item under female drama lesson search wasp soccer";

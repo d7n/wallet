@@ -1,1 +1,1 @@
-var mnemonic = "autumn auto paddle banana basic eager envelope neck stage wrap broom trip";
+var mnemonic = "rail security game effort cheese social notable anger uphold risk crash frog";

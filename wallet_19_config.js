@@ -1,1 +1,1 @@
-var mnemonic = "attack defy sword cook mosquito there oppose despair reason luggage winner marriage";
+var mnemonic = "snow toast never ordinary mouse noble ripple snow bunker hazard swap second";

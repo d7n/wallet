@@ -1,1 +1,1 @@
-var mnemonic = "wrong mixed harvest virtual settle want foam diamond release effort cycle resource";
+var mnemonic = "pool false unknown seat rude deal tone property abuse explain shine album";

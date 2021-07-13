@@ -1,1 +1,1 @@
-var mnemonic = "rack logic badge price floor direct opinion hero turkey motion satoshi only";
+var mnemonic = "program desk check aim volume napkin clay sell energy market useless genuine";

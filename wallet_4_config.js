@@ -1,1 +1,1 @@
-var mnemonic = "fault fence winter tourist squirrel private once raise walnut trigger defense hospital";
+var mnemonic = "rough craft learn erosion change welcome cat detail uphold thunder crop eight";

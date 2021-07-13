@@ -1,1 +1,1 @@
-var mnemonic = "gold bus lock typical system stage zoo sea tilt talk bargain depart";
+var mnemonic = "casino session soup crystal ahead flee sudden drastic salmon mobile toss detect";

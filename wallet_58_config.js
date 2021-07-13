@@ -1,1 +1,1 @@
-var mnemonic = "pioneer valid truth document supreme effort female chicken despair slide worth smooth";
+var mnemonic = "tennis chicken order federal discover sing surface hood menu dolphin box party";

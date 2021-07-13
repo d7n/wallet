@@ -1,1 +1,1 @@
-var mnemonic = "couch result tornado wine antique fee similar scissors pause jaguar kind cube";
+var mnemonic = "worth balcony sell carbon venture garage bus silk trophy keen pyramid usage";

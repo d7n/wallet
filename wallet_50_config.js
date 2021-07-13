@@ -1,1 +1,1 @@
-var mnemonic = "sight document loan family rescue between define glory tonight ripple shoot project";
+var mnemonic = "night hockey orchard view egg boat hope cabbage excuse exit antique mushroom";

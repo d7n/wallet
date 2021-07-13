@@ -1,1 +1,1 @@
-var mnemonic = "crane laundry possible salute buddy polar false nice gain comic observe bicycle";
+var mnemonic = "exclude author argue snack vast giant glance magnet dilemma kick anxiety traffic";

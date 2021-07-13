@@ -1,1 +1,1 @@
-var mnemonic = "prison ugly digital river people hamster pony ramp turn love sentence place";
+var mnemonic = "perfect machine recycle book nasty wise evolve nothing cook grab bridge vague";

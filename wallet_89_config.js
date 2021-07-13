@@ -1,1 +1,1 @@
-var mnemonic = "verb symbol arm lazy visual catalog target energy head embrace tube spirit";
+var mnemonic = "trap record syrup oil core one gather pool inside blade exile quick";

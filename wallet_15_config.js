@@ -1,1 +1,1 @@
-var mnemonic = "stove sauce service base notice nest remember afraid blue unable chase boring";
+var mnemonic = "column happy airport furnace spoil one census angle father gauge mail coach";

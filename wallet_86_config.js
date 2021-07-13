@@ -1,1 +1,1 @@
-var mnemonic = "find perfect clock random audit forward party immune annual canyon tackle depth";
+var mnemonic = "youth system hire tennis rice peace cherry join buzz acoustic piece rigid";

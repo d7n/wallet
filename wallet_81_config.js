@@ -1,1 +1,1 @@
-var mnemonic = "success journey need muffin place lecture pupil large goddess salad insane dial";
+var mnemonic = "depend ridge any cruise solar neglect bicycle behave flame struggle urban segment";

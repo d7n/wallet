@@ -1,1 +1,1 @@
-var mnemonic = "gospel wonder around february convince high volume enemy ginger lake degree buyer";
+var mnemonic = "economy grant hybrid order decline tiger blind poet decide scan airport age";

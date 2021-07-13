@@ -1,1 +1,1 @@
-var mnemonic = "broken brush common unique pyramid swap rug elite session crush discover wise";
+var mnemonic = "dilemma jump remind stone goddess disorder recipe over firm pumpkin caught spell";

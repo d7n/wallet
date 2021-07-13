@@ -1,1 +1,1 @@
-var mnemonic = "fiscal party drastic shiver copper phone celery pull combine cloud spoil problem";
+var mnemonic = "random decide property client vendor identify mother flee theme relax retire where";

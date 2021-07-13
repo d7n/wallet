@@ -1,1 +1,1 @@
-var mnemonic = "sugar fault employ ten rose rival exclude engine ritual wink transfer apology";
+var mnemonic = "forget position book good couple misery canvas dutch cruise giant tenant core";

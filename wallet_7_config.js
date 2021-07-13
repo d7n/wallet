@@ -1,1 +1,1 @@
-var mnemonic = "truck stage come quote debris kite easy stable estate man shop riot";
+var mnemonic = "slam brush dismiss voice peasant juice evolve throw man naive maze suit";

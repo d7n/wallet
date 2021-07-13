@@ -1,1 +1,1 @@
-var mnemonic = "venue skill orchard job depend victory margin squeeze bleak excuse crack couch";
+var mnemonic = "coil attract artist relief today fetch toast replace tattoo victory sibling seed";

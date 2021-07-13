@@ -1,1 +1,1 @@
-var mnemonic = "local furnace spoon donkey ordinary recipe desert raccoon narrow smoke wisdom give";
+var mnemonic = "nation shiver milk hour menu end edit error client nasty voice mix";

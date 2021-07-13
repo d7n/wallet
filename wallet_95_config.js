@@ -1,1 +1,1 @@
-var mnemonic = "wrap size neglect turkey tenant turn dismiss wire pulp apple file there";
+var mnemonic = "brisk regret cabbage situate spike battle two tobacco chapter orphan cave master";

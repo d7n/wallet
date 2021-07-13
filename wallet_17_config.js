@@ -1,1 +1,1 @@
-var mnemonic = "despair minute inspire picture boy engage member fuel mandate kitchen welcome planet";
+var mnemonic = "vague wagon giraffe afford cradle cheap crater exotic reason bulk alone train";

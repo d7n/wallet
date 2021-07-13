@@ -1,1 +1,1 @@
-var mnemonic = "describe human click occur crucial ask vicious drink bracket luggage artwork diet";
+var mnemonic = "few jacket carbon stamp give thought educate moon panel sun wasp strategy";

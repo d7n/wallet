@@ -1,1 +1,1 @@
-var mnemonic = "list equal sort ostrich success clap gesture loan access long mushroom fancy";
+var mnemonic = "foil build bleak success print food blush message lottery table eight soul";

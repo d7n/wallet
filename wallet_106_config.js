@@ -1,1 +1,1 @@
-var mnemonic = "easy brother nature month grunt midnight sphere river arrow elevator rain knife";
+var mnemonic = "empower tongue word clarify profit flock hand version nephew receive already guitar";

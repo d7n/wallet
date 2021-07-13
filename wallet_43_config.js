@@ -1,1 +1,1 @@
-var mnemonic = "dilemma bounce angry team case erase foam penalty gold humor hard maximum";
+var mnemonic = "ask there ankle win parent include olive cross menu move neither antenna";

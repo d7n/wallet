@@ -1,1 +1,1 @@
-var mnemonic = "slam quick consider thunder bulb device scene daring shell topple ripple drama";
+var mnemonic = "depart cream parrot middle nature brief live scale sibling gossip tobacco salt";

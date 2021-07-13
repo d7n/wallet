@@ -1,1 +1,1 @@
-var mnemonic = "endorse replace cushion yellow swift cause surprise sustain script rain manage someone";
+var mnemonic = "input mouse movie jealous second army long head raven omit crystal matter";

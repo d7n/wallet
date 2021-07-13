@@ -1,1 +1,1 @@
-var mnemonic = "humor canyon butter protect style primary minor grow purpose enforce congress flash";
+var mnemonic = "will canoe fiber absorb cash twenty glory vivid maple famous saddle acoustic";

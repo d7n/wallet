@@ -1,1 +1,1 @@
-var mnemonic = "weekend olympic modify grass rule right humor unfold mouse click edge scheme";
+var mnemonic = "cricket chat poem purchase absurd vote theory gain amateur random ketchup risk";

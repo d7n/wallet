@@ -1,1 +1,1 @@
-var mnemonic = "base smooth vast long coral task bunker atom they artwork parrot fish";
+var mnemonic = "six pave write misery sample close surround lecture brief unveil popular nest";

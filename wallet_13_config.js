@@ -1,1 +1,1 @@
-var mnemonic = "upon loan invite manage toddler surge corn term axis convince pear edit";
+var mnemonic = "breeze danger win where soul know year brass insane west arrange script";

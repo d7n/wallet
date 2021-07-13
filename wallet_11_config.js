@@ -1,1 +1,1 @@
-var mnemonic = "cloud anger earth canal property fence explain flat define slogan rude awesome";
+var mnemonic = "capable artefact hover move belt glass two test isolate coral symbol lock";

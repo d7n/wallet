@@ -1,1 +1,1 @@
-var mnemonic = "inform second make liquid speak brush hazard major surface joy session crack";
+var mnemonic = "stomach escape state print sort album hamster copper remind front slide gloom";

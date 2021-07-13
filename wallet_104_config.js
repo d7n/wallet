@@ -1,1 +1,1 @@
-var mnemonic = "source country excuse feel improve phrase lounge police wise index device poem";
+var mnemonic = "security exist bar axis sheriff hockey diet cherry street distance tower torch";

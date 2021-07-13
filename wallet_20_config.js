@@ -1,1 +1,1 @@
-var mnemonic = "document rice gaze sell address guitar become fade census machine maximum toward";
+var mnemonic = "skull various luxury cycle street pluck process need vendor elbow garlic fatigue";

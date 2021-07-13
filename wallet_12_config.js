@@ -1,1 +1,1 @@
-var mnemonic = "scheme detect odor urban until top clog birth bid sniff media tree";
+var mnemonic = "frown cycle anxiety gas thank boring carry doll hotel maid remove student";

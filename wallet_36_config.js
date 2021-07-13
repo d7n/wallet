@@ -1,1 +1,1 @@
-var mnemonic = "demand become squeeze mother hip differ female spot zoo sorry success debris";
+var mnemonic = "share elevator execute yard age robust brown clutch bird crowd nurse paddle";

@@ -1,1 +1,1 @@
-var mnemonic = "clever minimum ensure staff essence cancel parade tumble unlock party useful box";
+var mnemonic = "caution treat rookie adult property subject oak melt exact ice farm chat";

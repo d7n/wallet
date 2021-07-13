@@ -1,1 +1,1 @@
-var mnemonic = "thing toward float flame comic cherry bomb resource spend voyage trap orchard";
+var mnemonic = "extend device master stand slogan process food rich cage bicycle paper guilt";

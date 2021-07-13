@@ -1,1 +1,1 @@
-var mnemonic = "pear hotel mesh absurd kiss casino riot satoshi marine light era scheme";
+var mnemonic = "surge muscle square unit around afford carpet about sudden patch timber frequent";

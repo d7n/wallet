@@ -1,1 +1,1 @@
-var mnemonic = "boost tackle chair find daughter toddler hamster comic disease police stereo crane";
+var mnemonic = "fury board clap tag despair wasp coin method access company police card";

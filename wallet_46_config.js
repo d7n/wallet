@@ -1,1 +1,1 @@
-var mnemonic = "artist since empty solution trust host roof force kidney squirrel cloth tree";
+var mnemonic = "boy monster guilt range tilt say system creek various health fringe ozone";

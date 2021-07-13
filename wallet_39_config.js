@@ -1,1 +1,1 @@
-var mnemonic = "soup village feature beauty mountain crash spray angle real share nothing west";
+var mnemonic = "parent drill punch travel digital property lobster disease clump poem crazy quiz";

@@ -1,1 +1,1 @@
-var mnemonic = "have grief hazard awful dry winter know true guilt hand orbit six";
+var mnemonic = "toy orphan bus differ inspire bicycle cover audit later parade sock left";

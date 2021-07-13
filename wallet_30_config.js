@@ -1,1 +1,1 @@
-var mnemonic = "mind average shell energy minor retreat valley frog valve point crystal enough";
+var mnemonic = "tank trim lava burst arch love attitude task size doll dignity clay";

@@ -1,1 +1,1 @@
-var mnemonic = "train flower orchard coyote visual chief relax elephant increase column flee high";
+var mnemonic = "stomach elevator april toilet bullet shoot exercise upper identify any know setup";

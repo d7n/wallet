@@ -1,1 +1,1 @@
-var mnemonic = "tobacco exotic catch cement accuse distance diamond van snow flee rookie cat";
+var mnemonic = "surround pistol truth spell habit burst happy quit advance tissue summer vocal";

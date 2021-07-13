@@ -1,1 +1,1 @@
-var mnemonic = "trial basic pistol pledge robust scout wolf desert trash coconut happy jacket";
+var mnemonic = "build increase flee demise great where donkey jewel gallery plate trouble embark";

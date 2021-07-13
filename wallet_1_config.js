@@ -1,1 +1,1 @@
-var mnemonic = "enrich gospel skirt insect cash marriage holiday undo orbit spirit spatial term";
+var mnemonic = "blur flight debate dismiss eagle fetch sport craft gain bamboo trouble milk";

@@ -1,1 +1,1 @@
-var mnemonic = "about setup horror style danger priority energy enlist alone brass light shine";
+var mnemonic = "large pepper stool fatigue marriage immense dragon affair like sudden guitar damp";
