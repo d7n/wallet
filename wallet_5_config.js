@@ -1,1 +1,1 @@
-var mnemonic = "unable genius pistol push search taste music chicken skin large half alarm";
+var mnemonic = "section blush spider few rough dove refuse muffin achieve helmet toddler prefer";

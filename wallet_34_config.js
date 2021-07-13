@@ -1,1 +1,1 @@
-var mnemonic = "green during fashion hen bubble merge draft broccoli olive tiger run comfort";
+var mnemonic = "father fish couple odor expire strong insect trigger blush marriage walnut bounce";

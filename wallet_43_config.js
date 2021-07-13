@@ -1,1 +1,1 @@
-var mnemonic = "spoil uniform top student very between flush crawl make conduct history inform";
+var mnemonic = "card nation hub worth clarify hub among learn post vital large decade";

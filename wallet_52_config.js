@@ -1,1 +1,1 @@
-var mnemonic = "bench fringe fan term hunt quote loan dog front maple media someone";
+var mnemonic = "peanut shoot assist one shed cruise trial song season canoe affair tube";

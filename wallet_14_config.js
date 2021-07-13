@@ -1,1 +1,1 @@
-var mnemonic = "equal lobster garment cart kind attend beach syrup talent alarm another whip";
+var mnemonic = "angry nothing razor fringe over erosion lab guilt shock river speed fix";

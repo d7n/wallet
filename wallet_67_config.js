@@ -1,1 +1,1 @@
-var mnemonic = "choose chase injury seven artist aspect bus evolve private ship boy february";
+var mnemonic = "enough anchor regret drill conduct equip network thought power youth item fall";

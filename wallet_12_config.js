@@ -1,1 +1,1 @@
-var mnemonic = "fringe jewel trade ahead seat baby gate town awkward then quiz hammer";
+var mnemonic = "bomb harvest dove title coin lucky burden problem ethics add short figure";

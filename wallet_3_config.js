@@ -1,1 +1,1 @@
-var mnemonic = "melody truck neither genre napkin ugly raccoon risk grit pilot any barrel";
+var mnemonic = "cheap iron hundred only wheel link brown girl hybrid exotic guess grant";

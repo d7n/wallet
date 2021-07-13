@@ -1,1 +1,1 @@
-var mnemonic = "hat vivid bitter cupboard army grace abandon misery swap master repeat occur";
+var mnemonic = "course robust canyon wrestle abandon enhance ocean fashion friend twice curious message";

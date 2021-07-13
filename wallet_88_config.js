@@ -1,1 +1,1 @@
-var mnemonic = "middle vehicle stomach path amazing rhythm owner away mean major measure replace";
+var mnemonic = "equip recipe feel answer virus calm brand brush year hope funny panel";

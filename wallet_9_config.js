@@ -1,1 +1,1 @@
-var mnemonic = "amount agree front leave this total license champion razor artist vague rescue";
+var mnemonic = "question damage dice shine until animal earn cancel all enjoy sausage evolve";

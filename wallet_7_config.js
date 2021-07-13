@@ -1,1 +1,1 @@
-var mnemonic = "fire cause next neglect broccoli eyebrow wool also wool original frozen exhibit";
+var mnemonic = "innocent alone swift pudding fuel spawn combine envelope kingdom genuine heavy purchase";

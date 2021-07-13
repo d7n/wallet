@@ -1,1 +1,1 @@
-var mnemonic = "mad unit festival horse teach vague staff solve will pair casino anchor";
+var mnemonic = "cargo quantum display bunker shop game receive lunch poet loop test feature";

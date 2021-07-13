@@ -1,1 +1,1 @@
-var mnemonic = "idea round place portion shift panic wreck short chalk garage spirit rose";
+var mnemonic = "nation caution long chest example puzzle pottery pitch lift vapor marble monitor";

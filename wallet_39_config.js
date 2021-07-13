@@ -1,1 +1,1 @@
-var mnemonic = "across adult genre gospel torch uniform accident crop box crime swarm picnic";
+var mnemonic = "orchard super dirt walnut neglect future garden truck settle cake token session";

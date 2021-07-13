@@ -1,1 +1,1 @@
-var mnemonic = "agent diary cement ride panel such double erosion swear find frown quote";
+var mnemonic = "sibling smoke head innocent talent emotion moon sketch name crop move cannon";

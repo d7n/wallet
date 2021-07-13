@@ -1,1 +1,1 @@
-var mnemonic = "sign another stool identify then dry axis engine midnight army swing wet";
+var mnemonic = "lesson sugar winter wait brave faith jar orient divorce taxi blood right";

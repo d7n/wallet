@@ -1,1 +1,1 @@
-var mnemonic = "rigid enough brass cabbage cheese common digital convince nasty bridge link floor";
+var mnemonic = "soft fuel pluck connect search crisp armed radar east lake century truth";

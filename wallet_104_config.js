@@ -1,1 +1,1 @@
-var mnemonic = "glue tail cool figure retreat width margin fog code crouch river kingdom";
+var mnemonic = "find main sell average home catch used mirror wish ivory island dress";

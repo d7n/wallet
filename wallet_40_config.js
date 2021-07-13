@@ -1,1 +1,1 @@
-var mnemonic = "project nest food vacuum upper myself such runway problem devote evoke degree";
+var mnemonic = "engine hundred hero victory inherit whale toddler ceiling black doll kidney discover";

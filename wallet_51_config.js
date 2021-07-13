@@ -1,1 +1,1 @@
-var mnemonic = "erode trap page jazz layer health bid gold month head mix artwork";
+var mnemonic = "earth assume buffalo noble layer demand fortune monkey guard domain sting autumn";

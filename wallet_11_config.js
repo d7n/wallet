@@ -1,1 +1,1 @@
-var mnemonic = "tenant shallow foot advice identify expect hospital journey fiscal final utility second";
+var mnemonic = "tower remain clean sponsor knee unlock cake invest viable alarm affair share";

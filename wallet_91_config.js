@@ -1,1 +1,1 @@
-var mnemonic = "enrich check pencil crucial matter cigar cheese pear shy column believe leave";
+var mnemonic = "include uphold imitate apart assist clap close valid run wrist pencil lonely";

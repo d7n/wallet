@@ -1,1 +1,1 @@
-var mnemonic = "stuff wrap pond latin myth what uphold discover random grant bulk public";
+var mnemonic = "call similar math wave chimney ancient morning feature tray snake brother vicious";

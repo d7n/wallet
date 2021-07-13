@@ -1,1 +1,1 @@
-var mnemonic = "rural future hen because achieve inquiry scare coach accident guide veteran advice";
+var mnemonic = "sign media embark solar ten avoid truth hurry region van photo manual";

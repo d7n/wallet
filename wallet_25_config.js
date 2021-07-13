@@ -1,1 +1,1 @@
-var mnemonic = "meadow armor brick into science lock swing office afford truck scheme drum";
+var mnemonic = "useful skin diagram trap session public base chicken embark satoshi chicken farm";

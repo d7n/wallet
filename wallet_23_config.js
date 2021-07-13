@@ -1,1 +1,1 @@
-var mnemonic = "notable sting glad wrist debris ranch canal coral violin town crime glare";
+var mnemonic = "eye daughter scale story sweet type long actress mention swear banner entry";

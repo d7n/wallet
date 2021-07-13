@@ -1,1 +1,1 @@
-var mnemonic = "blush sand fresh tape patch way wet faith brass warrior accuse mechanic";
+var mnemonic = "shop alert pull emotion image kingdom south satoshi grief gym onion diary";

@@ -1,1 +1,1 @@
-var mnemonic = "pudding fiction guard reflect mail debate harbor student glimpse arrive rival latin";
+var mnemonic = "estate rescue direct beauty donate aisle orange extend tortoise spoil cage champion";

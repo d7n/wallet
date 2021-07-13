@@ -1,1 +1,1 @@
-var mnemonic = "camera east crawl glory satisfy dish fold federal copper flee obvious hundred";
+var mnemonic = "vault element pipe inform spatial ignore path ill useful claw crumble banana";

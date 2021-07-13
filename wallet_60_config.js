@@ -1,1 +1,1 @@
-var mnemonic = "win benefit predict demise hurt ahead resist furnace submit dog fossil buddy";
+var mnemonic = "elite detect print tide chest cigar place front verify oxygen shallow undo";

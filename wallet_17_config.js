@@ -1,1 +1,1 @@
-var mnemonic = "practice attend notice inhale truck survey step talent announce trouble become ostrich";
+var mnemonic = "grant rent car electric clap fat base tornado anger entire swallow silver";

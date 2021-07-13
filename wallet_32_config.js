@@ -1,1 +1,1 @@
-var mnemonic = "leader liquid small skate damage health embark farm discover promote asthma afford";
+var mnemonic = "mule math grow memory track body flat mountain put cry slot shield";

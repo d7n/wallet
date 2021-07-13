@@ -1,1 +1,1 @@
-var mnemonic = "enroll ill exhaust lunch need waste tiny clever network mango sniff rocket";
+var mnemonic = "degree edit noble doctor once bless pepper banana must fantasy marriage junk";

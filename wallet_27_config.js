@@ -1,1 +1,1 @@
-var mnemonic = "flock wide prefer arrest stumble burger inner valve entry helmet punch phrase";
+var mnemonic = "urge doll robust elite card hazard duty use empower country fold addict";

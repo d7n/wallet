@@ -1,1 +1,1 @@
-var mnemonic = "shop puppy prison liar faint rotate vital modify habit syrup orient artefact";
+var mnemonic = "kind switch slice biology trip ask tank mercy away salon measure ship";

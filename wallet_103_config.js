@@ -1,1 +1,1 @@
-var mnemonic = "humble number shed figure fix bridge mask wasp finish exact raise very";
+var mnemonic = "silk couple try neutral nest multiply under lab immense remember find quote";

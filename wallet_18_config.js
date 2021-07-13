@@ -1,1 +1,1 @@
-var mnemonic = "gown burger payment trick bargain neck laugh drama replace laptop since before";
+var mnemonic = "stomach quick canyon motion wide law wisdom inner mixed cake above asthma";

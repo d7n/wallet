@@ -1,1 +1,1 @@
-var mnemonic = "media engine load pave legend major crater high enrich fruit umbrella jazz";
+var mnemonic = "about bomb dwarf risk veteran thunder saddle ahead skull floor later scout";

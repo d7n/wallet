@@ -1,1 +1,1 @@
-var mnemonic = "pause submit cake where supply gloom snap column sister heart aware kidney";
+var mnemonic = "narrow also catalog repair used recipe twelve combine return hole crater slice";

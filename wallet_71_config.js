@@ -1,1 +1,1 @@
-var mnemonic = "zebra adapt swear youth drip desert deputy area dilemma better cruel invite";
+var mnemonic = "flag moment fiber slogan illness flag vacant cancel pioneer struggle welcome ceiling";

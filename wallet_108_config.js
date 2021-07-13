@@ -1,1 +1,1 @@
-var mnemonic = "crime holiday cereal object shadow guitar chapter stand gallery gym inquiry nominee";
+var mnemonic = "catalog scout rigid film carpet steel suggest shed any say resemble crush";

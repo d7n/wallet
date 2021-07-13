@@ -1,1 +1,1 @@
-var mnemonic = "spread exile usual hint antique inhale cat history consider display market guitar";
+var mnemonic = "fly episode lunch monkey crisp jelly pride mango crazy pole coin tuition";

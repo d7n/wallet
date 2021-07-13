@@ -1,1 +1,1 @@
-var mnemonic = "check joke fitness kangaroo increase sell bullet march any iron proud spell";
+var mnemonic = "embody canoe clever reward flight wise hour innocent pear video achieve priority";

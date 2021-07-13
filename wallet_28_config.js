@@ -1,1 +1,1 @@
-var mnemonic = "crucial despair blood planet seminar clap palm round artefact become pupil neck";
+var mnemonic = "cannon pilot hockey donate lift congress orbit remind bottom fiber spirit pulp";

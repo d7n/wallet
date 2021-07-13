@@ -1,1 +1,1 @@
-var mnemonic = "whip enroll much brick cousin icon aim again word inch repair rather";
+var mnemonic = "trap kit frozen thrive oppose logic ice victory gadget dad eyebrow maze";

@@ -1,1 +1,1 @@
-var mnemonic = "repeat tunnel title cup worth path grain load venture furnace brain midnight";
+var mnemonic = "fire task charge casual stomach end blue load dirt green priority palace";

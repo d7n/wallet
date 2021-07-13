@@ -1,1 +1,1 @@
-var mnemonic = "disagree one space tattoo female blind state rifle ethics slot ketchup fog";
+var mnemonic = "write fog boy sunset certain patch soda flavor convince gorilla museum denial";

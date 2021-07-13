@@ -1,1 +1,1 @@
-var mnemonic = "never sick lounge various toy bottom album buyer spell garlic play rubber";
+var mnemonic = "boil draft ridge safe poverty fringe original buddy silly soup thumb casual";

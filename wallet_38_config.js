@@ -1,1 +1,1 @@
-var mnemonic = "oak genius illness clay weekend elephant warm dirt outdoor pulp current chef";
+var mnemonic = "forest mandate twenty kitchen birth toward boy direct figure wheel modify elephant";

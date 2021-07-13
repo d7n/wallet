@@ -1,1 +1,1 @@
-var mnemonic = "horn unknown thing life vocal average edit winter clip joy risk program";
+var mnemonic = "copper beauty author rival spoon proof movie lunar morning useful cheese soul";

@@ -1,1 +1,1 @@
-var mnemonic = "noise kitten battle crack fuel useless negative grow cherry three monster siege";
+var mnemonic = "maze trim another sheriff pitch powder lyrics beyond nothing foam lamp shove";

@@ -1,1 +1,1 @@
-var mnemonic = "close save decade exclude author vivid amount girl april notice habit length";
+var mnemonic = "sorry mammal smart economy casual immune loop wagon duty shadow escape merit";

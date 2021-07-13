@@ -1,1 +1,1 @@
-var mnemonic = "seed leaf disease assume sport explain solve ketchup spider inform piano resemble";
+var mnemonic = "avocado flash shove gas safe great outside hockey pig correct year sheriff";

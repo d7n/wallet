@@ -1,1 +1,1 @@
-var mnemonic = "enemy impact deliver twist idle ivory chaos second obscure music unique raven";
+var mnemonic = "strike ordinary deputy skull extend wait segment tobacco mesh bench wrestle month";

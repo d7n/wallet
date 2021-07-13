@@ -1,1 +1,1 @@
-var mnemonic = "diesel total exist please cradle ball provide month dutch album exhaust tail";
+var mnemonic = "buddy august exhibit fun alter typical coral hollow piano engine ethics still";

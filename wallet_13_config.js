@@ -1,1 +1,1 @@
-var mnemonic = "marble series day helmet pause clean record glare say ability direct turkey";
+var mnemonic = "brain fade wreck dove fever trial ribbon broccoli congress space salt shy";

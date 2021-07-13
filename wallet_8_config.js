@@ -1,1 +1,1 @@
-var mnemonic = "winter impact material base language cute art link melt bright clarify scene";
+var mnemonic = "pudding dune favorite wrap senior strategy adjust midnight hair antique desk jelly";

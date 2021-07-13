@@ -1,1 +1,1 @@
-var mnemonic = "sugar thunder enrich crazy process grape express easily maple artefact correct ethics";
+var mnemonic = "able opera develop farm infant weasel tornado scrap swim they section desert";

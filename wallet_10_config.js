@@ -1,1 +1,1 @@
-var mnemonic = "among under circle peasant dog artist grass chase pelican aspect lemon express";
+var mnemonic = "fault isolate sock uncover addict risk six group sign child mixed weekend";

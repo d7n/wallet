@@ -1,1 +1,1 @@
-var mnemonic = "quote duty kitchen now gun curious juice predict multiply drama trial episode";
+var mnemonic = "off region wine canoe citizen cliff idea page light kind project abandon";

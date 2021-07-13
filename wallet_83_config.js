@@ -1,1 +1,1 @@
-var mnemonic = "lamp antenna cave old recipe obey tornado about glide six metal normal";
+var mnemonic = "gloom lunch rhythm digital tape initial document risk make volcano cement humor";

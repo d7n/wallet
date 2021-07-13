@@ -1,1 +1,1 @@
-var mnemonic = "elevator frozen swift post weird dirt light enemy rookie mystery advance unusual";
+var mnemonic = "cave ignore hire someone title crunch claim hill wall true tail shove";

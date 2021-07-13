@@ -1,1 +1,1 @@
-var mnemonic = "sense soap boring rough grape swamp weapon subway run pink mango super";
+var mnemonic = "inmate one style employ dizzy pioneer strategy rug insect convince face wrist";

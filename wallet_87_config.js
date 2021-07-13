@@ -1,1 +1,1 @@
-var mnemonic = "hard suspect photo model hammer claim primary boat peanut drive borrow van";
+var mnemonic = "side reform razor grief nest fruit target adapt manage chief face harbor";

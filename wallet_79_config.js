@@ -1,1 +1,1 @@
-var mnemonic = "cancel unfold suggest rent travel develop endorse guide normal ozone crisp nephew";
+var mnemonic = "animal diet grief release drip nest poverty bronze current lottery grief midnight";

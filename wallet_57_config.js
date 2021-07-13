@@ -1,1 +1,1 @@
-var mnemonic = "shock urge quarter minimum force bulk ethics salt boy room mobile elephant";
+var mnemonic = "awful slight metal badge tower casino danger impulse cement rather cushion holiday";

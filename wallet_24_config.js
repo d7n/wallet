@@ -1,1 +1,1 @@
-var mnemonic = "already initial isolate surface garlic swap chunk cabin hunt spare family voyage";
+var mnemonic = "warrior company marriage mansion since edit dolphin exchange blanket balance job risk";

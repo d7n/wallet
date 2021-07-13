@@ -1,1 +1,1 @@
-var mnemonic = "unfair shield uncle powder artwork potato seat ride satisfy pause have fragile";
+var mnemonic = "airport good bundle blame lemon doctor race cannon spike foam allow salad";

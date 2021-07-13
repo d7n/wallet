@@ -1,1 +1,1 @@
-var mnemonic = "lyrics vast rural yellow never grant develop soldier outside pepper brother thumb";
+var mnemonic = "churn bone area cigar movie edge ozone deputy broom undo crucial benefit";

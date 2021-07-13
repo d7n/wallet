@@ -1,1 +1,1 @@
-var mnemonic = "human hurt tone walk illness drum paper march brave mandate metal very";
+var mnemonic = "develop daring lottery mosquito bonus rule focus elegant animal approve harvest neglect";

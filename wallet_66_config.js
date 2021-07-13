@@ -1,1 +1,1 @@
-var mnemonic = "security camera remember short ranch timber blush lucky text fold stadium script";
+var mnemonic = "winner violin resemble drill more notable high club wish jungle ginger plug";

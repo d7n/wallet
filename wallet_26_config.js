@@ -1,1 +1,1 @@
-var mnemonic = "increase wave flower then account census soccer switch jaguar decade enhance fatigue";
+var mnemonic = "exotic exist toward child private zone fine spider dwarf trick print panther";

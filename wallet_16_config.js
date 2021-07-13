@@ -1,1 +1,1 @@
-var mnemonic = "online private purse awake honey increase enlist supply travel umbrella skull inquiry";
+var mnemonic = "fall stuff great online insane vibrant spring swift summer rural mountain tower";

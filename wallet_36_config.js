@@ -1,1 +1,1 @@
-var mnemonic = "sign vehicle draw pond hunt minute siege arctic immune thought goose seminar";
+var mnemonic = "super hover normal barely spice asset alcohol theme memory latin crane pig";

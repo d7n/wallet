@@ -1,1 +1,1 @@
-var mnemonic = "state object face maximum sort cluster fan forest skirt network ozone enjoy";
+var mnemonic = "vast prize elbow mandate firm note globe accident average tilt excess bulb";

@@ -1,1 +1,1 @@
-var mnemonic = "job door unveil network glue stem regular cotton hawk fade hope include";
+var mnemonic = "egg shoulder embody rival please clock sweet romance shoot junk crazy soap";

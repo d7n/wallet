@@ -1,1 +1,1 @@
-var mnemonic = "observe drill dragon basket shadow govern round surface moment city match gift";
+var mnemonic = "turtle horror combine ranch exotic pig carry youth yard panic viable order";

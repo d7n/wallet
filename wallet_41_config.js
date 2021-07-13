@@ -1,1 +1,1 @@
-var mnemonic = "erode detect latin promote border slice lobster shallow submit donate manual observe";
+var mnemonic = "detail immune ghost kite gain street desk wish chair hole long inmate";

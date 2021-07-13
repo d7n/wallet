@@ -1,1 +1,1 @@
-var mnemonic = "wing type protect focus object gas found tell bridge hunt poverty insect";
+var mnemonic = "check museum grain put dash print select accident rely lobster pelican basket";

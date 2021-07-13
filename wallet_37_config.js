@@ -1,1 +1,1 @@
-var mnemonic = "approve tank chunk knife film pause milk sea shoot ride witness chef";
+var mnemonic = "journey manual tuition speak rebel trial swallow action scatter section auto climb";

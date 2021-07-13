@@ -1,1 +1,1 @@
-var mnemonic = "island slide soup garden seminar lab antenna occur upper fall rice viable";
+var mnemonic = "follow fold siren fault equip apart recipe credit curious tomorrow easy vote";

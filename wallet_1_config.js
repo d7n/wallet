@@ -1,1 +1,1 @@
-var mnemonic = "million awful sausage hospital dish verb check echo turtle account material claim";
+var mnemonic = "shiver skate either genuine hurdle coral sunny lazy announce income catalog miss";

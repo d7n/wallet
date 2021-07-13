@@ -1,1 +1,1 @@
-var mnemonic = "adjust fabric clay response tube sketch adult galaxy prevent gain wheat beyond";
+var mnemonic = "lesson gate window then extend uphold calm cement rhythm repair eight aspect";

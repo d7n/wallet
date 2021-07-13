@@ -1,1 +1,1 @@
-var mnemonic = "mom bleak pattern object punch poem satoshi wedding early honey want basic";
+var mnemonic = "cupboard soda wave address curious switch truck piece picture shield used grunt";

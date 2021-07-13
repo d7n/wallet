@@ -1,1 +1,1 @@
-var mnemonic = "arena airport coach awake hobby alpha wrist unlock total thumb brick such";
+var mnemonic = "deer bid host sun shock always skill hand today jaguar dish excuse";

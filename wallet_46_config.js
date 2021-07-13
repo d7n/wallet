@@ -1,1 +1,1 @@
-var mnemonic = "olive copper away cage surround mask bunker ethics despair goose sign knee";
+var mnemonic = "angle master uncle large energy lift river kiwi core awesome improve rural";

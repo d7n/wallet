@@ -1,1 +1,1 @@
-var mnemonic = "rude energy pottery bracket afraid island hair pluck memory kite void library";
+var mnemonic = "provide evil brain return coil guitar off wide switch behave kick approve";

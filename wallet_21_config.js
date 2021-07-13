@@ -1,1 +1,1 @@
-var mnemonic = "clean reason pigeon fiscal chest battle cargo spoil marine uniform protect rapid";
+var mnemonic = "illegal burden plunge forum sunset pottery path liquid frost pig uncle crop";

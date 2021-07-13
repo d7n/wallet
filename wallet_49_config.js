@@ -1,1 +1,1 @@
-var mnemonic = "sunset asthma virus victory whisper group like school gather zoo bird hungry";
+var mnemonic = "cluster extra firm siren throw only fitness boost aspect lock spirit more";

@@ -1,1 +1,1 @@
-var mnemonic = "later truly across party stairs find blind garden real regular sell delay";
+var mnemonic = "drum boil decorate truly visit valid captain inner actual voyage mosquito napkin";

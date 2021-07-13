@@ -1,1 +1,1 @@
-var mnemonic = "annual fruit blood join bicycle hospital embrace topple satisfy forward guard meat";
+var mnemonic = "today summer youth assault collect test bomb deliver nuclear educate unusual meadow";

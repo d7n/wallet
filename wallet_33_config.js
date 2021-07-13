@@ -1,1 +1,1 @@
-var mnemonic = "lady snack assume deputy during ramp accuse horror despair ribbon matter wife";
+var mnemonic = "position degree bounce owner tool ecology absurd alone floor oyster ridge message";
