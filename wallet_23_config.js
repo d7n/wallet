@@ -1,1 +1,1 @@
-var mnemonic = "type artist bacon travel black hammer shrug insect accident ridge edge sheriff";
+var mnemonic = "pencil subject protect manual monster spawn news kidney sister genuine please dirt";

@@ -1,1 +1,1 @@
-var mnemonic = "number crisp swear dinosaur proud dignity analyst sorry twin nurse muscle anger";
+var mnemonic = "sunny weekend identify air cross depend clap club citizen wool verb fragile";

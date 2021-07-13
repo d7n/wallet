@@ -1,1 +1,1 @@
-var mnemonic = "change canyon angry genre chuckle man affair join purse account lemon muscle";
+var mnemonic = "congress wash quote price tired hat spread safe insane segment any foot";

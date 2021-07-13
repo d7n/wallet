@@ -1,1 +1,1 @@
-var mnemonic = "shiver sport mirror outside crawl keep vehicle bonus wage flee tuition stay";
+var mnemonic = "front symbol insect build advance marine valid swallow virtual amateur swear evil";

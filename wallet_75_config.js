@@ -1,1 +1,1 @@
-var mnemonic = "mixed bamboo favorite shallow grit sand north slow night client concert kangaroo";
+var mnemonic = "fancy cigar express learn unusual steak giant huge menu gorilla fire humble";

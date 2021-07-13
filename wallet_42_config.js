@@ -1,1 +1,1 @@
-var mnemonic = "rescue diary athlete trash jungle remain weird enemy upset solve quality sphere";
+var mnemonic = "lend junk gaze what enrich regret shrug private rebuild coffee sense alert";

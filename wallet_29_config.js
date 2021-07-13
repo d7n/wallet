@@ -1,1 +1,1 @@
-var mnemonic = "few false soda shine polar exercise diesel debris ozone transfer industry perfect";
+var mnemonic = "vault museum uncover grant man perfect enable someone finish where undo similar";

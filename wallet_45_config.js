@@ -1,1 +1,1 @@
-var mnemonic = "away chimney want term end replace dignity coach distance minor fold girl";
+var mnemonic = "window access salon talk stuff fork shock nothing insane finger rescue stereo";

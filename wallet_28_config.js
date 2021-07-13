@@ -1,1 +1,1 @@
-var mnemonic = "crucial express rice vehicle element muscle ivory fine major afford flash path";
+var mnemonic = "mountain weather beef kitten gloom cute deal bachelor carpet evil relief road";

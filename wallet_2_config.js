@@ -1,1 +1,1 @@
-var mnemonic = "digital youth twin universe scene cool mystery hover wasp dry session omit";
+var mnemonic = "fashion bar mercy result inch main north spread glance sad quantum flee";

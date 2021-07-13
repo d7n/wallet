@@ -1,1 +1,1 @@
-var mnemonic = "theory clap genuine card liar waste cattle relax expect baby clip ivory";
+var mnemonic = "void budget isolate into woman wild transfer abstract camera conduct exclude walnut";

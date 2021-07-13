@@ -1,1 +1,1 @@
-var mnemonic = "cliff street salt omit mutual bitter reward wear truth lyrics clever raccoon";
+var mnemonic = "flight bind toddler oyster blade remain field nuclear nose oak measure faith";

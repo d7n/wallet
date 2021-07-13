@@ -1,1 +1,1 @@
-var mnemonic = "artwork carbon anxiety gentle old roof search provide reopen text dry donkey";
+var mnemonic = "glimpse thrive lawsuit inner add nose figure salon dinosaur girl dragon civil";

@@ -1,1 +1,1 @@
-var mnemonic = "shove diagram business stool fish thank suffer physical leopard attitude decade you";
+var mnemonic = "payment erode grunt rude fresh draft achieve equal staff private gravity play";

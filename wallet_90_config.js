@@ -1,1 +1,1 @@
-var mnemonic = "wolf despair label punch vessel essence stairs fuel print room visit toilet";
+var mnemonic = "miss social feel biology liquid genuine barrel flock ghost toss inject found";

@@ -1,1 +1,1 @@
-var mnemonic = "setup desert burden water lamp unfold edge diet cup swallow resource sunny";
+var mnemonic = "dragon occur dog voice october glass win arrive dynamic legend fox insect";

@@ -1,1 +1,1 @@
-var mnemonic = "team goose inherit tortoise alarm arch another use receive steel toy bar";
+var mnemonic = "spirit frog horse tonight snake april use light liquid narrow broken just";

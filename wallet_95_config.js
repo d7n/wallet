@@ -1,1 +1,1 @@
-var mnemonic = "evoke rival salmon chimney invest nurse entry phrase hamster vivid inmate expand";
+var mnemonic = "rocket pledge slender spare parent fox chalk hood crime unaware buyer flight";

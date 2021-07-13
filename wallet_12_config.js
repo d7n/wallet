@@ -1,1 +1,1 @@
-var mnemonic = "pipe arch program spoil account gallery bachelor lift case exercise camera antenna";
+var mnemonic = "legal nothing borrow today system train boost trouble shine ticket gravity satisfy";

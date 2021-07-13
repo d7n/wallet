@@ -1,1 +1,1 @@
-var mnemonic = "grant grass assault reduce love carpet crack onion glimpse action sword toddler";
+var mnemonic = "guess slogan fame busy review core border question auction rocket equal citizen";

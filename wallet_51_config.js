@@ -1,1 +1,1 @@
-var mnemonic = "frown fee unique put page cruise mansion bid safe alert humor fox";
+var mnemonic = "slogan hover raise garment industry attract inside trash similar couch essence narrow";

@@ -1,1 +1,1 @@
-var mnemonic = "across brave tray benefit jump foil come garment path grass bicycle improve";
+var mnemonic = "cream strike approve direct vast load rude liquid divert fly found afford";

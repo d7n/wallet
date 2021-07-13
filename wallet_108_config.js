@@ -1,1 +1,1 @@
-var mnemonic = "able ostrich pause mad lawsuit rally upon logic obscure junior city crazy";
+var mnemonic = "clock repair figure arrive switch want inspire beyond place bag blast destroy";

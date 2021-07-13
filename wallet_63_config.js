@@ -1,1 +1,1 @@
-var mnemonic = "lady junk that middle initial illness retreat unfair charge target door absurd";
+var mnemonic = "coral gym phrase salon front view hedgehog tonight female near frown siren";

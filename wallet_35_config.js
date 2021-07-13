@@ -1,1 +1,1 @@
-var mnemonic = "pluck color casino sponsor scatter enroll fence want gaze any dust naive";
+var mnemonic = "document tone mix rotate warrior mistake layer accident menu duty reward summer";

@@ -1,1 +1,1 @@
-var mnemonic = "polar cry evolve shaft canoe sauce when pave cricket virus episode lecture";
+var mnemonic = "rabbit produce cluster oven reflect runway casual million enforce blouse enrich census";

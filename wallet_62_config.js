@@ -1,1 +1,1 @@
-var mnemonic = "ill grant mammal excite bonus remove worth local cement camp easily utility";
+var mnemonic = "miracle project vocal then file fresh opinion awesome border split jewel grape";

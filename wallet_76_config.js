@@ -1,1 +1,1 @@
-var mnemonic = "dry exhibit exact hospital drop breeze wise ramp metal giraffe history mountain";
+var mnemonic = "hamster disagree clump congress today child violin sheriff budget problem super vote";

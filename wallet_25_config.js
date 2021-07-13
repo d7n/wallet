@@ -1,1 +1,1 @@
-var mnemonic = "test lumber connect coral sail mean accident west pen label wrap better";
+var mnemonic = "note badge error scan project page vendor burst wing first job life";

@@ -1,1 +1,1 @@
-var mnemonic = "silly mutual eagle trial viable swift fee common urban jaguar hurry symbol";
+var mnemonic = "stable liberty oblige hungry addict admit charge dash throw old heavy local";

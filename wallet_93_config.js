@@ -1,1 +1,1 @@
-var mnemonic = "atom kid pony this reveal endorse night trim history crop strategy enlist";
+var mnemonic = "solar jump price sorry embark hammer bind rigid identify soap require tennis";

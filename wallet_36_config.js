@@ -1,1 +1,1 @@
-var mnemonic = "wife bone side media borrow response dolphin fancy envelope slide transfer goat";
+var mnemonic = "example toward metal staff cycle broom cross lesson error volcano that never";

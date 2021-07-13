@@ -1,1 +1,1 @@
-var mnemonic = "icon better fitness athlete among card ankle dial abandon confirm endless diary";
+var mnemonic = "business misery matrix boil embrace stomach original digital odor guide doctor coffee";

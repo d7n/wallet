@@ -1,1 +1,1 @@
-var mnemonic = "skirt attend survey rib gauge galaxy logic weasel fire scare use system";
+var mnemonic = "palm enforce husband all nest patient they gun other indicate shrimp bunker";

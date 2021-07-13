@@ -1,1 +1,1 @@
-var mnemonic = "useful example depend shallow view deny taxi kick warrior course pledge narrow";
+var mnemonic = "supply again omit liberty timber immune correct decade final salmon never arena";

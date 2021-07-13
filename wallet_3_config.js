@@ -1,1 +1,1 @@
-var mnemonic = "identify artefact antenna dinosaur opinion kitchen issue melody skirt rural acid unlock";
+var mnemonic = "like input leader axis shallow light inspire camp banana tower woman system";

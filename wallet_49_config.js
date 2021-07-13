@@ -1,1 +1,1 @@
-var mnemonic = "mosquito blast idea allow visa shop pupil slot veteran license actress shadow";
+var mnemonic = "coffee autumn tennis exhibit bread digital rabbit raise wear brother rabbit eyebrow";

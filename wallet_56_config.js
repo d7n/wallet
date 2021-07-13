@@ -1,1 +1,1 @@
-var mnemonic = "vehicle coast theme dust volcano bridge flight parrot axis balcony visit pave";
+var mnemonic = "leopard pave quiz lens carbon tumble torch peasant dizzy coast dwarf impulse";

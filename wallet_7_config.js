@@ -1,1 +1,1 @@
-var mnemonic = "neither margin awful bunker female tenant autumn recall rough error undo ride";
+var mnemonic = "fall warm simple foster pretty fame alien upon ethics refuse adult track";

@@ -1,1 +1,1 @@
-var mnemonic = "limb rail figure siren resource noble field blade plastic illness wish search";
+var mnemonic = "shallow buyer table ozone frog flame burst stick puzzle fringe ten battle";

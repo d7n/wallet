@@ -1,1 +1,1 @@
-var mnemonic = "wing field brief matrix orange boss supreme fan lens pledge pause ancient";
+var mnemonic = "evolve trigger pistol garbage melt clinic future powder direct detail earth fancy";

@@ -1,1 +1,1 @@
-var mnemonic = "high decrease cotton convince basic swift broken prosper sphere student grid flip";
+var mnemonic = "major skill famous tragic potato staff allow infant buddy pony great burst";

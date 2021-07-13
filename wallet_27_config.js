@@ -1,1 +1,1 @@
-var mnemonic = "practice trap latin squirrel draft budget bronze flush turtle okay obscure swear";
+var mnemonic = "bike item elegant recipe castle flat hawk slow goose forum nephew seed";

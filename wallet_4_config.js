@@ -1,1 +1,1 @@
-var mnemonic = "typical spare drink mask tourist enter priority six alarm behind piece soap";
+var mnemonic = "oppose scrub leaf machine heavy lab spice umbrella puppy when double child";

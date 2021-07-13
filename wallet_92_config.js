@@ -1,1 +1,1 @@
-var mnemonic = "sock humble talent leg annual rice phone science also despair shaft bulk";
+var mnemonic = "only wrap average embrace holiday debris bamboo creek surprise dune traffic beach";

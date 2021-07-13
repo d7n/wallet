@@ -1,1 +1,1 @@
-var mnemonic = "join put click negative claw inject fiction bridge leisure elegant park junk";
+var mnemonic = "core gun seven science man dawn clap scorpion base stable vocal basket";

@@ -1,1 +1,1 @@
-var mnemonic = "alien purchase inch tail bridge physical vessel blast waste wing know genius";
+var mnemonic = "tip prefer ramp food ski pencil assume retreat mobile room novel vocal";

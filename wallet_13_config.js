@@ -1,1 +1,1 @@
-var mnemonic = "vicious repair blur ginger dial large rocket drink window story spread nuclear";
+var mnemonic = "unit win silent cherry give alter teach piece render finger case stable";

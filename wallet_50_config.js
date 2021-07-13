@@ -1,1 +1,1 @@
-var mnemonic = "child blue snack envelope such world example kit plunge muscle unusual advance";
+var mnemonic = "trade exotic copy become front spend sunset swim setup camera cave session";

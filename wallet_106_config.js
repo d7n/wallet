@@ -1,1 +1,1 @@
-var mnemonic = "camera response advice walnut brass ring excess disorder advice rubber rate over";
+var mnemonic = "tennis sheriff belt truck pottery guard measure bomb firm flush relief lake";

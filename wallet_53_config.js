@@ -1,1 +1,1 @@
-var mnemonic = "runway review oyster avoid shrug invite clutch lazy opinion funny snow fan";
+var mnemonic = "belt pause snap success scheme jewel student laptop twist acid picnic celery";

@@ -1,1 +1,1 @@
-var mnemonic = "mirror street describe illness gadget soon loop rain price atom truly mandate";
+var mnemonic = "leader output final scale cool exact stage curtain tell endless multiply moon";

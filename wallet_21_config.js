@@ -1,1 +1,1 @@
-var mnemonic = "sweet canyon eternal mind click remain budget turn must wise brand unveil";
+var mnemonic = "unveil horse abstract cool path dawn giggle base current rubber vicious acquire";

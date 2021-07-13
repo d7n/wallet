@@ -1,1 +1,1 @@
-var mnemonic = "excite symbol narrow paddle spot mirror benefit this fuel tank noble popular";
+var mnemonic = "spray oblige crisp world eight below diary skill addict renew prepare draw";

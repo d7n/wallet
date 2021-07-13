@@ -1,1 +1,1 @@
-var mnemonic = "also aspect bargain sad energy beauty silver outer wild leaf embrace yard";
+var mnemonic = "olive couple angle grass project novel day add bar tissue heavy silver";

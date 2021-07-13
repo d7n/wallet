@@ -1,1 +1,1 @@
-var mnemonic = "logic arch mouse stone matrix inherit critic donkey tattoo when hair wedding";
+var mnemonic = "please shoulder miss mansion apple bounce write large cable delay nasty true";

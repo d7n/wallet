@@ -1,1 +1,1 @@
-var mnemonic = "paddle abuse faith say float inflict wonder usage phrase wool lava zone";
+var mnemonic = "begin butter another inmate erosion panic doctor utility squirrel grass economy quantum";

@@ -1,1 +1,1 @@
-var mnemonic = "normal device army current equal diary pear card key harvest charge laptop";
+var mnemonic = "equip wagon shrimp behind play riot merge intact give tube eye kiss";

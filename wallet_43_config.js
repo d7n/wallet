@@ -1,1 +1,1 @@
-var mnemonic = "banana select team juice universe have pupil express unaware pepper silk bright";
+var mnemonic = "divert boss hurry real inhale remain human mix top cute custom soda";

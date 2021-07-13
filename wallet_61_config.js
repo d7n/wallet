@@ -1,1 +1,1 @@
-var mnemonic = "village until note grit shrug neck casual safe unfair robust across knock";
+var mnemonic = "canvas claw never tobacco salad spoil true proof canal brown dirt until";

@@ -1,1 +1,1 @@
-var mnemonic = "organ accident round guard best stem stick depend indoor idea space canvas";
+var mnemonic = "rhythm deny famous luxury spell thing cushion hybrid draft corn crawl torch";

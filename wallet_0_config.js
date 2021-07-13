@@ -1,1 +1,1 @@
-var mnemonic = "dolphin canyon leave install border buffalo crystal robot iron orchard only script";
+var mnemonic = "element blush creek dial sand teach sight outdoor subject muscle myth shield";

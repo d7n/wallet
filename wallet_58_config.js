@@ -1,1 +1,1 @@
-var mnemonic = "throw segment exact detail gospel journey audit drip bunker connect account nation";
+var mnemonic = "urge aim inflict trophy deny much copy quiz ignore insane lawsuit identify";

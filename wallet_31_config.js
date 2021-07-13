@@ -1,1 +1,1 @@
-var mnemonic = "comfort item talent alien grant minor almost glad danger quantum toward method";
+var mnemonic = "casual dignity devote trend joy special govern turn sad often scatter curious";

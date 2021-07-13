@@ -1,1 +1,1 @@
-var mnemonic = "interest breeze mutual trap smooth jar kangaroo clock quality develop enrich quick";
+var mnemonic = "donate protect you wing item attitude advance mansion shrimp gadget voice deny";

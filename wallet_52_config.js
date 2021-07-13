@@ -1,1 +1,1 @@
-var mnemonic = "curve future biology immense fox fuel muscle asset annual predict jar infant";
+var mnemonic = "title object minimum rely exact type vault salute cheap help gym child";

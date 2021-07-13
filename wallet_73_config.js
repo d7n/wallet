@@ -1,1 +1,1 @@
-var mnemonic = "wreck chicken speak tennis actress glance matrix review dad increase manual remain";
+var mnemonic = "know night indicate galaxy nice zebra admit poem balcony pair bomb slogan";

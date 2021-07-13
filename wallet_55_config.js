@@ -1,1 +1,1 @@
-var mnemonic = "kangaroo glare ball vicious nephew divert worry air easy satisfy lumber brisk";
+var mnemonic = "sunny join mammal affair inmate someone repair mixture shed apology error track";

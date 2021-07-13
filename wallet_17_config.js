@@ -1,1 +1,1 @@
-var mnemonic = "mixture gasp neck render stool crash hold summer lava column embrace inmate";
+var mnemonic = "pulp piece echo festival special impulse hole mammal stable find lunar boil";

@@ -1,1 +1,1 @@
-var mnemonic = "album gauge fragile spot useless twelve execute practice accident wish rubber now";
+var mnemonic = "author history first post crunch hammer bleak faint judge lock carbon wonder";

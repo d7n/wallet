@@ -1,1 +1,1 @@
-var mnemonic = "true target firm year siren crazy call lend snake tone flight foot";
+var mnemonic = "chat innocent uncover friend morning borrow meat abandon size boy save winner";

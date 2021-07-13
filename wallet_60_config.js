@@ -1,1 +1,1 @@
-var mnemonic = "car problem young length thunder mind uncle tray march output nice raw";
+var mnemonic = "disagree pill paddle copy manual kingdom mass update athlete enhance shift sweet";

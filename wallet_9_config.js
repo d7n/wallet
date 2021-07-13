@@ -1,1 +1,1 @@
-var mnemonic = "story lonely anger nothing cherry crumble short dizzy head travel wait record";
+var mnemonic = "special business proud dentist olive replace abandon chronic child panda chuckle refuse";

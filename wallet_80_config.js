@@ -1,1 +1,1 @@
-var mnemonic = "buffalo rebuild exercise property window portion spell spot expose captain shoe popular";
+var mnemonic = "harbor position buddy chase you husband warm endless quarter jelly away ghost";

@@ -1,1 +1,1 @@
-var mnemonic = "casino brown pave acoustic loud vicious mimic bread boil essence banner shove";
+var mnemonic = "manage habit atom congress depth key onion person social march address welcome";

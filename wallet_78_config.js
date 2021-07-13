@@ -1,1 +1,1 @@
-var mnemonic = "discover thought main trouble someone region glimpse method mesh today cost hobby";
+var mnemonic = "junk day pitch country silent despair click depart practice bleak riot cherry";

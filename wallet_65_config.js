@@ -1,1 +1,1 @@
-var mnemonic = "shallow spin day sample pretty purpose gossip hill conduct bench fiscal sleep";
+var mnemonic = "artwork intact female slow run draft farm parent gentle sign fancy miracle";

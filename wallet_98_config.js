@@ -1,1 +1,1 @@
-var mnemonic = "circle point vacuum choose rate mystery alley thunder olympic ripple rough vanish";
+var mnemonic = "frequent opera check panda gym enough emerge lemon task leg apart coach";

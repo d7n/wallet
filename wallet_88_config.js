@@ -1,1 +1,1 @@
-var mnemonic = "daring amazing wear bonus nose second swamp sustain spare snack paper reveal";
+var mnemonic = "luxury extend black lonely invite exercise wheel habit unique choose harvest balance";

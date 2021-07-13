@@ -1,1 +1,1 @@
-var mnemonic = "jelly vague detail decline dilemma inhale hazard own globe sick note any";
+var mnemonic = "detail parade mosquito inflict prison boss brown problem verb frown loyal culture";

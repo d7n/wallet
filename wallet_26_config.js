@@ -1,1 +1,1 @@
-var mnemonic = "chair network wet health giant auction limb faculty purity castle day grow";
+var mnemonic = "mass panda people cabin inspire caught path question shine language uncle fault";

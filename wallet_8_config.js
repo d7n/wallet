@@ -1,1 +1,1 @@
-var mnemonic = "horn gravity patrol come charge beef easy orchard trash piano coil myth";
+var mnemonic = "imitate blade uphold smile rifle naive file fabric laugh grace day nephew";
