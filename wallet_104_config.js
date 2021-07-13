@@ -1,1 +1,1 @@
-var mnemonic = "around ignore explain typical town bless favorite trouble cave replace toward dial";
+var mnemonic = "matrix boil glory trophy depth version initial impose sad chapter woman boost";

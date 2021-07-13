@@ -1,1 +1,1 @@
-var mnemonic = "venture inspire rug cherry split damp tape kitchen shiver voyage festival pioneer";
+var mnemonic = "agree dismiss check hurt goose under enrich client flock cigar ribbon ignore";

@@ -1,1 +1,1 @@
-var mnemonic = "mother cement tag radio legal never citizen page gadget orient trade earn";
+var mnemonic = "crop chuckle space pill immune swallow label worth timber smile idle almost";

@@ -1,1 +1,1 @@
-var mnemonic = "habit rain else situate quote drop among reject breeze decrease admit kitchen";
+var mnemonic = "neck plunge silly affair club man deal order type arch novel loan";

@@ -1,1 +1,1 @@
-var mnemonic = "salt eager glad patient quantum swap soccer cross flash coast ensure try";
+var mnemonic = "catch captain tube midnight regular seek often search earn empty spirit guess";

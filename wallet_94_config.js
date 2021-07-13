@@ -1,1 +1,1 @@
-var mnemonic = "miracle scrub harvest derive must resist hammer vicious myself tag upon bird";
+var mnemonic = "scan apple document below velvet mushroom honey tuna able glare dress toilet";

@@ -1,1 +1,1 @@
-var mnemonic = "retreat walnut impose resist impulse sphere seek warfare raccoon barely casino tumble";
+var mnemonic = "ring mango august assault else fuel menu shaft auto crunch quote salmon";

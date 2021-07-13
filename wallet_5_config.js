@@ -1,1 +1,1 @@
-var mnemonic = "want execute deal narrow poem parent list flee little tunnel school gravity";
+var mnemonic = "wing normal grit assault fly custom boat road museum wisdom tobacco alarm";

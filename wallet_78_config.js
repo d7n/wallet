@@ -1,1 +1,1 @@
-var mnemonic = "local chalk symptom exotic inhale remind saddle melt topple enter sister heart";
+var mnemonic = "segment kitchen decade april story field neglect smoke peasant never glimpse basket";

@@ -1,1 +1,1 @@
-var mnemonic = "right caught evolve laptop arctic awake chef service slush school health text";
+var mnemonic = "couple ask blood casino era pencil dune poem example hurt sadness morning";

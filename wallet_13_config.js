@@ -1,1 +1,1 @@
-var mnemonic = "word prefer echo pitch art slush fish multiply peasant curve sunny fade";
+var mnemonic = "wear rebel table tourist easy phrase design salute side tower lens rookie";

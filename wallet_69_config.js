@@ -1,1 +1,1 @@
-var mnemonic = "start great deer load street muffin afford quality close scale wave charge";
+var mnemonic = "again circle power idea act sail anchor flag axis curtain time enact";

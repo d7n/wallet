@@ -1,1 +1,1 @@
-var mnemonic = "brass solve corn melody phone fringe anxiety coin afraid cherry casino crouch";
+var mnemonic = "van truck bird twenty slow romance vacuum maple labor gate track resist";

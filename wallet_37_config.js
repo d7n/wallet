@@ -1,1 +1,1 @@
-var mnemonic = "maximum captain crazy drink antique false athlete loud season pass suggest tree";
+var mnemonic = "mouse slush sphere write race news avocado nasty chronic choose manual alley";

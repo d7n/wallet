@@ -1,1 +1,1 @@
-var mnemonic = "razor rookie indoor hidden hen anger provide slide remind peanut hundred they";
+var mnemonic = "recycle patient excuse tape fire grab enroll simple kangaroo wrap object legend";

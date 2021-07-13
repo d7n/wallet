@@ -1,1 +1,1 @@
-var mnemonic = "useless weasel pony top vacuum culture winner silly unlock lucky sister employ";
+var mnemonic = "enforce account fog plate dial system pitch control renew buyer party upper";

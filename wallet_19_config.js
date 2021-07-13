@@ -1,1 +1,1 @@
-var mnemonic = "sing power twin sand tortoise calm sketch amateur thank unfold text allow";
+var mnemonic = "you coil valid neither jump enable zoo supply spend satisfy audit advance";

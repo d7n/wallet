@@ -1,1 +1,1 @@
-var mnemonic = "simple forest crumble vicious twist wait verify snow twice lift add orchard";
+var mnemonic = "always steel net okay toilet hole comic fantasy kid fossil recall artefact";

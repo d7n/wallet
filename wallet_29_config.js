@@ -1,1 +1,1 @@
-var mnemonic = "body impulse enjoy trick forest mystery fringe image spatial rich pioneer series";
+var mnemonic = "copy news double poem wage permit story vehicle learn coffee sorry legal";

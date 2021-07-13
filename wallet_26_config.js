@@ -1,1 +1,1 @@
-var mnemonic = "beef monster science ensure cube patient aim twin choose solar junk able";
+var mnemonic = "long point column tumble shed click can fit current palm connect essence";

@@ -1,1 +1,1 @@
-var mnemonic = "aunt cram section monkey leaf swing theory rain hurry valley domain upset";
+var mnemonic = "like era stereo move cloud scorpion evidence decade spin coach ill exchange";

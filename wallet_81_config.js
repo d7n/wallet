@@ -1,1 +1,1 @@
-var mnemonic = "happy satisfy fiber slender scout split hello open oak mask eagle parent";
+var mnemonic = "defy pair purchase sadness target magnet detect unhappy key fancy into local";

@@ -1,1 +1,1 @@
-var mnemonic = "above car garbage alert rigid agent expect promote smile swing impact acoustic";
+var mnemonic = "tunnel topic dignity flush receive short carbon ensure scan volcano stomach random";

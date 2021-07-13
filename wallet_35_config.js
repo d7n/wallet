@@ -1,1 +1,1 @@
-var mnemonic = "eternal milk ten burst lecture chalk measure across valve funny era always";
+var mnemonic = "blouse dilemma husband fancy artwork bronze captain warrior wrestle exact velvet outer";

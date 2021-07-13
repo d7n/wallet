@@ -1,1 +1,1 @@
-var mnemonic = "kick humor beach receive acid assault frame picture naive alter remove lazy";
+var mnemonic = "can hidden casino merit music smoke middle sad disagree useful lesson breeze";

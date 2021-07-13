@@ -1,1 +1,1 @@
-var mnemonic = "wonder turtle beyond satoshi onion isolate trial sadness they series dragon entry";
+var mnemonic = "very chaos same sick family march uncle alert grass true ill patient";

@@ -1,1 +1,1 @@
-var mnemonic = "glimpse grape pet tilt nature plunge under purchase collect ranch trumpet useless";
+var mnemonic = "soft sight unhappy level try chuckle scheme dolphin any target long festival";

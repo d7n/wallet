@@ -1,1 +1,1 @@
-var mnemonic = "local primary toward wire memory jewel cube advance leg shrug athlete behave";
+var mnemonic = "wheat fiber height beauty hawk funny title issue left audit remember sugar";

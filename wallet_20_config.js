@@ -1,1 +1,1 @@
-var mnemonic = "gasp february ready spawn length display level thought smile train crunch idea";
+var mnemonic = "guilt people dutch cushion empower myself guilt device curtain visit tunnel mean";

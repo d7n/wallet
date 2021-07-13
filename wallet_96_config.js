@@ -1,1 +1,1 @@
-var mnemonic = "jaguar width frog return addict seminar unique usual mutual rib half ketchup";
+var mnemonic = "bright collect useless never cricket educate mango pair music zone clinic convince";

@@ -1,1 +1,1 @@
-var mnemonic = "slam phrase tumble laundry margin actor margin early much huge champion fantasy";
+var mnemonic = "pass legal success globe trip evil hour earth artefact pear strike leave";

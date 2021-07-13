@@ -1,1 +1,1 @@
-var mnemonic = "armor project feed warm accuse hobby desk sight mosquito bitter thing expect";
+var mnemonic = "armed put unknown betray end escape misery glimpse clock oven charge success";

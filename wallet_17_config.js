@@ -1,1 +1,1 @@
-var mnemonic = "peanut local there motion beach boil genuine approve banana genuine club smart";
+var mnemonic = "task blouse hover wash surround mirror pond cloud will discover forward glance";

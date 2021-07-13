@@ -1,1 +1,1 @@
-var mnemonic = "icon behind win name abandon oak pluck property install state chunk young";
+var mnemonic = "peasant ahead fetch very motor shiver room cool grab parrot reflect sign";

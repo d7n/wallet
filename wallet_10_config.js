@@ -1,1 +1,1 @@
-var mnemonic = "message quit submit then soldier cheap impact enforce save depart syrup coil";
+var mnemonic = "just possible hybrid strong movie twelve gas purity pretty yellow consider verb";

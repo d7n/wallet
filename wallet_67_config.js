@@ -1,1 +1,1 @@
-var mnemonic = "green smooth display sweet slow mobile boil away elevator kid sword midnight";
+var mnemonic = "chapter boost biology must hard mass bright great credit filter poverty flower";

@@ -1,1 +1,1 @@
-var mnemonic = "guard fire wish emerge venture wisdom picture warrior fragile erase typical canoe";
+var mnemonic = "second wood pupil endless leopard gospel run talk february minor misery extend";

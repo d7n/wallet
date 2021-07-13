@@ -1,1 +1,1 @@
-var mnemonic = "try river master equip vessel two gadget cause grape swing tumble toast";
+var mnemonic = "endorse judge away polar thing world height belt retire artist prefer february";

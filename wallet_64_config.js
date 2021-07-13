@@ -1,1 +1,1 @@
-var mnemonic = "stone company way fly merit attack scene rebuild skill jump all negative";
+var mnemonic = "lens fun burst race recycle banana faculty rather tackle sad deny elephant";

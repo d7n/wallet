@@ -1,1 +1,1 @@
-var mnemonic = "tattoo repair debris dutch water erosion sword forget debris giant uncle learn";
+var mnemonic = "leg advice vehicle rail merit corn law ship fresh gift wait brown";

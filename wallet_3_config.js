@@ -1,1 +1,1 @@
-var mnemonic = "hire cycle very enable father fix destroy child item slender review fossil";
+var mnemonic = "mule worth hotel fold jealous envelope march silly major beyond antique balcony";

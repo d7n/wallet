@@ -1,1 +1,1 @@
-var mnemonic = "permit ripple avoid observe sword relax need eye shed swarm response uniform";
+var mnemonic = "benefit action matter transfer journey file bomb lift bike diary worth year";

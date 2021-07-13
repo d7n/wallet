@@ -1,1 +1,1 @@
-var mnemonic = "daughter mention oval slide fiscal hurdle satisfy flock cash radar worth mind";
+var mnemonic = "mobile siege that smooth good joy perfect celery wing hamster century prevent";

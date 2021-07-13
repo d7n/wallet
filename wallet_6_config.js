@@ -1,1 +1,1 @@
-var mnemonic = "course mirror balcony matrix busy canvas close excite concert crop index harbor";
+var mnemonic = "toss large empower once clap forum inch diagram tornado large blame fragile";

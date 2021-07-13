@@ -1,1 +1,1 @@
-var mnemonic = "inherit stone crash word tray dry bridge dream question gentle stone tilt";
+var mnemonic = "host sentence chimney hat surge joke estate initial office orchard deny capital";

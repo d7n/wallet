@@ -1,1 +1,1 @@
-var mnemonic = "believe opinion paddle genuine this uncle crucial side base smile youth token";
+var mnemonic = "hamster crush science settle trick gauge copper better rural alien gasp panda";

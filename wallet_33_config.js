@@ -1,1 +1,1 @@
-var mnemonic = "trade exotic peanut ranch occur ridge input army dune canyon mansion two";
+var mnemonic = "patient light bubble hill celery satisfy core ball spike draw medal notice";

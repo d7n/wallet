@@ -1,1 +1,1 @@
-var mnemonic = "baby business dose soup seed employ gospel humble crew end section sniff";
+var mnemonic = "salon bus diamond camp damp worry average stage priority focus sausage lock";

@@ -1,1 +1,1 @@
-var mnemonic = "shed jacket vehicle intact try blind already obey student tail mix engine";
+var mnemonic = "toast venture fresh switch mail visit emotion wear maid echo grid win";

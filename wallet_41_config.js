@@ -1,1 +1,1 @@
-var mnemonic = "matrix first busy reject height hip render bulb wise crunch enter mansion";
+var mnemonic = "bone entry shrimp follow settle identify wrestle kiss multiply slender cheap hidden";

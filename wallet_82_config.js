@@ -1,1 +1,1 @@
-var mnemonic = "tiny win vapor acid wink knock diet camera lawsuit happy across hair";
+var mnemonic = "swarm scene reveal marble tide bronze vacant trim edit lab universe cargo";

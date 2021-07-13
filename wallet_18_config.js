@@ -1,1 +1,1 @@
-var mnemonic = "fossil rate reward amateur goddess input craft wear crush fit dove club";
+var mnemonic = "debris win layer auto announce nut embrace blur slush accuse hammer case";

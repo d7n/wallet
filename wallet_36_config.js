@@ -1,1 +1,1 @@
-var mnemonic = "evolve topic casino vacuum fresh stairs tennis exact issue sort develop crunch";
+var mnemonic = "trip intact chimney impose eternal arrange pyramid riot grit topic forest lesson";

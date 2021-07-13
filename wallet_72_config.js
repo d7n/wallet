@@ -1,1 +1,1 @@
-var mnemonic = "return lab afraid cheese original submit text cause engage anxiety sketch fan";
+var mnemonic = "rifle corn sausage ski egg pitch bracket arctic vacant bone token later";

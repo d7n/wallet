@@ -1,1 +1,1 @@
-var mnemonic = "float lunch armor cliff ability ahead virus friend radar riot wreck add";
+var mnemonic = "trophy ranch famous alone hybrid neglect soap side gift decade culture only";

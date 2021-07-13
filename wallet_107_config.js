@@ -1,1 +1,1 @@
-var mnemonic = "post young stamp duck spoon breeze gaze indicate afraid over deliver swarm";
+var mnemonic = "learn swift erosion strategy scare veteran mule luxury save lonely swamp orient";

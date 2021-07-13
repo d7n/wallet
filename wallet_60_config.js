@@ -1,1 +1,1 @@
-var mnemonic = "joy flock cruise neck space viable element draw music cattle talk apology";
+var mnemonic = "zone pluck plate rebel where matrix base heavy act kangaroo medal army";

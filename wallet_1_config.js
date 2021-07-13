@@ -1,1 +1,1 @@
-var mnemonic = "library vital cloud frost side high orchard soul tank city version fiscal";
+var mnemonic = "casual lumber drift grief alone knee fresh ship whip ordinary fancy sadness";

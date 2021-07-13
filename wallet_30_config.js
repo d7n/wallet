@@ -1,1 +1,1 @@
-var mnemonic = "guide venue wife slow public roast tragic matrix cushion gauge night elite";
+var mnemonic = "nation artwork network indicate crawl rug use glory alcohol alley gospel rabbit";

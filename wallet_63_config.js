@@ -1,1 +1,1 @@
-var mnemonic = "detect someone follow head just inner cherry retire front rhythm special useless";
+var mnemonic = "cruise depend govern nice east scrap dignity refuse arrow case bone lottery";

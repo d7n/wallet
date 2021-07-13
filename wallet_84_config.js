@@ -1,1 +1,1 @@
-var mnemonic = "robust punch tip mandate advice across chest able metal toddler cancel federal";
+var mnemonic = "damp region delay push damp scorpion faint valid duty hobby this clown";

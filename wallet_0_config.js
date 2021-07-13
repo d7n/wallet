@@ -1,1 +1,1 @@
-var mnemonic = "try garage saddle cotton dish bargain attract knock ghost lucky inherit sugar";
+var mnemonic = "sword time limit manual brown rhythm shock praise sweet volcano wire will";

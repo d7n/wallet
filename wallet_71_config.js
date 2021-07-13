@@ -1,1 +1,1 @@
-var mnemonic = "door earth fire because quiz heavy flee blur razor copy tool alarm";
+var mnemonic = "endorse boring uncover walk fog soap unveil file bright castle destroy usage";

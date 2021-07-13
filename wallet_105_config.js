@@ -1,1 +1,1 @@
-var mnemonic = "during gravity borrow west tooth smart exclude someone strong ladder soccer bracket";
+var mnemonic = "hub swarm fashion ramp jelly gesture usual mix stay side document fresh";

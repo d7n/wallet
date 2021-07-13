@@ -1,1 +1,1 @@
-var mnemonic = "ocean early cabin morning phrase twin cup glow control meat hard envelope";
+var mnemonic = "fox hip thrive sand heart stick visit hat square sketch ivory faith";

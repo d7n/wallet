@@ -1,1 +1,1 @@
-var mnemonic = "dinner flip hip twist erase void program shock trust where champion machine";
+var mnemonic = "impose blame someone gospel park quick stuff click barrel picture delay desk";

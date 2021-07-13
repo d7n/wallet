@@ -1,1 +1,1 @@
-var mnemonic = "right moment search truth seminar more bleak what always evidence endless scrub";
+var mnemonic = "excess april flip critic smooth average ensure stove space belt habit slim";

@@ -1,1 +1,1 @@
-var mnemonic = "bright eagle expand hybrid push club sugar shield awkward law effort beauty";
+var mnemonic = "amazing fantasy safe close antique room away stereo tip vivid gun friend";

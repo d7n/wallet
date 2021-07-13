@@ -1,1 +1,1 @@
-var mnemonic = "town useful skirt crawl worry cheap veteran cinnamon pledge trend solid join";
+var mnemonic = "neither present wide govern because three jeans stamp infant coffee wagon soul";

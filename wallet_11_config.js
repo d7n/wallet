@@ -1,1 +1,1 @@
-var mnemonic = "camera image possible pluck crop fetch abstract tongue stone ball obtain roast";
+var mnemonic = "bubble text village kangaroo original rough rather stone leader quantum desk fashion";

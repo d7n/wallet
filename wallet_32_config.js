@@ -1,1 +1,1 @@
-var mnemonic = "lucky bachelor pudding uncover traffic upon year can adapt grape dial demise";
+var mnemonic = "what bullet festival head annual shift neck usual deputy motion capital maximum";

@@ -1,1 +1,1 @@
-var mnemonic = "punch excite hunt menu inside nasty book solar tattoo oppose note turn";
+var mnemonic = "mistake ice appear gospel october hill evidence input enrich female mystery banana";

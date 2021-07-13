@@ -1,1 +1,1 @@
-var mnemonic = "control liquid profit muffin theme chalk business panic mom choose holiday stem";
+var mnemonic = "element defy diet physical luxury grunt soccer usual taxi lazy differ excite";

@@ -1,1 +1,1 @@
-var mnemonic = "series else involve warm balcony picnic protect wool erosion found flash mix";
+var mnemonic = "erosion wheel nation strong audit lawsuit pull term unusual juice blood spare";

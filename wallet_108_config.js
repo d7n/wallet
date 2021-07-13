@@ -1,1 +1,1 @@
-var mnemonic = "penalty sweet stay subject glide such away common obey little fuel acid";
+var mnemonic = "else able obvious hawk win nut wine risk cage hundred bus calm";

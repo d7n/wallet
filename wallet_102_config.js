@@ -1,1 +1,1 @@
-var mnemonic = "exhaust laugh patient coffee column general panic spray seat exile lumber burst";
+var mnemonic = "dizzy weekend sleep trial speak cabin animal physical urge icon lady tell";

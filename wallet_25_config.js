@@ -1,1 +1,1 @@
-var mnemonic = "siege envelope illness silver advice husband chicken burst shine negative slide sword";
+var mnemonic = "maid element melody cabbage attack inform gather mutual nerve caution opera glimpse";

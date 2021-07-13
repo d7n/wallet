@@ -1,1 +1,1 @@
-var mnemonic = "level liar lyrics neck season evoke pony jeans when silent solve able";
+var mnemonic = "loud public toy domain catch surface purchase tone dirt device black soft";

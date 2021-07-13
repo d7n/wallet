@@ -1,1 +1,1 @@
-var mnemonic = "dove unfold hero subway task same toilet ecology cliff auto snack stable";
+var mnemonic = "hover mechanic kidney sure twelve chaos pumpkin wave away napkin practice wink";

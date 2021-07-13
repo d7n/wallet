@@ -1,1 +1,1 @@
-var mnemonic = "man piece mistake come elegant insect weasel tribe orphan tobacco pair frog";
+var mnemonic = "uncle build laugh burst shoot laptop trap fly matter wolf snack neck";

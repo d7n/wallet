@@ -1,1 +1,1 @@
-var mnemonic = "jazz excite gallery extra visual wide offer miss uphold violin sad guess";
+var mnemonic = "shuffle crouch idle analyst snake axis sword speak stone art subway alarm";

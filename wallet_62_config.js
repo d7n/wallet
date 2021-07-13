@@ -1,1 +1,1 @@
-var mnemonic = "entry cheap tree ahead embrace skill wrestle nasty recipe sting manage parrot";
+var mnemonic = "crowd tube moment judge fame trade buzz woman negative essence thumb confirm";

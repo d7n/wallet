@@ -1,1 +1,1 @@
-var mnemonic = "fame whip aunt sail stick achieve sauce smooth owner cannon level illness";
+var mnemonic = "loud street end truly chef type moral degree ship achieve innocent aware";

@@ -1,1 +1,1 @@
-var mnemonic = "twelve invite auction run carbon success come morning grab theme just vanish";
+var mnemonic = "scan super genius blanket bulb water immune youth attend melody whale absorb";

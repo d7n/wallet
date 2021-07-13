@@ -1,1 +1,1 @@
-var mnemonic = "flight field jacket receive similar critic already fit piano certain medal tuition";
+var mnemonic = "beauty spray valley faith ramp recipe wool rack tomato moon whale smart";

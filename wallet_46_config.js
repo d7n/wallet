@@ -1,1 +1,1 @@
-var mnemonic = "merit judge method disease spend bronze gallery tomato bicycle alien attack fee";
+var mnemonic = "drastic allow agree lemon poverty deposit pelican dance decide orbit flame guilt";

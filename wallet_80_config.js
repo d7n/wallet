@@ -1,1 +1,1 @@
-var mnemonic = "purchase army quiz armor jungle galaxy street cycle produce wine sell similar";
+var mnemonic = "garbage secret rapid heavy grid regret arena gold coyote access oak loop";

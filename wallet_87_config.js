@@ -1,1 +1,1 @@
-var mnemonic = "slice across ghost sheriff word bulk sunny addict unfold edge strategy firm";
+var mnemonic = "obscure source voyage skill image bid bargain brave true jealous country outdoor";

@@ -1,1 +1,1 @@
-var mnemonic = "point zoo brief humble cash quote super praise tower fly defy sport";
+var mnemonic = "increase fashion domain muffin robust lady suit hobby fly dose cradle gesture";

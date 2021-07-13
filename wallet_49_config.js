@@ -1,1 +1,1 @@
-var mnemonic = "spend typical soul estate assume property genre rail attract bomb bridge reason";
+var mnemonic = "return hire found figure peace entry bottom carry topple extend author rifle";
