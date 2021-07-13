@@ -1,1 +1,1 @@
-var mnemonic = "style search poverty kingdom field bar direct book color rather sentence similar";
+var mnemonic = "liquid soon shrimp fortune smoke choice size skill betray body cube animal";

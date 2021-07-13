@@ -1,1 +1,1 @@
-var mnemonic = "cram leaf liquid scene nest review play fashion chest police hand coyote";
+var mnemonic = "lock ramp luxury delay cigar stamp turtle ivory history foam chaos purchase";

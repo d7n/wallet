@@ -1,1 +1,1 @@
-var mnemonic = "hunt egg oil local flash vendor dance kid tilt crop vocal special";
+var mnemonic = "rough lady wonder century fun pilot poet outer famous number below gauge";

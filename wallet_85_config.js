@@ -1,1 +1,1 @@
-var mnemonic = "force trial put label foot police salon hospital wing sausage shift dignity";
+var mnemonic = "lamp ice deal special coil debris price lounge green wife modify hidden";

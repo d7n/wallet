@@ -1,1 +1,1 @@
-var mnemonic = "prison during naive devote volcano vendor private loan vital second glory erupt";
+var mnemonic = "chapter valid burst enough match jungle they undo build ladder nerve sell";

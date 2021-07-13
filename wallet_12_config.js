@@ -1,1 +1,1 @@
-var mnemonic = "kidney nephew north bottom lyrics disagree wealth you involve embrace shop poet";
+var mnemonic = "agent salt hover moon rookie chicken inmate clay fuel change express afford";

@@ -1,1 +1,1 @@
-var mnemonic = "where normal still behave glimpse collect canoe license rubber rate enlist fish";
+var mnemonic = "exchange delay pottery wide parade visual hockey flight travel ankle salt include";

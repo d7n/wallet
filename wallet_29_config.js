@@ -1,1 +1,1 @@
-var mnemonic = "cement over silent peasant struggle guard vivid dice asthma family rocket monster";
+var mnemonic = "survey lecture pink retire eternal happy august palm fall coil caught buddy";

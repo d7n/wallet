@@ -1,1 +1,1 @@
-var mnemonic = "amateur lunch chapter habit circle blossom kitten youth wash valid monkey tackle";
+var mnemonic = "sing length oblige bread current path bar rifle fork race father people";

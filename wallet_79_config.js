@@ -1,1 +1,1 @@
-var mnemonic = "duty damp mechanic robust ahead rail manual shoot nice tilt layer ability";
+var mnemonic = "sketch coffee away slim clip recycle excuse stay enough lion idea quiz";

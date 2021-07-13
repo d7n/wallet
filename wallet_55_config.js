@@ -1,1 +1,1 @@
-var mnemonic = "aim symptom lift fall fly plastic heavy abandon abandon pool exotic whip";
+var mnemonic = "column business middle butter pink ice expire boring surge mail blur lady";

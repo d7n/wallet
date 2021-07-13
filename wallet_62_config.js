@@ -1,1 +1,1 @@
-var mnemonic = "sunset step prepare size dutch possible sausage twin daring amount radio fiscal";
+var mnemonic = "depth vacant summer couch excuse slush flavor dolphin gauge stone click dust";

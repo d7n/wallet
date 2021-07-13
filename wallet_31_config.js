@@ -1,1 +1,1 @@
-var mnemonic = "utility caution group hover feel dry avocado lesson citizen hurry cherry faith";
+var mnemonic = "orbit coast index rescue crystal acid symptom hedgehog speed gas language garlic";

@@ -1,1 +1,1 @@
-var mnemonic = "check govern cannon crane choose drive pride smooth cash garage evoke custom";
+var mnemonic = "early dance inspire pond frame round valley lady ridge smoke pottery stool";

@@ -1,1 +1,1 @@
-var mnemonic = "buzz vivid liberty tail foot scatter bar video above pizza autumn alert";
+var mnemonic = "eye wood return chimney ugly urban work lyrics rotate click unfair spatial";

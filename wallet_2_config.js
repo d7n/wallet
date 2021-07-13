@@ -1,1 +1,1 @@
-var mnemonic = "gospel during ability anger strategy advance wear story noodle sunny script wrap";
+var mnemonic = "jacket come bitter cinnamon afraid divorce offer coconut kingdom discover frequent rail";

@@ -1,1 +1,1 @@
-var mnemonic = "whip ridge urge forum cat business emotion outdoor idea swift rifle left";
+var mnemonic = "know loud define mind violin memory expose monkey glare bounce cat diesel";

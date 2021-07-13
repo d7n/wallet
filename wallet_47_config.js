@@ -1,1 +1,1 @@
-var mnemonic = "name spell month room enforce regret mail grace bone annual flush suggest";
+var mnemonic = "repeat feel pulp memory dumb rather lion wall setup wonder proof begin";

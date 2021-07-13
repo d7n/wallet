@@ -1,1 +1,1 @@
-var mnemonic = "tiny skull bus capable phone proof burger orbit solar entire behave quarter";
+var mnemonic = "impulse hammer practice gesture asthma diagram problem media life blood toss spin";

@@ -1,1 +1,1 @@
-var mnemonic = "chalk route nephew garbage filter course simple major oak catalog sphere answer";
+var mnemonic = "marine reopen perfect hedgehog spatial alert door bus elder bench trend buddy";

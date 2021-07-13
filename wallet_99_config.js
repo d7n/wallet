@@ -1,1 +1,1 @@
-var mnemonic = "news rent call degree gold possible admit case envelope cake course old";
+var mnemonic = "element kingdom virus silent beyond cruise cake legend casino acid protect grocery";

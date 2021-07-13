@@ -1,1 +1,1 @@
-var mnemonic = "turkey arctic bike enter attack tissue special cousin sand fatal ski physical";
+var mnemonic = "cheese attend select convince filter little gather october vocal reform thank candy";

@@ -1,1 +1,1 @@
-var mnemonic = "turn gas wheel tissue zebra oil attack tuna velvet panda lunch course";
+var mnemonic = "moral sorry piano inspire tackle tube success example fever exotic stove scorpion";

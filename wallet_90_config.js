@@ -1,1 +1,1 @@
-var mnemonic = "october toddler unfair equal lemon hamster faculty wrap announce assist width bicycle";
+var mnemonic = "fancy silver victory boat fatigue bacon arrange hurdle entire mistake whisper bag";

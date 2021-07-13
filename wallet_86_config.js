@@ -1,1 +1,1 @@
-var mnemonic = "link before ketchup public bargain antenna between tackle trouble club unveil mixed";
+var mnemonic = "slight olive ski ketchup film fortune crash donate mistake cancel addict horror";

@@ -1,1 +1,1 @@
-var mnemonic = "toy very fancy visit number deposit legal guess slight nest slow strong";
+var mnemonic = "nephew pool brave battle hover rude visa impact absent dial pool waste";

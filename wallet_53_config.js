@@ -1,1 +1,1 @@
-var mnemonic = "buddy volcano spice glow disease embrace defense sustain twelve suspect private pistol";
+var mnemonic = "cereal relax civil bronze burden cat erosion insect sunny ecology engine mirror";

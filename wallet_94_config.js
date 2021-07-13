@@ -1,1 +1,1 @@
-var mnemonic = "lend exhibit mention high easily oyster supply term spoon stick maple stone";
+var mnemonic = "eyebrow use beyond ride initial bike oval shed kick cancel dress hockey";

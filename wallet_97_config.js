@@ -1,1 +1,1 @@
-var mnemonic = "sun rubber good lab tool add swift brain garment brief divorce clinic";
+var mnemonic = "quarter wedding dry soap insane ill lion sense flower inmate game slow";

@@ -1,1 +1,1 @@
-var mnemonic = "polar finish grass lawn fatigue enough captain lunch syrup keen alpha furnace";
+var mnemonic = "coffee now few desk pill cliff protect away crash educate game blind";

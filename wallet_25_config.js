@@ -1,1 +1,1 @@
-var mnemonic = "warrior royal room hold mutual ceiling dinosaur repeat clock normal spoil cost";
+var mnemonic = "banana knock spot obey trick twist spell brother tape budget amateur wave";

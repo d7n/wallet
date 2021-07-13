@@ -1,1 +1,1 @@
-var mnemonic = "civil jazz anxiety swarm baby foster hope tail sense subject field spend";
+var mnemonic = "caught arrest odor vintage pudding together discover law meat wedding project animal";

@@ -1,1 +1,1 @@
-var mnemonic = "exist ill casino burden use joke hurdle speed spray priority struggle flame";
+var mnemonic = "suggest toast escape tail invite maid vessel ranch fade unfair often apart";

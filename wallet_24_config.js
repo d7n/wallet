@@ -1,1 +1,1 @@
-var mnemonic = "palace link hybrid valve hard fuel behind gasp arctic olive bicycle toddler";
+var mnemonic = "enough organ improve same require drama reason orbit velvet relax gravity glad";

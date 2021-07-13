@@ -1,1 +1,1 @@
-var mnemonic = "explain please know canal pulse nominee liar live adult because estate scatter";
+var mnemonic = "engage sponsor cool forward scheme ramp upgrade left apology sphere scheme just";

@@ -1,1 +1,1 @@
-var mnemonic = "joy couple island output amazing letter one announce heart cinnamon similar between";
+var mnemonic = "demand domain nothing worry pull weapon enroll artefact filter stable jazz reflect";

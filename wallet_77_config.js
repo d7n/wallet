@@ -1,1 +1,1 @@
-var mnemonic = "bind slight dignity lake tobacco canal material crush chaos radar coach gown";
+var mnemonic = "shine unhappy echo slight thumb glove sphere limit wheat before dog utility";

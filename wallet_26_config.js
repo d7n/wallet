@@ -1,1 +1,1 @@
-var mnemonic = "occur crane vintage initial canyon favorite another walk blade alpha swear law";
+var mnemonic = "spider teach trim struggle twin artwork swear tenant piano warm road buddy";

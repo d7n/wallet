@@ -1,1 +1,1 @@
-var mnemonic = "repair danger frog ostrich day gloom struggle tomato file idea idea isolate";
+var mnemonic = "exact balcony apple horn there property enforce wild dinosaur night exotic pave";

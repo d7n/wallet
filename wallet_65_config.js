@@ -1,1 +1,1 @@
-var mnemonic = "various tilt cause body infant crash cereal bar venture reunion logic refuse";
+var mnemonic = "gesture scissors foil error sock olive prepare nature sudden uncle company share";

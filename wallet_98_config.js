@@ -1,1 +1,1 @@
-var mnemonic = "arrange father proof history minor approve book sense salt between butter live";
+var mnemonic = "blame glory dilemma insane weekend verb level sea artist enact oblige crystal";

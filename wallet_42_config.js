@@ -1,1 +1,1 @@
-var mnemonic = "salute arm stock more pave invite leopard music waste pizza monster salute";
+var mnemonic = "wasp empower hedgehog change build country want question scale mass suit limb";

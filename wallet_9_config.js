@@ -1,1 +1,1 @@
-var mnemonic = "solution magnet defy way cage region avocado message phone brave chronic find";
+var mnemonic = "load gentle shell gravity team find response blame saddle mandate filter priority";

@@ -1,1 +1,1 @@
-var mnemonic = "attack slot fiscal track point round furnace gasp tunnel conduct fun sheriff";
+var mnemonic = "unhappy unit young client gift test champion right depend beach round render";

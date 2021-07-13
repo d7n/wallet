@@ -1,1 +1,1 @@
-var mnemonic = "flat flag bachelor identify trip crisp room aisle census utility tribe pulse";
+var mnemonic = "same crumble reduce recipe wink style report mansion craft afford buffalo right";

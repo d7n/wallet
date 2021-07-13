@@ -1,1 +1,1 @@
-var mnemonic = "trick sibling beauty claim gaze hip review sing luggage magic other loud";
+var mnemonic = "wisdom attend history goose test peace retreat scan capable weekend olive clap";

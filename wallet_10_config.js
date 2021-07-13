@@ -1,1 +1,1 @@
-var mnemonic = "various idea voice scorpion uncle laptop nice drip organ idea yellow citizen";
+var mnemonic = "air corn mobile grid song category harvest adult whisper shy source soon";

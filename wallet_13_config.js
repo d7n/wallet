@@ -1,1 +1,1 @@
-var mnemonic = "negative decide burst antenna bar antique lab february appear merge repair denial";
+var mnemonic = "beauty loud rebuild risk pool bird glow vibrant cook link hole model";

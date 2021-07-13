@@ -1,1 +1,1 @@
-var mnemonic = "bread iron foot increase hidden unknown smoke surge robot melody angry shock";
+var mnemonic = "addict parent cat cross pond tomato canyon assume plastic best fruit erase";

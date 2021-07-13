@@ -1,1 +1,1 @@
-var mnemonic = "six hope steel carbon pill delay prefer lens impose else man snack";
+var mnemonic = "still noise banana boat limb wink ribbon solid rough book assume net";

@@ -1,1 +1,1 @@
-var mnemonic = "boring key region spike version blouse firm drip verify river popular buffalo";
+var mnemonic = "hand wing crouch frost coyote nose garage movie adapt verb garment pond";

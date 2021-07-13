@@ -1,1 +1,1 @@
-var mnemonic = "patrol bring metal lucky album humor end about animal sell gentle track";
+var mnemonic = "giraffe helmet lumber home census guard tornado talent skirt guilt shaft predict";

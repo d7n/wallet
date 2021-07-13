@@ -1,1 +1,1 @@
-var mnemonic = "jewel sick oyster symptom check fabric victory narrow tissue order nice clerk";
+var mnemonic = "history thumb income uphold alpha evolve venue cool topple reunion liberty almost";

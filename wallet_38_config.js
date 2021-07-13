@@ -1,1 +1,1 @@
-var mnemonic = "spread correct history wheel reveal quantum hope luxury green donor figure force";
+var mnemonic = "edge any audit mountain bacon tomato script symbol raw shift universe quick";

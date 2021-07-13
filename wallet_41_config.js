@@ -1,1 +1,1 @@
-var mnemonic = "property toilet riot hobby large reopen lawsuit upgrade flight excess begin garbage";
+var mnemonic = "pause vendor just occur output bubble hundred host hurry merit prize saddle";

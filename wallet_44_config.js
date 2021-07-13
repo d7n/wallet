@@ -1,1 +1,1 @@
-var mnemonic = "credit among green blame stuff ethics make lend cargo foot demise shop";
+var mnemonic = "gate gloom sure airport sound client story wood razor save dolphin topple";

@@ -1,1 +1,1 @@
-var mnemonic = "night fiber day useless seminar super muscle stuff rigid demise search pill";
+var mnemonic = "uncle common knee world city bulb secret tide cart motor suspect same";

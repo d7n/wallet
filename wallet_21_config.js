@@ -1,1 +1,1 @@
-var mnemonic = "replace hidden book little genius penalty afraid stable chest waste appear card";
+var mnemonic = "paper maze shine shed bar banner code enter soda coffee exile oil";

@@ -1,1 +1,1 @@
-var mnemonic = "hope surge finger brief scrub adult cheap entry baby pizza action stereo";
+var mnemonic = "dove skate ivory mercy garage kidney merge slam material trophy source diesel";

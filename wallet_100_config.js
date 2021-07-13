@@ -1,1 +1,1 @@
-var mnemonic = "parade angry dinner key loyal agree illness valid salmon auto hen small";
+var mnemonic = "zone sauce include bomb differ book crouch gravity mad inmate panda risk";

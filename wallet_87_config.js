@@ -1,1 +1,1 @@
-var mnemonic = "album gift drama tail future carbon extra human sight flash salute fix";
+var mnemonic = "very only truly void dress artefact same amazing spray mansion ridge thing";

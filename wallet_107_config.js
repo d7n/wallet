@@ -1,1 +1,1 @@
-var mnemonic = "initial garage travel carry dry federal hard next fan nose rather verify";
+var mnemonic = "wasp orbit extra scrap panther soap grief subway wise account faculty diesel";

@@ -1,1 +1,1 @@
-var mnemonic = "tube share suffer giggle tennis square cart super cross cigar auction fish";
+var mnemonic = "ceiling drive sentence myself foot tongue already sign child carbon embrace prevent";

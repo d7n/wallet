@@ -1,1 +1,1 @@
-var mnemonic = "capable faculty cruel table fox jealous fork eager swarm winter leave text";
+var mnemonic = "toilet verb know dune lobster boost liquid degree wash garlic month risk";

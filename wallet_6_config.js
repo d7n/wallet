@@ -1,1 +1,1 @@
-var mnemonic = "exclude lounge exhaust celery prefer boss evoke rookie hybrid style fog host";
+var mnemonic = "kiss hobby kiss midnight clerk name stick act memory hero embrace mind";

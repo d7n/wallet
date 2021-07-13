@@ -1,1 +1,1 @@
-var mnemonic = "ketchup dignity humor tribe matter skin swallow stereo choose prison faith segment";
+var mnemonic = "sunset hurdle nose allow gentle scrap kid hamster enhance ribbon tent cute";

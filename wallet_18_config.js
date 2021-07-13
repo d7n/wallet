@@ -1,1 +1,1 @@
-var mnemonic = "butter crystal glory fun enable salon immune key visa priority cook inch";
+var mnemonic = "heart ozone tone film dizzy soon weather system recycle brown depend tongue";

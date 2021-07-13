@@ -1,1 +1,1 @@
-var mnemonic = "eyebrow goddess candy keen excite bounce sad account quiz humble gossip tooth";
+var mnemonic = "become exhaust traffic smooth payment abandon lunar lemon art blood liar maid";

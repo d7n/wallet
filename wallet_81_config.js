@@ -1,1 +1,1 @@
-var mnemonic = "fashion library attack betray lunar core uncover lottery pretty process shallow neither";
+var mnemonic = "very soccer pear first recycle merge bulb catch bid cactus orphan plug";

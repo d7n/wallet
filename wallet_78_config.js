@@ -1,1 +1,1 @@
-var mnemonic = "build language curious salad come bitter fine element jungle roof wet arctic";
+var mnemonic = "nuclear derive ahead work great fault surround carbon rare host cattle twelve";

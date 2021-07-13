@@ -1,1 +1,1 @@
-var mnemonic = "defense human device hip interest lottery robust trigger physical salute scout say";
+var mnemonic = "obtain tunnel dad action riot blast deer panic whisper rely report reveal";

@@ -1,1 +1,1 @@
-var mnemonic = "boss elder huge maze hello carbon write stove invite mango annual swim";
+var mnemonic = "hire blood vibrant winter coconut inhale poem bunker audit depth among hat";

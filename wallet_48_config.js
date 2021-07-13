@@ -1,1 +1,1 @@
-var mnemonic = "plastic wait eye evoke work glare silver arrow weird theme bounce book";
+var mnemonic = "trash gather fiber nature decade lounge leisure differ cushion core rural grid";

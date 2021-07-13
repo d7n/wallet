@@ -1,1 +1,1 @@
-var mnemonic = "loud nuclear spot water already curious bread pause estate paddle cost pig";
+var mnemonic = "stick hurdle adapt start weasel royal happy side casual sibling joy what";

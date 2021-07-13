@@ -1,1 +1,1 @@
-var mnemonic = "video oppose oven flee small apple tunnel chat crouch wife doctor empty";
+var mnemonic = "hello safe card depart between steel define rebel number ride enter domain";

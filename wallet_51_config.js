@@ -1,1 +1,1 @@
-var mnemonic = "carpet weasel walnut top crunch alert bicycle adapt slot lava off liberty";
+var mnemonic = "cart weasel resemble valid prefer expire unknown crack cake fiscal bean chimney";

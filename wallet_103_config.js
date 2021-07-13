@@ -1,1 +1,1 @@
-var mnemonic = "file clock curious use color foam wait salute excess ignore must summer";
+var mnemonic = "cram speak era ghost laugh anxiety level push path deposit vital today";

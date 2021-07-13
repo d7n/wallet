@@ -1,1 +1,1 @@
-var mnemonic = "twice law nothing tunnel three indoor spy glare when faint rib chair";
+var mnemonic = "pair autumn foam blue attack trust absent dash lake ship toddler weapon";

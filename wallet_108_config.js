@@ -1,1 +1,1 @@
-var mnemonic = "shop blind buyer scare tape grunt strong mention fruit fly ice make";
+var mnemonic = "large rich disorder afford olive train analyst jeans prize maze matrix disagree";

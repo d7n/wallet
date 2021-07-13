@@ -1,1 +1,1 @@
-var mnemonic = "wing culture jar card cabbage upgrade chat stock demise blade forest draft";
+var mnemonic = "ritual target bag fold blast drip silent army cigar movie spring gown";

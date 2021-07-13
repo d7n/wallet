@@ -1,1 +1,1 @@
-var mnemonic = "more original jazz silk stone school ankle oppose paper absorb approve input";
+var mnemonic = "speak economy milk cross grunt tilt actress trade deer wheel street diagram";

@@ -1,1 +1,1 @@
-var mnemonic = "absent interest rug nuclear effort wet diagram machine noble section utility shop";
+var mnemonic = "near relief february exist sell pilot space size useless fox salmon hybrid";

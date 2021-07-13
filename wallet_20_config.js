@@ -1,1 +1,1 @@
-var mnemonic = "achieve task island dragon arch security punch roast legend abstract twenty own";
+var mnemonic = "glass rent marriage scatter blame also dentist steak zero planet staff priority";

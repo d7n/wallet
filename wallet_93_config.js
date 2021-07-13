@@ -1,1 +1,1 @@
-var mnemonic = "budget member decline limb mad arctic cube kitten rent series ankle lake";
+var mnemonic = "blood dumb spend provide maid diagram teach enjoy maple wrong injury universe";

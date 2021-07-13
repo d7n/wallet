@@ -1,1 +1,1 @@
-var mnemonic = "husband estate treat public habit very fruit crowd solid calm girl friend";
+var mnemonic = "hazard disagree equal harsh cluster slender border charge wage fish choice warm";

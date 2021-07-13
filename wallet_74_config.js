@@ -1,1 +1,1 @@
-var mnemonic = "weapon jacket syrup dismiss blush trip aerobic follow memory blush session syrup";
+var mnemonic = "deer merge imitate define woman level trick business property biology pipe deputy";

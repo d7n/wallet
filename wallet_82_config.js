@@ -1,1 +1,1 @@
-var mnemonic = "enforce slide prevent airport tobacco nothing culture grace debate soldier host wet";
+var mnemonic = "option fluid powder capital segment coffee know skirt trash cream desk boil";

@@ -1,1 +1,1 @@
-var mnemonic = "blur grass hamster click mosquito vault lock lift hungry call fossil vivid";
+var mnemonic = "mountain monitor sunset giggle mesh apple lunch spy exclude dinosaur purity reason";

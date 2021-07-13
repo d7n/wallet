@@ -1,1 +1,1 @@
-var mnemonic = "pepper depart gas lesson end parent omit expose fix black evoke artist";
+var mnemonic = "urban dress danger glare minor cube fragile oil toddler void enter border";

@@ -1,1 +1,1 @@
-var mnemonic = "office elegant purpose bike piano bar ribbon entry spell insane screen skull";
+var mnemonic = "voyage dust fuel concert apart index tragic wink mandate rally dress choose";

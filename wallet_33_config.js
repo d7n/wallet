@@ -1,1 +1,1 @@
-var mnemonic = "bring venture radio harvest keep faint drift door exclude express advance glue";
+var mnemonic = "cook home era series off dove urban pink car amused bird drink";

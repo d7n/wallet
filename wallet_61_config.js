@@ -1,1 +1,1 @@
-var mnemonic = "buffalo obscure rubber extra song number gun clarify lunar typical drill enrich";
+var mnemonic = "ivory tank squeeze width steel random guilt romance skull trial term ignore";

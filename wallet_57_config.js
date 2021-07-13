@@ -1,1 +1,1 @@
-var mnemonic = "chest cook uniform beach dignity antique evoke soap feature whisper leave tonight";
+var mnemonic = "wear popular afford quit comic subject random ketchup wrong ramp bachelor power";
