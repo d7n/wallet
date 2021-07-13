@@ -1,1 +1,1 @@
-var mnemonic = "plate clock pig spike fetch cruel ticket chief atom churn matter tongue";
+var mnemonic = "across adult genre gospel torch uniform accident crop box crime swarm picnic";

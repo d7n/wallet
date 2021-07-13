@@ -1,1 +1,1 @@
-var mnemonic = "shadow sibling fade start upset boss order narrow close moment grant unaware";
+var mnemonic = "diesel total exist please cradle ball provide month dutch album exhaust tail";

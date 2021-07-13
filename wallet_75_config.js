@@ -1,1 +1,1 @@
-var mnemonic = "snap usage target suit globe stage express type nerve grace trigger harvest";
+var mnemonic = "lyrics vast rural yellow never grant develop soldier outside pepper brother thumb";

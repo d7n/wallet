@@ -1,1 +1,1 @@
-var mnemonic = "word version island magnet you result program glue vocal virtual universe swap";
+var mnemonic = "horn unknown thing life vocal average edit winter clip joy risk program";

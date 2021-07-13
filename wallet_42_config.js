@@ -1,1 +1,1 @@
-var mnemonic = "corn minute winner turn raise physical game fetch globe multiply race degree";
+var mnemonic = "chunk toast believe survey song remember top myself aunt pupil disease random";

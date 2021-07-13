@@ -1,1 +1,1 @@
-var mnemonic = "fish hollow office predict isolate adult inform because meat edit napkin monitor";
+var mnemonic = "island slide soup garden seminar lab antenna occur upper fall rice viable";

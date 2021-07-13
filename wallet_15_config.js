@@ -1,1 +1,1 @@
-var mnemonic = "prevent mixture rice type oil era mansion smoke speed dish chimney nature";
+var mnemonic = "south mother spray weird security sentence salt film just sweet media popular";

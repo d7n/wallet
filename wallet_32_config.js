@@ -1,1 +1,1 @@
-var mnemonic = "culture mouse man desk odor divorce easy blind village ahead edge alien";
+var mnemonic = "leader liquid small skate damage health embark farm discover promote asthma afford";

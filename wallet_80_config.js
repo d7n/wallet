@@ -1,1 +1,1 @@
-var mnemonic = "fruit sense devote charge prevent digital cement elephant cover roof alcohol clog";
+var mnemonic = "human hurt tone walk illness drum paper march brave mandate metal very";

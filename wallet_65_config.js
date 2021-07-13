@@ -1,1 +1,1 @@
-var mnemonic = "worth beach element replace expose fashion patrol sausage rifle grit uncover hub";
+var mnemonic = "repeat tunnel title cup worth path grain load venture furnace brain midnight";

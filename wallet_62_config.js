@@ -1,1 +1,1 @@
-var mnemonic = "job tank fantasy merit federal pyramid assist combine stage loud elbow element";
+var mnemonic = "enroll ill exhaust lunch need waste tiny clever network mango sniff rocket";

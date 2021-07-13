@@ -1,1 +1,1 @@
-var mnemonic = "wisdom minor sentence magnet orphan wheel hint pilot birth congress bridge surround";
+var mnemonic = "quote duty kitchen now gun curious juice predict multiply drama trial episode";

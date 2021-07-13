@@ -1,1 +1,1 @@
-var mnemonic = "walk hockey park vault lucky vast reflect crawl offer session you life";
+var mnemonic = "emotion attract orbit develop patrol inner canyon luggage finger vast normal wagon";

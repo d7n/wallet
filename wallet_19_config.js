@@ -1,1 +1,1 @@
-var mnemonic = "swear demise helmet surge since prepare hold regular timber mouse zone uncover";
+var mnemonic = "seed leaf disease assume sport explain solve ketchup spider inform piano resemble";

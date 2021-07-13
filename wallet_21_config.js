@@ -1,1 +1,1 @@
-var mnemonic = "door enforce lava drift local honey hire fuel surprise victory suffer equal";
+var mnemonic = "clean reason pigeon fiscal chest battle cargo spoil marine uniform protect rapid";

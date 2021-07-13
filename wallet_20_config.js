@@ -1,1 +1,1 @@
-var mnemonic = "spice spirit jump card enroll agree fish fresh reform section vivid stamp";
+var mnemonic = "camera east crawl glory satisfy dish fold federal copper flee obvious hundred";

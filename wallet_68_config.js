@@ -1,1 +1,1 @@
-var mnemonic = "bomb connect wait toast surge legal enemy food ask rug festival make";
+var mnemonic = "borrow suggest zero special clerk face crumble embark lion early estate crater";

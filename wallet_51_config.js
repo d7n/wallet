@@ -1,1 +1,1 @@
-var mnemonic = "buyer math coach topic virus flag negative inmate poem income soup embark";
+var mnemonic = "erode trap page jazz layer health bid gold month head mix artwork";

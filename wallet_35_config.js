@@ -1,1 +1,1 @@
-var mnemonic = "toss chief history rare wall wild auction prison accuse mango notice bless";
+var mnemonic = "marine bar human maid invite rural boy level boy cabbage oppose decade";

@@ -1,1 +1,1 @@
-var mnemonic = "hunt illegal fuel sleep maze approve oak across grocery road calm birth";
+var mnemonic = "disagree one space tattoo female blind state rifle ethics slot ketchup fog";

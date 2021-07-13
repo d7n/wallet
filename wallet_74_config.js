@@ -1,1 +1,1 @@
-var mnemonic = "possible leisure solid obvious way battle come release scheme special grace two";
+var mnemonic = "exclude shrug fit physical useless oyster lens dove major knock avoid robust";

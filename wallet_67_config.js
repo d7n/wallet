@@ -1,1 +1,1 @@
-var mnemonic = "impact meadow lake require future glide act please travel cry sauce settle";
+var mnemonic = "choose chase injury seven artist aspect bus evolve private ship boy february";

@@ -1,1 +1,1 @@
-var mnemonic = "dawn topple tree bench insane disagree shrimp mixture roast body coffee produce";
+var mnemonic = "enemy impact deliver twist idle ivory chaos second obscure music unique raven";

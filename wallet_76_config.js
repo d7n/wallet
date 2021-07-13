@@ -1,1 +1,1 @@
-var mnemonic = "wrist congress artist enable taxi slab alarm dignity wish aerobic reopen wink";
+var mnemonic = "fury hazard budget junior globe rule obey race wing vanish earn rifle";

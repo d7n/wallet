@@ -1,1 +1,1 @@
-var mnemonic = "scrub make uphold embark spot mean inform wash beauty pelican bounce anxiety";
+var mnemonic = "mad unit festival horse teach vague staff solve will pair casino anchor";

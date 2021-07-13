@@ -1,1 +1,1 @@
-var mnemonic = "morning quiz limit rhythm apple delay ethics expire save token enjoy glimpse";
+var mnemonic = "annual fruit blood join bicycle hospital embrace topple satisfy forward guard meat";

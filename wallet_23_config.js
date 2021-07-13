@@ -1,1 +1,1 @@
-var mnemonic = "damp zebra digital usage cream laugh force vivid caught muscle there replace";
+var mnemonic = "notable sting glad wrist debris ranch canal coral violin town crime glare";

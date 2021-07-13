@@ -1,1 +1,1 @@
-var mnemonic = "fluid list forest unhappy skill dynamic margin vault unfair nation surround ceiling";
+var mnemonic = "lamp antenna cave old recipe obey tornado about glide six metal normal";

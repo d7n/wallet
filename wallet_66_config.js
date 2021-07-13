@@ -1,1 +1,1 @@
-var mnemonic = "nominee skill harsh merit hotel cargo radar book remove gift token cry";
+var mnemonic = "security camera remember short ranch timber blush lucky text fold stadium script";

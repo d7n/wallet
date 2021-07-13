@@ -1,1 +1,1 @@
-var mnemonic = "oxygen rural trick bag section infant pear offer access prize oil wood";
+var mnemonic = "plug oval stereo tower flip rally fault pistol tackle quiz trade ocean";

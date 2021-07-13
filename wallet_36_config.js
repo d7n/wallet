@@ -1,1 +1,1 @@
-var mnemonic = "visual since aware release position draft gauge genius clay drift month olympic";
+var mnemonic = "sign vehicle draw pond hunt minute siege arctic immune thought goose seminar";

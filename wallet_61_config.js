@@ -1,1 +1,1 @@
-var mnemonic = "joy junk steak west shuffle oval pool clown wreck security river faint";
+var mnemonic = "agent diary cement ride panel such double erosion swear find frown quote";

@@ -1,1 +1,1 @@
-var mnemonic = "educate rapid dial hair spin velvet destroy zero outer until minor swap";
+var mnemonic = "mom bleak pattern object punch poem satoshi wedding early honey want basic";

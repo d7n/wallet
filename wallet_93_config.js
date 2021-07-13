@@ -1,1 +1,1 @@
-var mnemonic = "robot front nurse rescue reject capable category hungry inject raccoon extra taste";
+var mnemonic = "stuff wrap pond latin myth what uphold discover random grant bulk public";

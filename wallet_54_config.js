@@ -1,1 +1,1 @@
-var mnemonic = "nephew hawk wealth outer real nurse country crucial forest soft hurdle silk";
+var mnemonic = "observe drill dragon basket shadow govern round surface moment city match gift";

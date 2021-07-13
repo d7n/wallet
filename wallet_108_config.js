@@ -1,1 +1,1 @@
-var mnemonic = "tube town giant theory desk gift frown isolate vanish mutual prison dress";
+var mnemonic = "crime holiday cereal object shadow guitar chapter stand gallery gym inquiry nominee";

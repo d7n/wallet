@@ -1,1 +1,1 @@
-var mnemonic = "toe damp replace pistol group obtain theme either asset knife glory quiz";
+var mnemonic = "win benefit predict demise hurt ahead resist furnace submit dog fossil buddy";

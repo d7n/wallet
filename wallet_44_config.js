@@ -1,1 +1,1 @@
-var mnemonic = "aisle matter floor fence news logic mirror nut arrange unaware angle mass";
+var mnemonic = "fall transfer hobby share panic steak tennis space begin noodle tower cram";

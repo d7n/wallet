@@ -1,1 +1,1 @@
-var mnemonic = "mistake permit kangaroo since final salt scissors health leisure pudding hood puppy";
+var mnemonic = "sign another stool identify then dry axis engine midnight army swing wet";

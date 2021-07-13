@@ -1,1 +1,1 @@
-var mnemonic = "liar magic addict live stairs twelve swarm below spin remove upon oak";
+var mnemonic = "noise kitten battle crack fuel useless negative grow cherry three monster siege";

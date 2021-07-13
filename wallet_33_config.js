@@ -1,1 +1,1 @@
-var mnemonic = "mushroom logic alter flavor peasant model universe drastic crop smoke error tower";
+var mnemonic = "lady snack assume deputy during ramp accuse horror despair ribbon matter wife";

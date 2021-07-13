@@ -1,1 +1,1 @@
-var mnemonic = "caught magic normal cherry electric want swim fitness awake indicate cluster time";
+var mnemonic = "erode detect latin promote border slice lobster shallow submit donate manual observe";

@@ -1,1 +1,1 @@
-var mnemonic = "transfer knock shrug valve marine shrug system news flash lottery prefer hub";
+var mnemonic = "rude energy pottery bracket afraid island hair pluck memory kite void library";

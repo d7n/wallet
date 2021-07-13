@@ -1,1 +1,1 @@
-var mnemonic = "shrimp hunt cannon spirit hill seminar visit cement wool torch talk shrug";
+var mnemonic = "whip enroll much brick cousin icon aim again word inch repair rather";

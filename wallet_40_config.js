@@ -1,1 +1,1 @@
-var mnemonic = "rather tragic loyal method field fancy grow life solve disagree elder noble";
+var mnemonic = "project nest food vacuum upper myself such runway problem devote evoke degree";

@@ -1,1 +1,1 @@
-var mnemonic = "control weather fire cupboard pony frown skin dignity chat accuse simple check";
+var mnemonic = "table subway address offer list illegal nurse swear music junk media wisdom";

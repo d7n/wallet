@@ -1,1 +1,1 @@
-var mnemonic = "keep gentle series motion kitten photo face work pyramid actress plug exclude";
+var mnemonic = "gown burger payment trick bargain neck laugh drama replace laptop since before";

@@ -1,1 +1,1 @@
-var mnemonic = "lens tragic differ detail pudding together panel layer focus grocery number unusual";
+var mnemonic = "increase wave flower then account census soccer switch jaguar decade enhance fatigue";

@@ -1,1 +1,1 @@
-var mnemonic = "excuse real tilt punch company warfare subject spell state ice aware tray";
+var mnemonic = "already initial isolate surface garlic swap chunk cabin hunt spare family voyage";

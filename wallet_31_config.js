@@ -1,1 +1,1 @@
-var mnemonic = "future palm that comfort bulk achieve where mule faint seed gap master";
+var mnemonic = "idea round place portion shift panic wreck short chalk garage spirit rose";

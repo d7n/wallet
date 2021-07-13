@@ -1,1 +1,1 @@
-var mnemonic = "home avoid siege income youth before donate funny degree echo category bean";
+var mnemonic = "rural future hen because achieve inquiry scare coach accident guide veteran advice";

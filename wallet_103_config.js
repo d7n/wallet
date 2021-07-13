@@ -1,1 +1,1 @@
-var mnemonic = "heart endless winner decline galaxy fiber law float consider soup jeans spy";
+var mnemonic = "humble number shed figure fix bridge mask wasp finish exact raise very";

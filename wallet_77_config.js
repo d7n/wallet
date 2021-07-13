@@ -1,1 +1,1 @@
-var mnemonic = "fat vague wide private mask coil subway often truck frozen hawk flame";
+var mnemonic = "state object face maximum sort cluster fan forest skirt network ozone enjoy";

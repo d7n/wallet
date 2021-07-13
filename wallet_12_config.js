@@ -1,1 +1,1 @@
-var mnemonic = "hub able sign peace bus idea kind visa oil struggle minimum dwarf";
+var mnemonic = "fringe jewel trade ahead seat baby gate town awkward then quiz hammer";

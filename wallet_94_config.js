@@ -1,1 +1,1 @@
-var mnemonic = "member raven identify lawsuit amused wisdom tuition real wide volume mention find";
+var mnemonic = "arena airport coach awake hobby alpha wrist unlock total thumb brick such";

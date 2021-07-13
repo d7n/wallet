@@ -1,1 +1,1 @@
-var mnemonic = "chunk marine mesh skull scan intact tennis build car bone appear foster";
+var mnemonic = "unfair shield uncle powder artwork potato seat ride satisfy pause have fragile";

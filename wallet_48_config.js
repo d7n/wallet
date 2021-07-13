@@ -1,1 +1,1 @@
-var mnemonic = "become sniff tube oven item cage dwarf pilot heart copper garden artefact";
+var mnemonic = "hat vivid bitter cupboard army grace abandon misery swap master repeat occur";

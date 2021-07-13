@@ -1,1 +1,1 @@
-var mnemonic = "sense address fall over ridge broom rebel major parade water skill match";
+var mnemonic = "tenant shallow foot advice identify expect hospital journey fiscal final utility second";

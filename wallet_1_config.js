@@ -1,1 +1,1 @@
-var mnemonic = "board unlock guard feel average label share fox record globe weapon innocent";
+var mnemonic = "million awful sausage hospital dish verb check echo turtle account material claim";

@@ -1,1 +1,1 @@
-var mnemonic = "fault elder test coyote wife struggle hello slim pigeon burden minute toss";
+var mnemonic = "meadow armor brick into science lock swing office afford truck scheme drum";

@@ -1,1 +1,1 @@
-var mnemonic = "impulse mask sun object twin fire shoe excuse innocent forum cruel element";
+var mnemonic = "green during fashion hen bubble merge draft broccoli olive tiger run comfort";

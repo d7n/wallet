@@ -1,1 +1,1 @@
-var mnemonic = "oppose exhibit brain honey panic guard wonder stock mesh frost benefit clerk";
+var mnemonic = "job door unveil network glue stem regular cotton hawk fade hope include";

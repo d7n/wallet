@@ -1,1 +1,1 @@
-var mnemonic = "hen sausage grit gentle reunion faculty pear glance mobile weekend hunt close";
+var mnemonic = "media engine load pave legend major crater high enrich fruit umbrella jazz";

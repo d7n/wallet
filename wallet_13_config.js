@@ -1,1 +1,1 @@
-var mnemonic = "debris peanut tired champion nature battle decide grit emotion denial carbon fog";
+var mnemonic = "marble series day helmet pause clean record glare say ability direct turkey";

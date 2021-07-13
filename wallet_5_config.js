@@ -1,1 +1,1 @@
-var mnemonic = "fragile raw village open taste young winter traffic chuckle net thrive evidence";
+var mnemonic = "unable genius pistol push search taste music chicken skin large half alarm";

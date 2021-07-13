@@ -1,1 +1,1 @@
-var mnemonic = "apart swamp muffin breeze bubble three beauty crater west green fresh omit";
+var mnemonic = "wing type protect focus object gas found tell bridge hunt poverty insect";

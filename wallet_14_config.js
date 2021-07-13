@@ -1,1 +1,1 @@
-var mnemonic = "giggle drive connect consider require token keen hunt mountain permit hole example";
+var mnemonic = "equal lobster garment cart kind attend beach syrup talent alarm another whip";

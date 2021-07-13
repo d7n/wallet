@@ -1,1 +1,1 @@
-var mnemonic = "doll strike coin seat audit type ski unlock syrup leave excess spare";
+var mnemonic = "glue tail cool figure retreat width margin fog code crouch river kingdom";

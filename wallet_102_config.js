@@ -1,1 +1,1 @@
-var mnemonic = "west crunch frog owner drift course wage explain machine draft grass number";
+var mnemonic = "pudding fiction guard reflect mail debate harbor student glimpse arrive rival latin";

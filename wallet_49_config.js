@@ -1,1 +1,1 @@
-var mnemonic = "bind mask coconut pyramid senior elite paper maid asthma radio faculty glance";
+var mnemonic = "sunset asthma virus victory whisper group like school gather zoo bird hungry";

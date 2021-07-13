@@ -1,1 +1,1 @@
-var mnemonic = "soft engine symbol slender domain capable aunt brown nature child switch dumb";
+var mnemonic = "check mercy scrap mountain degree edit year recycle type veteran absent holiday";

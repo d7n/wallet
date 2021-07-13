@@ -1,1 +1,1 @@
-var mnemonic = "absorb arrow wheat apology napkin arrow acquire trade snake evolve document imitate";
+var mnemonic = "later truly across party stairs find blind garden real regular sell delay";

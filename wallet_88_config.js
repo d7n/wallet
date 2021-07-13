@@ -1,1 +1,1 @@
-var mnemonic = "vote maple icon conduct equip welcome learn clump festival initial pig frozen";
+var mnemonic = "middle vehicle stomach path amazing rhythm owner away mean major measure replace";

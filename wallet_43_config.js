@@ -1,1 +1,1 @@
-var mnemonic = "awake key decide harsh arrive famous blouse license science talk sheriff mercy";
+var mnemonic = "spoil uniform top student very between flush crawl make conduct history inform";

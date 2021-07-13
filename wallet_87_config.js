@@ -1,1 +1,1 @@
-var mnemonic = "brisk puppy arctic erode protect aspect unaware inquiry desert suffer much wash";
+var mnemonic = "hard suspect photo model hammer claim primary boat peanut drive borrow van";

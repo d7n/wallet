@@ -1,1 +1,1 @@
-var mnemonic = "yard mom foil before tuna initial wide color party diamond shop broken";
+var mnemonic = "learn obvious bottom crouch glance vital mobile leg member timber capital trust";

@@ -1,1 +1,1 @@
-var mnemonic = "concert hurdle cause tomorrow spawn praise cluster march garden twist survey fall";
+var mnemonic = "olive copper away cage surround mask bunker ethics despair goose sign knee";

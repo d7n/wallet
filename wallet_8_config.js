@@ -1,1 +1,1 @@
-var mnemonic = "mom twenty gate impulse embrace sting barrel beauty sort follow daring nurse";
+var mnemonic = "winter impact material base language cute art link melt bright clarify scene";

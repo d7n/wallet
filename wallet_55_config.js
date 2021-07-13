@@ -1,1 +1,1 @@
-var mnemonic = "scorpion strategy solar jaguar okay clean valid enter until wonder myself solution";
+var mnemonic = "fatigue fatigue echo tornado amazing inch eagle child actor tunnel inhale crew";

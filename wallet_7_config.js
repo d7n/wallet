@@ -1,1 +1,1 @@
-var mnemonic = "minor piano local furnace hammer tennis chase manual kite sugar unable duty";
+var mnemonic = "fire cause next neglect broccoli eyebrow wool also wool original frozen exhibit";

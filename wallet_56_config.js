@@ -1,1 +1,1 @@
-var mnemonic = "salute kitchen reveal clog raven tackle member daring vote shrimp quarter old";
+var mnemonic = "pause submit cake where supply gloom snap column sister heart aware kidney";

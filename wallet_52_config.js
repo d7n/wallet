@@ -1,1 +1,1 @@
-var mnemonic = "unit cruise town interest run orphan civil hawk stairs gasp warfare private";
+var mnemonic = "bench fringe fan term hunt quote loan dog front maple media someone";

@@ -1,1 +1,1 @@
-var mnemonic = "sound category fancy laundry path exhibit voyage remember fog wing december mesh";
+var mnemonic = "cancel unfold suggest rent travel develop endorse guide normal ozone crisp nephew";

@@ -1,1 +1,1 @@
-var mnemonic = "sibling between bus pitch matter slice weather broccoli fringe accident dragon space";
+var mnemonic = "blush sand fresh tape patch way wet faith brass warrior accuse mechanic";

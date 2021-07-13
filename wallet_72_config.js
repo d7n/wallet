@@ -1,1 +1,1 @@
-var mnemonic = "mother invest frozen stuff cannon pulse swamp script buddy virtual vanish subway";
+var mnemonic = "rigid enough brass cabbage cheese common digital convince nasty bridge link floor";

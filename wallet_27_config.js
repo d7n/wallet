@@ -1,1 +1,1 @@
-var mnemonic = "gloom phone elite valid clap disorder hub list smart body garage kid";
+var mnemonic = "flock wide prefer arrest stumble burger inner valve entry helmet punch phrase";

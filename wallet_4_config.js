@@ -1,1 +1,1 @@
-var mnemonic = "ugly pony gate case swallow cancel benefit tower away index truth board";
+var mnemonic = "voyage accident control oval strike theory garbage source grape paper daring trap";

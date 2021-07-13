@@ -1,1 +1,1 @@
-var mnemonic = "try finger tragic marble hint early rude hollow disease veteran banner happy";
+var mnemonic = "among under circle peasant dog artist grass chase pelican aspect lemon express";

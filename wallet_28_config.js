@@ -1,1 +1,1 @@
-var mnemonic = "pretty apple boil toast canvas adult benefit almost glass filter earth license";
+var mnemonic = "crucial despair blood planet seminar clap palm round artefact become pupil neck";

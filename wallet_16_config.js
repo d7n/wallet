@@ -1,1 +1,1 @@
-var mnemonic = "alpha army cute start hotel velvet text banana tongue drip oxygen proof";
+var mnemonic = "online private purse awake honey increase enlist supply travel umbrella skull inquiry";

@@ -1,1 +1,1 @@
-var mnemonic = "curve team piece swamp train also book drama reunion home cruise domain";
+var mnemonic = "close save decade exclude author vivid amount girl april notice habit length";

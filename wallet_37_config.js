@@ -1,1 +1,1 @@
-var mnemonic = "cabin build canyon response rather finish egg economy uncle corn robot gravity";
+var mnemonic = "approve tank chunk knife film pause milk sea shoot ride witness chef";

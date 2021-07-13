@@ -1,1 +1,1 @@
-var mnemonic = "dizzy check curtain taxi live enrich achieve rapid green foster diary flag";
+var mnemonic = "check joke fitness kangaroo increase sell bullet march any iron proud spell";

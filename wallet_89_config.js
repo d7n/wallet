@@ -1,1 +1,1 @@
-var mnemonic = "art unknown push survey latin gesture any casino rug top robust panda";
+var mnemonic = "sense soap boring rough grape swamp weapon subway run pink mango super";

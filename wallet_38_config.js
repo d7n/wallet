@@ -1,1 +1,1 @@
-var mnemonic = "tortoise gaze river ski erosion build achieve drift face brush cup rate";
+var mnemonic = "oak genius illness clay weekend elephant warm dirt outdoor pulp current chef";

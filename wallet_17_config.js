@@ -1,1 +1,1 @@
-var mnemonic = "glimpse main sample fury physical circle hub sight differ august basic bread";
+var mnemonic = "practice attend notice inhale truck survey step talent announce trouble become ostrich";
