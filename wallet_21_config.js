@@ -1,1 +1,1 @@
-var mnemonic = "verify abandon discover wild tail thunder mandate tool kid cup because insect";
+var mnemonic = "alley forward enter oak clean identify scheme rotate attract slot cream anger";

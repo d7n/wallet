@@ -1,1 +1,1 @@
-var mnemonic = "witness gallery explain bubble slow rail now decide tide solution destroy record";
+var mnemonic = "barrel spend cradle catch spoon lion frost rib track memory bread cruel";

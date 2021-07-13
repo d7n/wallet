@@ -1,1 +1,1 @@
-var mnemonic = "shuffle display gospel poverty paper glare river ladder smoke october camera isolate";
+var mnemonic = "cargo blind depend inspire mule agent album much assume recall grocery mystery";

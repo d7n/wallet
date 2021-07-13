@@ -1,1 +1,1 @@
-var mnemonic = "simple lecture kitchen seven window only perfect hen chunk blush that net";
+var mnemonic = "sweet bachelor want scout detect grocery case tank youth bamboo divide result";

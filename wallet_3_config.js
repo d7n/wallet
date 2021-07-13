@@ -1,1 +1,1 @@
-var mnemonic = "viable casino chicken school expire section flag improve reason steel plug valley";
+var mnemonic = "organ same ramp skull select brick myself slight polar mass truth game";

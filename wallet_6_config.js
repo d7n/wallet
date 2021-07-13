@@ -1,1 +1,1 @@
-var mnemonic = "flee possible cry maximum transfer surprise obscure dwarf lamp ski goat code";
+var mnemonic = "silly opera ill wife morning hawk student athlete need glide truth symbol";

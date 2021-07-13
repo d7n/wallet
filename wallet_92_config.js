@@ -1,1 +1,1 @@
-var mnemonic = "deposit adjust live game eternal swap grape joke couple detail inhale during";
+var mnemonic = "blur enlist burst design wreck street south cabin include doll cool mother";

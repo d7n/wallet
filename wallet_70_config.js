@@ -1,1 +1,1 @@
-var mnemonic = "inquiry century kick uniform sorry follow pole drum remember problem response minor";
+var mnemonic = "holiday unfair false raw awful boil describe slab orient sting intact hobby";

@@ -1,1 +1,1 @@
-var mnemonic = "unfair lock kick name blouse sport child idle brush throw congress mandate";
+var mnemonic = "broom vote moment trial broccoli settle buffalo mixed air sibling sport paper";

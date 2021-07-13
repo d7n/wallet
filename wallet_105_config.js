@@ -1,1 +1,1 @@
-var mnemonic = "angle physical select skirt knife sea turkey enact match remove pitch increase";
+var mnemonic = "current bundle body close castle kitten relax dynamic conduct similar sound fuel";

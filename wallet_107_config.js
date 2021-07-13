@@ -1,1 +1,1 @@
-var mnemonic = "aim dragon festival rug next monkey clarify anchor segment poverty vague long";
+var mnemonic = "view bridge flock local amateur forget fish walnut utility tattoo around crush";

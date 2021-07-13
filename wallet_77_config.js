@@ -1,1 +1,1 @@
-var mnemonic = "hello sting ship wisdom thank excuse adapt ginger nerve reveal thunder grape";
+var mnemonic = "vocal when reflect price near spare drift screen trust warfare inmate elbow";

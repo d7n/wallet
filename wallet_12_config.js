@@ -1,1 +1,1 @@
-var mnemonic = "order panther panic general floor march minor creek cradle quit knock future";
+var mnemonic = "race connect space warfare still art wood club horn cream dilemma loop";

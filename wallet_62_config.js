@@ -1,1 +1,1 @@
-var mnemonic = "citizen oblige scare addict little scare honey average shallow garment fan spring";
+var mnemonic = "narrow early choose inject apology action barrel reward wait misery crunch mad";

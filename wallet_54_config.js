@@ -1,1 +1,1 @@
-var mnemonic = "deposit busy lemon toddler whisper minimum like mechanic foster avocado that just";
+var mnemonic = "job bulk picnic maze steak violin bounce neither tiny crumble silver staff";

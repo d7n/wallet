@@ -1,1 +1,1 @@
-var mnemonic = "victory angry latin foot omit because derive grit ridge sport grass blame";
+var mnemonic = "soap spoil cupboard second obscure day tunnel region time laptop next report";

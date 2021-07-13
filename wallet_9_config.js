@@ -1,1 +1,1 @@
-var mnemonic = "sketch ethics zoo radio pond embrace smile prize holiday turn humor coyote";
+var mnemonic = "zoo devote upset parent cruel reunion quantum omit snow verb nothing turkey";

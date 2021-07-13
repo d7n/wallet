@@ -1,1 +1,1 @@
-var mnemonic = "donor blouse silent cat sign faint mistake dish friend path tomato echo";
+var mnemonic = "art display emerge humble twelve follow penalty access smart heart cactus wool";

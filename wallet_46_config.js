@@ -1,1 +1,1 @@
-var mnemonic = "promote ozone upon onion crush silly rhythm purse theme tent genre miracle";
+var mnemonic = "inquiry couch cram lion credit hill summer element bone neck high find";

@@ -1,1 +1,1 @@
-var mnemonic = "people curious toe shrimp sheriff poverty zone forum never upper kingdom orbit";
+var mnemonic = "oblige under fashion tip busy blur faculty fetch hunt nothing audit glide";

@@ -1,1 +1,1 @@
-var mnemonic = "urban spy exotic news ride mule sure risk decrease weasel board across";
+var mnemonic = "portion laptop original lottery child state manage sustain animal derive cry train";

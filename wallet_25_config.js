@@ -1,1 +1,1 @@
-var mnemonic = "cram chat card typical produce crime grid behind hedgehog save truth little";
+var mnemonic = "upgrade wreck impact sense true other exotic notice prosper various magnet next";

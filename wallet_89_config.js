@@ -1,1 +1,1 @@
-var mnemonic = "jaguar enemy fever drill opera treat pitch swarm visit gap head divert";
+var mnemonic = "coil empty save midnight there globe goose garage company train draft seed";

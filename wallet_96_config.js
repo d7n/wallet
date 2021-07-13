@@ -1,1 +1,1 @@
-var mnemonic = "mixture announce hospital float page clown route cushion they level prosper enemy";
+var mnemonic = "glow boat dumb dish fruit lens butter duty grace token today program";

@@ -1,1 +1,1 @@
-var mnemonic = "cargo okay debris field hen wedding fiber travel time galaxy valid outer";
+var mnemonic = "layer small private stool direct tag fat country firm spoil bonus angry";

@@ -1,1 +1,1 @@
-var mnemonic = "horse disagree boost amount coin stumble carpet buzz dismiss theory unique tenant";
+var mnemonic = "grocery royal forest autumn save tuition siege code demand kitten flash quality";

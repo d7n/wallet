@@ -1,1 +1,1 @@
-var mnemonic = "lounge parent early leaf fresh rely shy firm truth lend light laptop";
+var mnemonic = "manage picture until amount accuse mansion advance pyramid enroll electric west need";

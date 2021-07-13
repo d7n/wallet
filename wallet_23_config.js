@@ -1,1 +1,1 @@
-var mnemonic = "sugar garage taxi upon easily energy sort wrist master expect shy stomach";
+var mnemonic = "jacket fitness squeeze lounge soap scrub talk gym always bless brown code";

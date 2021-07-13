@@ -1,1 +1,1 @@
-var mnemonic = "wisdom veteran aspect mouse gospel aerobic critic write write ring hello gallery";
+var mnemonic = "casino novel sing shock always day laundry company sample elephant own toe";

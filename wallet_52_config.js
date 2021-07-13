@@ -1,1 +1,1 @@
-var mnemonic = "dawn love budget shoe sign weather any dog into couch slide absorb";
+var mnemonic = "pony two talk issue ski cinnamon fruit floor illness remain gift diagram";

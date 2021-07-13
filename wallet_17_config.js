@@ -1,1 +1,1 @@
-var mnemonic = "monitor arrange retreat slam under flower list resist glory order tenant black";
+var mnemonic = "vacant vivid announce orphan multiply express action depart film snack draft know";

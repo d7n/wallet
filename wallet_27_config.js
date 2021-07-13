@@ -1,1 +1,1 @@
-var mnemonic = "gadget outside quote giant else over gesture tongue confirm casual diesel payment";
+var mnemonic = "margin level fit asset meadow safe bus myth three mean umbrella cheap";

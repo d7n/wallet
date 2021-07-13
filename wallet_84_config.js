@@ -1,1 +1,1 @@
-var mnemonic = "arctic advice clean label follow useless stock hurt hover until menu bomb";
+var mnemonic = "dirt execute end special attitude sweet six gown snap size west salad";

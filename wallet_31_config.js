@@ -1,1 +1,1 @@
-var mnemonic = "moment identify dice universe evil direct thumb clay today leaf owner saddle";
+var mnemonic = "grow awesome verb prison capital property angle frozen hat sausage humor belt";

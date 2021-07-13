@@ -1,1 +1,1 @@
-var mnemonic = "label observe boil river burden federal fat toy treat speak bronze library";
+var mnemonic = "category slim globe satoshi now elegant staff illness vast boss palm tide";

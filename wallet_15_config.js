@@ -1,1 +1,1 @@
-var mnemonic = "junior fish enemy trumpet harvest easily orchard energy board twist attitude horse";
+var mnemonic = "sugar expire dawn ugly trip pioneer garbage wrong tuna enrich apology hero";

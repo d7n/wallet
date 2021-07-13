@@ -1,1 +1,1 @@
-var mnemonic = "wet sun review ahead echo dice avocado early stomach genre once later";
+var mnemonic = "staff range mixed hand nothing trouble vibrant slight sea evidence hobby rough";

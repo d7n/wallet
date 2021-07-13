@@ -1,1 +1,1 @@
-var mnemonic = "vital second piece stove sure pitch police panel consider invite impact foil";
+var mnemonic = "soap pumpkin half reform mean shallow track salon enough color dust alarm";

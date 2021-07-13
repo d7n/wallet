@@ -1,1 +1,1 @@
-var mnemonic = "vital album aerobic maple normal upset tonight place patrol museum cover light";
+var mnemonic = "crash december ride shrug cactus cave salad either trend clutch mansion survey";

@@ -1,1 +1,1 @@
-var mnemonic = "pact spin trumpet desert picture pitch transfer recipe remain mesh lunar drum";
+var mnemonic = "dizzy invest venture bridge valid script still first company object silk defense";

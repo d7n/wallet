@@ -1,1 +1,1 @@
-var mnemonic = "insane survey bless abuse critic entry hundred melt various gift run bamboo";
+var mnemonic = "toast repeat consider omit ghost baby nut across add rich chat train";

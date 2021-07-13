@@ -1,1 +1,1 @@
-var mnemonic = "skirt pool detail dignity raise gauge bronze blossom express announce loan slush";
+var mnemonic = "citizen artwork ring column venue invest syrup rare moment bargain offer amazing";

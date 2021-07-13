@@ -1,1 +1,1 @@
-var mnemonic = "minimum cruise notice marriage upgrade salt two arrange marriage slide custom dynamic";
+var mnemonic = "emotion quality glide tuna apart object bunker dinosaur smile start potato marriage";

@@ -1,1 +1,1 @@
-var mnemonic = "plug practice grace own wing tilt know power surprise ski tobacco hold";
+var mnemonic = "apple office drill ancient either mistake solution chest inquiry auction alone divide";

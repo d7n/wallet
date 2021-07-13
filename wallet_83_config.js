@@ -1,1 +1,1 @@
-var mnemonic = "parent coach dune gold vote dove engine elbow bonus capital choose final";
+var mnemonic = "else mixed cruel possible toss weekend dynamic coconut until smoke tape nerve";

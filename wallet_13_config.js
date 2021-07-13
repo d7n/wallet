@@ -1,1 +1,1 @@
-var mnemonic = "fiber fire side excuse fury market appear very once legal humble song";
+var mnemonic = "change frame midnight matrix slogan galaxy frozen soul push run kitten roof";

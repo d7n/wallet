@@ -1,1 +1,1 @@
-var mnemonic = "tribe home clever trophy fence liberty pause canoe meadow often question name";
+var mnemonic = "word hazard parrot talk radar run track file swarm cake monitor layer";

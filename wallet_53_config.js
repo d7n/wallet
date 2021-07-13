@@ -1,1 +1,1 @@
-var mnemonic = "neglect cement divorce furnace garbage submit mystery season dust vital total sniff";
+var mnemonic = "broom window surface alpha odor recipe race rich cost special mix casual";

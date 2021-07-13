@@ -1,1 +1,1 @@
-var mnemonic = "latin voyage gravity hurry grow interest scene ancient absurd merge bachelor balcony";
+var mnemonic = "allow ring shadow inflict crash crew defense shoe rich motion erosion broom";

@@ -1,1 +1,1 @@
-var mnemonic = "waste walnut inhale gather hair segment capable scatter enforce review flush shallow";
+var mnemonic = "play canyon police master mirror fatigue ripple nephew outdoor squirrel section inmate";

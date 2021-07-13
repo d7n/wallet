@@ -1,1 +1,1 @@
-var mnemonic = "desk pyramid marble eternal sport weasel timber need garment resemble knee old";
+var mnemonic = "pretty urban grant edit salt empty elegant thumb nuclear route primary supreme";

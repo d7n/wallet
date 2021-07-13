@@ -1,1 +1,1 @@
-var mnemonic = "step reopen over buddy mutual spike start album bag front device protect";
+var mnemonic = "capital duty over ready spice primary wine sadness good exhaust mad enroll";

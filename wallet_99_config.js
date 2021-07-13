@@ -1,1 +1,1 @@
-var mnemonic = "elegant beyond cloth come auction debris safe hood athlete annual guitar void";
+var mnemonic = "super bike donkey reunion toy step tennis tank ordinary oppose stool raccoon";

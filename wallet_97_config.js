@@ -1,1 +1,1 @@
-var mnemonic = "traffic page clerk maximum ecology priority avoid victory rapid begin skin stomach";
+var mnemonic = "wrap clown trick pause flip lab pizza extra mirror goose certain result";

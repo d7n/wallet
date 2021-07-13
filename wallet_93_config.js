@@ -1,1 +1,1 @@
-var mnemonic = "net year base similar stage airport album topple drop more pilot fold";
+var mnemonic = "supply brush where mix response stone permit dream cancel goddess vivid permit";

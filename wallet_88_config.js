@@ -1,1 +1,1 @@
-var mnemonic = "clog fabric priority move mercy educate head nut canvas divide next friend";
+var mnemonic = "extra day sound olympic unusual trophy urban pigeon depth girl mixture catalog";

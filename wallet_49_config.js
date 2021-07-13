@@ -1,1 +1,1 @@
-var mnemonic = "damage jungle purity shell series try reason check broken pass drama pear";
+var mnemonic = "fetch mesh winter patch level brave vessel join roast wrap absent brain";

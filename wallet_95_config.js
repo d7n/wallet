@@ -1,1 +1,1 @@
-var mnemonic = "differ copper force man buzz reward wheat frost buzz clump vague dad";
+var mnemonic = "canyon drip control chuckle nice blue hello often engage derive dose hour";

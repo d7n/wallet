@@ -1,1 +1,1 @@
-var mnemonic = "melt top honey trick cradle noise lava lake laundry struggle remove bundle";
+var mnemonic = "spray analyst space list modify become vital visual note path other lizard";

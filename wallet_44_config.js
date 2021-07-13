@@ -1,1 +1,1 @@
-var mnemonic = "north outside entire paper spread tennis much display wild early share label";
+var mnemonic = "long nuclear pave turn salt summer awkward short desert nose bounce history";

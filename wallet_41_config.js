@@ -1,1 +1,1 @@
-var mnemonic = "exit helmet laundry net riot grab laptop bleak accident slender dignity divert";
+var mnemonic = "marriage chicken oyster journey unaware space lend limit orbit future level thought";

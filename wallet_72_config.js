@@ -1,1 +1,1 @@
-var mnemonic = "talk exotic shiver describe topple gasp water same vivid rapid stable frost";
+var mnemonic = "chef spin exclude column quit human area evolve dinner dad style claim";

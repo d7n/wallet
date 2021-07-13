@@ -1,1 +1,1 @@
-var mnemonic = "reject slam public abuse length weather knee quiz sponsor know catch edge";
+var mnemonic = "stem clever dress sign slogan differ anxiety bus blanket chief smile inch";

@@ -1,1 +1,1 @@
-var mnemonic = "lift side impose hungry bean school pistol forum gap news swarm proud";
+var mnemonic = "hand cloth choice pretty camp mechanic sudden depart spend west multiply cinnamon";

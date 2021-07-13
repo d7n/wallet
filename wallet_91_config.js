@@ -1,1 +1,1 @@
-var mnemonic = "pony actual spray middle rotate ladder dose unable decade erosion slide company";
+var mnemonic = "teach destroy walk mean pool seven main play brown traffic peace deny";

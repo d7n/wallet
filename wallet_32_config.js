@@ -1,1 +1,1 @@
-var mnemonic = "error observe wine flee prosper miss tuna climb wool sniff saddle family";
+var mnemonic = "certain produce list obey glide rival cloud power foot student fat toddler";

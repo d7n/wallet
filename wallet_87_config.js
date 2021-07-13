@@ -1,1 +1,1 @@
-var mnemonic = "void sea lock reason reopen suggest certain motor disease notice luggage glance";
+var mnemonic = "tent tell pond shy best hawk silent way thought decline sauce ahead";

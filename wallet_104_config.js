@@ -1,1 +1,1 @@
-var mnemonic = "such short clean episode charge keen filter soup theme solid real shiver";
+var mnemonic = "truly admit soda harbor betray minute peanut toast slam adult snake travel";

@@ -1,1 +1,1 @@
-var mnemonic = "egg lobster famous cart extra soda cloud shuffle lake crowd armed uphold";
+var mnemonic = "boring supply song disease prefer castle jewel spot hub oak action trigger";

@@ -1,1 +1,1 @@
-var mnemonic = "reward suffer bronze curtain offer toy lobster lawn lazy agent stove garage";
+var mnemonic = "proof century stove resource ignore orchard just copper error report code enemy";

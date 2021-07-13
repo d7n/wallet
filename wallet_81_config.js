@@ -1,1 +1,1 @@
-var mnemonic = "must evoke help fun any ill soap opinion agree phone exhibit advice";
+var mnemonic = "certain such fat glide rule please emerge cinnamon vacant staff banner degree";

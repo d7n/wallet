@@ -1,1 +1,1 @@
-var mnemonic = "corn member hazard promote coil sweet damp exact track siren tank wrist";
+var mnemonic = "define warrior achieve ozone often enroll issue tiger diagram juice rose bicycle";

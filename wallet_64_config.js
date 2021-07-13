@@ -1,1 +1,1 @@
-var mnemonic = "normal smile sense pill post desk ahead print awake jeans round cushion";
+var mnemonic = "boil bundle erase depend shoe song maximum step flash breeze check online";

@@ -1,1 +1,1 @@
-var mnemonic = "cargo shed direct upon charge poverty moon syrup roast exist offer public";
+var mnemonic = "term clip lion correct choose mom angle lemon entire cable equal need";

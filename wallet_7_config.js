@@ -1,1 +1,1 @@
-var mnemonic = "maximum gym web loud face sausage damage kind cage they trophy decide";
+var mnemonic = "novel ridge spend cloud paper knee steak grape habit manage reflect tiger";

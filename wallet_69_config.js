@@ -1,1 +1,1 @@
-var mnemonic = "jelly survey phone uniform warfare spoon cannon draw begin awesome fitness clock";
+var mnemonic = "lottery extra during mass hole blind wet void reveal birth vessel universe";

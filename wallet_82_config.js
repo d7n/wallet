@@ -1,1 +1,1 @@
-var mnemonic = "double tell whale hill oyster quiz service because lady depth pet beyond";
+var mnemonic = "ability direct cabbage forum bag duck critic alert state sock fame mercy";

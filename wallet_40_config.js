@@ -1,1 +1,1 @@
-var mnemonic = "goat afraid elder enough fabric vessel leave vintage utility next dry quiz";
+var mnemonic = "broccoli dutch person roof matrix finger toward wish admit truck bundle pave";

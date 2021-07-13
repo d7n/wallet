@@ -1,1 +1,1 @@
-var mnemonic = "sad fork pretty void advice dog tree what bracket wink main sick";
+var mnemonic = "file panther lawsuit analyst brain tip myth include modify master rapid romance";

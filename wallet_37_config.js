@@ -1,1 +1,1 @@
-var mnemonic = "now paddle excite session spell daughter feature sad song huge hockey situate";
+var mnemonic = "wrap pair sentence flag manual exit next seek thought until patrol bone";

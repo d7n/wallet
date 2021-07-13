@@ -1,1 +1,1 @@
-var mnemonic = "tourist wrestle craft require prefer push argue stable choose protect rifle present";
+var mnemonic = "siren other meat spell gaze place gadget solar junk column trick faculty";

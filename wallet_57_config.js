@@ -1,1 +1,1 @@
-var mnemonic = "tattoo divorce credit best gate stumble party guess lift bike sense visa";
+var mnemonic = "marble what cattle into modify train usage will hammer exchange evoke inmate";

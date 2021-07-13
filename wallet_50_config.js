@@ -1,1 +1,1 @@
-var mnemonic = "umbrella sea tourist ability alpha proof kid main nice recipe rotate estate";
+var mnemonic = "plate attitude little border sad motor also radio auto orchard output country";

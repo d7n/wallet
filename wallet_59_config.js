@@ -1,1 +1,1 @@
-var mnemonic = "library final you lab dove pond pole since foster already light viable";
+var mnemonic = "broccoli mountain immense hammer client teach ecology unlock someone industry book season";

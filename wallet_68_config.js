@@ -1,1 +1,1 @@
-var mnemonic = "solid panther clap fetch stable useless lens pear tool smile current orphan";
+var mnemonic = "immune north remain heart addict aim upgrade salute network essay jazz apple";

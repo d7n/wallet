@@ -1,1 +1,1 @@
-var mnemonic = "humble range barrel rotate actual track spider museum conduct melody arch employ";
+var mnemonic = "purpose garment satisfy genuine drink action park innocent buddy main purpose material";

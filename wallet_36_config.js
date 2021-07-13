@@ -1,1 +1,1 @@
-var mnemonic = "write frame happy camp resource audit tobacco review heavy club cattle ski";
+var mnemonic = "fiction ramp long knife mesh arrange rubber caught churn mask borrow almost";

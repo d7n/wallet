@@ -1,1 +1,1 @@
-var mnemonic = "mandate opera husband when source erupt middle coil replace tray sunny image";
+var mnemonic = "cross wage thank fiction word enroll invite drill tuition guide budget casual";

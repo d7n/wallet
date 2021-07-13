@@ -1,1 +1,1 @@
-var mnemonic = "sun swallow grant pause auction before badge excuse vehicle purity mountain buyer";
+var mnemonic = "wreck dune pact speak wing absurd tag cabbage luxury rival cluster fiscal";

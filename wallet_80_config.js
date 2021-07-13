@@ -1,1 +1,1 @@
-var mnemonic = "question potato remain normal tired judge piece student syrup clarify inmate pluck";
+var mnemonic = "ritual session duty shock crouch fashion useless limb crane meadow gasp artwork";

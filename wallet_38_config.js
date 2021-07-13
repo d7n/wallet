@@ -1,1 +1,1 @@
-var mnemonic = "bitter athlete improve lift table behind debate remain skin blue project auto";
+var mnemonic = "top satoshi arctic marine guitar inject popular cabbage cash wagon dirt derive";

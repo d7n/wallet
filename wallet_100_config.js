@@ -1,1 +1,1 @@
-var mnemonic = "velvet walnut skin toe oyster reveal industry hurdle fan wheat same box";
+var mnemonic = "hint solve almost chef pride erase theme soon walk fitness play before";

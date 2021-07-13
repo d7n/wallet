@@ -1,1 +1,1 @@
-var mnemonic = "document floor kid essence cannon clap file recall define route top sing";
+var mnemonic = "remind finish planet wine achieve pulse ride scissors zoo give hobby buddy";

@@ -1,1 +1,1 @@
-var mnemonic = "chair blush firm poverty spot foot bonus lunch horse aspect leisure peace";
+var mnemonic = "fade electric eight finish pluck pet cereal project jazz canoe voyage sugar";

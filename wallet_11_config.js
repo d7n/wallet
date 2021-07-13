@@ -1,1 +1,1 @@
-var mnemonic = "amount found pull fiber ripple jar saddle only brave ahead execute fine";
+var mnemonic = "report dragon awkward view consider garbage learn million update slight gossip sausage";

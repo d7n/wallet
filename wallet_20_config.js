@@ -1,1 +1,1 @@
-var mnemonic = "scrub catalog congress tenant welcome aim salute rapid stove advice merry airport";
+var mnemonic = "example junior naive tackle runway occur creek approve puppy inflict measure grit";

@@ -1,1 +1,1 @@
-var mnemonic = "animal roof mean gift reform gentle sign awful medal original van salt";
+var mnemonic = "split flower enough invite burst theme average finish pilot luxury obvious arch";

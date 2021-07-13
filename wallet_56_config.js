@@ -1,1 +1,1 @@
-var mnemonic = "country pattern hip also honey middle twelve mango trash retreat van torch";
+var mnemonic = "blanket radio beach frozen nature expect spoil legal family coconut badge silver";

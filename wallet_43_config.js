@@ -1,1 +1,1 @@
-var mnemonic = "discover monkey nose remove snow sea lion swim unit begin sauce disease";
+var mnemonic = "vague square account more craft outer dice glove cement act surround jar";

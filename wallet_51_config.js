@@ -1,1 +1,1 @@
-var mnemonic = "air island drink profit script civil now uncle picnic pudding confirm autumn";
+var mnemonic = "swing joke quote foil quality sick arrow solar purity dilemma brass shrug";
