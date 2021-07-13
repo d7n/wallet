@@ -1,1 +1,1 @@
-var mnemonic = "over pattern dose range because yellow ice memory off viable street human";
+var mnemonic = "treat clip lucky stairs vast long grief thank bachelor ignore have wild";

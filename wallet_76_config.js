@@ -1,1 +1,1 @@
-var mnemonic = "indoor vessel virus raven risk food rally cave churn domain fame brand";
+var mnemonic = "enjoy lake hotel can survey anxiety motor cool cage curtain bus mystery";

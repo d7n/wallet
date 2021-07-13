@@ -1,1 +1,1 @@
-var mnemonic = "fiber demand shy apple smooth brave other error detail night belt genre";
+var mnemonic = "client occur space muffin mirror orchard desk observe myth pull crucial above";

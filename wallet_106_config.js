@@ -1,1 +1,1 @@
-var mnemonic = "sail normal much senior toward warrior just cool margin route there bamboo";
+var mnemonic = "keen velvet ketchup clump brown visual romance together pass nut monitor fault";

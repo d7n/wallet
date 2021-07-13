@@ -1,1 +1,1 @@
-var mnemonic = "fence cruel make cradle major moment west hand supply detail velvet captain";
+var mnemonic = "model conduct vendor shrug alley mammal valley entire lemon bulb nurse require";

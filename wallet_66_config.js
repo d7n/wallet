@@ -1,1 +1,1 @@
-var mnemonic = "action peace child phrase timber lift aspect immense ranch try end country";
+var mnemonic = "bacon lunch mixed tenant similar scissors nephew tooth betray derive soda immense";

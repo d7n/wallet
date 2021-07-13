@@ -1,1 +1,1 @@
-var mnemonic = "border dust load say bar cook display expect output twelve engage youth";
+var mnemonic = "asset stay outdoor huge absurd keep slice swift insane blue novel hello";

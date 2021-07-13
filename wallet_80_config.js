@@ -1,1 +1,1 @@
-var mnemonic = "supply fat glare hazard focus romance home boil kiwi spare bronze wink";
+var mnemonic = "any rude toss seminar lava unit doll excess scheme taxi choice royal";

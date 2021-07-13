@@ -1,1 +1,1 @@
-var mnemonic = "govern cement figure sound best brother economy hard interest antique rabbit prepare";
+var mnemonic = "verify enroll receive nature license cram mystery book saddle master fiction window";

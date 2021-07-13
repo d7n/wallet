@@ -1,1 +1,1 @@
-var mnemonic = "profit noise opinion length image clerk match broccoli sauce ribbon frog mass";
+var mnemonic = "gate notice assault proof junior fluid oxygen attitude antenna try neither diesel";

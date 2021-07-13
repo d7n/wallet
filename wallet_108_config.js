@@ -1,1 +1,1 @@
-var mnemonic = "praise scan fresh submit horse tent antenna vault profit capital help stand";
+var mnemonic = "hill large session purse narrow drive mango inspire impose come health pluck";

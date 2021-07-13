@@ -1,1 +1,1 @@
-var mnemonic = "skate sweet hill hedgehog vapor daring beach absorb minimum match kite harsh";
+var mnemonic = "horror speed equal letter split parade nation suit citizen fire region belt";

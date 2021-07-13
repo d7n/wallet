@@ -1,1 +1,1 @@
-var mnemonic = "foot tuition cover solar behind write harbor spring program october lottery update";
+var mnemonic = "fossil banana check admit auction again flee six champion machine orient canoe";

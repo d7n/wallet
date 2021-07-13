@@ -1,1 +1,1 @@
-var mnemonic = "vacuum attract meadow weird urge voyage feature wasp slush okay weird nephew";
+var mnemonic = "slight clean onion tank grocery term cram noise middle wrist sorry join";

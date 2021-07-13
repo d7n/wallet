@@ -1,1 +1,1 @@
-var mnemonic = "friend cactus forum program major cry defy hurry address want huge output";
+var mnemonic = "nuclear pizza convince embark risk omit inform cattle view brave proof settle";

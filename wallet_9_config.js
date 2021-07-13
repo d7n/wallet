@@ -1,1 +1,1 @@
-var mnemonic = "fork improve run there record before effort relax regular perfect nut nerve";
+var mnemonic = "abandon resource wild unit hover roast video equip style double another hold";

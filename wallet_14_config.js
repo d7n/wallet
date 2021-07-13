@@ -1,1 +1,1 @@
-var mnemonic = "illness problem leopard toss hope install magnet nurse hidden patient powder spatial";
+var mnemonic = "cliff neglect scale museum burger poem universe future usual idea pigeon tell";

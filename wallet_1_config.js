@@ -1,1 +1,1 @@
-var mnemonic = "copy injury evil crop expire spread poem ordinary stage dish crawl genre";
+var mnemonic = "space salute fashion hollow float parent moon guard front river sport corn";

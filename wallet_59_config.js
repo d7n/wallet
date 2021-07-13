@@ -1,1 +1,1 @@
-var mnemonic = "desk frequent assume view improve toddler width worth forest outer armor vehicle";
+var mnemonic = "close bleak ridge parade sustain foil gloom size fence latin shy rug";

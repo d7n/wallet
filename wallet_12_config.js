@@ -1,1 +1,1 @@
-var mnemonic = "ship stuff enemy enemy wolf target can raccoon salon yellow jump venue";
+var mnemonic = "cigar latin season rail virtual because title profit unique wood blast wait";

@@ -1,1 +1,1 @@
-var mnemonic = "ill salt credit frown result tilt seminar favorite eight manage sample core";
+var mnemonic = "enter artefact spread farm debate orphan room short hawk roast smoke actual";

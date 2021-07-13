@@ -1,1 +1,1 @@
-var mnemonic = "adjust ball prison fit judge upset bomb scan actress rural render wedding";
+var mnemonic = "galaxy sure arrange mirror muffin fitness fold false pretty young scheme quiz";

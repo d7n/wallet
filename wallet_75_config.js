@@ -1,1 +1,1 @@
-var mnemonic = "myth world key caution mistake canyon vague bone door error credit pen";
+var mnemonic = "magic online thank parent oval law warfare chapter jungle match base gadget";

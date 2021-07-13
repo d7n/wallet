@@ -1,1 +1,1 @@
-var mnemonic = "submit legend tip gold accident era bench tip unlock buffalo people limb";
+var mnemonic = "decade sniff fringe involve zero boring economy glory cannon expose tackle caution";

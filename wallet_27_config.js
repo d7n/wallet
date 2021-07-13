@@ -1,1 +1,1 @@
-var mnemonic = "yellow all beyond laptop census rival gather pull alarm use obscure race";
+var mnemonic = "dizzy eagle sign garage letter bitter bubble limit prefer enemy process moon";

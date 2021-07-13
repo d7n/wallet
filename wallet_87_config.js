@@ -1,1 +1,1 @@
-var mnemonic = "scene fox slight magnet invest latin unable pact tent tonight enforce virtual";
+var mnemonic = "amazing swim age blanket skull welcome know fever suit core bundle nothing";

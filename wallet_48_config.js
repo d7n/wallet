@@ -1,1 +1,1 @@
-var mnemonic = "whisper notable measure maze pole process caught horn giraffe original exclude gate";
+var mnemonic = "harbor fabric rigid notable surround lesson real melody such duck syrup kite";

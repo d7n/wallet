@@ -1,1 +1,1 @@
-var mnemonic = "escape supreme tube rotate digital disagree jump connect mixed other cigar front";
+var mnemonic = "tower retire oven much fiction true deal oval bone napkin public loyal";

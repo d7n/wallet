@@ -1,1 +1,1 @@
-var mnemonic = "pen gather term betray minimum nasty banana believe unlock quote hazard budget";
+var mnemonic = "hire gold obey differ vague check blood stadium legal daring muffin mechanic";

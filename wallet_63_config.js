@@ -1,1 +1,1 @@
-var mnemonic = "nasty rifle spare mobile magic drift siren burden barrel common few broken";
+var mnemonic = "sunset affair camp layer wire filter episode potato boil violin swift lend";

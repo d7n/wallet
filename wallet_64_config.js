@@ -1,1 +1,1 @@
-var mnemonic = "can have solution arrest round firm grief off salad jeans physical boss";
+var mnemonic = "warfare upgrade kid wide hold exercise caught swarm glow muffin scorpion fog";

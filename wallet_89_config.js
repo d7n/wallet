@@ -1,1 +1,1 @@
-var mnemonic = "predict dignity sport leave turkey similar exhaust bid helmet train point define";
+var mnemonic = "view spatial artist pluck chuckle modify cat pig because deliver bachelor cheap";

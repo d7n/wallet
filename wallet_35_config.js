@@ -1,1 +1,1 @@
-var mnemonic = "pioneer present lab tank orbit junk case idea crop medal vacuum kiwi";
+var mnemonic = "also pig blouse treat soda never ribbon bacon armor critic brand oval";

@@ -1,1 +1,1 @@
-var mnemonic = "judge piano impact flash eye design isolate jazz mansion identify example photo";
+var mnemonic = "fun alley piano ancient above guess change add mind clown hair tomorrow";

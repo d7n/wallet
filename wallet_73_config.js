@@ -1,1 +1,1 @@
-var mnemonic = "wagon measure photo arrive slice crunch airport define snack moment birth winter";
+var mnemonic = "pink wave pattern parrot sustain bless entry device glove return soon fish";

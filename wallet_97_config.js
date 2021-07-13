@@ -1,1 +1,1 @@
-var mnemonic = "priority south soda casino thunder cram peanut spare circle crop syrup state";
+var mnemonic = "inch nasty boil file only miracle kitten pear dignity brick girl trophy";

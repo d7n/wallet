@@ -1,1 +1,1 @@
-var mnemonic = "reject glide chaos seven witness dice plate follow weather aspect diesel puzzle";
+var mnemonic = "entry remain seed escape surround flush man genius jealous super hero celery";

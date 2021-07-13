@@ -1,1 +1,1 @@
-var mnemonic = "nuclear unit morning wild frame license midnight cabbage ginger ignore gain apart";
+var mnemonic = "immense project chief entire source expand vault bracket scrub guess satisfy divert";

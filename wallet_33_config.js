@@ -1,1 +1,1 @@
-var mnemonic = "decrease donate assume solve country advance exotic solve major admit hurry ginger";
+var mnemonic = "pull boil federal dawn body song range quarter home quarter path across";

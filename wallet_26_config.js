@@ -1,1 +1,1 @@
-var mnemonic = "never funny indicate among apple dose area build horn van mean unit";
+var mnemonic = "video lumber unveil alarm thing margin enable purse celery issue history column";

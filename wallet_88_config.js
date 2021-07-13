@@ -1,1 +1,1 @@
-var mnemonic = "weasel crash mean crisp anxiety anxiety call celery combine saddle today yellow";
+var mnemonic = "three north strike liquid sign banner decade naive siren agent empower rely";

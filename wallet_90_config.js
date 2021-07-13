@@ -1,1 +1,1 @@
-var mnemonic = "beyond quarter catch news pupil act crowd evoke front stumble subject tail";
+var mnemonic = "original crazy famous rib north mutual identify local denial foil mango blast";

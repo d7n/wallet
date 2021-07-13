@@ -1,1 +1,1 @@
-var mnemonic = "city confirm major accuse stairs exit occur quiz weapon loan quit flag";
+var mnemonic = "say include company science faith arrest delay toast either romance choice canal";

@@ -1,1 +1,1 @@
-var mnemonic = "fly six script addict iron chunk comic song spare cage busy network";
+var mnemonic = "beef walk faculty under lottery rude fish inject page matrix goddess remove";

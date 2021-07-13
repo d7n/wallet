@@ -1,1 +1,1 @@
-var mnemonic = "orphan whisper grant arch never place bridge crowd night cute prison image";
+var mnemonic = "maze globe have eagle arrive airport inch kick cloud item call crouch";

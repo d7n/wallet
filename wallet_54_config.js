@@ -1,1 +1,1 @@
-var mnemonic = "tool control scissors virtual alert flash critic dry gun own print wolf";
+var mnemonic = "balance moral donate turkey flag require arm reopen cross midnight ribbon clinic";

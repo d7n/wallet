@@ -1,1 +1,1 @@
-var mnemonic = "critic bird one error output volume sauce vote number doll bitter swap";
+var mnemonic = "tissue farm foster gospel grain fault dad famous blue two priority bomb";

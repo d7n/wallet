@@ -1,1 +1,1 @@
-var mnemonic = "place level card jeans deputy birth since tornado dance miracle test scrub";
+var mnemonic = "lend person tone potato silly token bridge leisure someone street elephant hand";

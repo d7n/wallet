@@ -1,1 +1,1 @@
-var mnemonic = "bubble raw reveal amazing position rotate fall result novel dream tornado stable";
+var mnemonic = "cliff pet congress demise illegal love apology quiz write style carbon announce";

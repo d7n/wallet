@@ -1,1 +1,1 @@
-var mnemonic = "idle normal capable panic zone wood frog machine seek across board hard";
+var mnemonic = "sauce plug grass supply way woman fun cash emotion meat gym dumb";

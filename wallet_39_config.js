@@ -1,1 +1,1 @@
-var mnemonic = "enroll traffic welcome flight joke shop brush rotate size truly thumb magic";
+var mnemonic = "awkward program coil tourist rich bridge monkey caution tongue misery ready develop";

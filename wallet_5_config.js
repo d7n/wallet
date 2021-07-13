@@ -1,1 +1,1 @@
-var mnemonic = "season bulk switch neither follow crop infant truck dust fault goddess tree";
+var mnemonic = "shallow great venue deposit very shove drip turn renew trend boring panda";

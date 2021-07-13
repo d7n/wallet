@@ -1,1 +1,1 @@
-var mnemonic = "bottom early property head bamboo machine nation around theme oxygen fame reject";
+var mnemonic = "suit dice valley program craft chair harvest execute hint defense wife then";

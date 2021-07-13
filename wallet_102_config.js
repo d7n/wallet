@@ -1,1 +1,1 @@
-var mnemonic = "average agent kite left walk artefact negative below note palm afraid peace";
+var mnemonic = "casual design double gentle kingdom despair valid health number tooth dizzy negative";

@@ -1,1 +1,1 @@
-var mnemonic = "virtual embody embrace tomato other license stadium morning grow oblige bulb diet";
+var mnemonic = "canyon deliver surge chimney purity judge appear hawk artist client antenna stable";

@@ -1,1 +1,1 @@
-var mnemonic = "zero blur cargo swim genuine universe vapor must boat trade dilemma normal";
+var mnemonic = "unaware unable dad afraid flee sunny stage renew topple wide tide arrest";

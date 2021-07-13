@@ -1,1 +1,1 @@
-var mnemonic = "squeeze combine bullet scorpion close aspect dwarf south warfare shuffle milk shrimp";
+var mnemonic = "hunt host shine goat history firm enable later type rail word beach";

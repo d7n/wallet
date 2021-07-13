@@ -1,1 +1,1 @@
-var mnemonic = "thank hero left profit valley whisper simple link feed pony warrior when";
+var mnemonic = "teach once ski hybrid gain turn innocent quality inquiry frozen entry slim";

@@ -1,1 +1,1 @@
-var mnemonic = "sustain maximum size recipe excite dizzy world rather scare drop vote orbit";
+var mnemonic = "comfort govern danger monitor butter victory jungle rent gasp iron february crumble";

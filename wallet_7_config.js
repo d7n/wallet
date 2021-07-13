@@ -1,1 +1,1 @@
-var mnemonic = "flock famous achieve soup exercise develop spell ugly pattern grain subway spatial";
+var mnemonic = "vacuum valley capital sustain next forget gold chronic bid resist infant permit";

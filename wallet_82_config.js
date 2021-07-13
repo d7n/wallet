@@ -1,1 +1,1 @@
-var mnemonic = "then whip cat fitness shy burden damp goose update will cat found";
+var mnemonic = "empower smooth excess regular leaf aware discover lady silver stamp resemble tumble";

@@ -1,1 +1,1 @@
-var mnemonic = "help renew property cushion swing narrow main cruise ahead horror around result";
+var mnemonic = "twice wide wild attract swift easy design onion slab shaft finish math";

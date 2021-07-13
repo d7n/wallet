@@ -1,1 +1,1 @@
-var mnemonic = "insect twenty front forward nurse blood romance victory reject habit voice home";
+var mnemonic = "cousin there wild teach prefer orbit wait amazing frog fancy hedgehog awesome";

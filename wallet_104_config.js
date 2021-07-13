@@ -1,1 +1,1 @@
-var mnemonic = "lizard midnight carbon excess assume traffic brush cradle avoid detail moon kit";
+var mnemonic = "cargo inmate sugar couple wing replace sunny nothing fiction lazy decrease island";

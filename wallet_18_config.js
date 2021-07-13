@@ -1,1 +1,1 @@
-var mnemonic = "soap defense outside artist sock evidence team captain pole praise bicycle region";
+var mnemonic = "dwarf heavy kick drip yellow flower layer night script six first cinnamon";

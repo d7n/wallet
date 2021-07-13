@@ -1,1 +1,1 @@
-var mnemonic = "hard cool lecture topic toward child health bacon rich void safe stool";
+var mnemonic = "kiss height trash adult into brand what nuclear believe quarter token author";

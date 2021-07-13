@@ -1,1 +1,1 @@
-var mnemonic = "climb property aisle hold vocal ostrich animal law gather night acquire bone";
+var mnemonic = "heavy fence hint spare will cheese cannon own world reward solid simple";

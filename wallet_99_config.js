@@ -1,1 +1,1 @@
-var mnemonic = "parent clap maze candy oval scale skate school useful craft tilt asthma";
+var mnemonic = "sock leave giant blast social carpet panda echo glue since during wheat";

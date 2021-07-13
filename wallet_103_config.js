@@ -1,1 +1,1 @@
-var mnemonic = "canyon eternal unfair portion mammal master slender rural shiver play bright cement";
+var mnemonic = "script able hungry joy couch helmet magnet lunar grape canoe myth across";

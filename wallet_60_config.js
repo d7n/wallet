@@ -1,1 +1,1 @@
-var mnemonic = "life coffee hub scatter crane fault material high segment post equal wild";
+var mnemonic = "gym crumble swamp armor popular scatter galaxy luggage lab swear leader year";

@@ -1,1 +1,1 @@
-var mnemonic = "keep front world upon ozone horror enact inside pond divorce raven hedgehog";
+var mnemonic = "wasp crucial impact wait rotate cannon into benefit sugar stem royal talk";

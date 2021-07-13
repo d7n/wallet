@@ -1,1 +1,1 @@
-var mnemonic = "supreme decline grace capable hire raise tired liberty canyon timber paddle private";
+var mnemonic = "reopen nut focus armed ripple wear sing common canvas fish decide below";

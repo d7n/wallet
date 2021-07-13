@@ -1,1 +1,1 @@
-var mnemonic = "fancy team carry burst fruit practice armor news grow name agree garment";
+var mnemonic = "ahead clump wife carry appear either toy ill pattern home dismiss skate";

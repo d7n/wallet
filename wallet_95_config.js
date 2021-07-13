@@ -1,1 +1,1 @@
-var mnemonic = "stable potato office draft light rare shove library decide feature gate mad";
+var mnemonic = "room tower render excite video boring dentist opera sauce abuse pitch foam";

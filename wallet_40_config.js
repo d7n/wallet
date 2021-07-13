@@ -1,1 +1,1 @@
-var mnemonic = "luxury crane spot monster force awful bid front minimum police hollow amount";
+var mnemonic = "around throw shiver around myth crystal wine impact avoid goose assault upon";

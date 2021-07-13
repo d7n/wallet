@@ -1,1 +1,1 @@
-var mnemonic = "sick hybrid ghost truck busy laugh hire furnace toilet beach birth knock";
+var mnemonic = "unusual fat want early scrap angle creek obtain spread concert ripple remove";

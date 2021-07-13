@@ -1,1 +1,1 @@
-var mnemonic = "pitch shove evoke scan entry shell cash consider input copy alcohol smart";
+var mnemonic = "ladder cube marine apple vital novel youth leave tray auto noble top";

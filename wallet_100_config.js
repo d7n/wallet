@@ -1,1 +1,1 @@
-var mnemonic = "gravity grow click rapid window people symptom rapid twenty there purity much";
+var mnemonic = "state level unfair diamond sketch face fold bulk jungle behind review outer";

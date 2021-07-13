@@ -1,1 +1,1 @@
-var mnemonic = "fetch attend cash gesture course abstract daughter hybrid poem mixture sample clarify";
+var mnemonic = "glide dress sting hundred license electric parent enrich style era trust pulse";

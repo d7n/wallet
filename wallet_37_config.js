@@ -1,1 +1,1 @@
-var mnemonic = "swim response across blame west mutual fortune alien regular wedding inside story";
+var mnemonic = "asset acoustic release three thank skate rural wrap hazard second expect obey";

@@ -1,1 +1,1 @@
-var mnemonic = "stomach ring auto attack cannon obey turkey fade canal trash butter cinnamon";
+var mnemonic = "today cable dust head combine drive practice nominee carry south tree water";

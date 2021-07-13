@@ -1,1 +1,1 @@
-var mnemonic = "swarm sudden such recycle foam aerobic pupil extend route purchase roof rescue";
+var mnemonic = "boost element drama area nest blush cake loan bag much welcome melody";

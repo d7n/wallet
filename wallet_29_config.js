@@ -1,1 +1,1 @@
-var mnemonic = "finger carbon fox boat solution cricket choice pond item phrase put leg";
+var mnemonic = "simple random year start mule merit swear dinner bonus kid feed autumn";

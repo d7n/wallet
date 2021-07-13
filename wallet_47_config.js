@@ -1,1 +1,1 @@
-var mnemonic = "decorate feature squirrel ship board expose finish video rally small envelope wine";
+var mnemonic = "best refuse curtain drastic twist blossom hard episode sock purpose brief dawn";

@@ -1,1 +1,1 @@
-var mnemonic = "antique laundry void prepare arena stereo friend owner simple orange awful resource";
+var mnemonic = "theme lizard client blast eternal super upper shallow coyote shift rack burden";

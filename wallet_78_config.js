@@ -1,1 +1,1 @@
-var mnemonic = "pull chimney layer fatigue punch tomorrow acoustic demand height save hammer scene";
+var mnemonic = "truth search pull daughter order voyage leg one whip orient help click";

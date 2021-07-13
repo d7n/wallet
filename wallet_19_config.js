@@ -1,1 +1,1 @@
-var mnemonic = "occur praise wait coyote fork clip enroll easy sustain connect strike portion";
+var mnemonic = "mask dumb situate budget peace other width scout issue clap wage rather";

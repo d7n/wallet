@@ -1,1 +1,1 @@
-var mnemonic = "rocket raven basic mouse margin deposit way average garlic inmate carbon become";
+var mnemonic = "large ability rib radio degree return spare health globe mutual usual reduce";

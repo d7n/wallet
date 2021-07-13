@@ -1,1 +1,1 @@
-var mnemonic = "still trend pig false color decade divorce skull spawn fence curtain hollow";
+var mnemonic = "rebuild grace fish seminar work wise climb alter memory cliff heavy rent";

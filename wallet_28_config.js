@@ -1,1 +1,1 @@
-var mnemonic = "alone twenty seek normal galaxy mind crater cake venture scheme film dirt";
+var mnemonic = "credit topple visual artwork work elbow lonely gym insect action harvest eagle";

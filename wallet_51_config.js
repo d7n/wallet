@@ -1,1 +1,1 @@
-var mnemonic = "craft play truck warm letter swap danger honey divorce entire mixture flight";
+var mnemonic = "swift name oblige pull digital tortoise turn dune dance clay brain deny";

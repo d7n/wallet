@@ -1,1 +1,1 @@
-var mnemonic = "drill morning coral indicate below leave exercise review post ketchup success tide";
+var mnemonic = "latin dawn repair lazy stage idea runway guide divide physical nothing walnut";

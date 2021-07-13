@@ -1,1 +1,1 @@
-var mnemonic = "ignore seek puzzle turkey shell fame sand vacuum often electric script able";
+var mnemonic = "shiver oak gather draw ill source payment scheme pudding hub clarify almost";

@@ -1,1 +1,1 @@
-var mnemonic = "point orphan conduct zone pool twin label glass dress horse disagree ship";
+var mnemonic = "follow autumn sentence small deputy sphere pencil planet another wine candy convince";

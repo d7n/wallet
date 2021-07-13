@@ -1,1 +1,1 @@
-var mnemonic = "left crouch creek mercy fiscal sign sing story mixed slam join sail";
+var mnemonic = "sword accuse orchard crouch model street leisure language noodle joke skate clap";

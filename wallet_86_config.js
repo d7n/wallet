@@ -1,1 +1,1 @@
-var mnemonic = "kiss artefact dignity gaze govern assist nice sing usual black daring minimum";
+var mnemonic = "tomorrow phone feel option ethics sing lava alarm exercise oblige maple mobile";

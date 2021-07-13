@@ -1,1 +1,1 @@
-var mnemonic = "venture this mushroom cycle learn witness bus fit bird curve stairs marine";
+var mnemonic = "foot reopen immune before eight current pulse spell steak scheme forest weather";

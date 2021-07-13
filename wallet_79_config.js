@@ -1,1 +1,1 @@
-var mnemonic = "pole humble wagon matrix shoulder mean magic cradle solution walk clever tip";
+var mnemonic = "detail grocery refuse ten salute dismiss viable fossil area analyst success actress";

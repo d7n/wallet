@@ -1,1 +1,1 @@
-var mnemonic = "slab photo child month argue ride federal purchase icon squirrel sell theory";
+var mnemonic = "mail over left bench gravity stamp invite wall solid soap kit anger";
