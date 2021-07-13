@@ -1,1 +1,1 @@
-var mnemonic = "crowd laptop round minor solid anxiety mandate smile give chapter toward proof";
+var mnemonic = "camera blur siren foster glory return rabbit brave mandate floor way crumble";

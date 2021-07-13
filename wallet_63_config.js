@@ -1,1 +1,1 @@
-var mnemonic = "celery turtle wealth fresh alcohol chuckle kid oppose any mouse share youth";
+var mnemonic = "squirrel fashion index tower benefit lesson upgrade weird public shrimp loyal abstract";

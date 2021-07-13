@@ -1,1 +1,1 @@
-var mnemonic = "nephew decorate ride bracket baby bike van build nurse hand dog wide";
+var mnemonic = "extra firm satisfy indicate audit champion uniform prize dentist need giggle spin";

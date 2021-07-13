@@ -1,1 +1,1 @@
-var mnemonic = "decrease retire extra load heavy neck book antenna hammer explain lady pride";
+var mnemonic = "field govern orphan gallery matter orphan depth decorate enhance animal note auto";

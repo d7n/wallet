@@ -1,1 +1,1 @@
-var mnemonic = "average artwork chaos olive fresh mammal future inject pudding stuff knife idea";
+var mnemonic = "brave bless inside merry way inflict dial smooth shiver brass goddess bottom";

@@ -1,1 +1,1 @@
-var mnemonic = "crop olive announce gift fish gap shallow someone avoid slice race world";
+var mnemonic = "immense bonus riot gallery country advance wide room transfer head iron luggage";

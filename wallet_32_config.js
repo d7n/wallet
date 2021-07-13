@@ -1,1 +1,1 @@
-var mnemonic = "swamp squirrel differ bitter helmet ten spy awkward turkey brisk hood churn";
+var mnemonic = "common blanket seed room stage begin donor target miracle fancy hip endorse";

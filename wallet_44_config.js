@@ -1,1 +1,1 @@
-var mnemonic = "pact tape delay poet slow salmon tobacco wash law scene napkin say";
+var mnemonic = "jeans become taxi symptom broom unlock undo tuition emerge steel blue life";

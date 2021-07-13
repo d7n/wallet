@@ -1,1 +1,1 @@
-var mnemonic = "size cheap emerge topic surprise topic silent recall cost alarm upset jealous";
+var mnemonic = "trigger hard wild panther gesture art dentist express oak toddler borrow critic";

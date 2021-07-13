@@ -1,1 +1,1 @@
-var mnemonic = "hidden quote endorse august memory people boost dignity opera drift never abstract";
+var mnemonic = "text soft animal tennis day raise congress mom measure spray cube march";

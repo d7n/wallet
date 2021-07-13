@@ -1,1 +1,1 @@
-var mnemonic = "parrot false erosion dignity play brass elder fall flight soda flush base";
+var mnemonic = "fish fade give reopen betray dish worth ghost verb one laugh urge";

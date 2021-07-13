@@ -1,1 +1,1 @@
-var mnemonic = "attend lumber network labor eye original valid brown before copper antique small";
+var mnemonic = "ocean endorse bounce pizza weekend agree orange month snake when never cube";

@@ -1,1 +1,1 @@
-var mnemonic = "desk alley blossom stock brown pride typical notable scale case cabin idea";
+var mnemonic = "laptop pigeon picture accuse jar loud drive unhappy venture peasant law boss";

@@ -1,1 +1,1 @@
-var mnemonic = "mammal athlete convince main where pilot federal leopard case fantasy cushion december";
+var mnemonic = "expire portion shy salon vanish congress asset prosper index forest decide punch";

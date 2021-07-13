@@ -1,1 +1,1 @@
-var mnemonic = "child rug speed flee lady dawn strike patient short garment ball penalty";
+var mnemonic = "protect spatial owner order basket husband eagle castle garbage near material trade";

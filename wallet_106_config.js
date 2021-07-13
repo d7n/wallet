@@ -1,1 +1,1 @@
-var mnemonic = "enhance adjust goddess lens addict cream pool chicken width tape learn crawl";
+var mnemonic = "basic noble satisfy cover advance mammal artefact like virus boss stone throw";

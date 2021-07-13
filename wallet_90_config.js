@@ -1,1 +1,1 @@
-var mnemonic = "off zoo rather trouble field cheap roast meadow donkey crack anger dilemma";
+var mnemonic = "basic mix speed whisper note mix glide office length solid seat neck";

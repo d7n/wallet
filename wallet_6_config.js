@@ -1,1 +1,1 @@
-var mnemonic = "mixture cloth drama fetch panda unaware walk swarm spatial wet school raw";
+var mnemonic = "develop picnic bus quantum citizen crime all cave used pool project saddle";

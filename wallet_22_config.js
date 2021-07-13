@@ -1,1 +1,1 @@
-var mnemonic = "virtual indicate river amateur stone peanut project duck garden robust rival skin";
+var mnemonic = "mention toward crouch better sleep recycle ketchup copy fox purchase glare cause";

@@ -1,1 +1,1 @@
-var mnemonic = "noble proud solution buyer couch street better nose option limb boy legend";
+var mnemonic = "feel below trial put perfect wheel tiny reduce trigger alien shift grunt";

@@ -1,1 +1,1 @@
-var mnemonic = "coach crystal coffee list scare voyage solid health cheap wool tonight squeeze";
+var mnemonic = "top under east chuckle shiver lawsuit park sample sleep long burden dose";

@@ -1,1 +1,1 @@
-var mnemonic = "service omit galaxy oblige hungry course cover jealous round name trip rigid";
+var mnemonic = "story chest swap frost label display noble under bunker hybrid address suit";

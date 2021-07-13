@@ -1,1 +1,1 @@
-var mnemonic = "material example wage brush blouse limb lonely olympic have pill culture shy";
+var mnemonic = "crowd ketchup prefer virus violin snake satisfy dove toast exile foam test";

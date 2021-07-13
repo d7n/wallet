@@ -1,1 +1,1 @@
-var mnemonic = "bachelor topple shift victory deliver school silent sudden night demand lunch rotate";
+var mnemonic = "old clinic legal wave young trap elevator interest tunnel border panel two";

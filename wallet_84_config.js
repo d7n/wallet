@@ -1,1 +1,1 @@
-var mnemonic = "gather style lumber excite exist elite castle end sudden hover culture room";
+var mnemonic = "book april banana bulk height update village gain purity shed drip setup";

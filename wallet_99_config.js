@@ -1,1 +1,1 @@
-var mnemonic = "right before section absorb subway also diagram feature false torch gym include";
+var mnemonic = "bulk misery you scissors rifle reason rally possible rather fuel tuition wrong";

@@ -1,1 +1,1 @@
-var mnemonic = "slender atom best loan asset hybrid ribbon fit gym cause document math";
+var mnemonic = "hidden empty broccoli enjoy onion clay quarter dilemma desert media riot crash";

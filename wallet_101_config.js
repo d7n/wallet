@@ -1,1 +1,1 @@
-var mnemonic = "undo razor thing attend ancient frame lift keen entry settle world remove";
+var mnemonic = "soon scatter okay slush gap lift arrest rubber embark powder fine retreat";

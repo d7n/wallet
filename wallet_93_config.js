@@ -1,1 +1,1 @@
-var mnemonic = "donate wet enjoy pair cloth lion spread ticket better praise review essence";
+var mnemonic = "join neglect arm cabbage stem enemy digital fat deputy because endless city";

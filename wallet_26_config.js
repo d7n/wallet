@@ -1,1 +1,1 @@
-var mnemonic = "bind outer merge west proof panic render service mind oyster badge tuition";
+var mnemonic = "rich learn lunch amused west prepare prefer scorpion regular just three lyrics";

@@ -1,1 +1,1 @@
-var mnemonic = "latin mixture unique fault road prevent ancient audit fruit expand invite tree";
+var mnemonic = "exile return brain soldier wealth luggage bitter win admit destroy erase shed";

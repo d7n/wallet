@@ -1,1 +1,1 @@
-var mnemonic = "search rebel lawn palace sustain firm lunch buffalo liar amount boring confirm";
+var mnemonic = "conduct income visa near grant will evil planet shoot envelope napkin middle";

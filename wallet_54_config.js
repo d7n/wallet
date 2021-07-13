@@ -1,1 +1,1 @@
-var mnemonic = "rival supply gadget brass bright logic lab grunt inquiry solution lazy gold";
+var mnemonic = "pass blouse laptop knee jaguar radio sunny zero hat symbol shallow oil";

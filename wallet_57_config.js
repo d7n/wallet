@@ -1,1 +1,1 @@
-var mnemonic = "undo beyond enjoy abstract aspect nice drift cram pen smoke that soul";
+var mnemonic = "page rough must correct cube divert twin anchor palm smooth pyramid right";

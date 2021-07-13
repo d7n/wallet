@@ -1,1 +1,1 @@
-var mnemonic = "grass arm luggage alter party size sure enact law mistake crime tonight";
+var mnemonic = "talent spice nose myth field analyst ring rely squirrel sketch option fix";

@@ -1,1 +1,1 @@
-var mnemonic = "frozen morning flavor misery news curious morning keen twin tail stock main";
+var mnemonic = "sand brain learn ketchup give federal pet cause license friend inspire benefit";

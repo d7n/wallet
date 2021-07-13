@@ -1,1 +1,1 @@
-var mnemonic = "hurt style bike pencil step clock bag essence flash naive march either";
+var mnemonic = "need express powder usage february simple predict vacant until slush ice example";

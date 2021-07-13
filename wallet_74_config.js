@@ -1,1 +1,1 @@
-var mnemonic = "fit also lock beauty fall mail inmate festival large trick adapt plate";
+var mnemonic = "armor afraid crystal walk minute vendor suffer nuclear often noise today elder";

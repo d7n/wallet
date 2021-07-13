@@ -1,1 +1,1 @@
-var mnemonic = "survey math ensure tail capable say token gorilla tumble access surprise chat";
+var mnemonic = "metal front satoshi nut prison cricket element erupt video outside boil cabbage";

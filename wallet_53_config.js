@@ -1,1 +1,1 @@
-var mnemonic = "ask cause cancel random few peanut fatigue old pioneer aunt inner village";
+var mnemonic = "sword price debris salt bicycle cup family supply involve butter company jungle";

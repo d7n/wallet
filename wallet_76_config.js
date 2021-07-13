@@ -1,1 +1,1 @@
-var mnemonic = "bean curtain pioneer arm lion desk song service before trim omit element";
+var mnemonic = "language upper domain equal already limit rabbit gun memory cabbage audit horror";

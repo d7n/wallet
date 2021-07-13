@@ -1,1 +1,1 @@
-var mnemonic = "program snap zebra fiscal outdoor ocean safe theme assault cinnamon jelly surprise";
+var mnemonic = "lyrics rough boil resist jaguar charge labor pattern pig crisp margin knee";

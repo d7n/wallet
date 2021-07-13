@@ -1,1 +1,1 @@
-var mnemonic = "stone shop summer panda sign fat reduce card alcohol run broccoli lens";
+var mnemonic = "keep vivid combine pipe mansion word permit pulse super useless october catalog";

@@ -1,1 +1,1 @@
-var mnemonic = "ginger question cream isolate account inmate castle faith theory journey swallow promote";
+var mnemonic = "truly buffalo solve pave nest minor fringe media alpha neglect future industry";

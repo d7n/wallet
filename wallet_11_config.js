@@ -1,1 +1,1 @@
-var mnemonic = "taste hollow wedding any hockey copy chunk lecture invite erode base quantum";
+var mnemonic = "claim proud struggle false brass result fabric hawk aspect worth car pear";

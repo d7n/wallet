@@ -1,1 +1,1 @@
-var mnemonic = "regular pattern world stool coyote chimney day success profit hospital cotton ahead";
+var mnemonic = "parade surge ready run trick violin peasant myth crane thumb party hire";

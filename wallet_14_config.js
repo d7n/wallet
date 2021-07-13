@@ -1,1 +1,1 @@
-var mnemonic = "fresh sing loyal fatigue indicate able bone capable borrow square person any";
+var mnemonic = "elegant combine idle battle cave bonus start boat famous boil detect hen";

@@ -1,1 +1,1 @@
-var mnemonic = "canoe north mosquito gauge weasel crucial thunder faith use fork toy organ";
+var mnemonic = "tray brave gold all surface box resist ivory fury business swift hand";

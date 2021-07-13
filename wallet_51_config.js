@@ -1,1 +1,1 @@
-var mnemonic = "tragic alert gift hamster innocent tube police indicate poem congress monitor oven";
+var mnemonic = "sibling inform march chunk topic become resource lemon catch town crucial sponsor";

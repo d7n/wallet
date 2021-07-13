@@ -1,1 +1,1 @@
-var mnemonic = "ensure borrow hammer check innocent gown dragon glue verify suggest vehicle broccoli";
+var mnemonic = "merge produce fashion three group web cover color cause antenna salmon color";

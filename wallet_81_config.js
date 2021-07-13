@@ -1,1 +1,1 @@
-var mnemonic = "sure clump burst degree donkey prefer office valve pair report olympic rookie";
+var mnemonic = "merit face clinic member legal satisfy rapid maximum edge journey close common";

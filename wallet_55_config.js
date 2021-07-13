@@ -1,1 +1,1 @@
-var mnemonic = "spread two topic perfect story sadness wealth truth margin box want seek";
+var mnemonic = "design endless case federal parent rural desk art aim girl claw refuse";

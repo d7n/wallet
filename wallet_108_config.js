@@ -1,1 +1,1 @@
-var mnemonic = "cart leaf artefact paddle pride under artwork sausage host fan truck ceiling";
+var mnemonic = "fever general enhance pink farm bomb escape discover blast often approve angry";

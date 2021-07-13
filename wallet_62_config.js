@@ -1,1 +1,1 @@
-var mnemonic = "top expire box unique sea board manual dose tattoo eye provide border";
+var mnemonic = "mesh small team absent keen keen verify favorite unfair mutual tip kit";

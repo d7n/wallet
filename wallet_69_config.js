@@ -1,1 +1,1 @@
-var mnemonic = "scrub almost use double recycle secret erosion ignore glow task memory current";
+var mnemonic = "drastic reject crash task swallow already impact payment tomato enable remove simple";

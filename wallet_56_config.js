@@ -1,1 +1,1 @@
-var mnemonic = "exhibit install benefit hedgehog adjust remain trade adult balcony crowd traffic fiction";
+var mnemonic = "cricket expand clinic august time silk symbol wait winter maid enact lazy";

@@ -1,1 +1,1 @@
-var mnemonic = "range radio pretty diesel hill drift range first canvas glimpse image pupil";
+var mnemonic = "keep tomorrow sight fee sport frame nasty offer pony claim load sport";

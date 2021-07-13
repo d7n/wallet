@@ -1,1 +1,1 @@
-var mnemonic = "midnight dawn faint park uniform blush donor rhythm axis rabbit shiver attend";
+var mnemonic = "jump sail blanket alarm mobile hollow duck cause error donor poet then";

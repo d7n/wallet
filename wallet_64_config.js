@@ -1,1 +1,1 @@
-var mnemonic = "wish deliver danger arrest nation inherit board want success reopen fit clip";
+var mnemonic = "engine garden okay orbit finish aim desk profit remember matrix attitude divorce";

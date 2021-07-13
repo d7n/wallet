@@ -1,1 +1,1 @@
-var mnemonic = "rug kidney spider dial gallery balcony proud parent ready spoil kick feel";
+var mnemonic = "town mosquito unlock pretty unknown give play either ivory admit skull garment";

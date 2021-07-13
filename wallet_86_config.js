@@ -1,1 +1,1 @@
-var mnemonic = "mask fever crash second segment second crumble fly involve sketch punch term";
+var mnemonic = "unusual deposit endorse scheme law turtle print still armed dish stick ostrich";

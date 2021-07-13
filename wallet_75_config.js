@@ -1,1 +1,1 @@
-var mnemonic = "miss purse essence daughter service valley float asthma rice rally valley august";
+var mnemonic = "bag amateur coin april cruise buzz eternal aware urge extend empty cereal";

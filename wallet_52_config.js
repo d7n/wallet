@@ -1,1 +1,1 @@
-var mnemonic = "roof bone grow coffee plastic penalty hidden spin orient absent stamp usual";
+var mnemonic = "consider melody priority electric nasty purpose rookie speak loyal protect opera bamboo";

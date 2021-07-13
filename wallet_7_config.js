@@ -1,1 +1,1 @@
-var mnemonic = "void stomach crouch scheme defense corn ghost young unhappy forget simple hard";
+var mnemonic = "danger section deputy gadget market document grid denial earth portion brief allow";

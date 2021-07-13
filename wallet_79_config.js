@@ -1,1 +1,1 @@
-var mnemonic = "security cup appear clean tip power offer torch mimic arch material blouse";
+var mnemonic = "theme shrimp pupil give machine bamboo utility dose garden torch october nurse";

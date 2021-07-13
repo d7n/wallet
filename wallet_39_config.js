@@ -1,1 +1,1 @@
-var mnemonic = "cloth repair hero prosper erase discover exist about visa soup scale fish";
+var mnemonic = "ribbon tomorrow bomb proof crew lake deputy whip obtain rate silk rebuild";

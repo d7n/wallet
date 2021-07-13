@@ -1,1 +1,1 @@
-var mnemonic = "buddy reflect tissue badge broom bracket elevator garden coil sausage fury rhythm";
+var mnemonic = "pitch order trick rebel loop lumber remove bulk music soup taste energy";

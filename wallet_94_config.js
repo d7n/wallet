@@ -1,1 +1,1 @@
-var mnemonic = "blast prepare shock theme nuclear gloom execute hamster uncover broccoli this focus";
+var mnemonic = "cruise lion kangaroo crew pair hood diesel whisper twin much volcano purpose";

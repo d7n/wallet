@@ -1,1 +1,1 @@
-var mnemonic = "finger oak leg sell someone able void toe toilet rail toast blossom";
+var mnemonic = "spawn body pigeon orbit gasp rubber bacon path opinion gesture mad banner";

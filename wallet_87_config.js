@@ -1,1 +1,1 @@
-var mnemonic = "repair finger saddle silent divorce venture gossip salute bridge return latin please";
+var mnemonic = "gloom team magic mean cable alcohol meadow couple december female announce review";

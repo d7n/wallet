@@ -1,1 +1,1 @@
-var mnemonic = "unfold anxiety boost auto artefact cloth vendor solar all gym seminar best";
+var mnemonic = "expand more circle wear include average trigger equal east moment portion manage";

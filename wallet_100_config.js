@@ -1,1 +1,1 @@
-var mnemonic = "dragon upper simple hawk crouch chest sudden object word color right glow";
+var mnemonic = "dish effort flock mesh surface dial name afraid warrior sport lunch text";

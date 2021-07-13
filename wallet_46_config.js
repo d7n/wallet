@@ -1,1 +1,1 @@
-var mnemonic = "reason tenant this renew fat trouble cruise machine sword nothing anxiety say";
+var mnemonic = "either unhappy sail behave mosquito phrase hawk cable daughter file plug crater";

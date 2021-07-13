@@ -1,1 +1,1 @@
-var mnemonic = "physical cotton net coil film master smart harvest outer recycle prosper supply";
+var mnemonic = "breeze evolve prevent clever eye device diet power old danger father hawk";

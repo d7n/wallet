@@ -1,1 +1,1 @@
-var mnemonic = "law charge crawl gather federal congress walnut first file equal couple bring";
+var mnemonic = "diet lobster tennis reflect abstract tomato person mule ozone direct juice shaft";

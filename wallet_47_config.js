@@ -1,1 +1,1 @@
-var mnemonic = "yellow category load below rose enact milk magic direct senior girl visa";
+var mnemonic = "monster glide work wrist phrase seminar lizard recycle panic join suit put";

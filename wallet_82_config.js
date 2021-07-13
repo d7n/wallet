@@ -1,1 +1,1 @@
-var mnemonic = "traffic female unique catch basic fabric barrel tape resemble surround crop silver";
+var mnemonic = "soccer illegal aspect myth keep giggle oak bag genuine meat since coin";

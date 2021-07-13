@@ -1,1 +1,1 @@
-var mnemonic = "blast crime ostrich risk pole zone dream track unveil magnet series surface";
+var mnemonic = "chronic spoon quality aerobic wide umbrella cliff siren neglect orbit fragile stumble";

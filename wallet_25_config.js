@@ -1,1 +1,1 @@
-var mnemonic = "gorilla tip hospital math gap nasty word kid six ladder able brother";
+var mnemonic = "screen debris wolf couple miss baby average pepper transfer merge phrase auction";

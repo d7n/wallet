@@ -1,1 +1,1 @@
-var mnemonic = "alert father hood nice orbit end enemy unit kid biology wire dash";
+var mnemonic = "define salad eyebrow base into wagon coral indicate point expand famous apart";

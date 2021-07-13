@@ -1,1 +1,1 @@
-var mnemonic = "scene million there decade can plug awake aisle dinosaur enrich plastic giggle";
+var mnemonic = "grass funny evolve recycle home claim ordinary nurse slogan away across awake";

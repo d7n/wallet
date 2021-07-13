@@ -1,1 +1,1 @@
-var mnemonic = "slab sample spy fox light noodle unfold width effort vintage start trap";
+var mnemonic = "edge acid elevator whip employ gain urban satisfy march observe later round";

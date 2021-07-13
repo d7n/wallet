@@ -1,1 +1,1 @@
-var mnemonic = "equip cool song grunt roast medal spell ecology shadow clap usual insane";
+var mnemonic = "vessel actor ranch tornado salon quality episode dose drip major act quick";

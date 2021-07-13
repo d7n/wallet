@@ -1,1 +1,1 @@
-var mnemonic = "daring craft punch judge effort okay nice connect polar marine ranch whisper";
+var mnemonic = "apple expire denial kidney prosper wife light net orange pond picnic pretty";

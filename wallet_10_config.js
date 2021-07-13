@@ -1,1 +1,1 @@
-var mnemonic = "wide bridge regret pause tobacco biology cheap require live rhythm rough seminar";
+var mnemonic = "rebuild left play size hawk save main scare forward earn marine ill";

@@ -1,1 +1,1 @@
-var mnemonic = "grow kingdom universe note drill depend seek mixture top pool odor grass";
+var mnemonic = "dash tonight model ship seminar twenty book wait speed robot journey solid";

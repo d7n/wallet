@@ -1,1 +1,1 @@
-var mnemonic = "harsh canoe candy spring debris jump style cherry throw kit share tribe";
+var mnemonic = "ski tent glare hip rhythm oyster nasty figure define pelican stage absorb";

@@ -1,1 +1,1 @@
-var mnemonic = "saddle erosion lizard hole castle maple access rude upset bless lazy creek";
+var mnemonic = "loop truck inside moment duck shoot rapid bone dance echo badge verb";

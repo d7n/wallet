@@ -1,1 +1,1 @@
-var mnemonic = "proud month palace brush educate diagram sad envelope fatigue poet toy fish";
+var mnemonic = "elite used grunt company street disease fame valid smoke distance cancel game";

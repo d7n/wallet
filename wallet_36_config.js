@@ -1,1 +1,1 @@
-var mnemonic = "motor valve congress tuition diamond muscle switch mention conduct gain month pond";
+var mnemonic = "anchor more super arrest find rebel rare grocery ostrich term fire depth";

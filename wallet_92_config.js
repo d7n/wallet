@@ -1,1 +1,1 @@
-var mnemonic = "shop trash warrior remind sunset can remain toward pyramid afford youth act";
+var mnemonic = "eye glove gauge parade swift away firm bench wise desert rookie ahead";

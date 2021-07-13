@@ -1,1 +1,1 @@
-var mnemonic = "example zoo slight weird alter throw deer high odor finger tomorrow bench";
+var mnemonic = "blouse cereal ready cook alarm estate dwarf ivory banana pistol disagree report";

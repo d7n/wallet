@@ -1,1 +1,1 @@
-var mnemonic = "pool feature strategy satisfy topple athlete demise ring promote cigar fence business";
+var mnemonic = "note leisure genre sure catch vibrant story toss skirt entry tragic behind";

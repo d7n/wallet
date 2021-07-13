@@ -1,1 +1,1 @@
-var mnemonic = "virtual sound menu crystal dismiss gather act group mobile believe jar spice";
+var mnemonic = "off describe pink security excuse biology subway west tray broom push carbon";
