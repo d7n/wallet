@@ -1,1 +1,1 @@
-var mnemonic = "relax property arrive culture brisk loop ten grab once survey prefer smooth";
+var mnemonic = "fold neutral museum second syrup amateur wait rail punch base web jump";

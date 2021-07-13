@@ -1,1 +1,1 @@
-var mnemonic = "give candy purity daughter suggest load cup control comic half ask obey";
+var mnemonic = "token keep car battle there illness cover obscure divorce expire crime bid";

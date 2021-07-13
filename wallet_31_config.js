@@ -1,1 +1,1 @@
-var mnemonic = "segment shop video sure enrich add cruel side legend shop easy address";
+var mnemonic = "south dutch crystal knee soccer nephew real stumble runway prosper unusual pluck";

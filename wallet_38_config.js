@@ -1,1 +1,1 @@
-var mnemonic = "seed physical someone stick make base price sunny excess fork chapter veteran";
+var mnemonic = "disorder sorry what century daring toilet apple curve sphere hard grace civil";

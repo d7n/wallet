@@ -1,1 +1,1 @@
-var mnemonic = "runway daughter roof drum jewel annual faith fragile absurd way other arrest";
+var mnemonic = "gorilla wrong spike judge length print breeze verify depart exhaust eyebrow viable";

@@ -1,1 +1,1 @@
-var mnemonic = "impulse friend wall spike stable matter power thunder sea survey spawn lawsuit";
+var mnemonic = "arrive program grief hand tomorrow usual father patch laundry target jealous embrace";

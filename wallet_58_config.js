@@ -1,1 +1,1 @@
-var mnemonic = "brush dry wood file divide shallow lift weapon cream reflect option tape";
+var mnemonic = "cloth sausage rescue deny cost erosion immense cart feel fabric coach long";

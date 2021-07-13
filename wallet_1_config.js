@@ -1,1 +1,1 @@
-var mnemonic = "interest across arena guide rely step spend demise regret social erase height";
+var mnemonic = "latin quick pattern jaguar abstract festival moment negative useless twist raw solve";

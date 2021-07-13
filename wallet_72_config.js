@@ -1,1 +1,1 @@
-var mnemonic = "blade film common more green south develop bridge relax digital term forest";
+var mnemonic = "banner any culture boat talent roast crew music black foot warm fog";

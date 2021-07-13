@@ -1,1 +1,1 @@
-var mnemonic = "behave rule life between fix people peasant gauge become glad unlock thumb";
+var mnemonic = "action when license crime swing limb rebel size cheese response left sheriff";

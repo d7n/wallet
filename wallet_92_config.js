@@ -1,1 +1,1 @@
-var mnemonic = "nut split merry mammal accuse steel differ anger lens found matrix grow";
+var mnemonic = "need music silver rib exist leisure device quarter glad kit great puzzle";

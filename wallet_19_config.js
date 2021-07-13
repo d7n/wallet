@@ -1,1 +1,1 @@
-var mnemonic = "collect release hint snake wire tent gun screen bind enter soul radar";
+var mnemonic = "math omit casino shallow trick primary noodle educate smoke chaos sleep amused";

@@ -1,1 +1,1 @@
-var mnemonic = "palm lunch negative strike myself miss twin whip effort spirit excess change";
+var mnemonic = "town nation hurt tent chapter mutual report employ elephant follow lens army";

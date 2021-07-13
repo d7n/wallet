@@ -1,1 +1,1 @@
-var mnemonic = "club potato cave junior regular dirt sugar kingdom spread energy pattern noodle";
+var mnemonic = "sorry butter long depend leisure chaos yard upset inform flush broom expect";

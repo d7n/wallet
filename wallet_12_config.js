@@ -1,1 +1,1 @@
-var mnemonic = "witness cactus announce trip oxygen only myth stove path spot drop empower";
+var mnemonic = "usual vacant off clump raw nation useful choose fall plastic fossil multiply";

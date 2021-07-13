@@ -1,1 +1,1 @@
-var mnemonic = "honey load scare glimpse ghost hotel point brief truly end chicken hammer";
+var mnemonic = "humor captain hawk hockey vault adapt brand lady junior impulse short arrange";

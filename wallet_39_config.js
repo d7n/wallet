@@ -1,1 +1,1 @@
-var mnemonic = "elbow middle lab glance burst minute future useful lecture consider inflict nuclear";
+var mnemonic = "people patient green marine mercy vital utility field subject pass lizard extra";

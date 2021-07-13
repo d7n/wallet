@@ -1,1 +1,1 @@
-var mnemonic = "traffic where action neglect smooth vibrant shine thank ceiling vanish delay cat";
+var mnemonic = "essence leopard twice season razor cruise album note cabbage hood any protect";

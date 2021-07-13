@@ -1,1 +1,1 @@
-var mnemonic = "degree helmet general inject child cool occur alcohol reduce smoke chest perfect";
+var mnemonic = "curtain soda popular say spike cancel butter rotate attend you access permit";

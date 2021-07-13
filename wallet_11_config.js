@@ -1,1 +1,1 @@
-var mnemonic = "youth dress gesture van pumpkin resource cherry phrase life noodle crazy switch";
+var mnemonic = "journey uncle double basket critic alter wood hold believe report online educate";

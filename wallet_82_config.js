@@ -1,1 +1,1 @@
-var mnemonic = "mass absurd random street leg fix puppy settle shop strategy milk journey";
+var mnemonic = "cereal benefit phrase horse manual solid ice hybrid response boring whip shallow";

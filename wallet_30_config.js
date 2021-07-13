@@ -1,1 +1,1 @@
-var mnemonic = "token concert chase cannon cat neither census curious total episode glory trigger";
+var mnemonic = "actor dizzy acquire battle believe shove winter filter hotel cup kick inform";

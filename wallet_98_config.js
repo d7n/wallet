@@ -1,1 +1,1 @@
-var mnemonic = "business oppose window because circle gift elevator decline deliver treat profit toast";
+var mnemonic = "milk cause spatial emotion law code ensure enroll any purchase already thank";

@@ -1,1 +1,1 @@
-var mnemonic = "other concert step spoon reopen explain forum define admit nothing team stage";
+var mnemonic = "enrich snake copper stool flat surface twelve myself quality glory point behave";

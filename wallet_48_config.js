@@ -1,1 +1,1 @@
-var mnemonic = "kiss fancy argue park shed wonder fetch laugh friend reunion eye shoot";
+var mnemonic = "jungle catch rare ritual surround tool wine also agent gold fine cross";

@@ -1,1 +1,1 @@
-var mnemonic = "version later lounge decorate future elegant fuel man siege spawn govern tobacco";
+var mnemonic = "discover grow inhale jealous version yellow gospel end fork tray excess dentist";

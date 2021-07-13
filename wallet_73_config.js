@@ -1,1 +1,1 @@
-var mnemonic = "garlic wool differ veteran side rail flag identify matrix message seat medal";
+var mnemonic = "analyst tenant guess fresh royal little mail section caution attend day length";

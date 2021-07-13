@@ -1,1 +1,1 @@
-var mnemonic = "alone veteran chuckle fever maze capital sibling parent leopard betray trick toy";
+var mnemonic = "actor typical option glide soldier lecture ecology oxygen blame penalty tackle leaf";

@@ -1,1 +1,1 @@
-var mnemonic = "viable apple churn left spoil chronic forum kangaroo fire explain salute galaxy";
+var mnemonic = "element whip tourist normal nature answer pink hockey celery cave admit mention";

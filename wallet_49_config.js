@@ -1,1 +1,1 @@
-var mnemonic = "legal frog fee buffalo hood about clinic hawk world run crush discover";
+var mnemonic = "oil become layer burst anger bulk negative much parrot stereo path never";

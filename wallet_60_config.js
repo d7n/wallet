@@ -1,1 +1,1 @@
-var mnemonic = "loan airport film raise picture flee patch bundle quick suspect slice drastic";
+var mnemonic = "flash wash ceiling purchase bonus cargo amount entire heavy liberty insect parrot";

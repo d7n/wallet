@@ -1,1 +1,1 @@
-var mnemonic = "slab school session silver language basic uphold quit march depth stumble town";
+var mnemonic = "tuition rug crystal world already garlic attend grant interest solid trim brief";

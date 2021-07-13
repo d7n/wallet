@@ -1,1 +1,1 @@
-var mnemonic = "upset party ribbon girl clump fame intact friend dismiss cute duty walnut";
+var mnemonic = "oxygen loop breeze learn vital fire bag decade winner dutch sample donkey";

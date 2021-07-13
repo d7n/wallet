@@ -1,1 +1,1 @@
-var mnemonic = "cause submit gap skull few hire reveal mouse beach lobster vivid violin";
+var mnemonic = "wheat fix search truth anchor oblige exact cream save husband bag rookie";

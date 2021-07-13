@@ -1,1 +1,1 @@
-var mnemonic = "good subway broom original tongue muscle stick better vehicle paddle museum special";
+var mnemonic = "type brisk agree arena design turtle reject salute entry learn draw scrub";

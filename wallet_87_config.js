@@ -1,1 +1,1 @@
-var mnemonic = "road imitate view party network fever unique cereal bracket winter spring fortune";
+var mnemonic = "matter type bus token birth execute gather inspire capital vacuum dolphin other";

@@ -1,1 +1,1 @@
-var mnemonic = "absurd digital whale child ghost slogan express promote where flat main control";
+var mnemonic = "reflect bridge slush scan topic present runway street pizza fold learn mad";

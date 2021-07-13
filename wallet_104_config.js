@@ -1,1 +1,1 @@
-var mnemonic = "nerve first police sorry exchange twist tissue rare pave cactus often install";
+var mnemonic = "ritual clap biology select quick differ board credit round vivid radar great";

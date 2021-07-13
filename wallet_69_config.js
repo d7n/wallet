@@ -1,1 +1,1 @@
-var mnemonic = "song hunt floor fold tornado room series trade lyrics scorpion jump snap";
+var mnemonic = "isolate smoke weapon emotion dawn mouse grow derive road ignore into sick";

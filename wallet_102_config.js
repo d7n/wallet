@@ -1,1 +1,1 @@
-var mnemonic = "shield palace erase spend memory chief topple valley dynamic coral setup beef";
+var mnemonic = "globe baby kitchen fire proof onion sign conduct urban river detail wedding";

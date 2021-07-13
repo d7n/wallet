@@ -1,1 +1,1 @@
-var mnemonic = "super dad rigid extend permit people boat adapt input truth ketchup swear";
+var mnemonic = "october bubble coach turn lazy habit little casual return weird lobster course";

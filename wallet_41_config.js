@@ -1,1 +1,1 @@
-var mnemonic = "love response donor merge garment damage estate exit rigid ribbon differ point";
+var mnemonic = "essence argue social pole notice donkey unlock layer stand setup solar defense";

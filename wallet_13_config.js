@@ -1,1 +1,1 @@
-var mnemonic = "desk gesture bean crunch carry concert high clown power dirt mountain moment";
+var mnemonic = "across path mask notable kind dutch fantasy jelly escape close cradle market";

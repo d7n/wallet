@@ -1,1 +1,1 @@
-var mnemonic = "sustain soft brick convince neglect enforce rotate bracket heavy betray wheat receive";
+var mnemonic = "cost tube student grief fetch meat depart profit negative narrow laundry tired";

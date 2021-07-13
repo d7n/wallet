@@ -1,1 +1,1 @@
-var mnemonic = "elephant canoe vast worth section meat rate local assume sick proof embody";
+var mnemonic = "mean frozen measure radar choice disease end excuse hip lonely antique eager";

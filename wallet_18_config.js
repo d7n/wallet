@@ -1,1 +1,1 @@
-var mnemonic = "zebra sight finish base airport south surround judge pen planet favorite chair";
+var mnemonic = "menu result wool second annual auto brush envelope label wheel twice govern";

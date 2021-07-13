@@ -1,1 +1,1 @@
-var mnemonic = "receive purity brave pattern door poem shallow town girl vital soap middle";
+var mnemonic = "imitate region approve clock monkey december learn clerk bless balcony innocent antenna";

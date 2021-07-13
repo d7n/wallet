@@ -1,1 +1,1 @@
-var mnemonic = "spoil renew similar catalog display major symbol glue patch report off mandate";
+var mnemonic = "glare food field repeat early heart ball item accident city magnet turtle";

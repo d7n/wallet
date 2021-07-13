@@ -1,1 +1,1 @@
-var mnemonic = "gate lift inside useful various try coast dice peace catalog sort lumber";
+var mnemonic = "subject hazard path fog addict type visit smooth latin misery uncover update";

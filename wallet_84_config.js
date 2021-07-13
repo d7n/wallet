@@ -1,1 +1,1 @@
-var mnemonic = "burst develop admit network drama pulse casino sugar puppy pause brisk glass";
+var mnemonic = "rib jaguar call foil silent liberty patrol globe issue kingdom sorry potato";

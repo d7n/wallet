@@ -1,1 +1,1 @@
-var mnemonic = "venue toilet veteran task bridge survey raccoon reform super believe room elegant";
+var mnemonic = "vanish math calm concert panther demise seat attitude brown glow diamond source";

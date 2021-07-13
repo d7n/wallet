@@ -1,1 +1,1 @@
-var mnemonic = "nose victory walnut stay chuckle minute bind switch fan coil together pill";
+var mnemonic = "situate olive gadget also offer receive across uniform tiger rate wrestle soldier";

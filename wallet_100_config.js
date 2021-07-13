@@ -1,1 +1,1 @@
-var mnemonic = "defy fox lecture stamp ghost raise quick swift crouch liar myth earn";
+var mnemonic = "feel install thrive hidden calm token vintage fall cabbage limb invite pigeon";

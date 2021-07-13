@@ -1,1 +1,1 @@
-var mnemonic = "burger beach very bike disease salad version rug diagram glare omit rural";
+var mnemonic = "blouse suffer glide man humble top ocean amazing lunch print place twelve";

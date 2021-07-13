@@ -1,1 +1,1 @@
-var mnemonic = "elevator sheriff tape focus chase ostrich theme timber absent tongue reason mosquito";
+var mnemonic = "asthma fade damage time outdoor kidney gate mask arrange mistake club hood";

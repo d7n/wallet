@@ -1,1 +1,1 @@
-var mnemonic = "torch diamond surprise bread coyote start rally scan bright below episode salmon";
+var mnemonic = "latin fork reveal trophy grain foam cupboard flash cheap miss away husband";

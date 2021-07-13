@@ -1,1 +1,1 @@
-var mnemonic = "tide obvious air certain salad public elder course swim shift fortune phone";
+var mnemonic = "process expire educate gift remember runway pluck dune other fringe scheme gravity";

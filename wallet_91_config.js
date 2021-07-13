@@ -1,1 +1,1 @@
-var mnemonic = "border roof town waste slam favorite tobacco open fetch range half edit";
+var mnemonic = "absurd when soccer few foster town patrol caught across begin perfect witness";

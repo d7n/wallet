@@ -1,1 +1,1 @@
-var mnemonic = "invest favorite fork service later mutual setup special useless agent multiply rally";
+var mnemonic = "arrest snap token adjust chunk inject column key stay pave hockey blossom";

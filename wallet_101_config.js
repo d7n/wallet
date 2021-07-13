@@ -1,1 +1,1 @@
-var mnemonic = "loan scene siren tonight weather leaf intact another ridge congress finger chest";
+var mnemonic = "make reason maze game canal lamp prosper know ask spider toilet help";

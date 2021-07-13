@@ -1,1 +1,1 @@
-var mnemonic = "favorite nice genuine jar pepper route endorse furnace receive fox rebuild scrap";
+var mnemonic = "scrub conduct piano inform dilemma blur rack patient base wonder tag consider";

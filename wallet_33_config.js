@@ -1,1 +1,1 @@
-var mnemonic = "little addict similar goose weekend piano congress grit diamond dish faculty torch";
+var mnemonic = "flash resource slogan stairs walnut key rescue connect pulse nurse tortoise hybrid";

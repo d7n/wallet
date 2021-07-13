@@ -1,1 +1,1 @@
-var mnemonic = "fetch pepper clinic copper sugar clump field host fuel shoot poverty impulse";
+var mnemonic = "edit replace quick dry add audit gift lion stable credit cube beef";

@@ -1,1 +1,1 @@
-var mnemonic = "trash denial rely refuse left cup suffer sweet milk damage enemy fog";
+var mnemonic = "nurse second fish similar vintage mad bag message awesome april knife sight";

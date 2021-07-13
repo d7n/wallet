@@ -1,1 +1,1 @@
-var mnemonic = "girl census submit also gym garbage filter cover argue magic candy budget";
+var mnemonic = "museum blur answer tell suit praise poverty what mountain remember few depth";

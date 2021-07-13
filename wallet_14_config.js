@@ -1,1 +1,1 @@
-var mnemonic = "grace patch large entire taste lemon glance chest sail stairs clever symbol";
+var mnemonic = "isolate review divide property cancel antique future pottery great entry prevent charge";

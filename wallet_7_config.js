@@ -1,1 +1,1 @@
-var mnemonic = "tobacco identify borrow profit apple become spirit aerobic sibling flock salt another";
+var mnemonic = "casino bitter rug boy guide syrup harvest eagle demand ribbon lemon family";

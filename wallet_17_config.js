@@ -1,1 +1,1 @@
-var mnemonic = "chronic garden small trap episode flee popular climb story debris senior often";
+var mnemonic = "lawn wife frequent erosion shoe actress hunt mail gain candy weasel write";

@@ -1,1 +1,1 @@
-var mnemonic = "artwork decrease casino range planet manage river dose envelope trip almost divert";
+var mnemonic = "robot sauce caution other pet dune crop suit modify staff celery shiver";

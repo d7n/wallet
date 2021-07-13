@@ -1,1 +1,1 @@
-var mnemonic = "boost jacket device door copper winner borrow pledge polar seat oil expect";
+var mnemonic = "dose race version song march pink jump plate rely shield draft tube";

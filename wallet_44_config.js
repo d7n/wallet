@@ -1,1 +1,1 @@
-var mnemonic = "drum slow cart bomb glad recipe merge bench tiger true borrow giant";
+var mnemonic = "size enjoy grocery differ seek ensure primary crazy can viable palm maximum";

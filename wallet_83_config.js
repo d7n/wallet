@@ -1,1 +1,1 @@
-var mnemonic = "phrase nut east shop draw carry business nose fetch code illegal become";
+var mnemonic = "short habit monitor dinner pudding cannon leg vanish song frame suggest lemon";

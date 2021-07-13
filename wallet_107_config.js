@@ -1,1 +1,1 @@
-var mnemonic = "deputy always beauty net matrix segment interest title huge gravity van like";
+var mnemonic = "utility keen dirt merge boring apple limb odor system this green usual";

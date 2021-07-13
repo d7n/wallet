@@ -1,1 +1,1 @@
-var mnemonic = "air olive child wood muscle raise absent drive deputy require code dignity";
+var mnemonic = "alone example tilt deliver orphan gold sick attract camp dinosaur wink impose";

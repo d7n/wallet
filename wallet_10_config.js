@@ -1,1 +1,1 @@
-var mnemonic = "because slam foil estate gold true recall dismiss stuff pill purity pelican";
+var mnemonic = "jewel friend price birth man random spike peace absent skin offer bird";

@@ -1,1 +1,1 @@
-var mnemonic = "stomach wing curious major spring tortoise find fatigue vault quick gospel robot";
+var mnemonic = "size produce hobby grocery banner obtain piano start boat tilt insect earth";

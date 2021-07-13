@@ -1,1 +1,1 @@
-var mnemonic = "asset erupt impulse alert track elbow garlic click accident album mosquito tragic";
+var mnemonic = "jump finish beef weekend oven another carpet code mandate benefit direct churn";

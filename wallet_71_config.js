@@ -1,1 +1,1 @@
-var mnemonic = "occur action unable blouse trigger hat tell protect purity catalog broccoli like";
+var mnemonic = "farm pride glide reward poverty later height wisdom approve endorse artefact jar";

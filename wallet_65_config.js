@@ -1,1 +1,1 @@
-var mnemonic = "hello slim grape title salad visa park violin coconut industry broken shuffle";
+var mnemonic = "shove cushion shuffle fog child century rally depart salon neglect vital dwarf";

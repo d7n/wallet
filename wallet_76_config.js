@@ -1,1 +1,1 @@
-var mnemonic = "recipe swamp jewel gate gospel speak behave adjust circle misery aerobic label";
+var mnemonic = "ice confirm link grab urban eager appear sorry average manage illegal debate";

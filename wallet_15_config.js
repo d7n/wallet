@@ -1,1 +1,1 @@
-var mnemonic = "zoo initial crumble indoor lottery spike obey fluid flush kit draft place";
+var mnemonic = "vacant minor farm license hobby teach crisp head maid pluck token sister";

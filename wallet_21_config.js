@@ -1,1 +1,1 @@
-var mnemonic = "exhibit joke rich steak warm negative kidney wash thrive gate update trouble";
+var mnemonic = "motor rural sentence federal member drum verify human canyon canal soccer mystery";

@@ -1,1 +1,1 @@
-var mnemonic = "lend speak table muffin control pink oblige target message wing flight sample";
+var mnemonic = "one aisle initial snake ginger era tumble limb brand humor table soldier";

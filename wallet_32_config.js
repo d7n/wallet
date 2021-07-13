@@ -1,1 +1,1 @@
-var mnemonic = "quality slot march view history monitor analyst silent favorite notice spy minute";
+var mnemonic = "clock tackle street crash spider sad issue shrimp affair rude camera crime";

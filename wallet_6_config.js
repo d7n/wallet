@@ -1,1 +1,1 @@
-var mnemonic = "put usual toe rabbit lawn laundry matrix denial glow object project goddess";
+var mnemonic = "vote ribbon vehicle electric clap cruel better razor nest twice wing deny";

@@ -1,1 +1,1 @@
-var mnemonic = "leader physical order accident depart bargain library tunnel walk resource tape skate";
+var mnemonic = "way pulp body history belt gossip air write envelope sauce holiday muffin";

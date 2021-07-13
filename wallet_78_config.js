@@ -1,1 +1,1 @@
-var mnemonic = "piano pink brush nerve much approve pave treat robot escape unveil naive";
+var mnemonic = "body situate whale blade festival sauce middle actress dash early bean retire";

@@ -1,1 +1,1 @@
-var mnemonic = "knee law hobby purpose loan resemble edge junior pigeon know bottom favorite";
+var mnemonic = "ancient humor crack focus lady lion worry amused vendor fold insane enlist";

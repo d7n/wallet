@@ -1,1 +1,1 @@
-var mnemonic = "detail license foster deal unit arch envelope merit chair stable garlic rigid";
+var mnemonic = "total occur delay audit aspect kangaroo hobby weekend neck luggage penalty degree";

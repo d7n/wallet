@@ -1,1 +1,1 @@
-var mnemonic = "ship digital sea venture course off under tortoise catch tired worry under";
+var mnemonic = "virus chase office stick elder primary acoustic primary hedgehog mountain moment borrow";
