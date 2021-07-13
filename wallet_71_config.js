@@ -1,1 +1,1 @@
-var mnemonic = "venue outer rice junk hat update rescue once duck own pulse stamp";
+var mnemonic = "skirt pool detail dignity raise gauge bronze blossom express announce loan slush";

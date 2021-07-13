@@ -1,1 +1,1 @@
-var mnemonic = "version ostrich run strong practice elephant frame dog play coyote hair still";
+var mnemonic = "must evoke help fun any ill soap opinion agree phone exhibit advice";

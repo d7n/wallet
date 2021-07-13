@@ -1,1 +1,1 @@
-var mnemonic = "flight sunset hover pistol naive join home flavor face meadow before shy";
+var mnemonic = "now paddle excite session spell daughter feature sad song huge hockey situate";

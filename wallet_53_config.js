@@ -1,1 +1,1 @@
-var mnemonic = "water used mass priority asthma harbor trap thank wreck cattle dash eternal";
+var mnemonic = "neglect cement divorce furnace garbage submit mystery season dust vital total sniff";

@@ -1,1 +1,1 @@
-var mnemonic = "excuse poem wash garage inherit mercy measure now juice zoo claw faculty";
+var mnemonic = "vital album aerobic maple normal upset tonight place patrol museum cover light";

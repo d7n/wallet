@@ -1,1 +1,1 @@
-var mnemonic = "enlist resist fox fish silent bitter shadow stock expand chronic imitate drive";
+var mnemonic = "umbrella sea tourist ability alpha proof kid main nice recipe rotate estate";

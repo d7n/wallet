@@ -1,1 +1,1 @@
-var mnemonic = "riot mutual noodle pistol sure sketch ridge purpose daring forest minimum lucky";
+var mnemonic = "order panther panic general floor march minor creek cradle quit knock future";

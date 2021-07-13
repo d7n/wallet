@@ -1,1 +1,1 @@
-var mnemonic = "noble fury butter hint mountain cluster believe practice glass brick busy require";
+var mnemonic = "gadget outside quote giant else over gesture tongue confirm casual diesel payment";

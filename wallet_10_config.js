@@ -1,1 +1,1 @@
-var mnemonic = "initial mushroom fatal until range material wish surge juice sniff cry burst";
+var mnemonic = "shuffle display gospel poverty paper glare river ladder smoke october camera isolate";

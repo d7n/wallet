@@ -1,1 +1,1 @@
-var mnemonic = "garage student fiber load mammal actual split autumn prize annual polar swarm";
+var mnemonic = "insane survey bless abuse critic entry hundred melt various gift run bamboo";

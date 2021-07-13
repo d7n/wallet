@@ -1,1 +1,1 @@
-var mnemonic = "hair dream hill order shaft enemy proof goddess finish ankle chef false";
+var mnemonic = "animal roof mean gift reform gentle sign awful medal original van salt";

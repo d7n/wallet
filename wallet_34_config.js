@@ -1,1 +1,1 @@
-var mnemonic = "divert female economy drink penalty method plate soldier girl traffic remember birth";
+var mnemonic = "mansion bacon private busy vocal shy present save machine faculty able invite";

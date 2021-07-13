@@ -1,1 +1,1 @@
-var mnemonic = "alley poverty enjoy disagree apology accident vintage coral enforce order man net";
+var mnemonic = "urban spy exotic news ride mule sure risk decrease weasel board across";

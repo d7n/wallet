@@ -1,1 +1,1 @@
-var mnemonic = "secret supreme wisdom pipe gasp concert insect kiwi tomato element struggle cream";
+var mnemonic = "talk exotic shiver describe topple gasp water same vivid rapid stable frost";

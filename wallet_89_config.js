@@ -1,1 +1,1 @@
-var mnemonic = "few hard detect achieve hurry ripple famous arch income report surge possible";
+var mnemonic = "jaguar enemy fever drill opera treat pitch swarm visit gap head divert";

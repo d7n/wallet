@@ -1,1 +1,1 @@
-var mnemonic = "liquid wild rocket science actual proof loan mule border feature manage water";
+var mnemonic = "question potato remain normal tired judge piece student syrup clarify inmate pluck";

@@ -1,1 +1,1 @@
-var mnemonic = "double field silk juice aspect cream mind oxygen company document fringe purchase";
+var mnemonic = "humble range barrel rotate actual track spider museum conduct melody arch employ";

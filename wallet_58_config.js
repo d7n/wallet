@@ -1,1 +1,1 @@
-var mnemonic = "unlock live luggage federal marble merge defense squeeze grant gate frog auto";
+var mnemonic = "step reopen over buddy mutual spike start album bag front device protect";

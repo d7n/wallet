@@ -1,1 +1,1 @@
-var mnemonic = "reform effort strong cry cousin recycle board exit magic attack rebel index";
+var mnemonic = "lounge parent early leaf fresh rely shy firm truth lend light laptop";

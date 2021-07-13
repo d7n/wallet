@@ -1,1 +1,1 @@
-var mnemonic = "oppose wide much day wonder dynamic chase hero provide relief disorder stomach";
+var mnemonic = "donor blouse silent cat sign faint mistake dish friend path tomato echo";

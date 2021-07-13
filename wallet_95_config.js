@@ -1,1 +1,1 @@
-var mnemonic = "west behave dinner prevent option ride record ready similar metal barrel salon";
+var mnemonic = "differ copper force man buzz reward wheat frost buzz clump vague dad";

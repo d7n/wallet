@@ -1,1 +1,1 @@
-var mnemonic = "blade mesh behave base ill observe pledge giant trust reflect test swear";
+var mnemonic = "junior fish enemy trumpet harvest easily orchard energy board twist attitude horse";

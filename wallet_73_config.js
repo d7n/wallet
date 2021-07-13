@@ -1,1 +1,1 @@
-var mnemonic = "ordinary unit funny puppy life polar effort pyramid permit cage vibrant essay";
+var mnemonic = "cargo shed direct upon charge poverty moon syrup roast exist offer public";

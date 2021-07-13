@@ -1,1 +1,1 @@
-var mnemonic = "problem know table tackle sweet zero ride dismiss setup plate drastic order";
+var mnemonic = "elegant beyond cloth come auction debris safe hood athlete annual guitar void";

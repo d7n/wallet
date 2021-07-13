@@ -1,1 +1,1 @@
-var mnemonic = "front drive ladder pen cave chimney grab south scrap green buddy deny";
+var mnemonic = "traffic page clerk maximum ecology priority avoid victory rapid begin skin stomach";

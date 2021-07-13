@@ -1,1 +1,1 @@
-var mnemonic = "celery ill vapor race fire envelope noise birth unique zone canvas wing";
+var mnemonic = "latin voyage gravity hurry grow interest scene ancient absurd merge bachelor balcony";

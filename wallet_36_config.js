@@ -1,1 +1,1 @@
-var mnemonic = "cart embark gas modify comfort laugh forget erase tonight wasp answer body";
+var mnemonic = "write frame happy camp resource audit tobacco review heavy club cattle ski";

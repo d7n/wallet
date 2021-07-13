@@ -1,1 +1,1 @@
-var mnemonic = "cake toe wasp major pole menu second glory moment lab slice address";
+var mnemonic = "plug practice grace own wing tilt know power surprise ski tobacco hold";

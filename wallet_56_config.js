@@ -1,1 +1,1 @@
-var mnemonic = "wasp pelican green session snack flower awkward dog remove mass rice again";
+var mnemonic = "country pattern hip also honey middle twelve mango trash retreat van torch";

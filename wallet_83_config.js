@@ -1,1 +1,1 @@
-var mnemonic = "holiday once educate captain panic adapt maid ask rebel action style blur";
+var mnemonic = "parent coach dune gold vote dove engine elbow bonus capital choose final";

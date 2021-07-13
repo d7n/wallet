@@ -1,1 +1,1 @@
-var mnemonic = "there aerobic margin unknown arctic pretty delay attract between addict tongue end";
+var mnemonic = "deposit adjust live game eternal swap grape joke couple detail inhale during";

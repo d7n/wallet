@@ -1,1 +1,1 @@
-var mnemonic = "rare sound mammal panther cube fruit smooth comfort fitness aware where excite";
+var mnemonic = "angle physical select skirt knife sea turkey enact match remove pitch increase";

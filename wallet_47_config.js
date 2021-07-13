@@ -1,1 +1,1 @@
-var mnemonic = "theory tissue large disease click tuna cost wrong obey render praise enrich";
+var mnemonic = "wet sun review ahead echo dice avocado early stomach genre once later";

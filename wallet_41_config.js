@@ -1,1 +1,1 @@
-var mnemonic = "pole heart infant fluid light stamp bean spider wealth cube athlete moment";
+var mnemonic = "exit helmet laundry net riot grab laptop bleak accident slender dignity divert";

@@ -1,1 +1,1 @@
-var mnemonic = "next gadget tennis link sentence all anger exhaust garage shoot sudden spoon";
+var mnemonic = "horse disagree boost amount coin stumble carpet buzz dismiss theory unique tenant";

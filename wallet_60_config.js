@@ -1,1 +1,1 @@
-var mnemonic = "keep donate deputy cloud swear copper robust artwork cup spirit start demand";
+var mnemonic = "sad fork pretty void advice dog tree what bracket wink main sick";

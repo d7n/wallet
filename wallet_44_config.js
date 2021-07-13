@@ -1,1 +1,1 @@
-var mnemonic = "away present coil twelve upon bullet amused race tail tiger fragile camera";
+var mnemonic = "north outside entire paper spread tennis much display wild early share label";

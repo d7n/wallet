@@ -1,1 +1,1 @@
-var mnemonic = "merry manage fiction nice strategy process wrong frost casual awkward snack wide";
+var mnemonic = "vapor fork lake street evidence leopard runway parade cheese gadget cherry shadow";

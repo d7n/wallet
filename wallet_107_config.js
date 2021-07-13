@@ -1,1 +1,1 @@
-var mnemonic = "invest town chaos panther useless bless stairs license door accident input slice";
+var mnemonic = "aim dragon festival rug next monkey clarify anchor segment poverty vague long";

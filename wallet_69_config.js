@@ -1,1 +1,1 @@
-var mnemonic = "search leopard visit remind monitor slam hint coral old upgrade final truck";
+var mnemonic = "jelly survey phone uniform warfare spoon cannon draw begin awesome fitness clock";

@@ -1,1 +1,1 @@
-var mnemonic = "expect note kitchen supreme major disagree birth funny rapid salon frozen pelican";
+var mnemonic = "inquiry century kick uniform sorry follow pole drum remember problem response minor";

@@ -1,1 +1,1 @@
-var mnemonic = "rescue copy answer measure oil between orphan palace horse forum sun random";
+var mnemonic = "mixture announce hospital float page clown route cushion they level prosper enemy";

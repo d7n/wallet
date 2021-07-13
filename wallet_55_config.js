@@ -1,1 +1,1 @@
-var mnemonic = "one tube sketch expect chronic assault obtain future market discover once renew";
+var mnemonic = "chair blush firm poverty spot foot bonus lunch horse aspect leisure peace";

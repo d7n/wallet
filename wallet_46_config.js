@@ -1,1 +1,1 @@
-var mnemonic = "off trend next language jungle idle bottom connect silent wall used refuse";
+var mnemonic = "promote ozone upon onion crush silly rhythm purse theme tent genre miracle";

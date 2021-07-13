@@ -1,1 +1,1 @@
-var mnemonic = "essence mango afford margin liquid only quote risk select document program robust";
+var mnemonic = "wisdom veteran aspect mouse gospel aerobic critic write write ring hello gallery";

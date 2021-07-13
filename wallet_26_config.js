@@ -1,1 +1,1 @@
-var mnemonic = "miracle kangaroo gown cloth explain sponsor afford jar bright title victory rapid";
+var mnemonic = "lift side impose hungry bean school pistol forum gap news swarm proud";

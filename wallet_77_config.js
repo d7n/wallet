@@ -1,1 +1,1 @@
-var mnemonic = "exercise brief tape talent save pear broom bracket mobile cream tumble margin";
+var mnemonic = "hello sting ship wisdom thank excuse adapt ginger nerve reveal thunder grape";

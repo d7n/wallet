@@ -1,1 +1,1 @@
-var mnemonic = "forward game cycle panther float little upset hard enrich bachelor jar faint";
+var mnemonic = "skin glove cause steak february rabbit oxygen idle shock female balcony seek";

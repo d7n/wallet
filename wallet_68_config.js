@@ -1,1 +1,1 @@
-var mnemonic = "episode update vapor awake auto clog then hip better evidence recycle recycle";
+var mnemonic = "solid panther clap fetch stable useless lens pear tool smile current orphan";

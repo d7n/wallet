@@ -1,1 +1,1 @@
-var mnemonic = "service mammal grief split one stairs hollow vault stock steak horror figure";
+var mnemonic = "sketch ethics zoo radio pond embrace smile prize holiday turn humor coyote";

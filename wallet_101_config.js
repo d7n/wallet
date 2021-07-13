@@ -1,1 +1,1 @@
-var mnemonic = "hire shine fortune salad alien magnet salad provide nose always hand cool";
+var mnemonic = "bid proud crucial chunk advance adapt guess oxygen region victory left night";

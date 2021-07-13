@@ -1,1 +1,1 @@
-var mnemonic = "stand depend time fury fame mobile enlist stadium lazy amount shoe depart";
+var mnemonic = "people curious toe shrimp sheriff poverty zone forum never upper kingdom orbit";

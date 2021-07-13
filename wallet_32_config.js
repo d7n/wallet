@@ -1,1 +1,1 @@
-var mnemonic = "glue witness creek knock clump budget pepper stereo hole shield purchase path";
+var mnemonic = "error observe wine flee prosper miss tuna climb wool sniff saddle family";

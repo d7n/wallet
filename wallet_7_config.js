@@ -1,1 +1,1 @@
-var mnemonic = "ladder focus wash frown barely sadness canal day hill range blame tiny";
+var mnemonic = "maximum gym web loud face sausage damage kind cage they trophy decide";

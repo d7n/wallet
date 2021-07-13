@@ -1,1 +1,1 @@
-var mnemonic = "diesel bless sweet foster enough legal crush regret canvas crack turkey fetch";
+var mnemonic = "moment identify dice universe evil direct thumb clay today leaf owner saddle";

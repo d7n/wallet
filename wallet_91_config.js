@@ -1,1 +1,1 @@
-var mnemonic = "daring swap monitor emotion start asthma injury pretty walk mom letter chicken";
+var mnemonic = "pony actual spray middle rotate ladder dose unable decade erosion slide company";

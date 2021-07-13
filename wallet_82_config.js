@@ -1,1 +1,1 @@
-var mnemonic = "obvious brother mammal require property citizen enact walnut sponsor strike limit castle";
+var mnemonic = "double tell whale hill oyster quiz service because lady depth pet beyond";

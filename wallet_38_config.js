@@ -1,1 +1,1 @@
-var mnemonic = "skate inhale flower cactus fiber stool royal shop rigid garden spring oval";
+var mnemonic = "bitter athlete improve lift table behind debate remain skin blue project auto";

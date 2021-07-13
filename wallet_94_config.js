@@ -1,1 +1,1 @@
-var mnemonic = "quantum life soup lion gravity tornado purity ecology earth lady fish two";
+var mnemonic = "vital second piece stove sure pitch police panel consider invite impact foil";

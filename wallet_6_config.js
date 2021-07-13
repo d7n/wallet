@@ -1,1 +1,1 @@
-var mnemonic = "clog route length magic story sorry dizzy fun rack furnace father forget";
+var mnemonic = "flee possible cry maximum transfer surprise obscure dwarf lamp ski goat code";

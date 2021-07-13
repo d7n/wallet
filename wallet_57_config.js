@@ -1,1 +1,1 @@
-var mnemonic = "horse virtual excess problem miracle erosion rule patrol mad sure okay spend";
+var mnemonic = "tattoo divorce credit best gate stumble party guess lift bike sense visa";

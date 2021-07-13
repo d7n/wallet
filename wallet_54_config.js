@@ -1,1 +1,1 @@
-var mnemonic = "position stomach skin urban glance brother lizard health usage jelly window age";
+var mnemonic = "deposit busy lemon toddler whisper minimum like mechanic foster avocado that just";

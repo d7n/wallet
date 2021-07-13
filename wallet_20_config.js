@@ -1,1 +1,1 @@
-var mnemonic = "issue disease noble define shaft drive divide surge grief chat acid tobacco";
+var mnemonic = "scrub catalog congress tenant welcome aim salute rapid stove advice merry airport";

@@ -1,1 +1,1 @@
-var mnemonic = "ritual enhance manual casino renew winter volcano staff young way trash security";
+var mnemonic = "air island drink profit script civil now uncle picnic pudding confirm autumn";

@@ -1,1 +1,1 @@
-var mnemonic = "about ozone truth dial chalk comfort ozone claim venture roast settle around";
+var mnemonic = "arctic advice clean label follow useless stock hurt hover until menu bomb";

@@ -1,1 +1,1 @@
-var mnemonic = "indoor canvas misery glare wide rug large pigeon garlic evidence relief captain";
+var mnemonic = "minimum cruise notice marriage upgrade salt two arrange marriage slide custom dynamic";

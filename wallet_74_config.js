@@ -1,1 +1,1 @@
-var mnemonic = "motion orient cotton tackle punch current gas captain beef horse warm sleep";
+var mnemonic = "simple lecture kitchen seven window only perfect hen chunk blush that net";

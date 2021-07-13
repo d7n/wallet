@@ -1,1 +1,1 @@
-var mnemonic = "dismiss weapon address dad govern step focus pride rocket wait veteran allow";
+var mnemonic = "poverty tourist snap harbor master crawl sad picture sketch select deliver box";

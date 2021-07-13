@@ -1,1 +1,1 @@
-var mnemonic = "leader tomorrow album unfair tissue piano retire sort code virtual ladder expect";
+var mnemonic = "melt top honey trick cradle noise lava lake laundry struggle remove bundle";

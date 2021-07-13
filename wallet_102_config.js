@@ -1,1 +1,1 @@
-var mnemonic = "clarify permit upset loan couple same excite learn tiny kiwi aspect prosper";
+var mnemonic = "egg lobster famous cart extra soda cloud shuffle lake crowd armed uphold";

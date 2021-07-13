@@ -1,1 +1,1 @@
-var mnemonic = "exclude twenty patient work under olive strike lava depth harbor achieve fantasy";
+var mnemonic = "reject slam public abuse length weather knee quiz sponsor know catch edge";

@@ -1,1 +1,1 @@
-var mnemonic = "recall surge buddy gun fragile nation heart awesome memory group chief census";
+var mnemonic = "cargo okay debris field hen wedding fiber travel time galaxy valid outer";

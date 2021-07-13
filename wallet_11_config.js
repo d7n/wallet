@@ -1,1 +1,1 @@
-var mnemonic = "purse farm almost grass text wet outer tattoo prevent life vast poem";
+var mnemonic = "amount found pull fiber ripple jar saddle only brave ahead execute fine";

@@ -1,1 +1,1 @@
-var mnemonic = "forest caught pencil casual dwarf expand utility bless bread bubble suggest tornado";
+var mnemonic = "velvet walnut skin toe oyster reveal industry hurdle fan wheat same box";

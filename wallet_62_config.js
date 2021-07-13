@@ -1,1 +1,1 @@
-var mnemonic = "quiz peanut curve nature muscle organ knee loop property hazard hurry announce";
+var mnemonic = "citizen oblige scare addict little scare honey average shallow garment fan spring";

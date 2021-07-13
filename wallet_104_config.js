@@ -1,1 +1,1 @@
-var mnemonic = "abuse correct witness cousin emotion curve bean scrap orbit explain tape chapter";
+var mnemonic = "such short clean episode charge keen filter soup theme solid real shiver";

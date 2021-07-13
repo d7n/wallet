@@ -1,1 +1,1 @@
-var mnemonic = "cake magic harsh else total magnet pulp walnut expect shift buyer this";
+var mnemonic = "library final you lab dove pond pole since foster already light viable";

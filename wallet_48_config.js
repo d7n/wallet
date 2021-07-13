@@ -1,1 +1,1 @@
-var mnemonic = "modify shed cute armed process brick next razor reunion mistake evoke spider";
+var mnemonic = "corn member hazard promote coil sweet damp exact track siren tank wrist";

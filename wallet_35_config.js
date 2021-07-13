@@ -1,1 +1,1 @@
-var mnemonic = "ready neck orchard dynamic wonder limb monster opera moon upset pitch raven";
+var mnemonic = "tourist wrestle craft require prefer push argue stable choose protect rifle present";

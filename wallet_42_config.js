@@ -1,1 +1,1 @@
-var mnemonic = "peanut whale lift average corn exotic divert dash crime evoke twist remember";
+var mnemonic = "desk pyramid marble eternal sport weasel timber need garment resemble knee old";

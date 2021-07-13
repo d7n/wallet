@@ -1,1 +1,1 @@
-var mnemonic = "village session install cloth shaft garlic chat omit kit cradle supply void";
+var mnemonic = "mandate opera husband when source erupt middle coil replace tray sunny image";

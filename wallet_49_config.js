@@ -1,1 +1,1 @@
-var mnemonic = "better whisper jar knife skirt infant soap tumble enrich scrap section broom";
+var mnemonic = "damage jungle purity shell series try reason check broken pass drama pear";

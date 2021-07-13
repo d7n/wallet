@@ -1,1 +1,1 @@
-var mnemonic = "mystery step afraid manual convince multiply plunge shop lyrics plastic spice quick";
+var mnemonic = "normal smile sense pill post desk ahead print awake jeans round cushion";

@@ -1,1 +1,1 @@
-var mnemonic = "deliver iron episode strike avoid result milk close bullet razor flight own";
+var mnemonic = "review ignore cupboard stomach need until normal just write daughter olympic slot";

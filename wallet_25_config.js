@@ -1,1 +1,1 @@
-var mnemonic = "scan episode sting flame six satoshi quality firm scorpion frown undo bind";
+var mnemonic = "cram chat card typical produce crime grid behind hedgehog save truth little";

@@ -1,1 +1,1 @@
-var mnemonic = "live deposit agree unlock potato apple number smooth angle rival analyst forum";
+var mnemonic = "fiber fire side excuse fury market appear very once legal humble song";

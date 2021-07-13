@@ -1,1 +1,1 @@
-var mnemonic = "inform effort smooth among deer mixture scene canvas position farm rent melody";
+var mnemonic = "sugar garage taxi upon easily energy sort wrist master expect shy stomach";

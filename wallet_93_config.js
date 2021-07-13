@@ -1,1 +1,1 @@
-var mnemonic = "vehicle wide tornado flock carry major whip tree legend day soul tragic";
+var mnemonic = "net year base similar stage airport album topple drop more pilot fold";
