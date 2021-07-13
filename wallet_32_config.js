@@ -1,1 +1,1 @@
-var mnemonic = "certain produce list obey glide rival cloud power foot student fat toddler";
+var mnemonic = "art betray uncle beyond inmate worth image slot prison unit scheme slim";

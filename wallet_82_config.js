@@ -1,1 +1,1 @@
-var mnemonic = "ability direct cabbage forum bag duck critic alert state sock fame mercy";
+var mnemonic = "tackle final appear phone someone extra case deposit crazy catch immense author";

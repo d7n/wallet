@@ -1,1 +1,1 @@
-var mnemonic = "weird brisk turtle lab evil giraffe melt seminar acid surprise cliff myth";
+var mnemonic = "shop rice crop brother gadget neglect amateur school addict curtain cactus pave";

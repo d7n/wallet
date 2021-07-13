@@ -1,1 +1,1 @@
-var mnemonic = "pony two talk issue ski cinnamon fruit floor illness remain gift diagram";
+var mnemonic = "donate that wealth olympic hole warrior affair metal extend reduce model snap";

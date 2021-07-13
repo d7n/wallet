@@ -1,1 +1,1 @@
-var mnemonic = "citizen artwork ring column venue invest syrup rare moment bargain offer amazing";
+var mnemonic = "affair rural cry unhappy guilt world alert mandate marriage army sunny iron";

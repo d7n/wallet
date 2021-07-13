@@ -1,1 +1,1 @@
-var mnemonic = "fiction ramp long knife mesh arrange rubber caught churn mask borrow almost";
+var mnemonic = "cycle girl churn fruit debris produce sheriff lucky course jaguar annual next";

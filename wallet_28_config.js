@@ -1,1 +1,1 @@
-var mnemonic = "wreck dune pact speak wing absurd tag cabbage luxury rival cluster fiscal";
+var mnemonic = "glance puzzle edge dumb security dance spatial must plug rubber river giant";

@@ -1,1 +1,1 @@
-var mnemonic = "sweet bachelor want scout detect grocery case tank youth bamboo divide result";
+var mnemonic = "decade beach ecology six neck oblige have situate amazing sibling promote toss";

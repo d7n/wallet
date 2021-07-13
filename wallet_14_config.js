@@ -1,1 +1,1 @@
-var mnemonic = "crash december ride shrug cactus cave salad either trend clutch mansion survey";
+var mnemonic = "night excuse around torch ranch suffer cloud twin outer orphan ancient dad";

@@ -1,1 +1,1 @@
-var mnemonic = "marriage chicken oyster journey unaware space lend limit orbit future level thought";
+var mnemonic = "once wire clay hollow derive float surge trophy muffin idle gorilla turn";

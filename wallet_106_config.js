@@ -1,1 +1,1 @@
-var mnemonic = "broom vote moment trial broccoli settle buffalo mixed air sibling sport paper";
+var mnemonic = "air mosquito test floor clay deal antenna solar lumber verify use theme";

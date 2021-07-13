@@ -1,1 +1,1 @@
-var mnemonic = "supply brush where mix response stone permit dream cancel goddess vivid permit";
+var mnemonic = "turkey garbage boring memory depend outside liar ostrich exercise winner correct toe";

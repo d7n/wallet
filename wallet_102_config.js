@@ -1,1 +1,1 @@
-var mnemonic = "boring supply song disease prefer castle jewel spot hub oak action trigger";
+var mnemonic = "pen task gown attract razor lawsuit mixed main verb swamp notable nation";

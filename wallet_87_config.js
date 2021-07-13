@@ -1,1 +1,1 @@
-var mnemonic = "tent tell pond shy best hawk silent way thought decline sauce ahead";
+var mnemonic = "badge rule radar beauty puppy jump busy come job medal renew manual";

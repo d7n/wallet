@@ -1,1 +1,1 @@
-var mnemonic = "super bike donkey reunion toy step tennis tank ordinary oppose stool raccoon";
+var mnemonic = "use equal save wink trade march steel explain club task brother brief";

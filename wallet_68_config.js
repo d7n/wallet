@@ -1,1 +1,1 @@
-var mnemonic = "immune north remain heart addict aim upgrade salute network essay jazz apple";
+var mnemonic = "purse bachelor zero scorpion combine wrap knife liquid citizen forest wolf chapter";

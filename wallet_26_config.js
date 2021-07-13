@@ -1,1 +1,1 @@
-var mnemonic = "hand cloth choice pretty camp mechanic sudden depart spend west multiply cinnamon";
+var mnemonic = "field finish lunch ill pool dizzy uncover birth market crawl satoshi sport";

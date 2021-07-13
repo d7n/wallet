@@ -1,1 +1,1 @@
-var mnemonic = "top satoshi arctic marine guitar inject popular cabbage cash wagon dirt derive";
+var mnemonic = "perfect jump choice sheriff tissue claim patient talent section uniform celery language";

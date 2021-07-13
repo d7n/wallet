@@ -1,1 +1,1 @@
-var mnemonic = "truly admit soda harbor betray minute peanut toast slam adult snake travel";
+var mnemonic = "prepare struggle angry effort fever because version pistol plastic distance still remember";

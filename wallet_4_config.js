@@ -1,1 +1,1 @@
-var mnemonic = "pair bean case island town embark april sleep payment sport rally phone";
+var mnemonic = "cattle exotic need fun vital simple real language convince home inject need";

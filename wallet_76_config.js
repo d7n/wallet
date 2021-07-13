@@ -1,1 +1,1 @@
-var mnemonic = "dizzy invest venture bridge valid script still first company object silk defense";
+var mnemonic = "evidence swarm season initial forest hill blood pioneer tag fresh chat excuse";

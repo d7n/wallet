@@ -1,1 +1,1 @@
-var mnemonic = "grocery royal forest autumn save tuition siege code demand kitten flash quality";
+var mnemonic = "matter great fringe action boy coral crazy echo sudden divide zone phrase";

@@ -1,1 +1,1 @@
-var mnemonic = "casino novel sing shock always day laundry company sample elephant own toe";
+var mnemonic = "differ indoor speed universe afford bottom museum coin maple rib melt error";

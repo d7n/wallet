@@ -1,1 +1,1 @@
-var mnemonic = "teach destroy walk mean pool seven main play brown traffic peace deny";
+var mnemonic = "wolf there correct forward seven vacant nothing food whale ski use kangaroo";

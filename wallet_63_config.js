@@ -1,1 +1,1 @@
-var mnemonic = "word hazard parrot talk radar run track file swarm cake monitor layer";
+var mnemonic = "latin honey front loud auto empty forward library couple trust bid dream";

@@ -1,1 +1,1 @@
-var mnemonic = "category slim globe satoshi now elegant staff illness vast boss palm tide";
+var mnemonic = "jelly team small much decline salad believe unhappy truly glory version present";

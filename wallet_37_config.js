@@ -1,1 +1,1 @@
-var mnemonic = "wrap pair sentence flag manual exit next seek thought until patrol bone";
+var mnemonic = "sudden media town wife acquire pear runway ugly interest direct oblige husband";

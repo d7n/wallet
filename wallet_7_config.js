@@ -1,1 +1,1 @@
-var mnemonic = "novel ridge spend cloud paper knee steak grape habit manage reflect tiger";
+var mnemonic = "nasty salmon tomorrow magic peace unable solution subway stumble armed tornado poverty";

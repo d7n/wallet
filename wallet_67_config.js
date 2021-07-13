@@ -1,1 +1,1 @@
-var mnemonic = "apple office drill ancient either mistake solution chest inquiry auction alone divide";
+var mnemonic = "deliver front skill valley adjust wheat mansion divert gesture bind caught since";

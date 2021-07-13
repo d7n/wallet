@@ -1,1 +1,1 @@
-var mnemonic = "pretty urban grant edit salt empty elegant thumb nuclear route primary supreme";
+var mnemonic = "month coast camp roof similar copper kitten misery excess twist issue protect";

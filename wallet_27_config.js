@@ -1,1 +1,1 @@
-var mnemonic = "margin level fit asset meadow safe bus myth three mean umbrella cheap";
+var mnemonic = "dance wreck club rotate wear holiday quote saddle wet chat own fog";

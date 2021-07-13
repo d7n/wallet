@@ -1,1 +1,1 @@
-var mnemonic = "blur enlist burst design wreck street south cabin include doll cool mother";
+var mnemonic = "proud penalty soup evoke ride scare broom shield lyrics actual embody melt";

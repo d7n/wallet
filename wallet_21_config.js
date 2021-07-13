@@ -1,1 +1,1 @@
-var mnemonic = "alley forward enter oak clean identify scheme rotate attract slot cream anger";
+var mnemonic = "jeans blanket train near much impact appear mimic item pumpkin around distance";

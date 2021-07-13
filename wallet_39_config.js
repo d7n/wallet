@@ -1,1 +1,1 @@
-var mnemonic = "barrel spend cradle catch spoon lion frost rib track memory bread cruel";
+var mnemonic = "auction strategy merge sight clump tobacco relief beef lamp bounce forget yard";

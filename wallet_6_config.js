@@ -1,1 +1,1 @@
-var mnemonic = "silly opera ill wife morning hawk student athlete need glide truth symbol";
+var mnemonic = "steak equip wealth index helmet mass latin hip moral network april school";

@@ -1,1 +1,1 @@
-var mnemonic = "portion laptop original lottery child state manage sustain animal derive cry train";
+var mnemonic = "easily bring inch dream device select grab smart exit expand menu quit";

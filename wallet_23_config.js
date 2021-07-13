@@ -1,1 +1,1 @@
-var mnemonic = "jacket fitness squeeze lounge soap scrub talk gym always bless brown code";
+var mnemonic = "quiz cousin thought rigid blouse trash width benefit strategy box senior camp";

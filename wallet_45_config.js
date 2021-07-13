@@ -1,1 +1,1 @@
-var mnemonic = "manage picture until amount accuse mansion advance pyramid enroll electric west need";
+var mnemonic = "fee rely weapon aerobic hammer govern achieve dinosaur pluck panther meadow relief";

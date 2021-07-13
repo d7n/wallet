@@ -1,1 +1,1 @@
-var mnemonic = "film evolve kitten crush final group moon canvas turkey aerobic another legend";
+var mnemonic = "year speed roast turkey brief exotic ritual glare crew share zero coach";

@@ -1,1 +1,1 @@
-var mnemonic = "marble what cattle into modify train usage will hammer exchange evoke inmate";
+var mnemonic = "clown six furnace neck prison monitor tray update dog polar offer desert";

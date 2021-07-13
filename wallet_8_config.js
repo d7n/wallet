@@ -1,1 +1,1 @@
-var mnemonic = "proof century stove resource ignore orchard just copper error report code enemy";
+var mnemonic = "sing message margin fiscal horn film stairs educate embark balcony broken frog";

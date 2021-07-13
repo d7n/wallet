@@ -1,1 +1,1 @@
-var mnemonic = "purpose garment satisfy genuine drink action park innocent buddy main purpose material";
+var mnemonic = "claim inherit tomorrow turn siege voice play rebuild vendor siege brisk burger";

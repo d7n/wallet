@@ -1,1 +1,1 @@
-var mnemonic = "file panther lawsuit analyst brain tip myth include modify master rapid romance";
+var mnemonic = "dog alpha fantasy sound cover earth agree song elegant sword awake giggle";

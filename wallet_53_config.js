@@ -1,1 +1,1 @@
-var mnemonic = "broom window surface alpha odor recipe race rich cost special mix casual";
+var mnemonic = "exit target robust into beauty speed primary wheel squirrel crumble gentle just";

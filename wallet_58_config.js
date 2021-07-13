@@ -1,1 +1,1 @@
-var mnemonic = "capital duty over ready spice primary wine sadness good exhaust mad enroll";
+var mnemonic = "smooth away style laugh cinnamon celery pyramid apology repeat panther edge execute";

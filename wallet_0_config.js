@@ -1,1 +1,1 @@
-var mnemonic = "allow ring shadow inflict crash crew defense shoe rich motion erosion broom";
+var mnemonic = "check start veteran vital step cause left helmet dragon scorpion still indoor";

@@ -1,1 +1,1 @@
-var mnemonic = "sugar expire dawn ugly trip pioneer garbage wrong tuna enrich apology hero";
+var mnemonic = "blade guide series genius clay chest shell industry noodle poem length similar";

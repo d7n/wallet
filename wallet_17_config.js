@@ -1,1 +1,1 @@
-var mnemonic = "vacant vivid announce orphan multiply express action depart film snack draft know";
+var mnemonic = "level spatial unable mom city enjoy chase winner excite law stick glimpse";

@@ -1,1 +1,1 @@
-var mnemonic = "broccoli mountain immense hammer client teach ecology unlock someone industry book season";
+var mnemonic = "claim antique subject balance group popular resemble corn hand autumn vital air";

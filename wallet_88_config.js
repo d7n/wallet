@@ -1,1 +1,1 @@
-var mnemonic = "extra day sound olympic unusual trophy urban pigeon depth girl mixture catalog";
+var mnemonic = "pitch brown process delay appear flush usual day quick upper best weird";

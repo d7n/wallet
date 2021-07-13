@@ -1,1 +1,1 @@
-var mnemonic = "siren other meat spell gaze place gadget solar junk column trick faculty";
+var mnemonic = "tube humor scan struggle armed venture struggle rigid disease clump twist spell";

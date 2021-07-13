@@ -1,1 +1,1 @@
-var mnemonic = "ritual session duty shock crouch fashion useless limb crane meadow gasp artwork";
+var mnemonic = "tunnel march side crawl artwork moral horse level distance sail rubber enjoy";

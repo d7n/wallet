@@ -1,1 +1,1 @@
-var mnemonic = "current bundle body close castle kitten relax dynamic conduct similar sound fuel";
+var mnemonic = "small train salon maximum maximum apple evidence city method there remain cloud";

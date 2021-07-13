@@ -1,1 +1,1 @@
-var mnemonic = "race connect space warfare still art wood club horn cream dilemma loop";
+var mnemonic = "then whip pair high early reveal panic seed bachelor eager tag minute";

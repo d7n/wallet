@@ -1,1 +1,1 @@
-var mnemonic = "stem clever dress sign slogan differ anxiety bus blanket chief smile inch";
+var mnemonic = "torch text toss old pupil update real length bounce pride summer crush";

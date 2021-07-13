@@ -1,1 +1,1 @@
-var mnemonic = "play canyon police master mirror fatigue ripple nephew outdoor squirrel section inmate";
+var mnemonic = "tragic permit coconut special jacket ill deliver soup various path wave dignity";

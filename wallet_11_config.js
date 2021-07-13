@@ -1,1 +1,1 @@
-var mnemonic = "report dragon awkward view consider garbage learn million update slight gossip sausage";
+var mnemonic = "hungry success debate evolve water material purse concert route leopard old crash";

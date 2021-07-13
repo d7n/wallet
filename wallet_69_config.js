@@ -1,1 +1,1 @@
-var mnemonic = "lottery extra during mass hole blind wet void reveal birth vessel universe";
+var mnemonic = "polar okay dirt online paddle helmet rally moment exact blanket bicycle spice";

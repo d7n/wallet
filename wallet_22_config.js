@@ -1,1 +1,1 @@
-var mnemonic = "remind finish planet wine achieve pulse ride scissors zoo give hobby buddy";
+var mnemonic = "hole tourist heart warrior hawk benefit rural opinion corn scene maid cannon";

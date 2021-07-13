@@ -1,1 +1,1 @@
-var mnemonic = "canyon drip control chuckle nice blue hello often engage derive dose hour";
+var mnemonic = "dwarf couple magic false solution thing congress north hazard genre dirt sponsor";

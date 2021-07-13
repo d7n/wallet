@@ -1,1 +1,1 @@
-var mnemonic = "soap spoil cupboard second obscure day tunnel region time laptop next report";
+var mnemonic = "soft slam eagle pluck humble satisfy fruit attitude alarm autumn ghost repeat";

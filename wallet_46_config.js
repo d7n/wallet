@@ -1,1 +1,1 @@
-var mnemonic = "inquiry couch cram lion credit hill summer element bone neck high find";
+var mnemonic = "spider dizzy eyebrow rain panther sniff six sorry drop baby click worry";

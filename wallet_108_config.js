@@ -1,1 +1,1 @@
-var mnemonic = "layer small private stool direct tag fat country firm spoil bonus angry";
+var mnemonic = "fuel toilet bar trap army focus dolphin make expire frame pact relief";

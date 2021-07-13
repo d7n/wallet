@@ -1,1 +1,1 @@
-var mnemonic = "staff range mixed hand nothing trouble vibrant slight sea evidence hobby rough";
+var mnemonic = "habit bubble orphan host doctor cry business outdoor display joke chicken strong";

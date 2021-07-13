@@ -1,1 +1,1 @@
-var mnemonic = "spray analyst space list modify become vital visual note path other lizard";
+var mnemonic = "cave task grow very side say quality fuel forget elephant wrong fat";

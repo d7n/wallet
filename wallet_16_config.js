@@ -1,1 +1,1 @@
-var mnemonic = "split flower enough invite burst theme average finish pilot luxury obvious arch";
+var mnemonic = "chaos faith aerobic quiz mixed embark ball brain fancy carbon firm eternal";

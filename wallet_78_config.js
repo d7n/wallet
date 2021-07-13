@@ -1,1 +1,1 @@
-var mnemonic = "cross wage thank fiction word enroll invite drill tuition guide budget casual";
+var mnemonic = "stone kitchen river silent move prison lemon opera hospital jelly minimum dinner";

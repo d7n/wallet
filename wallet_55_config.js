@@ -1,1 +1,1 @@
-var mnemonic = "fade electric eight finish pluck pet cereal project jazz canoe voyage sugar";
+var mnemonic = "crowd kiwi attend parade oblige neck employ mention castle allow staff caution";

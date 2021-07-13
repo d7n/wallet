@@ -1,1 +1,1 @@
-var mnemonic = "narrow early choose inject apology action barrel reward wait misery crunch mad";
+var mnemonic = "garbage spider plug legend hurt hip dirt fantasy enemy tackle swing wild";

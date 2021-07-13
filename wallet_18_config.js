@@ -1,1 +1,1 @@
-var mnemonic = "bulk entry infant help winter rare erase warm master number vendor august";
+var mnemonic = "crime census style cool name useful renew bean style floor keep phone";

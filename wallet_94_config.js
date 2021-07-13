@@ -1,1 +1,1 @@
-var mnemonic = "soap pumpkin half reform mean shallow track salon enough color dust alarm";
+var mnemonic = "horse collect fun fade unit result basket message garden sting voice wait";

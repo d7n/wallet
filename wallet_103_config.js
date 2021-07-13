@@ -1,1 +1,1 @@
-var mnemonic = "emotion quality glide tuna apart object bunker dinosaur smile start potato marriage";
+var mnemonic = "meadow refuse pair will sudden uncover crater cat harbor reflect blast certain";

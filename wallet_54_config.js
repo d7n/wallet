@@ -1,1 +1,1 @@
-var mnemonic = "job bulk picnic maze steak violin bounce neither tiny crumble silver staff";
+var mnemonic = "eyebrow leader hurdle creek suggest chicken ankle spatial describe poem vocal monster";

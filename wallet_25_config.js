@@ -1,1 +1,1 @@
-var mnemonic = "upgrade wreck impact sense true other exotic notice prosper various magnet next";
+var mnemonic = "knee lady during sight airport split pond invest fan blanket online transfer";

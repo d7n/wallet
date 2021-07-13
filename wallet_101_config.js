@@ -1,1 +1,1 @@
-var mnemonic = "key hover exotic main jeans disease cluster year around soul journey road";
+var mnemonic = "dignity mail shock false decline great wreck three blossom culture yellow evolve";

@@ -1,1 +1,1 @@
-var mnemonic = "else mixed cruel possible toss weekend dynamic coconut until smoke tape nerve";
+var mnemonic = "abstract cotton critic eagle laptop cause forget grab bottom party accident announce";

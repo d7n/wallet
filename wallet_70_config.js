@@ -1,1 +1,1 @@
-var mnemonic = "holiday unfair false raw awful boil describe slab orient sting intact hobby";
+var mnemonic = "dash bacon rare tell gas spoon negative judge desk keep bubble agent";

@@ -1,1 +1,1 @@
-var mnemonic = "pen soon wife custom horror warfare more lobster income adjust sausage salute";
+var mnemonic = "rapid cricket fiber judge hint tattoo lunch loyal spare journey kick develop";

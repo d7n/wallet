@@ -1,1 +1,1 @@
-var mnemonic = "owner gaze pluck nation gun bubble gun butter about deny wish ramp";
+var mnemonic = "possible false source iron crystal host pair lock dice video resource remember";

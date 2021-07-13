@@ -1,1 +1,1 @@
-var mnemonic = "zoo devote upset parent cruel reunion quantum omit snow verb nothing turkey";
+var mnemonic = "duck typical piano park arrest safe produce flush attack umbrella search shell";

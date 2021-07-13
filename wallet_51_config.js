@@ -1,1 +1,1 @@
-var mnemonic = "swing joke quote foil quality sick arrow solar purity dilemma brass shrug";
+var mnemonic = "income improve wealth rural valley section salmon divert blast rice senior taste";

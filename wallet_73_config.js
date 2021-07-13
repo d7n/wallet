@@ -1,1 +1,1 @@
-var mnemonic = "term clip lion correct choose mom angle lemon entire cable equal need";
+var mnemonic = "virus master valve onion gossip ensure collect pulp relief knife refuse organ";

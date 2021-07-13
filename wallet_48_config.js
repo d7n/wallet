@@ -1,1 +1,1 @@
-var mnemonic = "define warrior achieve ozone often enroll issue tiger diagram juice rose bicycle";
+var mnemonic = "chef steak shrug shift edge all clever stock essence erosion balance control";

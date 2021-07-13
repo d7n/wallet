@@ -1,1 +1,1 @@
-var mnemonic = "coil empty save midnight there globe goose garage company train draft seed";
+var mnemonic = "whale elbow cousin this infant situate kite blame hospital sun clean energy";

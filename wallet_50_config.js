@@ -1,1 +1,1 @@
-var mnemonic = "plate attitude little border sad motor also radio auto orchard output country";
+var mnemonic = "half ivory jewel paper pony forget scale aunt dune menu upon lava";

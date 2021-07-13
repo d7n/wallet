@@ -1,1 +1,1 @@
-var mnemonic = "art display emerge humble twelve follow penalty access smart heart cactus wool";
+var mnemonic = "couch enact wreck mystery umbrella situate settle hungry tunnel rude list general";

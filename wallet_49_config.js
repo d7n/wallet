@@ -1,1 +1,1 @@
-var mnemonic = "fetch mesh winter patch level brave vessel join roast wrap absent brain";
+var mnemonic = "high park gas fit attitude garment click clump soup advance mosquito word";

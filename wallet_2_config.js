@@ -1,1 +1,1 @@
-var mnemonic = "august special deer melody all duck snake warm pioneer voyage under spawn";
+var mnemonic = "trouble seminar angle favorite wash easy pottery come fever course poet chimney";
