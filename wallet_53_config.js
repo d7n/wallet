@@ -1,1 +1,1 @@
-var mnemonic = "cereal relax civil bronze burden cat erosion insect sunny ecology engine mirror";
+var mnemonic = "zero blur cargo swim genuine universe vapor must boat trade dilemma normal";

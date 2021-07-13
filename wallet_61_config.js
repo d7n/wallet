@@ -1,1 +1,1 @@
-var mnemonic = "ivory tank squeeze width steel random guilt romance skull trial term ignore";
+var mnemonic = "thank hero left profit valley whisper simple link feed pony warrior when";

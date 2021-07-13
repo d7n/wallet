@@ -1,1 +1,1 @@
-var mnemonic = "cart weasel resemble valid prefer expire unknown crack cake fiscal bean chimney";
+var mnemonic = "craft play truck warm letter swap danger honey divorce entire mixture flight";

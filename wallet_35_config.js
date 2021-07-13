@@ -1,1 +1,1 @@
-var mnemonic = "know loud define mind violin memory expose monkey glare bounce cat diesel";
+var mnemonic = "pioneer present lab tank orbit junk case idea crop medal vacuum kiwi";

@@ -1,1 +1,1 @@
-var mnemonic = "heart ozone tone film dizzy soon weather system recycle brown depend tongue";
+var mnemonic = "soap defense outside artist sock evidence team captain pole praise bicycle region";

@@ -1,1 +1,1 @@
-var mnemonic = "nuclear derive ahead work great fault surround carbon rare host cattle twelve";
+var mnemonic = "pull chimney layer fatigue punch tomorrow acoustic demand height save hammer scene";

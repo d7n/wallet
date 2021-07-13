@@ -1,1 +1,1 @@
-var mnemonic = "toilet verb know dune lobster boost liquid degree wash garlic month risk";
+var mnemonic = "border dust load say bar cook display expect output twelve engage youth";

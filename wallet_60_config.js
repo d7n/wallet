@@ -1,1 +1,1 @@
-var mnemonic = "dismiss sudden scrub heavy symbol leave scrub then wing critic firm holiday";
+var mnemonic = "life coffee hub scatter crane fault material high segment post equal wild";

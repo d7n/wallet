@@ -1,1 +1,1 @@
-var mnemonic = "uncle common knee world city bulb secret tide cart motor suspect same";
+var mnemonic = "stomach ring auto attack cannon obey turkey fade canal trash butter cinnamon";

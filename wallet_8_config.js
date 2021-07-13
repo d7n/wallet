@@ -1,1 +1,1 @@
-var mnemonic = "snake image vehicle crazy ladder defense climb tuition leader kangaroo addict custom";
+var mnemonic = "borrow idea copy voyage note cactus size diesel hazard beyond life there";

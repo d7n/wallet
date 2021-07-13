@@ -1,1 +1,1 @@
-var mnemonic = "current sure spike load finger cup kick pelican magic vessel mercy double";
+var mnemonic = "indoor vessel virus raven risk food rally cave churn domain fame brand";

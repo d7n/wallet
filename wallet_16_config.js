@@ -1,1 +1,1 @@
-var mnemonic = "cheese attend select convince filter little gather october vocal reform thank candy";
+var mnemonic = "wreck arrest buddy heavy weasel bargain draft ball defy between corn pledge";

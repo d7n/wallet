@@ -1,1 +1,1 @@
-var mnemonic = "shine unhappy echo slight thumb glove sphere limit wheat before dog utility";
+var mnemonic = "virtual embody embrace tomato other license stadium morning grow oblige bulb diet";

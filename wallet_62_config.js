@@ -1,1 +1,1 @@
-var mnemonic = "depth vacant summer couch excuse slush flavor dolphin gauge stone click dust";
+var mnemonic = "idle normal capable panic zone wood frog machine seek across board hard";

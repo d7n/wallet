@@ -1,1 +1,1 @@
-var mnemonic = "banana knock spot obey trick twist spell brother tape budget amateur wave";
+var mnemonic = "swarm sudden such recycle foam aerobic pupil extend route purchase roof rescue";

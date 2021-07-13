@@ -1,1 +1,1 @@
-var mnemonic = "liquid soon shrimp fortune smoke choice size skill betray body cube animal";
+var mnemonic = "profit noise opinion length image clerk match broccoli sauce ribbon frog mass";

@@ -1,1 +1,1 @@
-var mnemonic = "hand wing crouch frost coyote nose garage movie adapt verb garment pond";
+var mnemonic = "polar speak novel people inner palace glance labor milk wasp life lyrics";

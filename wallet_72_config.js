@@ -1,1 +1,1 @@
-var mnemonic = "engage sponsor cool forward scheme ramp upgrade left apology sphere scheme just";
+var mnemonic = "vacuum attract meadow weird urge voyage feature wasp slush okay weird nephew";

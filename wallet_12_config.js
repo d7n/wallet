@@ -1,1 +1,1 @@
-var mnemonic = "agent salt hover moon rookie chicken inmate clay fuel change express afford";
+var mnemonic = "ship stuff enemy enemy wolf target can raccoon salon yellow jump venue";

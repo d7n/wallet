@@ -1,1 +1,1 @@
-var mnemonic = "sketch coffee away slim clip recycle excuse stay enough lion idea quiz";
+var mnemonic = "pole humble wagon matrix shoulder mean magic cradle solution walk clever tip";

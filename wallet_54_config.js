@@ -1,1 +1,1 @@
-var mnemonic = "speak economy milk cross grunt tilt actress trade deer wheel street diagram";
+var mnemonic = "tool control scissors virtual alert flash critic dry gun own print wolf";

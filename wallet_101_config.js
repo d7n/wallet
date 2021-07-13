@@ -1,1 +1,1 @@
-var mnemonic = "eye wood return chimney ugly urban work lyrics rotate click unfair spatial";
+var mnemonic = "fetch attend cash gesture course abstract daughter hybrid poem mixture sample clarify";

@@ -1,1 +1,1 @@
-var mnemonic = "cook home era series off dove urban pink car amused bird drink";
+var mnemonic = "decrease donate assume solve country advance exotic solve major admit hurry ginger";

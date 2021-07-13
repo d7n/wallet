@@ -1,1 +1,1 @@
-var mnemonic = "beauty loud rebuild risk pool bird glow vibrant cook link hole model";
+var mnemonic = "still trend pig false color decade divorce skull spawn fence curtain hollow";

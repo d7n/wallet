@@ -1,1 +1,1 @@
-var mnemonic = "voyage dust fuel concert apart index tragic wink mandate rally dress choose";
+var mnemonic = "can have solution arrest round firm grief off salad jeans physical boss";

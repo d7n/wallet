@@ -1,1 +1,1 @@
-var mnemonic = "unusual rubber never denial dune room confirm thank sort crater essence wage";
+var mnemonic = "yellow all beyond laptop census rival gather pull alarm use obscure race";

@@ -1,1 +1,1 @@
-var mnemonic = "jacket come bitter cinnamon afraid divorce offer coconut kingdom discover frequent rail";
+var mnemonic = "protect illegal proud liar ancient fall bracket mesh rely skirt review burger";

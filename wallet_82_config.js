@@ -1,1 +1,1 @@
-var mnemonic = "option fluid powder capital segment coffee know skirt trash cream desk boil";
+var mnemonic = "then whip cat fitness shy burden damp goose update will cat found";

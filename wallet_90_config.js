@@ -1,1 +1,1 @@
-var mnemonic = "fancy silver victory boat fatigue bacon arrange hurdle entire mistake whisper bag";
+var mnemonic = "beyond quarter catch news pupil act crowd evoke front stumble subject tail";

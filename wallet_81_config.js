@@ -1,1 +1,1 @@
-var mnemonic = "very soccer pear first recycle merge bulb catch bid cactus orphan plug";
+var mnemonic = "antique laundry void prepare arena stereo friend owner simple orange awful resource";

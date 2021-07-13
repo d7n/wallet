@@ -1,1 +1,1 @@
-var mnemonic = "history thumb income uphold alpha evolve venue cool topple reunion liberty almost";
+var mnemonic = "nasty rifle spare mobile magic drift siren burden barrel common few broken";

@@ -1,1 +1,1 @@
-var mnemonic = "moral sorry piano inspire tackle tube success example fever exotic stove scorpion";
+var mnemonic = "fiber demand shy apple smooth brave other error detail night belt genre";

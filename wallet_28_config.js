@@ -1,1 +1,1 @@
-var mnemonic = "ritual target bag fold blast drip silent army cigar movie spring gown";
+var mnemonic = "alone twenty seek normal galaxy mind crater cake venture scheme film dirt";

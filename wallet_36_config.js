@@ -1,1 +1,1 @@
-var mnemonic = "addict parent cat cross pond tomato canyon assume plastic best fruit erase";
+var mnemonic = "bottom early property head bamboo machine nation around theme oxygen fame reject";

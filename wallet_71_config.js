@@ -1,1 +1,1 @@
-var mnemonic = "hello safe card depart between steel define rebel number ride enter domain";
+var mnemonic = "place level card jeans deputy birth since tornado dance miracle test scrub";

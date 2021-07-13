@@ -1,1 +1,1 @@
-var mnemonic = "become exhaust traffic smooth payment abandon lunar lemon art blood liar maid";
+var mnemonic = "sail normal much senior toward warrior just cool margin route there bamboo";

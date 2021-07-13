@@ -1,1 +1,1 @@
-var mnemonic = "deer merge imitate define woman level trick business property biology pipe deputy";
+var mnemonic = "help renew property cushion swing narrow main cruise ahead horror around result";

@@ -1,1 +1,1 @@
-var mnemonic = "quarter wedding dry soap insane ill lion sense flower inmate game slow";
+var mnemonic = "priority south soda casino thunder cram peanut spare circle crop syrup state";

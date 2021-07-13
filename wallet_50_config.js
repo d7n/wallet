@@ -1,1 +1,1 @@
-var mnemonic = "near relief february exist sell pilot space size useless fox salmon hybrid";
+var mnemonic = "country useful hammer reduce body orient cruel love affair wrap merge lift";

@@ -1,1 +1,1 @@
-var mnemonic = "survey lecture pink retire eternal happy august palm fall coil caught buddy";
+var mnemonic = "finger carbon fox boat solution cricket choice pond item phrase put leg";

@@ -1,1 +1,1 @@
-var mnemonic = "glass rent marriage scatter blame also dentist steak zero planet staff priority";
+var mnemonic = "insect twenty front forward nurse blood romance victory reject habit voice home";

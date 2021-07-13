@@ -1,1 +1,1 @@
-var mnemonic = "lock ramp luxury delay cigar stamp turtle ivory history foam chaos purchase";
+var mnemonic = "foot tuition cover solar behind write harbor spring program october lottery update";

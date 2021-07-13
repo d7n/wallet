@@ -1,1 +1,1 @@
-var mnemonic = "guitar level before deliver dress turn flower reunion wing proud uniform floor";
+var mnemonic = "flock famous achieve soup exercise develop spell ugly pattern grain subway spatial";

@@ -1,1 +1,1 @@
-var mnemonic = "wear popular afford quit comic subject random ketchup wrong ramp bachelor power";
+var mnemonic = "oyster fantasy green flash raw special affair soon pilot erode lumber before";

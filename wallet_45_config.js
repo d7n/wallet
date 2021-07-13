@@ -1,1 +1,1 @@
-var mnemonic = "early dance inspire pond frame round valley lady ridge smoke pottery stool";
+var mnemonic = "pen gather term betray minimum nasty banana believe unlock quote hazard budget";

@@ -1,1 +1,1 @@
-var mnemonic = "gate gloom sure airport sound client story wood razor save dolphin topple";
+var mnemonic = "drill morning coral indicate below leave exercise review post ketchup success tide";

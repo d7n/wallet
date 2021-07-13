@@ -1,1 +1,1 @@
-var mnemonic = "lunar accident click say pass donor sponsor since brush curious chapter unlock";
+var mnemonic = "copy injury evil crop expire spread poem ordinary stage dish crawl genre";

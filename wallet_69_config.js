@@ -1,1 +1,1 @@
-var mnemonic = "broom exhibit flag illness quarter right picnic stone shuffle rare firm clap";
+var mnemonic = "sick hybrid ghost truck busy laugh hire furnace toilet beach birth knock";

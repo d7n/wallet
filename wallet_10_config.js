@@ -1,1 +1,1 @@
-var mnemonic = "air corn mobile grid song category harvest adult whisper shy source soon";
+var mnemonic = "sustain maximum size recipe excite dizzy world rather scare drop vote orbit";

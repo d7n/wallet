@@ -1,1 +1,1 @@
-var mnemonic = "kiss hobby kiss midnight clerk name stick act memory hero embrace mind";
+var mnemonic = "hard cool lecture topic toward child health bacon rich void safe stool";

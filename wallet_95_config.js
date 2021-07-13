@@ -1,1 +1,1 @@
-var mnemonic = "hire blood vibrant winter coconut inhale poem bunker audit depth among hat";
+var mnemonic = "stable potato office draft light rare shove library decide feature gate mad";

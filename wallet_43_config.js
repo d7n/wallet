@@ -1,1 +1,1 @@
-var mnemonic = "mountain monitor sunset giggle mesh apple lunch spy exclude dinosaur purity reason";
+var mnemonic = "climb property aisle hold vocal ostrich animal law gather night acquire bone";

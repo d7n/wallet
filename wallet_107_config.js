@@ -1,1 +1,1 @@
-var mnemonic = "wasp orbit extra scrap panther soap grief subway wise account faculty diesel";
+var mnemonic = "point orphan conduct zone pool twin label glass dress horse disagree ship";

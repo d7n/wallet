@@ -1,1 +1,1 @@
-var mnemonic = "exchange delay pottery wide parade visual hockey flight travel ankle salt include";
+var mnemonic = "friend cactus forum program major cry defy hurry address want huge output";

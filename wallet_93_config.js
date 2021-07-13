@@ -1,1 +1,1 @@
-var mnemonic = "blood dumb spend provide maid diagram teach enjoy maple wrong injury universe";
+var mnemonic = "left crouch creek mercy fiscal sign sing story mixed slam join sail";

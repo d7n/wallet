@@ -1,1 +1,1 @@
-var mnemonic = "very only truly void dress artefact same amazing spray mansion ridge thing";
+var mnemonic = "scene fox slight magnet invest latin unable pact tent tonight enforce virtual";

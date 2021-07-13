@@ -1,1 +1,1 @@
-var mnemonic = "giraffe helmet lumber home census guard tornado talent skirt guilt shaft predict";
+var mnemonic = "pitch message olympic ladder already anger hole ranch omit crisp pattern kit";

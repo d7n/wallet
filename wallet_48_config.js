@@ -1,1 +1,1 @@
-var mnemonic = "trash gather fiber nature decade lounge leisure differ cushion core rural grid";
+var mnemonic = "whisper notable measure maze pole process caught horn giraffe original exclude gate";

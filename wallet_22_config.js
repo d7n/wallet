@@ -1,1 +1,1 @@
-var mnemonic = "city pretty cabbage obtain mosquito deal clump favorite lottery plastic alert excess";
+var mnemonic = "critic bird one error output volume sauce vote number doll bitter swap";

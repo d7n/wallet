@@ -1,1 +1,1 @@
-var mnemonic = "edge any audit mountain bacon tomato script symbol raw shift universe quick";
+var mnemonic = "submit legend tip gold accident era bench tip unlock buffalo people limb";

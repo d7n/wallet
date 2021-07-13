@@ -1,1 +1,1 @@
-var mnemonic = "ceiling drive sentence myself foot tongue already sign child carbon embrace prevent";
+var mnemonic = "ill salt credit frown result tilt seminar favorite eight manage sample core";

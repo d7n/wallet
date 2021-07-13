@@ -1,1 +1,1 @@
-var mnemonic = "trial reveal sleep lunch trumpet typical arena purse snake around spray clutch";
+var mnemonic = "pitch shove evoke scan entry shell cash consider input copy alcohol smart";

@@ -1,1 +1,1 @@
-var mnemonic = "truck that waste again mule humble zebra faith beyond carbon because adult";
+var mnemonic = "average agent kite left walk artefact negative below note palm afraid peace";

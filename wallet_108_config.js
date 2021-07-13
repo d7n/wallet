@@ -1,1 +1,1 @@
-var mnemonic = "large rich disorder afford olive train analyst jeans prize maze matrix disagree";
+var mnemonic = "praise scan fresh submit horse tent antenna vault profit capital help stand";

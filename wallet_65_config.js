@@ -1,1 +1,1 @@
-var mnemonic = "gesture scissors foil error sock olive prepare nature sudden uncle company share";
+var mnemonic = "keep front world upon ozone horror enact inside pond divorce raven hedgehog";

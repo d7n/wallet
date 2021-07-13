@@ -1,1 +1,1 @@
-var mnemonic = "nephew pool brave battle hover rude visa impact absent dial pool waste";
+var mnemonic = "judge piano impact flash eye design isolate jazz mansion identify example photo";

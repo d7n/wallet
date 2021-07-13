@@ -1,1 +1,1 @@
-var mnemonic = "same crumble reduce recipe wink style report mansion craft afford buffalo right";
+var mnemonic = "venture this mushroom cycle learn witness bus fit bird curve stairs marine";

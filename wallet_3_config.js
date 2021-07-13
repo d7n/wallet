@@ -1,1 +1,1 @@
-var mnemonic = "suggest toast escape tail invite maid vessel ranch fade unfair often apart";
+var mnemonic = "fence cruel make cradle major moment west hand supply detail velvet captain";

@@ -1,1 +1,1 @@
-var mnemonic = "enough organ improve same require drama reason orbit velvet relax gravity glad";
+var mnemonic = "nuclear unit morning wild frame license midnight cabbage ginger ignore gain apart";

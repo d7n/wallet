@@ -1,1 +1,1 @@
-var mnemonic = "apart slide foil height loud dynamic orange brisk sort bleak earn demise";
+var mnemonic = "slab photo child month argue ride federal purchase icon squirrel sell theory";

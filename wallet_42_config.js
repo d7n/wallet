@@ -1,1 +1,1 @@
-var mnemonic = "wasp empower hedgehog change build country want question scale mass suit limb";
+var mnemonic = "fancy team carry burst fruit practice armor news grow name agree garment";

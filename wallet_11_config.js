@@ -1,1 +1,1 @@
-var mnemonic = "battle empower column minimum drum must glue word loop thank liar giraffe";
+var mnemonic = "adjust ball prison fit judge upset bomb scan actress rural render wedding";

@@ -1,1 +1,1 @@
-var mnemonic = "unhappy unit young client gift test champion right depend beach round render";
+var mnemonic = "enroll traffic welcome flight joke shop brush rotate size truly thumb magic";

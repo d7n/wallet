@@ -1,1 +1,1 @@
-var mnemonic = "coffee now few desk pill cliff protect away crash educate game blind";
+var mnemonic = "govern cement figure sound best brother economy hard interest antique rabbit prepare";

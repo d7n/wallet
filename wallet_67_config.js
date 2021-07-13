@@ -1,1 +1,1 @@
-var mnemonic = "still noise banana boat limb wink ribbon solid rough book assume net";
+var mnemonic = "reject glide chaos seven witness dice plate follow weather aspect diesel puzzle";

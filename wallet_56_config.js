@@ -1,1 +1,1 @@
-var mnemonic = "urban dress danger glare minor cube fragile oil toddler void enter border";
+var mnemonic = "escape supreme tube rotate digital disagree jump connect mixed other cigar front";

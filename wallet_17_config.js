@@ -1,1 +1,1 @@
-var mnemonic = "rough lady wonder century fun pilot poet outer famous number below gauge";
+var mnemonic = "govern dilemma obtain address oven picture envelope someone runway gorilla polar obtain";

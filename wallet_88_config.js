@@ -1,1 +1,1 @@
-var mnemonic = "hazard disagree equal harsh cluster slender border charge wage fish choice warm";
+var mnemonic = "weasel crash mean crisp anxiety anxiety call celery combine saddle today yellow";

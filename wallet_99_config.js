@@ -1,1 +1,1 @@
-var mnemonic = "element kingdom virus silent beyond cruise cake legend casino acid protect grocery";
+var mnemonic = "parent clap maze candy oval scale skate school useful craft tilt asthma";

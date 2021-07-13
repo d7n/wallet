@@ -1,1 +1,1 @@
-var mnemonic = "column business middle butter pink ice expire boring surge mail blur lady";
+var mnemonic = "fly six script addict iron chunk comic song spare cage busy network";

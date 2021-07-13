@@ -1,1 +1,1 @@
-var mnemonic = "eyebrow use beyond ride initial bike oval shed kick cancel dress hockey";
+var mnemonic = "over pattern dose range because yellow ice memory off viable street human";

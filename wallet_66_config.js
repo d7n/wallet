@@ -1,1 +1,1 @@
-var mnemonic = "predict assault second decorate chunk consider chat renew suspect discover order hockey";
+var mnemonic = "action peace child phrase timber lift aspect immense ranch try end country";

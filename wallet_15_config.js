@@ -1,1 +1,1 @@
-var mnemonic = "sunset hurdle nose allow gentle scrap kid hamster enhance ribbon tent cute";
+var mnemonic = "ignore seek puzzle turkey shell fame sand vacuum often electric script able";

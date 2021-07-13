@@ -1,1 +1,1 @@
-var mnemonic = "repeat feel pulp memory dumb rather lion wall setup wonder proof begin";
+var mnemonic = "decorate feature squirrel ship board expose finish video rally small envelope wine";

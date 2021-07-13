@@ -1,1 +1,1 @@
-var mnemonic = "chapter valid burst enough match jungle they undo build ladder nerve sell";
+var mnemonic = "occur praise wait coyote fork clip enroll easy sustain connect strike portion";

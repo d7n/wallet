@@ -1,1 +1,1 @@
-var mnemonic = "spider teach trim struggle twin artwork swear tenant piano warm road buddy";
+var mnemonic = "never funny indicate among apple dose area build horn van mean unit";

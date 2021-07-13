@@ -1,1 +1,1 @@
-var mnemonic = "caught arrest odor vintage pudding together discover law meat wedding project animal";
+var mnemonic = "predict dignity sport leave turkey similar exhaust bid helmet train point define";

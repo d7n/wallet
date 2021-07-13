@@ -1,1 +1,1 @@
-var mnemonic = "action inmate where buffalo junior effort bone soldier panic hole what student";
+var mnemonic = "city confirm major accuse stairs exit occur quiz weapon loan quit flag";

@@ -1,1 +1,1 @@
-var mnemonic = "paper maze shine shed bar banner code enter soda coffee exile oil";
+var mnemonic = "supreme decline grace capable hire raise tired liberty canyon timber paddle private";

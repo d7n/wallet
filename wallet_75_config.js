@@ -1,1 +1,1 @@
-var mnemonic = "stick hurdle adapt start weasel royal happy side casual sibling joy what";
+var mnemonic = "myth world key caution mistake canyon vague bone door error credit pen";

@@ -1,1 +1,1 @@
-var mnemonic = "rose rigid chef vibrant weekend exchange type fold laugh tent buddy video";
+var mnemonic = "skate sweet hill hedgehog vapor daring beach absorb minimum match kite harsh";

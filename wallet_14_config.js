@@ -1,1 +1,1 @@
-var mnemonic = "pair autumn foam blue attack trust absent dash lake ship toddler weapon";
+var mnemonic = "illness problem leopard toss hope install magnet nurse hidden patient powder spatial";

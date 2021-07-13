@@ -1,1 +1,1 @@
-var mnemonic = "exact balcony apple horn there property enforce wild dinosaur night exotic pave";
+var mnemonic = "wagon measure photo arrive slice crunch airport define snack moment birth winter";
