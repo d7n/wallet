@@ -1,1 +1,1 @@
-var mnemonic = "where roast basic ginger bus wisdom public solid visual trigger horror daring";
+var mnemonic = "round peasant syrup result spray panther team transfer erode grain shine spin";

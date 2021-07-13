@@ -1,1 +1,1 @@
-var mnemonic = "hour tattoo result leader zone acid decorate rose arena immune give theory";
+var mnemonic = "second deal promote catch enemy pact sadness pen gain negative worry fortune";

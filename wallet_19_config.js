@@ -1,1 +1,1 @@
-var mnemonic = "certain puzzle move roast cup case close amazing document expire cinnamon width";
+var mnemonic = "review device disagree resemble bus dice thought minor about evidence secret consider";

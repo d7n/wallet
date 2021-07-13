@@ -1,1 +1,1 @@
-var mnemonic = "magic turkey maximum soda add reflect pledge assist raven tomato add wife";
+var mnemonic = "thought invite love iron bullet dignity decorate hello witness fringe great fatigue";

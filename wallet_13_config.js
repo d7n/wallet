@@ -1,1 +1,1 @@
-var mnemonic = "enforce jealous version saddle involve south escape anchor army clutch chunk pen";
+var mnemonic = "random pretty wage grape exchange capable response fatigue master notable banner evil";

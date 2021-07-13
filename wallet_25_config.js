@@ -1,1 +1,1 @@
-var mnemonic = "front topple upon rapid depth direct fuel cycle sport liquid tornado claw";
+var mnemonic = "grow crew retreat twin dial eye wild sail frame galaxy hidden axis";

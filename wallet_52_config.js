@@ -1,1 +1,1 @@
-var mnemonic = "expand online rebuild ocean slide width flower phone novel hobby crane width";
+var mnemonic = "cable web fashion arrest want crash brush rule nothing normal opinion sentence";

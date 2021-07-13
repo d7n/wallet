@@ -1,1 +1,1 @@
-var mnemonic = "kick define naive annual old pupil example about helmet skill six demise";
+var mnemonic = "squeeze asthma opinion when detect average extend congress wrist stumble rail around";

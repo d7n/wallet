@@ -1,1 +1,1 @@
-var mnemonic = "guard talk knock cabbage valid survey grain snake wealth deputy blood east";
+var mnemonic = "evolve comic stumble surround click grief viable gloom sort bring trash mixture";

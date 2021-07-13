@@ -1,1 +1,1 @@
-var mnemonic = "donate intact crime genre skin ritual hover success soon survey embody pioneer";
+var mnemonic = "peasant caution enact better brand issue move juice insect hood uphold arctic";

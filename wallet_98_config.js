@@ -1,1 +1,1 @@
-var mnemonic = "quarter hour minimum mind fox case payment bird punch corn lift manage";
+var mnemonic = "when hip innocent allow bundle flight reform episode garden scissors announce burst";

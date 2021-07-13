@@ -1,1 +1,1 @@
-var mnemonic = "sun define jeans strategy beef whip ritual juice meadow cake section when";
+var mnemonic = "word gift labor arrest desk recall attack cute rare success innocent neutral";

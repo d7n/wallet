@@ -1,1 +1,1 @@
-var mnemonic = "napkin brush slim explain swarm lady celery check lady sorry film tip";
+var mnemonic = "cluster detect move viable panel iron special calm manual share sunset idle";

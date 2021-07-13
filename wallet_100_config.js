@@ -1,1 +1,1 @@
-var mnemonic = "refuse dolphin token need lounge develop dumb actor deposit festival kite crunch";
+var mnemonic = "room survey machine toast crop spin butter cactus suspect toe obey around";

@@ -1,1 +1,1 @@
-var mnemonic = "famous garbage finish elder music rely elevator vocal noble soup lift dentist";
+var mnemonic = "just rifle ugly main vote cargo cruel paper diet yard repair protect";

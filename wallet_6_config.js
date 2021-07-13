@@ -1,1 +1,1 @@
-var mnemonic = "sword horror rate dune priority maximum trap liquid despair deal cruel wolf";
+var mnemonic = "protect upper quit ask grant staff peanut story swarm couple voice imitate";

@@ -1,1 +1,1 @@
-var mnemonic = "wrist nephew convince half stereo unfair poem strong accident tower double impulse";
+var mnemonic = "science rug history toward biology latin diamond barrel chase element six gossip";

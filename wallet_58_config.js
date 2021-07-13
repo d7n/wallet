@@ -1,1 +1,1 @@
-var mnemonic = "liquid crouch brass soldier evidence liquid trick duck this spawn junk canyon";
+var mnemonic = "guilt pioneer tone ticket rent melt mercy pass diesel art search joke";

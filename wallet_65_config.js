@@ -1,1 +1,1 @@
-var mnemonic = "move leaf rescue open rescue clutch pill ozone camera fatal gate flock";
+var mnemonic = "aspect left cage tunnel zone answer among mom when inherit cheese crime";

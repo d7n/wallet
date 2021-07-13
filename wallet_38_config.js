@@ -1,1 +1,1 @@
-var mnemonic = "public dirt metal shrug rookie day rural stadium spin obscure average race";
+var mnemonic = "autumn make million soccer tomorrow lava melt endorse sting collect unhappy return";

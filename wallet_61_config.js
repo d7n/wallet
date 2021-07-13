@@ -1,1 +1,1 @@
-var mnemonic = "window poem day forum ribbon tobacco offer curious key hen puzzle eight";
+var mnemonic = "media useless organ toward place garage cake miracle summer swap brand vocal";

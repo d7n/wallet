@@ -1,1 +1,1 @@
-var mnemonic = "fabric dirt system shrug offer sick october physical garbage fly foot rescue";
+var mnemonic = "prefer hockey render air proud income wet melody ladder tumble churn bounce";

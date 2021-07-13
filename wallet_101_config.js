@@ -1,1 +1,1 @@
-var mnemonic = "drink brand reflect chalk gas combine inmate general echo piano tortoise message";
+var mnemonic = "witness loop mobile leave six throw settle elephant brief power chuckle cram";

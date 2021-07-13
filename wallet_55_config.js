@@ -1,1 +1,1 @@
-var mnemonic = "exist suffer palace vicious cotton remind junior shell shrug census craft mountain";
+var mnemonic = "cabin neutral pupil mind melody nurse apple sausage pulp answer rib patrol";

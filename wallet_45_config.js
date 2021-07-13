@@ -1,1 +1,1 @@
-var mnemonic = "voyage become welcome muscle daughter pattern treat will enjoy ridge salmon fall";
+var mnemonic = "work initial demise smart minimum magnet throw foster level panel noble you";

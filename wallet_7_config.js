@@ -1,1 +1,1 @@
-var mnemonic = "fold scan round noodle hint spray keen annual lift crowd fruit profit";
+var mnemonic = "mule gasp jacket clutch say version skill ask discover market manual argue";

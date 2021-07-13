@@ -1,1 +1,1 @@
-var mnemonic = "cart celery soon chief fame kidney session liberty pigeon maze retreat egg";
+var mnemonic = "hundred tennis gift token main doll amused token off recipe purchase bench";

@@ -1,1 +1,1 @@
-var mnemonic = "year phone hunt reunion slam traffic ahead gloom toilet lecture genuine gesture";
+var mnemonic = "olive gallery pistol afraid river menu knock mimic equal material wrist glue";

@@ -1,1 +1,1 @@
-var mnemonic = "cave leopard walk bonus choice winter always candy faith siren warfare wedding";
+var mnemonic = "doll ice sort churn spatial select thing rally aim tone cute rubber";

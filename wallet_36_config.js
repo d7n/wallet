@@ -1,1 +1,1 @@
-var mnemonic = "hungry goddess pony almost latin because scissors start elegant easily rack yellow";
+var mnemonic = "era solid window client woman basic expect bamboo peace sword month license";

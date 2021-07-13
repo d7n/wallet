@@ -1,1 +1,1 @@
-var mnemonic = "parrot number marriage grief chair fiction anchor april canoe process warrior blush";
+var mnemonic = "race maze devote aunt universe planet tooth power feature direct mixed car";

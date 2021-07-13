@@ -1,1 +1,1 @@
-var mnemonic = "vague cool spend quarter trumpet surprise tower onion fancy ridge movie sibling";
+var mnemonic = "tone good cargo ensure lion figure drastic spin physical option neglect opera";

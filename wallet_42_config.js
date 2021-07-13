@@ -1,1 +1,1 @@
-var mnemonic = "inquiry away wall already desert just goose false salad decline maple parade";
+var mnemonic = "afraid stumble vintage blue gorilla boring farm beef ankle dwarf scissors episode";

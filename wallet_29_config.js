@@ -1,1 +1,1 @@
-var mnemonic = "scorpion note news noodle ability vacuum morning embrace access loop truly volume";
+var mnemonic = "wet retire reveal acoustic involve kangaroo seminar erupt fatal public maid donate";

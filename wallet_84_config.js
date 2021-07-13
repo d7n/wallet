@@ -1,1 +1,1 @@
-var mnemonic = "bargain shiver what avocado orange angry alien trim shy member direct toddler";
+var mnemonic = "fire puzzle elevator tilt know silk someone hat pottery frozen canvas village";

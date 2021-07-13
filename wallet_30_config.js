@@ -1,1 +1,1 @@
-var mnemonic = "food market reform mask foam junk over battle science setup front movie";
+var mnemonic = "steel differ burden impact tortoise seed trap siren shock final quit hotel";

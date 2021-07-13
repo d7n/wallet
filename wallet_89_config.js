@@ -1,1 +1,1 @@
-var mnemonic = "disorder pass relax zoo silk surge clerk prison govern ritual shoot scheme";
+var mnemonic = "two express resource oven method symbol snap blue mosquito patient intact honey";

@@ -1,1 +1,1 @@
-var mnemonic = "produce same asthma toddler upon orange kingdom fork identify hire lonely toward";
+var mnemonic = "monitor private true latin empower hurry modify hidden soup toward office pelican";

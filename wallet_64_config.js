@@ -1,1 +1,1 @@
-var mnemonic = "hospital hamster jaguar because mule fever thought toss north swamp usage coconut";
+var mnemonic = "garment chat purse silent sphere matter clinic corn usual upon photo spin";

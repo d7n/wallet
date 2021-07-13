@@ -1,1 +1,1 @@
-var mnemonic = "weekend crush right hat scatter kiwi answer abuse record pulp grape tail";
+var mnemonic = "focus drink extend envelope stamp shine bonus attack hair trash cliff net";

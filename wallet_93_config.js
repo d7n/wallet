@@ -1,1 +1,1 @@
-var mnemonic = "price polar spin amazing flat float dismiss depend coyote increase guide rigid";
+var mnemonic = "blossom junior camp nurse boring magnet skin fluid flower purity term service";

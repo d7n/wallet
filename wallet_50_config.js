@@ -1,1 +1,1 @@
-var mnemonic = "diet arch vital remember flavor phrase cruise notable inside icon fetch decline";
+var mnemonic = "habit proof isolate panda office tunnel ahead much essay solution balcony submit";

@@ -1,1 +1,1 @@
-var mnemonic = "tomorrow today faint fan indoor suit ride crazy sing course orient public";
+var mnemonic = "review forest eyebrow tortoise connect area owner ivory turn setup push today";

@@ -1,1 +1,1 @@
-var mnemonic = "cloud fiction enough exact appear bar ugly spider wrist law meadow desert";
+var mnemonic = "expand scorpion danger reduce grid song resource wood silk iron earn bamboo";

@@ -1,1 +1,1 @@
-var mnemonic = "lumber column flavor sheriff divide purse trick tomorrow swamp topic valve pottery";
+var mnemonic = "stable believe shuffle cable anger smooth route island visa volcano under floor";

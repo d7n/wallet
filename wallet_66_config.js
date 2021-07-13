@@ -1,1 +1,1 @@
-var mnemonic = "copy subway recycle flee curtain pill scrap physical nominee attend awesome shadow";
+var mnemonic = "note alarm iron cable stock hour pole address receive carpet wall despair";

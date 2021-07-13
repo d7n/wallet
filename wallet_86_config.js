@@ -1,1 +1,1 @@
-var mnemonic = "drift comic panel rain gold toward act hope defense favorite figure text";
+var mnemonic = "thought hair defense forest salute original link live defy cactus wine busy";

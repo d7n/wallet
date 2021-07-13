@@ -1,1 +1,1 @@
-var mnemonic = "raw dress boss dose add sunny assist candy obey adjust differ cannon";
+var mnemonic = "mosquito chair vote almost rate grocery reward trophy tray lonely ocean ghost";

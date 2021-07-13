@@ -1,1 +1,1 @@
-var mnemonic = "always hold season between domain lottery sketch accident predict near melody vacuum";
+var mnemonic = "trim scene page acquire feed tiny shrimp outdoor fruit flight favorite horn";

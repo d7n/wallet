@@ -1,1 +1,1 @@
-var mnemonic = "minimum come become fossil panic face radio grain birth today begin isolate";
+var mnemonic = "offer card tooth apple pond debris pioneer fog convince unaware civil install";

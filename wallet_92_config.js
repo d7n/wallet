@@ -1,1 +1,1 @@
-var mnemonic = "click pupil police text beauty any snake pill element dad brick fog";
+var mnemonic = "castle sniff notable never physical there sport solar diamond economy text abuse";

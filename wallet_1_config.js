@@ -1,1 +1,1 @@
-var mnemonic = "glove genius cream obtain harvest safe ring spirit satisfy solid pear leave";
+var mnemonic = "shed quality physical phone truck off artwork ordinary true motor balcony behave";

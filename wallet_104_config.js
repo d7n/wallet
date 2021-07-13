@@ -1,1 +1,1 @@
-var mnemonic = "renew top duck trade whip symptom hair family next toward kick child";
+var mnemonic = "build nephew deliver awake wave heart lend cycle rifle snake garbage arrest";

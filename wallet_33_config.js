@@ -1,1 +1,1 @@
-var mnemonic = "point apart face real logic deposit dinner pipe furnace glove soft sunny";
+var mnemonic = "endless arctic open mom drink buyer vendor correct waste recipe vote miracle";

@@ -1,1 +1,1 @@
-var mnemonic = "tooth humble include recipe swarm flat nothing delay garden naive barrel stay";
+var mnemonic = "term fragile snap patient domain trap kind music naive spoil rabbit enlist";

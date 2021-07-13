@@ -1,1 +1,1 @@
-var mnemonic = "green jealous pitch switch salon paper exit bunker antique dove pledge ostrich";
+var mnemonic = "rabbit unlock impose spy often arrow federal awake absurd already year wage";

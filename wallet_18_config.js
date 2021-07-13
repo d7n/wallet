@@ -1,1 +1,1 @@
-var mnemonic = "daring pear scan trumpet boat lobster comfort squirrel little gasp spike tray";
+var mnemonic = "scale merry mystery benefit twice innocent alley service gloom fabric chronic knock";

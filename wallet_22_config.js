@@ -1,1 +1,1 @@
-var mnemonic = "scheme icon federal display december truck body design castle voyage powder maximum";
+var mnemonic = "table clinic survey shrimp enact clarify wheat proud find foot venture quote";

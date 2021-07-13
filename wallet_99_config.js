@@ -1,1 +1,1 @@
-var mnemonic = "fan history come sting have empower clean runway episode bonus parade mutual";
+var mnemonic = "chuckle cousin better weekend express domain know great fit orchard friend august";

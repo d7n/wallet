@@ -1,1 +1,1 @@
-var mnemonic = "night people border spirit weekend domain text control rebuild sing supreme pulp";
+var mnemonic = "couch solar bubble head what mom stereo olive onion guilt river crane";

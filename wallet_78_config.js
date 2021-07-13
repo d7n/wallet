@@ -1,1 +1,1 @@
-var mnemonic = "find basket snow height edit ship response lab dirt forward apology social";
+var mnemonic = "candy company gym pipe glad upset bargain enforce garbage during divide slot";

@@ -1,1 +1,1 @@
-var mnemonic = "want wine topple icon pole surround weekend squeeze minute teach aspect today";
+var mnemonic = "surprise then ankle tower champion gap clinic urban disorder rally neglect trick";

@@ -1,1 +1,1 @@
-var mnemonic = "dry energy wet ramp payment curtain scene salute cloud fatal clown turtle";
+var mnemonic = "clutch index portion thank finish primary depth glance filter mistake daring top";

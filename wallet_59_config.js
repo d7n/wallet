@@ -1,1 +1,1 @@
-var mnemonic = "health elevator bid share artefact number coast rubber model style patch correct";
+var mnemonic = "convince cruise endless mechanic radio umbrella maid vacant muscle news slab hurdle";

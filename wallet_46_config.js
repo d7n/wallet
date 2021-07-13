@@ -1,1 +1,1 @@
-var mnemonic = "tiny popular about vault hotel knock horror hero physical penalty strong fan";
+var mnemonic = "slot canoe resemble spin seven test because devote unfold book fade nature";

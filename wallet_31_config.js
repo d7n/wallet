@@ -1,1 +1,1 @@
-var mnemonic = "fruit lazy possible motion virus negative vintage sure intact gasp enemy route";
+var mnemonic = "notice load annual vibrant tenant trouble alien proud mystery human door pass";

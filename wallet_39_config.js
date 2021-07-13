@@ -1,1 +1,1 @@
-var mnemonic = "sell leave helmet mammal voice settle health ordinary pipe hospital thank book";
+var mnemonic = "south gaze isolate marble hover stick crew shiver sphere float attack hair";

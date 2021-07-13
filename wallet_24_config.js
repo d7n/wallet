@@ -1,1 +1,1 @@
-var mnemonic = "furnace rally snake load knife shrug unable this virtual unveil adjust cricket";
+var mnemonic = "vibrant sentence crunch gloom time example monitor forum diet cart card child";

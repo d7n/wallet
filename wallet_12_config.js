@@ -1,1 +1,1 @@
-var mnemonic = "same devote powder camp stick sport flag enroll glass hover oxygen hour";
+var mnemonic = "tank wave fit scatter present eager finger please bench toy panther spell";

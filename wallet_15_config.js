@@ -1,1 +1,1 @@
-var mnemonic = "bomb outdoor rebuild just wonder coast awake clean talk unfold imitate bar";
+var mnemonic = "clinic vault secret elevator october imitate diet butter ladder gentle kick youth";

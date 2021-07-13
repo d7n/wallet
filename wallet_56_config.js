@@ -1,1 +1,1 @@
-var mnemonic = "elevator sign term auto medal barely slow diary frame canyon mystery sick";
+var mnemonic = "pattern beef toe cash lawn measure vapor illegal mango mix prison street";

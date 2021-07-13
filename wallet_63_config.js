@@ -1,1 +1,1 @@
-var mnemonic = "arrive dad saddle tissue west across song air economy gospel napkin section";
+var mnemonic = "material spread torch vibrant armed range canvas edge taste juice rate insect";

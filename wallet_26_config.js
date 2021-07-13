@@ -1,1 +1,1 @@
-var mnemonic = "garbage banner dust fish dentist blanket repeat enjoy brave scatter legend taste";
+var mnemonic = "forest resemble fog maid cloud actress trim crush tonight often already orange";

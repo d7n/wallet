@@ -1,1 +1,1 @@
-var mnemonic = "coral youth shine impose fringe bench inform flight crowd share spell seminar";
+var mnemonic = "crime add mix width female valid rookie cry pair tongue evolve abuse";

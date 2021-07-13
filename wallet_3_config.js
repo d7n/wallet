@@ -1,1 +1,1 @@
-var mnemonic = "antenna coast decrease brief grief stay anchor evolve silent federal inmate family";
+var mnemonic = "mention stove champion lake scissors uncle switch space vote carbon glad unaware";

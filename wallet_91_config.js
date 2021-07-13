@@ -1,1 +1,1 @@
-var mnemonic = "number strategy bind blush turn pear goose violin dirt myself junior episode";
+var mnemonic = "usage wonder reflect draw crystal curious behave settle seed party creek letter";

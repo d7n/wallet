@@ -1,1 +1,1 @@
-var mnemonic = "despair gauge predict usual impulse word music youth kite notice charge huge";
+var mnemonic = "bachelor praise try strike robot vivid alone must any figure sponsor reward";

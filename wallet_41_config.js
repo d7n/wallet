@@ -1,1 +1,1 @@
-var mnemonic = "help sunny jazz tilt lamp mercy argue recycle comfort display live chapter";
+var mnemonic = "much asset theme jump bleak one guide trade raise subway gain smart";

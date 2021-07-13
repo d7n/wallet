@@ -1,1 +1,1 @@
-var mnemonic = "arrow resemble relax eternal list ranch float tool question measure skull spell";
+var mnemonic = "because flush satisfy dune left solution success ramp square tenant crew skate";

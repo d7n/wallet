@@ -1,1 +1,1 @@
-var mnemonic = "dilemma earn renew rice onion ask figure december arena truth gown season";
+var mnemonic = "escape venture hidden join robust judge firm cricket title grab helmet fever";

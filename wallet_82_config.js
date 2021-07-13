@@ -1,1 +1,1 @@
-var mnemonic = "chicken thank bulb calm same usage soul cattle mandate gift lava use";
+var mnemonic = "switch minute donor vocal hidden age section glad hint bronze empty pupil";

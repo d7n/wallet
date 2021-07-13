@@ -1,1 +1,1 @@
-var mnemonic = "twin success enlist then brush oven target lizard donate summer eagle hill";
+var mnemonic = "daring october embody pitch august crisp side liquid cat bean frown live";

@@ -1,1 +1,1 @@
-var mnemonic = "large alcohol wonder extend answer chicken arrange giggle orphan energy language zebra";
+var mnemonic = "chair stadium creek imitate maze abstract inhale spoon pelican shed thrive zero";

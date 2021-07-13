@@ -1,1 +1,1 @@
-var mnemonic = "heavy route wait correct clip ritual runway cause sustain obscure super lounge";
+var mnemonic = "marriage cluster rescue casino net tortoise supreme erode draw illegal valley require";

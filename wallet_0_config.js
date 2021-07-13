@@ -1,1 +1,1 @@
-var mnemonic = "one label egg coconut kiwi double smoke observe shiver focus bunker exchange";
+var mnemonic = "axis breeze member engine safe drink usage bar envelope car acoustic deal";

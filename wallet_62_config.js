@@ -1,1 +1,1 @@
-var mnemonic = "phone never marriage muscle logic dove earth wealth salon clean novel coyote";
+var mnemonic = "trust arrive sheriff win exercise theory holiday motor roof early claim cabbage";

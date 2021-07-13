@@ -1,1 +1,1 @@
-var mnemonic = "taste flip torch total cart execute purse wink pupil spoil wink slow";
+var mnemonic = "ship zebra hotel together cost rocket brass aim rate service idle install";

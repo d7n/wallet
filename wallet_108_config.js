@@ -1,1 +1,1 @@
-var mnemonic = "honey inflict tape virtual ring will capital decline chat knock turn left";
+var mnemonic = "battle business fresh student foil rival found opera shy choose spawn strong";
