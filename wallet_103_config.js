@@ -1,1 +1,1 @@
-var mnemonic = "slogan joy limit vague medal ill room mass present image token arm";
+var mnemonic = "country budget raw lumber divert dolphin master illness virus lion napkin scissors";

@@ -1,1 +1,1 @@
-var mnemonic = "obvious craft supreme tunnel cannon subject purpose furnace beef blush inject because";
+var mnemonic = "man media zebra north staff ostrich whip van alpha own teach senior";

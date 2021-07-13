@@ -1,1 +1,1 @@
-var mnemonic = "labor maximum bacon wrong guard fantasy piano panel era cloud pipe month";
+var mnemonic = "carpet tennis delay lamp around target festival web knee brisk miss dream";

@@ -1,1 +1,1 @@
-var mnemonic = "smooth arrow deposit patient play hole globe auction code donor cruise sorry";
+var mnemonic = "area airport main prison term topple mimic blast start nominee tip science";

@@ -1,1 +1,1 @@
-var mnemonic = "enact bring swallow avoid spread file change morning crazy cattle fabric desert";
+var mnemonic = "twenty giant identify text depend exile blood skin mobile canvas peanut monster";

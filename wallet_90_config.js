@@ -1,1 +1,1 @@
-var mnemonic = "window attend right latin crouch dragon hundred donate clap gold canyon leisure";
+var mnemonic = "dash buffalo final replace equip risk piece chat purse amateur brave sugar";

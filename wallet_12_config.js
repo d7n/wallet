@@ -1,1 +1,1 @@
-var mnemonic = "what then foam umbrella indoor liberty bleak purity barely action warrior miracle";
+var mnemonic = "obscure step best festival burst diamond source rival help worth urban try";

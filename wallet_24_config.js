@@ -1,1 +1,1 @@
-var mnemonic = "practice dry couch parade maple focus vehicle one food nephew flush weapon";
+var mnemonic = "inmate settle sign spare summer all advance seminar silly acquire view become";

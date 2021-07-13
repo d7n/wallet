@@ -1,1 +1,1 @@
-var mnemonic = "flip great error seed auction diary damage tag jar violin project husband";
+var mnemonic = "cry relief dice hair tomorrow green borrow world much bone lunch neither";

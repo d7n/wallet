@@ -1,1 +1,1 @@
-var mnemonic = "neck humor foam priority damage chimney lecture play shiver host excite palm";
+var mnemonic = "inside kitchen laugh shiver top marriage female quote phone add hold tackle";

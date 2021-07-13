@@ -1,1 +1,1 @@
-var mnemonic = "renew snack sausage express outer pizza ticket prison program clutch brass cabin";
+var mnemonic = "into custom profit dutch prison prize reveal pilot clarify filter dial kingdom";

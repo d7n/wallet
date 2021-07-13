@@ -1,1 +1,1 @@
-var mnemonic = "mosquito silk fossil meadow exact ring inject jelly present example abandon sun";
+var mnemonic = "sponsor shrug blush whale hazard flower theme scale life lady run debate";

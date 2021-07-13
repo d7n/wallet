@@ -1,1 +1,1 @@
-var mnemonic = "inside guitar style question stereo try fitness brother talk cheap frozen guide";
+var mnemonic = "float same problem basic wheat humor crazy mimic forest tail loop clutch";

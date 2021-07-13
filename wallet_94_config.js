@@ -1,1 +1,1 @@
-var mnemonic = "aim simple uncover dust debris tower abandon pizza peace marriage purchase together";
+var mnemonic = "apple mix useless rail minimum glide dish scene leg paddle injury where";

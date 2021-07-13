@@ -1,1 +1,1 @@
-var mnemonic = "unfold real slender captain earth note police now digital click deliver private";
+var mnemonic = "peasant drip differ protect oxygen cat kick bone era design lunch license";

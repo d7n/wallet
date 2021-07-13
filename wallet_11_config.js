@@ -1,1 +1,1 @@
-var mnemonic = "chalk capable burger approve elder abandon marriage display illegal space jungle across";
+var mnemonic = "orchard toddler flame husband hurdle name lunar honey grant fiscal grit hamster";

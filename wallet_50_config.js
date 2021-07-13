@@ -1,1 +1,1 @@
-var mnemonic = "hard define retire left couple lamp civil often emerge dial retreat glow";
+var mnemonic = "program lens midnight upgrade maid salt valley case lazy visual viable thought";

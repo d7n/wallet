@@ -1,1 +1,1 @@
-var mnemonic = "junior crane during stairs script maple idea blade machine sail glad citizen";
+var mnemonic = "kid police child dignity tower cloth plug design wool stereo this shallow";

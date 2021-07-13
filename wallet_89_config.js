@@ -1,1 +1,1 @@
-var mnemonic = "dutch will alert humor excite answer advice night pizza despair patrol rail";
+var mnemonic = "round apple midnight club cotton canal sick switch winter color donate later";

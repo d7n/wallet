@@ -1,1 +1,1 @@
-var mnemonic = "spoon october remain invite galaxy cook again that auction knee note proof";
+var mnemonic = "junk light screen absurd raw canvas clump chair double sell into behave";

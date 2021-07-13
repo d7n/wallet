@@ -1,1 +1,1 @@
-var mnemonic = "snake science sibling garment search trade near thumb real trim board best";
+var mnemonic = "regret various sea word spike alert innocent face shaft admit merry vendor";

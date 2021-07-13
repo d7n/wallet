@@ -1,1 +1,1 @@
-var mnemonic = "copy broccoli rug metal shift tumble artist upper code recycle museum exhaust";
+var mnemonic = "brave mimic rare sound finish slab icon mystery maze erupt title march";

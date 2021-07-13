@@ -1,1 +1,1 @@
-var mnemonic = "fix certain upgrade quote voyage decide resource correct fossil name aunt gadget";
+var mnemonic = "elephant math meat slot spatial brush sniff crop trust walk tomato shed";

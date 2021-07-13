@@ -1,1 +1,1 @@
-var mnemonic = "eager divert rival tiny license hello alert chapter holiday avoid oven approve";
+var mnemonic = "hold yellow often april jacket hurt swarm meat dune wife slush catalog";

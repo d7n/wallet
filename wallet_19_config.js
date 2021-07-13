@@ -1,1 +1,1 @@
-var mnemonic = "unveil royal lottery add infant cry credit melt guide biology whip street";
+var mnemonic = "suspect pond area special december hat film disorder candy marine lawn crazy";

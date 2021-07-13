@@ -1,1 +1,1 @@
-var mnemonic = "cousin clap liar fetch napkin trial reform human cradle course shrimp bubble";
+var mnemonic = "oblige above just festival exact medal symptom tired mask adjust elite either";

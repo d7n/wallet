@@ -1,1 +1,1 @@
-var mnemonic = "negative jeans lobster coil license section analyst logic hand luxury enrich rib";
+var mnemonic = "lemon captain broom puzzle omit ankle setup inject meadow club become spare";

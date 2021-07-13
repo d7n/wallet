@@ -1,1 +1,1 @@
-var mnemonic = "spider evoke bless inspire picture wagon siren legend bomb apple wall spice";
+var mnemonic = "spatial away lottery rose wide scan sting leopard coconut decade brief lesson";

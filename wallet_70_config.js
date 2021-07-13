@@ -1,1 +1,1 @@
-var mnemonic = "eagle answer icon slam outdoor used flush defy reflect tattoo crack sad";
+var mnemonic = "problem main salute royal alarm woman impact quarter vacuum soon trumpet guard";

@@ -1,1 +1,1 @@
-var mnemonic = "moral meadow coin mandate hedgehog radar soap defense monkey van session leaf";
+var mnemonic = "kingdom length shoe weird gate actor zone distance ribbon audit screen quality";

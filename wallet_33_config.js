@@ -1,1 +1,1 @@
-var mnemonic = "color lunar horse empty leisure smooth curtain cry wage post jeans critic";
+var mnemonic = "alter corn never side egg radar early reason ceiling cricket slender whisper";

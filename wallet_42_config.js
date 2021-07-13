@@ -1,1 +1,1 @@
-var mnemonic = "napkin sun festival distance marble paper depart void upset doll stable cause";
+var mnemonic = "video exclude lake ignore fortune account accident repair amazing wear expect height";

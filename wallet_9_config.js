@@ -1,1 +1,1 @@
-var mnemonic = "maze velvet midnight flash lecture buyer bus original slogan aerobic list pet";
+var mnemonic = "vessel attract strike tumble swallow venture confirm museum virus aisle eye mind";

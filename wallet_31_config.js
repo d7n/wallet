@@ -1,1 +1,1 @@
-var mnemonic = "state sword horse wife radar jealous air series small naive romance scene";
+var mnemonic = "dove upset margin reflect skate walnut vast work library embrace notice decrease";

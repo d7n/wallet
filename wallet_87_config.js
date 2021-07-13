@@ -1,1 +1,1 @@
-var mnemonic = "entire favorite cloud want inquiry unique fabric cat accident chimney museum leisure";
+var mnemonic = "banner notable rare angle rapid proud game whip dice cart there village";

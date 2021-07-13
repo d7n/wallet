@@ -1,1 +1,1 @@
-var mnemonic = "stamp risk plunge wine lumber that danger cherry honey mesh shiver vague";
+var mnemonic = "taxi drop coffee group vintage trap rice october minimum discover fame little";

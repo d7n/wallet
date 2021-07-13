@@ -1,1 +1,1 @@
-var mnemonic = "seat agree subject flat dry entry that direct spy valid bid blade";
+var mnemonic = "present topple theme heavy satoshi toast wine cannon entry rose bacon limb";

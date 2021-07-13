@@ -1,1 +1,1 @@
-var mnemonic = "spawn retreat behave burden offer edge bundle second enjoy mechanic switch device";
+var mnemonic = "real body fall gym tape current link main ugly tonight deposit meadow";

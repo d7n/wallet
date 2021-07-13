@@ -1,1 +1,1 @@
-var mnemonic = "deal hedgehog cash awesome fruit carbon radio furnace gasp dog arrow hobby";
+var mnemonic = "thank silly rifle detect bacon blast fire drama absorb air guide assume";

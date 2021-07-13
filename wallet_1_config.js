@@ -1,1 +1,1 @@
-var mnemonic = "silk strike average shoot later salute fall caution wheel hedgehog shock extra";
+var mnemonic = "few essay absurd dream shoot feel six sting quit trade deposit isolate";

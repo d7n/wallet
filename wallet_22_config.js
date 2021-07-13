@@ -1,1 +1,1 @@
-var mnemonic = "betray cousin choice level region pattern sleep aunt settle roof maximum announce";
+var mnemonic = "oven tide violin hen layer joy cruel sea allow future void toilet";

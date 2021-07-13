@@ -1,1 +1,1 @@
-var mnemonic = "buzz exact bean scale reason country dry item calm zone where leave";
+var mnemonic = "palm bar floor jeans session jaguar fire business lunch snap salmon feature";

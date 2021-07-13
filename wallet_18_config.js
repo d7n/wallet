@@ -1,1 +1,1 @@
-var mnemonic = "educate foster illegal injury elevator cement know sausage admit much call describe";
+var mnemonic = "food skirt snake urban ridge canal express hold liquid verb put gloom";

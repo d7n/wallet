@@ -1,1 +1,1 @@
-var mnemonic = "zone initial skirt cherry behind number until apology thing quote prison exact";
+var mnemonic = "discover sorry anxiety depend sand egg develop soap check decide extend submit";

@@ -1,1 +1,1 @@
-var mnemonic = "wheat talent wife bus prepare zone license grape corn two deputy eyebrow";
+var mnemonic = "exit claw addict dinner main hammer chef drama team amused depth enable";

@@ -1,1 +1,1 @@
-var mnemonic = "opinion deal slender arrange carbon husband exit best around walk beach matrix";
+var mnemonic = "absorb symbol combine oak vacuum jump use wing mercy clip tiny unaware";

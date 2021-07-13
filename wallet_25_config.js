@@ -1,1 +1,1 @@
-var mnemonic = "unaware marriage possible finish dress plug alpha object major wheel trouble foam";
+var mnemonic = "skin drive crater report victory warfare impose high weather six journey invite";

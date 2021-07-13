@@ -1,1 +1,1 @@
-var mnemonic = "recipe harbor nice penalty expand photo fiscal vital park giant castle enable";
+var mnemonic = "field garment caution syrup knee mule copper pole crucial climb meat beyond";

@@ -1,1 +1,1 @@
-var mnemonic = "license dutch elevator axis program brief cushion drop priority awesome minor deputy";
+var mnemonic = "switch cabbage more spirit abstract grab divorce correct caught awake rough lock";

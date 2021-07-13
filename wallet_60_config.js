@@ -1,1 +1,1 @@
-var mnemonic = "armor include more actress casino cycle universe useless liberty wink regret fiscal";
+var mnemonic = "catch problem pilot immune senior element exist range drip goose cabbage pupil";

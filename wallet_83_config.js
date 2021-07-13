@@ -1,1 +1,1 @@
-var mnemonic = "matter air manual toe primary foster friend question roof admit foam naive";
+var mnemonic = "turkey tired stomach expire ivory ritual kite vague old salute frozen bench";

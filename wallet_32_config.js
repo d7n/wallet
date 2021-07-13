@@ -1,1 +1,1 @@
-var mnemonic = "habit divide umbrella still two motion strategy walk basket goose service please";
+var mnemonic = "word pull uphold blush innocent copy ahead pepper chicken indoor interest absurd";

@@ -1,1 +1,1 @@
-var mnemonic = "cricket film prevent undo mad march virtual torch supreme produce hurry finish";
+var mnemonic = "fly loud galaxy exchange birth false west hold popular february neglect captain";

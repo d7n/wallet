@@ -1,1 +1,1 @@
-var mnemonic = "chronic improve acid cricket black october horse dawn jeans accident illness minute";
+var mnemonic = "patch security blind guilt safe traffic catalog runway cabbage actor idle wear";

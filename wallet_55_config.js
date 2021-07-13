@@ -1,1 +1,1 @@
-var mnemonic = "weird chat water silly have liar tobacco woman find jacket reject ability";
+var mnemonic = "group olive solve toilet exit horn orbit town flash gown lyrics hammer";

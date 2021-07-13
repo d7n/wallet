@@ -1,1 +1,1 @@
-var mnemonic = "enable muffin disease legend assume saddle answer lawsuit human banana level topic";
+var mnemonic = "shadow minute way pet episode shed repeat vicious patch pluck icon select";

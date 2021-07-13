@@ -1,1 +1,1 @@
-var mnemonic = "borrow advance state focus just orbit step rich boil ready warrior clinic";
+var mnemonic = "code evoke roast among climb inch error vacant level strike trigger good";

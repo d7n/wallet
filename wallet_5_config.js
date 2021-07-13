@@ -1,1 +1,1 @@
-var mnemonic = "fan fix reopen public inquiry sadness feature utility obey celery retreat trip";
+var mnemonic = "alert border method can old letter minimum ugly wage snow furnace gorilla";

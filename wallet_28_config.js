@@ -1,1 +1,1 @@
-var mnemonic = "traffic drum ability purse used lyrics poverty slush frog destroy monkey traffic";
+var mnemonic = "narrow frown side bench army despair shuffle method luxury cricket member limit";

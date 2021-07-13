@@ -1,1 +1,1 @@
-var mnemonic = "illegal divert tuna squirrel movie enlist exercise leopard circle cherry ripple topic";
+var mnemonic = "chronic anger jacket warfare make sorry street analyst mirror chicken axis scout";

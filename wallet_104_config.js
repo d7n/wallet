@@ -1,1 +1,1 @@
-var mnemonic = "upon fire rotate crime fix equal october apart wisdom gap neutral city";
+var mnemonic = "shield manual panic sea globe mass spot ripple swim sun town agent";

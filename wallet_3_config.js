@@ -1,1 +1,1 @@
-var mnemonic = "vocal ceiling similar they impose mule spawn elbow question pony way bid";
+var mnemonic = "phone mosquito neutral yard load section woman pistol document roof paper page";

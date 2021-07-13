@@ -1,1 +1,1 @@
-var mnemonic = "spoon smile tomato observe tray bacon skate enact patrol soda joy chuckle";
+var mnemonic = "anger slim power series luxury soul hockey advance canyon crash illegal uniform";

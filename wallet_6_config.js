@@ -1,1 +1,1 @@
-var mnemonic = "suffer horn crawl trouble dentist render lion inmate alley split believe cruel";
+var mnemonic = "material furnace beauty photo want offer kit tiny control inject concert web";

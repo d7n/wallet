@@ -1,1 +1,1 @@
-var mnemonic = "cube grain unlock harbor strategy will crumble poem swallow dismiss primary risk";
+var mnemonic = "chronic love loop mule noble skill erase retreat ghost mammal tree organ";

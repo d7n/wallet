@@ -1,1 +1,1 @@
-var mnemonic = "emotion insect either few unveil curious spider cash vast copy sister silver";
+var mnemonic = "blast side weird moon error version seek glow car orphan guess state";

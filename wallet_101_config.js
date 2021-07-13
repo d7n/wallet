@@ -1,1 +1,1 @@
-var mnemonic = "capital box stove slim favorite soul almost much prevent country talk unlock";
+var mnemonic = "section broccoli elbow sad stadium honey frost accuse else sort shoulder web";

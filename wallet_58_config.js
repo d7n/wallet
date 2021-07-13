@@ -1,1 +1,1 @@
-var mnemonic = "space lottery stage below diet toddler identify fly wave absurd help square";
+var mnemonic = "exclude option choose success juice season victory verb vital base post canal";

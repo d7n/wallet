@@ -1,1 +1,1 @@
-var mnemonic = "satisfy unusual fruit clip resource fall woman pottery vibrant call company hurdle";
+var mnemonic = "tomato quit know recipe anxiety loan champion toddler treat license uphold foil";

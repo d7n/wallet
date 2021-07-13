@@ -1,1 +1,1 @@
-var mnemonic = "autumn useless bid hope level mass fatal machine van decrease tent slush";
+var mnemonic = "bacon adjust water cream gate festival behave round feel sustain caution relax";

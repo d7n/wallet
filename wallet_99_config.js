@@ -1,1 +1,1 @@
-var mnemonic = "color peasant tube clip stem modify lucky dress copper silent trade pulp";
+var mnemonic = "good describe stuff cruise hockey audit machine grit side dove surprise absorb";

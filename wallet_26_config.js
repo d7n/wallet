@@ -1,1 +1,1 @@
-var mnemonic = "network cart hair umbrella monster kiss glow grape vintage february palace romance";
+var mnemonic = "hunt stove cloth edge diet general grocery surface almost enemy secret orient";

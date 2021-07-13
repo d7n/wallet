@@ -1,1 +1,1 @@
-var mnemonic = "rule version open artefact issue paper punch lock shop rifle prize above";
+var mnemonic = "airport series throw taste middle tornado end betray result brief company staff";

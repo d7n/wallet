@@ -1,1 +1,1 @@
-var mnemonic = "little mosquito warrior clean purse panda again two health obey subway yellow";
+var mnemonic = "region donkey powder advance steel echo order sound wall empty address sunny";

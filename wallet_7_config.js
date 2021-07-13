@@ -1,1 +1,1 @@
-var mnemonic = "announce climb rug citizen shell lecture settle tourist wedding erosion upper quit";
+var mnemonic = "admit rescue off lion wheel gorilla social ensure swamp lunch hat awful";

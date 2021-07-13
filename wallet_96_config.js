@@ -1,1 +1,1 @@
-var mnemonic = "cloth exotic chair bleak wait humble wire frequent dash pattern tube advance";
+var mnemonic = "surge differ off connect reflect emerge agent toddler mule digital sustain roof";

@@ -1,1 +1,1 @@
-var mnemonic = "bottom life acquire nominee you bracket post throw used puppy language student";
+var mnemonic = "sphere result episode move build flight kind daring car edge mention grocery";

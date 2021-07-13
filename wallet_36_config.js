@@ -1,1 +1,1 @@
-var mnemonic = "unusual wine april cat picture bamboo parrot ginger dial ethics phone annual";
+var mnemonic = "say impose comfort physical tooth acoustic please symptom melt inquiry pet science";

@@ -1,1 +1,1 @@
-var mnemonic = "salon master timber step success phrase tube tragic segment accuse duck raw";
+var mnemonic = "rib sick shuffle flat picture end dynamic loan crucial walk yellow such";

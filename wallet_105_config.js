@@ -1,1 +1,1 @@
-var mnemonic = "floor rose stamp offer escape stick kit nerve home gas column plastic";
+var mnemonic = "wagon frost flame describe whisper bus hire laptop horn daring liquid panther";

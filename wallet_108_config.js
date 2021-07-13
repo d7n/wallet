@@ -1,1 +1,1 @@
-var mnemonic = "gun denial route slight radar dove stuff potato swim room save trim";
+var mnemonic = "spice twin endorse giggle torch then orchard pluck melody describe involve rail";

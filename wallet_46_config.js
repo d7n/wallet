@@ -1,1 +1,1 @@
-var mnemonic = "inherit prison ribbon gap steak evil sleep width sauce solve insane tuna";
+var mnemonic = "glare agree width myth female century depth north multiply cost evolve offer";

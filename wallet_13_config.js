@@ -1,1 +1,1 @@
-var mnemonic = "east jeans program exchange advance fringe enter smile bundle mystery salad hood";
+var mnemonic = "core tenant upon rival kid elder shock toddler want rocket atom crisp";

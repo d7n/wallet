@@ -1,1 +1,1 @@
-var mnemonic = "total opinion brisk spider economy cloth main husband burger trouble fancy yellow";
+var mnemonic = "snake rival emotion radio describe protect muffin blossom naive deposit alter debate";

@@ -1,1 +1,1 @@
-var mnemonic = "meat scrap level stove join certain cute cabbage nephew pig hub use";
+var mnemonic = "unhappy shadow pride trip clay brave ahead gallery burger appear life stick";

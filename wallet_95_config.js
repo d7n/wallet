@@ -1,1 +1,1 @@
-var mnemonic = "crazy picture soul chapter choice kick access wreck omit measure cabin agent";
+var mnemonic = "silent flip engage sibling grocery behind obscure toast climb depend slab garbage";

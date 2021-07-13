@@ -1,1 +1,1 @@
-var mnemonic = "keep run globe system try sketch alter reduce license stomach damage cloth";
+var mnemonic = "canyon mouse poet island sell stage strike hundred skin mom flag country";

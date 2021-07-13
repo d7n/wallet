@@ -1,1 +1,1 @@
-var mnemonic = "coin point delay goat churn front stock account hollow power antique winner";
+var mnemonic = "buyer actor bone knife orphan day approve sing plastic assault kid biology";
