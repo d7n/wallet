@@ -1,1 +1,1 @@
-var mnemonic = "erode forest play eagle parade host erupt kind elite crime toe letter";
+var mnemonic = "magic sign mixture shadow hill relief unveil permit rather ladder myself afraid";

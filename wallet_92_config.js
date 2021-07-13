@@ -1,1 +1,1 @@
-var mnemonic = "fringe beauty dry erupt edit top crush orphan waste below core dinner";
+var mnemonic = "other reunion long scout focus aisle turkey marine leopard beach empower case";

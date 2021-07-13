@@ -1,1 +1,1 @@
-var mnemonic = "agree afraid capable song eternal erupt obtain snap force female reform chat";
+var mnemonic = "custom matrix raccoon rich spirit base remind silk crystal find sadness happy";

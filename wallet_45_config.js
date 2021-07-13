@@ -1,1 +1,1 @@
-var mnemonic = "acoustic ill smooth practice arrow across yellow derive blood twenty decorate vintage";
+var mnemonic = "throw sad fluid improve thunder cat that file hand clown link skirt";

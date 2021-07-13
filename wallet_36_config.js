@@ -1,1 +1,1 @@
-var mnemonic = "sketch liquid address mistake fine wild rubber anger sponsor assault old switch";
+var mnemonic = "valid north venue eagle hundred flag repeat witness poet lizard behind hole";

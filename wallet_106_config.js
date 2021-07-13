@@ -1,1 +1,1 @@
-var mnemonic = "render crane rescue nurse quit funny brisk come denial ritual excuse original";
+var mnemonic = "street total coral ostrich lab help noise arctic talk sad giggle dust";

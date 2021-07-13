@@ -1,1 +1,1 @@
-var mnemonic = "bone train process rocket onion carry path glance search rice sugar matrix";
+var mnemonic = "alone galaxy behave biology second subject atom enjoy electric bubble crane fish";

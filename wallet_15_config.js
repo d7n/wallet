@@ -1,1 +1,1 @@
-var mnemonic = "seminar park purse hotel cable lizard evidence alone timber vacuum current tiger";
+var mnemonic = "cheese dial large glass attract boost dignity leave snake party left under";

@@ -1,1 +1,1 @@
-var mnemonic = "file hope treat omit album owner fit globe nurse system estate post";
+var mnemonic = "dawn myself hamster kiwi motor end grab van bulb source vanish predict";

@@ -1,1 +1,1 @@
-var mnemonic = "suffer acoustic zoo comic bread denial total slogan special impulse coyote game";
+var mnemonic = "snack tunnel avoid give want wash solution off price chase sound antique";

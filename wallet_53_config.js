@@ -1,1 +1,1 @@
-var mnemonic = "plunge brick pluck muscle actress old front regret park joke sleep script";
+var mnemonic = "marriage either cliff provide foil crazy require valve obscure tattoo matter village";

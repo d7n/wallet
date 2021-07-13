@@ -1,1 +1,1 @@
-var mnemonic = "trim include always vanish caught usual today wasp public local hard knee";
+var mnemonic = "govern when punch envelope advance travel useful frequent summer rice vapor boost";

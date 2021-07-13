@@ -1,1 +1,1 @@
-var mnemonic = "urge arctic spoil predict blood void honey opinion extend kitchen length lumber";
+var mnemonic = "raw aisle final device way bring creek shuffle oval second little hazard";

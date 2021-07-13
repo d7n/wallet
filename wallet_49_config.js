@@ -1,1 +1,1 @@
-var mnemonic = "cage wrestle matter corn fabric roof ball minimum solid digital below skate";
+var mnemonic = "hammer source grass cat raccoon coast pluck shell audit bubble before gesture";

@@ -1,1 +1,1 @@
-var mnemonic = "thank dice quit treat hand increase fossil sell impulse reunion brown cupboard";
+var mnemonic = "model erode leopard coast senior left vintage regret purity awful virtual shy";

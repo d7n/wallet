@@ -1,1 +1,1 @@
-var mnemonic = "harvest submit cart capable meadow board bone siege empower elder tragic bracket";
+var mnemonic = "anger kind blush sweet speed future thank regular parrot piece ancient room";

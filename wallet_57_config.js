@@ -1,1 +1,1 @@
-var mnemonic = "notice amount peanut genius you since annual aspect water forward hand short";
+var mnemonic = "ripple second merit arm bread strong wreck foam crew reunion umbrella grab";

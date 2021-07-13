@@ -1,1 +1,1 @@
-var mnemonic = "tower dinner present patient diamond hair tenant focus indoor float blouse pill";
+var mnemonic = "imitate often rally lecture matter fossil view cannon own never random fancy";

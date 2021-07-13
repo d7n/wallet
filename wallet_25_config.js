@@ -1,1 +1,1 @@
-var mnemonic = "tribe kick bicycle mercy harvest mandate message hotel leave wink lawn knock";
+var mnemonic = "allow slogan area paper kitten midnight orbit major elbow since angle champion";

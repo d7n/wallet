@@ -1,1 +1,1 @@
-var mnemonic = "snake change target frame whisper toilet lounge office pact soft ethics cancel";
+var mnemonic = "ball auto banana option amount weather noble wrestle minute valley fence inch";

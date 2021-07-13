@@ -1,1 +1,1 @@
-var mnemonic = "material digital bonus screen ramp school mother run process wedding hard toddler";
+var mnemonic = "note hold rebuild real strike half interest copper morning fat high fold";

@@ -1,1 +1,1 @@
-var mnemonic = "brief gap desk arm project rural harvest snow burst very protect together";
+var mnemonic = "pond fee infant cattle ketchup cousin program fresh grace reject flock grief";

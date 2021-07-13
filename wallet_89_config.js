@@ -1,1 +1,1 @@
-var mnemonic = "goose portion wise session general unknown brand obscure autumn culture margin wheat";
+var mnemonic = "apology cross stereo absent vacuum bleak creek note prison member mountain apple";

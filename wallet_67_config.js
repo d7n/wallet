@@ -1,1 +1,1 @@
-var mnemonic = "claim math demand beyond tobacco illegal theory later melody ketchup north fuel";
+var mnemonic = "wreck glove analyst evidence turkey yellow balcony topic saddle error impulse issue";

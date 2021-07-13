@@ -1,1 +1,1 @@
-var mnemonic = "later pottery test snack myth car table ice useful color rare wave";
+var mnemonic = "pool boring resemble evolve deputy federal quote axis ready skull endorse stable";

@@ -1,1 +1,1 @@
-var mnemonic = "piece couple face spice swallow leaf envelope ostrich axis dash oyster govern";
+var mnemonic = "assume buzz ladder rubber blanket reunion random layer clap figure hire loud";

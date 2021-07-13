@@ -1,1 +1,1 @@
-var mnemonic = "sweet assume ordinary state original pluck spot travel slam budget predict cushion";
+var mnemonic = "cover ski answer course float explain grass resist film drama doctor night";

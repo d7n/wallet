@@ -1,1 +1,1 @@
-var mnemonic = "try sweet web venue attract siege satoshi spread harvest romance skull attack";
+var mnemonic = "frog exist fat exit robot icon speak raccoon toilet horn frog switch";

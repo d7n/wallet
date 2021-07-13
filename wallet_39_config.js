@@ -1,1 +1,1 @@
-var mnemonic = "brown steel head debate middle taste barely attract movie setup muscle elevator";
+var mnemonic = "photo toast deal moon excite fog century guess horn beach sell lizard";

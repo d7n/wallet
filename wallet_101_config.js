@@ -1,1 +1,1 @@
-var mnemonic = "drip thunder daughter day wife walk farm motion quality equal vote valley";
+var mnemonic = "nerve agent wolf limit meat chat salad sunset cover answer nephew breeze";

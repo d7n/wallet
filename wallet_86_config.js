@@ -1,1 +1,1 @@
-var mnemonic = "paddle favorite middle drift weasel ugly loop sentence energy apology chalk myself";
+var mnemonic = "afraid ask good accuse lens solve post toy horse person stereo raven";

@@ -1,1 +1,1 @@
-var mnemonic = "tone minor fault luxury nose other actress vehicle fresh timber energy trend";
+var mnemonic = "riot jealous energy tiny session exit clog ready issue token fat stairs";

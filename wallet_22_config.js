@@ -1,1 +1,1 @@
-var mnemonic = "tiny swim mango focus lemon off beyond right gesture special wire december";
+var mnemonic = "warm hamster access own picnic borrow web bunker cup whip stereo cushion";

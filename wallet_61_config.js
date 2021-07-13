@@ -1,1 +1,1 @@
-var mnemonic = "dice pony ribbon stereo talk city drift inherit wonder casual useless elephant";
+var mnemonic = "truly often bus exhibit tribe enrich planet dynamic genius nominee differ slush";

@@ -1,1 +1,1 @@
-var mnemonic = "sentence super public note source angle invite copy nominee broken sunny erosion";
+var mnemonic = "garlic trip immune sing mad raccoon spatial winter easy thought oven much";

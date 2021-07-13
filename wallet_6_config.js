@@ -1,1 +1,1 @@
-var mnemonic = "museum drastic panda appear enrich feed lemon step top media fresh arch";
+var mnemonic = "chunk involve beauty jealous sail parrot escape sibling faith dignity brand distance";

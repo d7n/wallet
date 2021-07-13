@@ -1,1 +1,1 @@
-var mnemonic = "mesh near swamp monitor juice gap spatial frame milk veteran rude budget";
+var mnemonic = "scan sample rather until mixed purchase modify burger region abuse east toy";

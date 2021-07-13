@@ -1,1 +1,1 @@
-var mnemonic = "morning deliver film develop soul double shoulder heavy cat attitude kid section";
+var mnemonic = "imitate crawl wrap wisdom identify evil ripple fantasy arrive capable scout word";

@@ -1,1 +1,1 @@
-var mnemonic = "patrol mass teach rookie deliver gold trick genre absent air dose shiver";
+var mnemonic = "appear desk hurdle property mobile door escape riot jungle cash path level";

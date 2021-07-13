@@ -1,1 +1,1 @@
-var mnemonic = "rather absorb midnight cargo lunch valve program method bounce laugh blast silent";
+var mnemonic = "supreme settle skin audit smile arrange hockey bitter silk eternal shiver athlete";

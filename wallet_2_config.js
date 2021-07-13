@@ -1,1 +1,1 @@
-var mnemonic = "weekend cheese monkey angry balance butter umbrella crouch void vessel boring reflect";
+var mnemonic = "vessel final kind goose gravity finger uncle pact assault cloud basket polar";

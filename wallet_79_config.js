@@ -1,1 +1,1 @@
-var mnemonic = "culture already organ essay rally hospital truly invest suggest wild inject boost";
+var mnemonic = "impact coin parrot fold predict media expect book excuse habit foot scheme";

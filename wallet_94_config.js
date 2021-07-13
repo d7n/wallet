@@ -1,1 +1,1 @@
-var mnemonic = "kick inflict unusual only float piano bench great antenna rocket eye test";
+var mnemonic = "dinosaur extra program idea space champion pulse develop once grant file slight";

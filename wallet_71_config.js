@@ -1,1 +1,1 @@
-var mnemonic = "wall skate genre salt gather biology mass figure govern salon athlete inquiry";
+var mnemonic = "beef unfold cube brand next permit appear since remain unaware style syrup";

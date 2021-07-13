@@ -1,1 +1,1 @@
-var mnemonic = "gift primary ride head police key add health require absurd struggle train";
+var mnemonic = "dream neutral there grit mesh child romance combine ginger garbage finish visual";

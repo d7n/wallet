@@ -1,1 +1,1 @@
-var mnemonic = "butter birth warm rapid pumpkin clarify tourist ketchup vague range dune turtle";
+var mnemonic = "board claim attend wrap grace document board tree soccer kiss orbit private";

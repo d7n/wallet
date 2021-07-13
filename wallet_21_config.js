@@ -1,1 +1,1 @@
-var mnemonic = "culture fringe worry beef anxiety arctic melody insect artefact assume quiz envelope";
+var mnemonic = "large what clean increase snow patrol lawsuit hungry fancy subject mask modify";

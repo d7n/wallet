@@ -1,1 +1,1 @@
-var mnemonic = "garlic poet axis apart laundry train wife kiss mercy faint soft addict";
+var mnemonic = "resource universe debris ability party tool rebuild toss snack donate similar grunt";

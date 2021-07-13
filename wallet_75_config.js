@@ -1,1 +1,1 @@
-var mnemonic = "degree undo rhythm spirit engine lottery spider junior symbol segment trial fan";
+var mnemonic = "remove raw violin short sea setup admit wreck tray swim purpose museum";

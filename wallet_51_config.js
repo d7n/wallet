@@ -1,1 +1,1 @@
-var mnemonic = "dilemma chicken puppy cost novel vacuum modify merry settle coach tiny dentist";
+var mnemonic = "impulse problem earth dad lady zone artwork cancel zebra volume luggage regret";

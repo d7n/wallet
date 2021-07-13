@@ -1,1 +1,1 @@
-var mnemonic = "ball modify luxury cluster mad smile sweet clay club settle sorry next";
+var mnemonic = "label common segment devote iron find absorb kiwi beach decline deputy habit";

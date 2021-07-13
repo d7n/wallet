@@ -1,1 +1,1 @@
-var mnemonic = "grow young average initial space language cement admit spawn cruise label sustain";
+var mnemonic = "control walk income reveal naive attack anger hold debate endless assist slight";

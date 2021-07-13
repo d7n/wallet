@@ -1,1 +1,1 @@
-var mnemonic = "execute romance aim foam need believe opera gown three tree roast light";
+var mnemonic = "layer roof antique sick have slab alert black theme can say boy";

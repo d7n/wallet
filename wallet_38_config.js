@@ -1,1 +1,1 @@
-var mnemonic = "install punch summer age wonder tourist travel habit tobacco scale beach tongue";
+var mnemonic = "blanket among praise aware grit provide hurry ankle welcome tonight jelly oak";

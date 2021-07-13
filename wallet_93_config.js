@@ -1,1 +1,1 @@
-var mnemonic = "glance song slight strike when soda food keep sponsor festival oxygen update";
+var mnemonic = "honey method cabbage deer twist patient honey reason pencil loop priority topple";

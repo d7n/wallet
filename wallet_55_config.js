@@ -1,1 +1,1 @@
-var mnemonic = "boss bottom advice old level produce unit pigeon industry camera undo buddy";
+var mnemonic = "utility near hub chalk question wall field learn cradle payment weird hobby";

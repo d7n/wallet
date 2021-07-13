@@ -1,1 +1,1 @@
-var mnemonic = "congress salmon bench check walk cousin ring journey immense treat dry zoo";
+var mnemonic = "trial illness shadow property certain veteran diagram tag author beef rigid proof";

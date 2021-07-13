@@ -1,1 +1,1 @@
-var mnemonic = "rain digital room receive peace duty million razor audit believe robust repair";
+var mnemonic = "elephant pretty patient churn client grape nominee ball secret matrix sign history";

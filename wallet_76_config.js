@@ -1,1 +1,1 @@
-var mnemonic = "write solid muscle rib absurd consider soap nerve kitchen shiver rebel alley";
+var mnemonic = "document answer sunset metal practice hero crew fence affair mail leaf model";

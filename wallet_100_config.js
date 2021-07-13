@@ -1,1 +1,1 @@
-var mnemonic = "elbow cloud come reduce movie bike chalk boy theory bid pass crouch";
+var mnemonic = "arctic over plastic ancient monitor modify mobile future robot kid ivory exist";

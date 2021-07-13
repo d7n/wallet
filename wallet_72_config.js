@@ -1,1 +1,1 @@
-var mnemonic = "name chief inside impose control today demise figure walnut define armed exercise";
+var mnemonic = "welcome talk flash what amount wild salt credit cover student fuel vanish";

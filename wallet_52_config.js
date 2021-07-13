@@ -1,1 +1,1 @@
-var mnemonic = "ethics dinner update mountain grunt grit true repair silk topic decade audit";
+var mnemonic = "promote riot ignore sting matter equal mention innocent ozone decrease buffalo another";

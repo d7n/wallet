@@ -1,1 +1,1 @@
-var mnemonic = "matrix remember sort acoustic quantum regret north angry blush sadness clutch analyst";
+var mnemonic = "drama pen chuckle before exercise stove settle journey team room modify now";

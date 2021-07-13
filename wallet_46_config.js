@@ -1,1 +1,1 @@
-var mnemonic = "panda manage tooth wood smile into tragic indicate embrace addict day joy";
+var mnemonic = "push roof tornado wall inspire rather abuse very game chunk animal joke";

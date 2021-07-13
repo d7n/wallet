@@ -1,1 +1,1 @@
-var mnemonic = "mixed valve execute grief output mail knee subject snow primary transfer need";
+var mnemonic = "boss wait kitten grid behave promote trouble jar tenant pudding arrange idea";

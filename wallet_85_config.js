@@ -1,1 +1,1 @@
-var mnemonic = "modify cousin fade acoustic zebra spray inmate salmon board announce talk chronic";
+var mnemonic = "mesh gather wear salmon maximum lecture orchard speed melt jeans royal tag";

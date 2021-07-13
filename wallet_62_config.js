@@ -1,1 +1,1 @@
-var mnemonic = "quit violin kit patch welcome method fox era opera expose much mango";
+var mnemonic = "ensure mass before fury tooth custom two fine resource rebuild virtual small";

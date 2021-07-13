@@ -1,1 +1,1 @@
-var mnemonic = "between husband disease behind lemon tunnel canvas note table wisdom weird hunt";
+var mnemonic = "faith measure van expire banner brick syrup salon beyond aunt can drink";

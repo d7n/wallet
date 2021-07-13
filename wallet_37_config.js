@@ -1,1 +1,1 @@
-var mnemonic = "index expire open decade upper clump heavy rigid knife romance client wise";
+var mnemonic = "border rookie assume debate glove artefact fork arena loop mind fashion rapid";

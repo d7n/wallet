@@ -1,1 +1,1 @@
-var mnemonic = "stove enter loop agent badge hazard depth smart faint diamond traffic raven";
+var mnemonic = "message join scout vapor garlic pudding pave labor job evolve margin void";

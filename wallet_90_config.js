@@ -1,1 +1,1 @@
-var mnemonic = "life strategy happy purchase pizza remind derive depart bulb farm clock enforce";
+var mnemonic = "north track test meadow disagree betray silver scissors doll spring ugly hidden";

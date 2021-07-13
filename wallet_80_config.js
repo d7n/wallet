@@ -1,1 +1,1 @@
-var mnemonic = "rice slice apple estate someone black dress equal during initial tourist surprise";
+var mnemonic = "virus wolf reform remain flight matrix manage rhythm orbit glad price peanut";

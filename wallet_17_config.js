@@ -1,1 +1,1 @@
-var mnemonic = "priority miss sausage vivid run sea supply cycle dizzy power sweet capable";
+var mnemonic = "wasp forget flash salon raven solve knee exact nurse doll winner track";

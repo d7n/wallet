@@ -1,1 +1,1 @@
-var mnemonic = "happy various luxury rigid right actress any rocket fine wild edit pony";
+var mnemonic = "reward put visa gap course bitter bacon pencil design give escape orchard";

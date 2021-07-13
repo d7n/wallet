@@ -1,1 +1,1 @@
-var mnemonic = "glare uphold debris regret loop force doctor school urban reflect goat emerge";
+var mnemonic = "coil miss olympic bullet secret barely double infant consider jump gun crouch";

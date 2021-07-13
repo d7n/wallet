@@ -1,1 +1,1 @@
-var mnemonic = "divorce liberty cliff rather develop wild digital pistol cradle august furnace craft";
+var mnemonic = "syrup purse vibrant spare adjust sorry mutual damp number column acid reject";

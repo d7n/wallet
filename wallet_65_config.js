@@ -1,1 +1,1 @@
-var mnemonic = "bring weasel bonus rebel distance owner nuclear panther amateur live coin foil";
+var mnemonic = "canoe swear ten tennis crack divert explain jeans student eagle focus cruise";

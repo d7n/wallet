@@ -1,1 +1,1 @@
-var mnemonic = "wage zebra still purpose cigar arrow zone wage please chair pond million";
+var mnemonic = "buffalo try north chief light enact night metal report profit clever grab";

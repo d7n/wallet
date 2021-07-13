@@ -1,1 +1,1 @@
-var mnemonic = "noodle front indicate emotion ghost acoustic timber shine desk language sing candy";
+var mnemonic = "vague alter taste oil moral cotton nice town cereal yard special knee";

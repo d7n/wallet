@@ -1,1 +1,1 @@
-var mnemonic = "earth season impact exercise once frog hub coast vicious funny quiz region";
+var mnemonic = "kiwi whisper elbow boss congress resource core body angle weird weapon diary";

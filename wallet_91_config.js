@@ -1,1 +1,1 @@
-var mnemonic = "depart ship brush original category urge observe jacket answer write antique detect";
+var mnemonic = "basket exhibit earth peanut fetch distance prison behave easily task used vendor";

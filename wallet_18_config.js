@@ -1,1 +1,1 @@
-var mnemonic = "oyster meadow impulse giraffe dish sleep weather example relax push chair warrior";
+var mnemonic = "actor congress network desert shaft skirt seed appear nephew wreck ice range";

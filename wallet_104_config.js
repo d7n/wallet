@@ -1,1 +1,1 @@
-var mnemonic = "retreat gift license devote cupboard month another horse soup vicious birth vintage";
+var mnemonic = "pear leave bundle bachelor orbit traffic milk trigger carpet famous render lawn";

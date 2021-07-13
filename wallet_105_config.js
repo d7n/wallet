@@ -1,1 +1,1 @@
-var mnemonic = "stone cause snow surround clutch dust penalty lab trust range spirit torch";
+var mnemonic = "gift addict end drastic wasp flight pave evil bird spin increase leopard";

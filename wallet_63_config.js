@@ -1,1 +1,1 @@
-var mnemonic = "bunker elder fetch annual box figure again legal keep latin find price";
+var mnemonic = "vocal dawn token fly syrup reward beyond ozone clip dawn position alcohol";

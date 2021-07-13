@@ -1,1 +1,1 @@
-var mnemonic = "panther bomb shrug ten safe judge fashion nasty hospital super brisk pulse";
+var mnemonic = "organ yard field buddy that mass pioneer image delay spy found walk";

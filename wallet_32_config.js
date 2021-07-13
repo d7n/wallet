@@ -1,1 +1,1 @@
-var mnemonic = "legend renew abandon innocent steak banner lobster circle fox grid fatigue goat";
+var mnemonic = "flash couch boat walk theory carbon want symptom drama useful interest amazing";

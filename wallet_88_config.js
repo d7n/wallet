@@ -1,1 +1,1 @@
-var mnemonic = "health leisure clay mimic left catch topple twice one indicate suffer copy";
+var mnemonic = "result wide shop region blade cool cabbage horror roast dress found track";

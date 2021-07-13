@@ -1,1 +1,1 @@
-var mnemonic = "number whip exact federal member soda belt renew physical tank weather oxygen";
+var mnemonic = "survey balcony pave demise alpha fruit road riot attack seek cute mimic";

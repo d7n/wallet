@@ -1,1 +1,1 @@
-var mnemonic = "broccoli borrow sign pudding attitude before crater ostrich orphan release rhythm summer";
+var mnemonic = "jaguar outside follow fork woman early detail child february bright tag calm";
