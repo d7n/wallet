@@ -1,1 +1,1 @@
-var mnemonic = "wrong guard roast veteran recycle beef wave dice insane blossom door patrol";
+var mnemonic = "forest reward dog best absent habit stand slush winner awful foster clerk";

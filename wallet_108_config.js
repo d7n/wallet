@@ -1,1 +1,1 @@
-var mnemonic = "catalog scout rigid film carpet steel suggest shed any say resemble crush";
+var mnemonic = "dinosaur party theme fury theory theme dish powder school trim tonight fuel";

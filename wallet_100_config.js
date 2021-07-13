@@ -1,1 +1,1 @@
-var mnemonic = "lesson gate window then extend uphold calm cement rhythm repair eight aspect";
+var mnemonic = "beauty opinion vintage choose first about cable general two this gadget coconut";

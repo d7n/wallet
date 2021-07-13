@@ -1,1 +1,1 @@
-var mnemonic = "airport good bundle blame lemon doctor race cannon spike foam allow salad";
+var mnemonic = "penalty tennis power cannon install license venue diagram apart wheat shoulder vault";

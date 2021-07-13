@@ -1,1 +1,1 @@
-var mnemonic = "course robust canyon wrestle abandon enhance ocean fashion friend twice curious message";
+var mnemonic = "two castle dry desk kiss dynamic weird isolate test return cable shine";

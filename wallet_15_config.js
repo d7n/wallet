@@ -1,1 +1,1 @@
-var mnemonic = "velvet vote luxury cross kiwi vendor flame farm rotate believe charge drink";
+var mnemonic = "fluid outside toast pluck void dismiss liquid legend eight flower jealous promote";

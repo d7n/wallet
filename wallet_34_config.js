@@ -1,1 +1,1 @@
-var mnemonic = "father fish couple odor expire strong insect trigger blush marriage walnut bounce";
+var mnemonic = "embrace loud fiber coil pudding sketch intact pencil cube flush exact undo";

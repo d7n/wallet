@@ -1,1 +1,1 @@
-var mnemonic = "engine hundred hero victory inherit whale toddler ceiling black doll kidney discover";
+var mnemonic = "matrix clinic blue slim lazy tower wing bind dumb pigeon version harvest";

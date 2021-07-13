@@ -1,1 +1,1 @@
-var mnemonic = "estate rescue direct beauty donate aisle orange extend tortoise spoil cage champion";
+var mnemonic = "sheriff unique garment evoke fatal trip echo paddle gallery copy napkin lazy";

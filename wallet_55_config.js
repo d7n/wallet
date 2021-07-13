@@ -1,1 +1,1 @@
-var mnemonic = "beauty scan sell cry shed hire install off kind blush biology lizard";
+var mnemonic = "maid update frost bean always atom awful south waste grit general result";

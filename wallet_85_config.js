@@ -1,1 +1,1 @@
-var mnemonic = "trap kit frozen thrive oppose logic ice victory gadget dad eyebrow maze";
+var mnemonic = "eternal still birth blanket ensure mule garbage illness elephant venue nest myself";

@@ -1,1 +1,1 @@
-var mnemonic = "drum boil decorate truly visit valid captain inner actual voyage mosquito napkin";
+var mnemonic = "hover decide struggle tray robot picnic margin list exile ordinary side dutch";

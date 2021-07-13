@@ -1,1 +1,1 @@
-var mnemonic = "tower remain clean sponsor knee unlock cake invest viable alarm affair share";
+var mnemonic = "cinnamon economy bread summer shoe loop forward lab jump bleak celery lobster";

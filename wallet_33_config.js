@@ -1,1 +1,1 @@
-var mnemonic = "position degree bounce owner tool ecology absurd alone floor oyster ridge message";
+var mnemonic = "convince stadium chunk smoke also laundry beach scout original another depart observe";

@@ -1,1 +1,1 @@
-var mnemonic = "write fog boy sunset certain patch soda flavor convince gorilla museum denial";
+var mnemonic = "chase cigar depth town country battle chuckle wish bronze speak still shine";

@@ -1,1 +1,1 @@
-var mnemonic = "advance scare uniform filter virus magic trigger story birth goddess fiscal truck";
+var mnemonic = "raw diet excuse oxygen idea stadium flight rail habit trip tell chat";

@@ -1,1 +1,1 @@
-var mnemonic = "lesson sugar winter wait brave faith jar orient divorce taxi blood right";
+var mnemonic = "goddess term mother digital tortoise hard opera mammal else flight coconut upset";

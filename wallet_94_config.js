@@ -1,1 +1,1 @@
-var mnemonic = "deer bid host sun shock always skill hand today jaguar dish excuse";
+var mnemonic = "girl lunar track corn law vital alley melt canvas wrong eagle weather";

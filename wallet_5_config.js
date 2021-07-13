@@ -1,1 +1,1 @@
-var mnemonic = "section blush spider few rough dove refuse muffin achieve helmet toddler prefer";
+var mnemonic = "fat fancy test fashion fold banner easily mask fluid month surface dinner";

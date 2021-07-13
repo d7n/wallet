@@ -1,1 +1,1 @@
-var mnemonic = "narrow also catalog repair used recipe twelve combine return hole crater slice";
+var mnemonic = "bleak evidence swear seminar develop bomb chuckle keep course lounge message long";

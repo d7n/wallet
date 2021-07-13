@@ -1,1 +1,1 @@
-var mnemonic = "able opera develop farm infant weasel tornado scrap swim they section desert";
+var mnemonic = "copper sauce dance ritual blouse arena draw book clog sun total rocket";

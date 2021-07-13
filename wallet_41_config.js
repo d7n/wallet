@@ -1,1 +1,1 @@
-var mnemonic = "detail immune ghost kite gain street desk wish chair hole long inmate";
+var mnemonic = "usual bridge actress sunset picnic yard mountain polar exclude glory design thought";

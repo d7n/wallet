@@ -1,1 +1,1 @@
-var mnemonic = "churn bone area cigar movie edge ozone deputy broom undo crucial benefit";
+var mnemonic = "slab math brick simple depend quality unaware sphere gold wasp era stable";

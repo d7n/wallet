@@ -1,1 +1,1 @@
-var mnemonic = "eight foot fitness tower beauty hybrid olympic despair phrase win chest fortune";
+var mnemonic = "meat noise vicious retreat build crop major valve dream churn oppose praise";

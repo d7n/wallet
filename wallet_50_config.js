@@ -1,1 +1,1 @@
-var mnemonic = "eagle provide album desk trumpet monitor recycle spell bounce only icon skirt";
+var mnemonic = "safe scrub result arrest bag noise tattoo unknown minute tongue have turkey";

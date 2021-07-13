@@ -1,1 +1,1 @@
-var mnemonic = "nation caution long chest example puzzle pottery pitch lift vapor marble monitor";
+var mnemonic = "leg spoon keep leisure napkin decade suggest maximum control daughter ignore disease";

@@ -1,1 +1,1 @@
-var mnemonic = "urge doll robust elite card hazard duty use empower country fold addict";
+var mnemonic = "decade trouble two uphold curious black drive layer satisfy grocery penalty magnet";

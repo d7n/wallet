@@ -1,1 +1,1 @@
-var mnemonic = "cheap iron hundred only wheel link brown girl hybrid exotic guess grant";
+var mnemonic = "lend stairs spoil noble sense comic trick trade artefact universe armed bomb";

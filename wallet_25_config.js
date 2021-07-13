@@ -1,1 +1,1 @@
-var mnemonic = "useful skin diagram trap session public base chicken embark satoshi chicken farm";
+var mnemonic = "ivory only aerobic lemon remain inject slow cigar ancient poet fence antique";

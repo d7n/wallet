@@ -1,1 +1,1 @@
-var mnemonic = "silk couple try neutral nest multiply under lab immense remember find quote";
+var mnemonic = "leisure sunny lecture glue remove fork skin curve immense move fine approve";

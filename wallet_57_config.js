@@ -1,1 +1,1 @@
-var mnemonic = "awful slight metal badge tower casino danger impulse cement rather cushion holiday";
+var mnemonic = "have tortoise capable whisper reason december frequent motion sing sauce antenna shell";

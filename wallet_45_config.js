@@ -1,1 +1,1 @@
-var mnemonic = "brother vault orbit virtual duck moral can add shrimp mad all moment";
+var mnemonic = "pistol forum left spell pet damage flash capable load code super jelly";

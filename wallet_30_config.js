@@ -1,1 +1,1 @@
-var mnemonic = "sign media embark solar ten avoid truth hurry region van photo manual";
+var mnemonic = "talent avoid inspire defense art shock release assault tattoo spring layer snow";

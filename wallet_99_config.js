@@ -1,1 +1,1 @@
-var mnemonic = "about bomb dwarf risk veteran thunder saddle ahead skull floor later scout";
+var mnemonic = "wealth brand alarm upper duty prefer liquid better sunset twenty verb rigid";

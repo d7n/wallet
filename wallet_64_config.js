@@ -1,1 +1,1 @@
-var mnemonic = "sorry mammal smart economy casual immune loop wagon duty shadow escape merit";
+var mnemonic = "race output cotton stadium flock crazy action shift have retreat awesome multiply";

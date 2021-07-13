@@ -1,1 +1,1 @@
-var mnemonic = "maze trim another sheriff pitch powder lyrics beyond nothing foam lamp shove";
+var mnemonic = "swarm gravity cloud very phrase cigar earn hospital spray list view slow";

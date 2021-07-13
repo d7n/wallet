@@ -1,1 +1,1 @@
-var mnemonic = "warm fetch public small myth luxury cave devote neglect ahead sniff civil";
+var mnemonic = "expand note forget cloud winter beauty ecology settle blanket cause dash opinion";

@@ -1,1 +1,1 @@
-var mnemonic = "exotic exist toward child private zone fine spider dwarf trick print panther";
+var mnemonic = "review priority alcohol stool kit december improve potato stock nuclear paper guitar";

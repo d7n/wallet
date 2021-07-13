@@ -1,1 +1,1 @@
-var mnemonic = "journey manual tuition speak rebel trial swallow action scatter section auto climb";
+var mnemonic = "talk envelope dynamic bleak void dad hen gorilla actual cable strike ensure";

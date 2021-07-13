@@ -1,1 +1,1 @@
-var mnemonic = "off region wine canoe citizen cliff idea page light kind project abandon";
+var mnemonic = "oxygen alpha damage prison unfair mad nominee version wet clock acquire garage";

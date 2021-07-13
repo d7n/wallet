@@ -1,1 +1,1 @@
-var mnemonic = "flag moment fiber slogan illness flag vacant cancel pioneer struggle welcome ceiling";
+var mnemonic = "bread juice myth few lunar hidden romance abstract apart eye enter crater";

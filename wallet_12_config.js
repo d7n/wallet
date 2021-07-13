@@ -1,1 +1,1 @@
-var mnemonic = "bomb harvest dove title coin lucky burden problem ethics add short figure";
+var mnemonic = "lunch hat kiss rain magic space train soul frequent assume gasp canoe";

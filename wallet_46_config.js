@@ -1,1 +1,1 @@
-var mnemonic = "angle master uncle large energy lift river kiwi core awesome improve rural";
+var mnemonic = "define water repair lumber success lounge delay artwork eye split vehicle toward";

@@ -1,1 +1,1 @@
-var mnemonic = "provide evil brain return coil guitar off wide switch behave kick approve";
+var mnemonic = "ranch muffin swear spin math satoshi danger clap repeat silly unique oxygen";

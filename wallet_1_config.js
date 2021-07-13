@@ -1,1 +1,1 @@
-var mnemonic = "shiver skate either genuine hurdle coral sunny lazy announce income catalog miss";
+var mnemonic = "rent bounce action plate cube turkey run able noble awful hybrid high";

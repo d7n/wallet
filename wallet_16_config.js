@@ -1,1 +1,1 @@
-var mnemonic = "fall stuff great online insane vibrant spring swift summer rural mountain tower";
+var mnemonic = "eyebrow metal invite witness narrow tomato daring tube trim column peasant ranch";

@@ -1,1 +1,1 @@
-var mnemonic = "cupboard soda wave address curious switch truck piece picture shield used grunt";
+var mnemonic = "mobile heart dish ride black lonely hood sorry all brave game exotic";

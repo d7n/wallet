@@ -1,1 +1,1 @@
-var mnemonic = "turtle horror combine ranch exotic pig carry youth yard panic viable order";
+var mnemonic = "cable essay control nurse left physical smoke main feed whip latin fatal";

@@ -1,1 +1,1 @@
-var mnemonic = "vast prize elbow mandate firm note globe accident average tilt excess bulb";
+var mnemonic = "cycle concert fatigue praise mansion six lecture just lake onion make ride";

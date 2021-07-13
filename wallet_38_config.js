@@ -1,1 +1,1 @@
-var mnemonic = "forest mandate twenty kitchen birth toward boy direct figure wheel modify elephant";
+var mnemonic = "blush snake flag two leg alcohol tumble tomato jacket shallow winner feed";

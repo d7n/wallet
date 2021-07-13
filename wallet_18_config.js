@@ -1,1 +1,1 @@
-var mnemonic = "stomach quick canyon motion wide law wisdom inner mixed cake above asthma";
+var mnemonic = "airport carpet tray blade carpet final film melt wave screen smoke hospital";

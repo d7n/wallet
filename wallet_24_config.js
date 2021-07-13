@@ -1,1 +1,1 @@
-var mnemonic = "warrior company marriage mansion since edit dolphin exchange blanket balance job risk";
+var mnemonic = "copy divorce describe then resemble cigar famous common cable oblige violin mountain";

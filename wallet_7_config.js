@@ -1,1 +1,1 @@
-var mnemonic = "innocent alone swift pudding fuel spawn combine envelope kingdom genuine heavy purchase";
+var mnemonic = "bid plate warrior hover margin fury canyon clinic flight face medal inside";

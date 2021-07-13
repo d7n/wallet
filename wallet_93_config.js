@@ -1,1 +1,1 @@
-var mnemonic = "call similar math wave chimney ancient morning feature tray snake brother vicious";
+var mnemonic = "horn merge crouch furnace return proud wait view viable mesh scrub erode";

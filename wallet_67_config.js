@@ -1,1 +1,1 @@
-var mnemonic = "enough anchor regret drill conduct equip network thought power youth item fall";
+var mnemonic = "punch stable garden whip virtual crater view artist autumn planet orbit crystal";

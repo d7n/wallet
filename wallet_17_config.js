@@ -1,1 +1,1 @@
-var mnemonic = "grant rent car electric clap fat base tornado anger entire swallow silver";
+var mnemonic = "level vague turn sugar wood remove injury guess sausage baby remain genius";

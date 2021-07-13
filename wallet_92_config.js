@@ -1,1 +1,1 @@
-var mnemonic = "fly episode lunch monkey crisp jelly pride mango crazy pole coin tuition";
+var mnemonic = "finger must rhythm inch column orient spawn marine ivory riot boss myself";

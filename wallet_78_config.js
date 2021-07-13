@@ -1,1 +1,1 @@
-var mnemonic = "copper beauty author rival spoon proof movie lunar morning useful cheese soul";
+var mnemonic = "pulp omit address seminar eager laptop degree salmon hand tomato guide cage";

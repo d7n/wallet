@@ -1,1 +1,1 @@
-var mnemonic = "sibling smoke head innocent talent emotion moon sketch name crop move cannon";
+var mnemonic = "market buzz park deer polar traffic eight pyramid divide mutual first neck";

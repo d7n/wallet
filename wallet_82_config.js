@@ -1,1 +1,1 @@
-var mnemonic = "evolve canoe shop radio rough bike say dirt pill live sunset cotton";
+var mnemonic = "bicycle school top scene unveil dove empty inform history ice film canvas";

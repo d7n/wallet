@@ -1,1 +1,1 @@
-var mnemonic = "develop daring lottery mosquito bonus rule focus elegant animal approve harvest neglect";
+var mnemonic = "isolate hamster put judge frog real road reward trend clump approve rapid";

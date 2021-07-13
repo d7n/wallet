@@ -1,1 +1,1 @@
-var mnemonic = "card nation hub worth clarify hub among learn post vital large decade";
+var mnemonic = "chase foot antique gadget sad armor nice draw equip puppy riot genre";

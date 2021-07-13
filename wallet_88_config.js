@@ -1,1 +1,1 @@
-var mnemonic = "equip recipe feel answer virus calm brand brush year hope funny panel";
+var mnemonic = "velvet liar joke harsh twice couch bone mask sell mix wheat shine";

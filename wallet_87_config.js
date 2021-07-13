@@ -1,1 +1,1 @@
-var mnemonic = "side reform razor grief nest fruit target adapt manage chief face harbor";
+var mnemonic = "version gap spin owner flock lens uniform giraffe among jump cable stock";

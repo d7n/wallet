@@ -1,1 +1,1 @@
-var mnemonic = "pudding dune favorite wrap senior strategy adjust midnight hair antique desk jelly";
+var mnemonic = "neither primary author divorce teach armor early funny alley erode fat off";

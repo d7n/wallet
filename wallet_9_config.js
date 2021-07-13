@@ -1,1 +1,1 @@
-var mnemonic = "question damage dice shine until animal earn cancel all enjoy sausage evolve";
+var mnemonic = "danger joke cigar execute close miss million tide vapor virus betray inhale";

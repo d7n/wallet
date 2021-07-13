@@ -1,1 +1,1 @@
-var mnemonic = "hero caught autumn fit midnight eye snake foster found reduce culture lawsuit";
+var mnemonic = "stamp basket vehicle next item athlete execute buddy school state people best";

@@ -1,1 +1,1 @@
-var mnemonic = "check museum grain put dash print select accident rely lobster pelican basket";
+var mnemonic = "employ math hold salon consider figure priority opinion brick group just quality";

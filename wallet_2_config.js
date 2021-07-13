@@ -1,1 +1,1 @@
-var mnemonic = "follow fold siren fault equip apart recipe credit curious tomorrow easy vote";
+var mnemonic = "turn viable rifle lumber panic rough entry hammer play erode service liar";

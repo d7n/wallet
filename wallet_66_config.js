@@ -1,1 +1,1 @@
-var mnemonic = "winner violin resemble drill more notable high club wish jungle ginger plug";
+var mnemonic = "fat topple dirt swing often rotate remain list claim large holiday melt";

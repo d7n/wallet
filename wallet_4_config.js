@@ -1,1 +1,1 @@
-var mnemonic = "list grab glue credit cart erase worth park paddle honey arrive rescue";
+var mnemonic = "right nature combine elegant secret keen hunt prize ill fade retreat truth";

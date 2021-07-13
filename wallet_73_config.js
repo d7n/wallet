@@ -1,1 +1,1 @@
-var mnemonic = "egg shoulder embody rival please clock sweet romance shoot junk crazy soap";
+var mnemonic = "deal month eternal unique piano change you utility usual welcome carpet narrow";

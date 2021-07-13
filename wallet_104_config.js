@@ -1,1 +1,1 @@
-var mnemonic = "find main sell average home catch used mirror wish ivory island dress";
+var mnemonic = "select diagram area slight issue fat inch life dutch goose news keep";

@@ -1,1 +1,1 @@
-var mnemonic = "mule math grow memory track body flat mountain put cry slot shield";
+var mnemonic = "cabin loop song knife clown avocado clap hawk cook yard unknown adapt";

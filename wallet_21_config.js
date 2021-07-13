@@ -1,1 +1,1 @@
-var mnemonic = "illegal burden plunge forum sunset pottery path liquid frost pig uncle crop";
+var mnemonic = "moral gate exist fit reunion nerve wood coconut tribe beyond domain deputy";

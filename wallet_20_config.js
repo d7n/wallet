@@ -1,1 +1,1 @@
-var mnemonic = "vault element pipe inform spatial ignore path ill useful claw crumble banana";
+var mnemonic = "humble milk glory flat village answer van high feed border science public";

@@ -1,1 +1,1 @@
-var mnemonic = "angry nothing razor fringe over erosion lab guilt shock river speed fix";
+var mnemonic = "assault model goose quote patrol august bridge gesture mind banner marine fit";

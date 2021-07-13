@@ -1,1 +1,1 @@
-var mnemonic = "eye daughter scale story sweet type long actress mention swear banner entry";
+var mnemonic = "cattle mean casual train describe maid capital frequent volcano apart inner mushroom";

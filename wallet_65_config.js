@@ -1,1 +1,1 @@
-var mnemonic = "fire task charge casual stomach end blue load dirt green priority palace";
+var mnemonic = "victory weasel endless access citizen cousin broom carbon spring scare dumb chapter";

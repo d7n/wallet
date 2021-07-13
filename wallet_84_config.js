@@ -1,1 +1,1 @@
-var mnemonic = "boil draft ridge safe poverty fringe original buddy silly soup thumb casual";
+var mnemonic = "humble velvet spend emerge bus skin jealous able call thing turtle polar";

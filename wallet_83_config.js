@@ -1,1 +1,1 @@
-var mnemonic = "gloom lunch rhythm digital tape initial document risk make volcano cement humor";
+var mnemonic = "float image mistake panic surface mansion engage render order column scrap hard";

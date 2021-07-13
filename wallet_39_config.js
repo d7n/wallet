@@ -1,1 +1,1 @@
-var mnemonic = "orchard super dirt walnut neglect future garden truck settle cake token session";
+var mnemonic = "staff kit crawl urban trim crane amount crash divorce medal virtual kick";

@@ -1,1 +1,1 @@
-var mnemonic = "kind switch slice biology trip ask tank mercy away salon measure ship";
+var mnemonic = "stomach tired walnut tongue admit farm grain exhaust planet ten chair puppy";

@@ -1,1 +1,1 @@
-var mnemonic = "super hover normal barely spice asset alcohol theme memory latin crane pig";
+var mnemonic = "warrior drive dry inner stumble share blossom adapt man aunt smoke give";

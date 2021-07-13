@@ -1,1 +1,1 @@
-var mnemonic = "timber infant vehicle insect venture estate broken shop green shock pony obscure";
+var mnemonic = "penalty genius push axis ship coyote crumble cloud priority dog better cattle";

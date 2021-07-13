@@ -1,1 +1,1 @@
-var mnemonic = "inmate one style employ dizzy pioneer strategy rug insect convince face wrist";
+var mnemonic = "boat involve famous surprise guitar immense museum question machine faculty current pudding";

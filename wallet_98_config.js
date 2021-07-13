@@ -1,1 +1,1 @@
-var mnemonic = "today summer youth assault collect test bomb deliver nuclear educate unusual meadow";
+var mnemonic = "stomach saddle bubble industry orient lamp fever beauty copper ancient gown mimic";

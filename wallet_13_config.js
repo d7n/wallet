@@ -1,1 +1,1 @@
-var mnemonic = "brain fade wreck dove fever trial ribbon broccoli congress space salt shy";
+var mnemonic = "fashion orange broom output arrest monster sell member undo same ensure tunnel";

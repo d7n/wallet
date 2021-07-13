@@ -1,1 +1,1 @@
-var mnemonic = "buddy august exhibit fun alter typical coral hollow piano engine ethics still";
+var mnemonic = "grain seven theory smoke buffalo whisper side tortoise charge settle room excuse";

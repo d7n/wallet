@@ -1,1 +1,1 @@
-var mnemonic = "shop alert pull emotion image kingdom south satoshi grief gym onion diary";
+var mnemonic = "tiger snow tumble illegal antique math size warm glare hill trap used";

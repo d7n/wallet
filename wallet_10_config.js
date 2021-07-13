@@ -1,1 +1,1 @@
-var mnemonic = "fault isolate sock uncover addict risk six group sign child mixed weekend";
+var mnemonic = "flat such alcohol erosion inject search proud knee dry weather fringe truly";
