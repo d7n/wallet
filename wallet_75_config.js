@@ -1,1 +1,1 @@
-var mnemonic = "hawk swim pave hamster elegant bless grit one typical anger luxury forget";
+var mnemonic = "leader tomorrow album unfair tissue piano retire sort code virtual ladder expect";

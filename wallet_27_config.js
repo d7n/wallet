@@ -1,1 +1,1 @@
-var mnemonic = "course elite canoe bottom remove barrel minute crash kick flee battle opinion";
+var mnemonic = "noble fury butter hint mountain cluster believe practice glass brick busy require";

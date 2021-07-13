@@ -1,1 +1,1 @@
-var mnemonic = "pulp butter rabbit ill peace illness mango weekend legend control flip method";
+var mnemonic = "excuse poem wash garage inherit mercy measure now juice zoo claw faculty";

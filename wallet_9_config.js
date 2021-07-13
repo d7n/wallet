@@ -1,1 +1,1 @@
-var mnemonic = "spider symptom orient install margin educate gun require memory because wait acoustic";
+var mnemonic = "service mammal grief split one stairs hollow vault stock steak horror figure";

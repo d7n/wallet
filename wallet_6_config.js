@@ -1,1 +1,1 @@
-var mnemonic = "gesture dust lab you siege weasel camera reform act repair idea unknown";
+var mnemonic = "clog route length magic story sorry dizzy fun rack furnace father forget";

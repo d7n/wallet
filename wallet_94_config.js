@@ -1,1 +1,1 @@
-var mnemonic = "usual tree rain right rice alley celery slow layer hire entire plug";
+var mnemonic = "quantum life soup lion gravity tornado purity ecology earth lady fish two";

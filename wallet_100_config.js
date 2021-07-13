@@ -1,1 +1,1 @@
-var mnemonic = "fresh provide iron dawn sister royal cigar jelly february invite vibrant warrior";
+var mnemonic = "forest caught pencil casual dwarf expand utility bless bread bubble suggest tornado";

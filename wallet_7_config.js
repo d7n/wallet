@@ -1,1 +1,1 @@
-var mnemonic = "cost panel sport swim cloud option clinic ask maximum attack view popular";
+var mnemonic = "ladder focus wash frown barely sadness canal day hill range blame tiny";

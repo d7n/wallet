@@ -1,1 +1,1 @@
-var mnemonic = "peace false title pretty short hedgehog glory tip lunch energy quick juice";
+var mnemonic = "shrug bamboo fatigue empty left laptop enroll mandate off left merit battle";

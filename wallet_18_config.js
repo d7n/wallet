@@ -1,1 +1,1 @@
-var mnemonic = "enforce tray sport firm shallow vibrant recycle lamp comfort leisure tenant obey";
+var mnemonic = "relax jump prize panic puzzle churn decrease weapon civil rack claim render";

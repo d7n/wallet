@@ -1,1 +1,1 @@
-var mnemonic = "spoon spend identify recall derive world venture prize mule humble artefact public";
+var mnemonic = "man gown melt upon tourist very upon fabric gravity away warrior call";

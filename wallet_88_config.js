@@ -1,1 +1,1 @@
-var mnemonic = "rhythm super split popular upon pool actress pelican relief analyst coffee bike";
+var mnemonic = "curtain fence ski loop gorilla clay subway welcome act salute wrong chest";

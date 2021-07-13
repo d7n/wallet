@@ -1,1 +1,1 @@
-var mnemonic = "moment snap uniform jump cat start wild proud cute whale clump orbit";
+var mnemonic = "initial mushroom fatal until range material wish surge juice sniff cry burst";

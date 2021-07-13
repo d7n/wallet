@@ -1,1 +1,1 @@
-var mnemonic = "inch bus nerve merge wrestle youth cry curious lake cram quiz brass";
+var mnemonic = "rescue copy answer measure oil between orphan palace horse forum sun random";

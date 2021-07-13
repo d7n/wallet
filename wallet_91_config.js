@@ -1,1 +1,1 @@
-var mnemonic = "boat upset saddle tuna wood march endorse oyster fetch mechanic dismiss dizzy";
+var mnemonic = "daring swap monitor emotion start asthma injury pretty walk mom letter chicken";

@@ -1,1 +1,1 @@
-var mnemonic = "gift rug warm bird monitor angle water uniform dad profit nuclear egg";
+var mnemonic = "expect note kitchen supreme major disagree birth funny rapid salon frozen pelican";

@@ -1,1 +1,1 @@
-var mnemonic = "monkey blanket gather model element soup force library glance bright march athlete";
+var mnemonic = "ordinary unit funny puppy life polar effort pyramid permit cage vibrant essay";

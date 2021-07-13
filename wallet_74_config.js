@@ -1,1 +1,1 @@
-var mnemonic = "erupt sock aerobic add test embrace save outdoor patient earth whale blind";
+var mnemonic = "motion orient cotton tackle punch current gas captain beef horse warm sleep";

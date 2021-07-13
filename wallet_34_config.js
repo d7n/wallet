@@ -1,1 +1,1 @@
-var mnemonic = "nice rubber topic turkey lab jelly cup bottom grunt tag cash book";
+var mnemonic = "divert female economy drink penalty method plate soldier girl traffic remember birth";

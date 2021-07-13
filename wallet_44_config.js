@@ -1,1 +1,1 @@
-var mnemonic = "photo mind frequent baby reopen prize symbol member alpha marine grain narrow";
+var mnemonic = "away present coil twelve upon bullet amused race tail tiger fragile camera";

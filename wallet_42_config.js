@@ -1,1 +1,1 @@
-var mnemonic = "interest twin banana fossil swarm army chair tomorrow alarm seven riot fresh";
+var mnemonic = "peanut whale lift average corn exotic divert dash crime evoke twist remember";

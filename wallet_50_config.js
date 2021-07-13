@@ -1,1 +1,1 @@
-var mnemonic = "soccer popular addict despair syrup now forum dynamic palm rice angry say";
+var mnemonic = "enlist resist fox fish silent bitter shadow stock expand chronic imitate drive";

@@ -1,1 +1,1 @@
-var mnemonic = "defense sight response trap talk gym vote coil enjoy cereal again describe";
+var mnemonic = "glue witness creek knock clump budget pepper stereo hole shield purchase path";

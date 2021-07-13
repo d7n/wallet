@@ -1,1 +1,1 @@
-var mnemonic = "zone rigid story caution story half trick control vibrant lens anxiety riot";
+var mnemonic = "one tired fury dirt main dream floor duty record ghost metal hedgehog";

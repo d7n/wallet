@@ -1,1 +1,1 @@
-var mnemonic = "invest hat inner enter pole prison frame letter permit symbol among sand";
+var mnemonic = "spike exchange across fold wait chunk juice surround inner unique quit hint";

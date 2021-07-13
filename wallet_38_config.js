@@ -1,1 +1,1 @@
-var mnemonic = "fabric typical damage grunt joy fat connect zero clump barely pulp gift";
+var mnemonic = "skate inhale flower cactus fiber stool royal shop rigid garden spring oval";

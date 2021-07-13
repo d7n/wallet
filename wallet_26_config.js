@@ -1,1 +1,1 @@
-var mnemonic = "cat uphold waste side prosper identify shuffle cable captain wonder boat assault";
+var mnemonic = "miracle kangaroo gown cloth explain sponsor afford jar bright title victory rapid";

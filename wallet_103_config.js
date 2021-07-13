@@ -1,1 +1,1 @@
-var mnemonic = "exact blouse under moral energy second veteran seed switch trip caught swift";
+var mnemonic = "indoor canvas misery glare wide rug large pigeon garlic evidence relief captain";

@@ -1,1 +1,1 @@
-var mnemonic = "coin outside inherit find hungry must travel fitness toss famous joy engine";
+var mnemonic = "garage student fiber load mammal actual split autumn prize annual polar swarm";

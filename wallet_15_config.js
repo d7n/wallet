@@ -1,1 +1,1 @@
-var mnemonic = "cricket stove rebuild grit happy chicken indoor vacuum boring offer erupt enough";
+var mnemonic = "blade mesh behave base ill observe pledge giant trust reflect test swear";

@@ -1,1 +1,1 @@
-var mnemonic = "industry scrap survey step check carpet amount fancy borrow evil puppy dirt";
+var mnemonic = "vehicle wide tornado flock carry major whip tree legend day soul tragic";

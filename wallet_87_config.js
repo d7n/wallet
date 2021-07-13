@@ -1,1 +1,1 @@
-var mnemonic = "hello must evolve bamboo holiday age talent more juice account voyage broom";
+var mnemonic = "dismiss adjust near decline identify inmate salon laundry ensure stumble monkey degree";

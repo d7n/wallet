@@ -1,1 +1,1 @@
-var mnemonic = "carpet inmate similar fossil until steel pupil polar increase ladder elevator camp";
+var mnemonic = "one tube sketch expect chronic assault obtain future market discover once renew";

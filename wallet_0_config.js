@@ -1,1 +1,1 @@
-var mnemonic = "air flock three fence super inch caught eye goat tank mixture bid";
+var mnemonic = "celery ill vapor race fire envelope noise birth unique zone canvas wing";

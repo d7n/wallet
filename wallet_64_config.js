@@ -1,1 +1,1 @@
-var mnemonic = "sister senior bike vendor lawsuit adult quality armor brick eager gadget silk";
+var mnemonic = "mystery step afraid manual convince multiply plunge shop lyrics plastic spice quick";

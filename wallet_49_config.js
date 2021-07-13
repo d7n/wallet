@@ -1,1 +1,1 @@
-var mnemonic = "inflict seminar impulse tribe tent velvet critic sort erupt october useless reject";
+var mnemonic = "better whisper jar knife skirt infant soap tumble enrich scrap section broom";

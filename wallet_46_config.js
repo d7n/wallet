@@ -1,1 +1,1 @@
-var mnemonic = "knife roast pluck island oil birth want home puzzle pencil together tongue";
+var mnemonic = "off trend next language jungle idle bottom connect silent wall used refuse";

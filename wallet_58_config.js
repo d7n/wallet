@@ -1,1 +1,1 @@
-var mnemonic = "vacant dumb nerve clay control smoke update crush witness candy fitness undo";
+var mnemonic = "unlock live luggage federal marble merge defense squeeze grant gate frog auto";

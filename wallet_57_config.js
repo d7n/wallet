@@ -1,1 +1,1 @@
-var mnemonic = "kit mango reward ready kangaroo ship enemy clump caught process jealous steak";
+var mnemonic = "horse virtual excess problem miracle erosion rule patrol mad sure okay spend";

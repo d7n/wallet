@@ -1,1 +1,1 @@
-var mnemonic = "announce measure collect hood tonight true object oblige cigar paper jar oyster";
+var mnemonic = "pole heart infant fluid light stamp bean spider wealth cube athlete moment";

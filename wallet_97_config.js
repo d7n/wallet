@@ -1,1 +1,1 @@
-var mnemonic = "useful pig wink square session route travel say return grant welcome about";
+var mnemonic = "front drive ladder pen cave chimney grab south scrap green buddy deny";

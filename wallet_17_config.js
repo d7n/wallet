@@ -1,1 +1,1 @@
-var mnemonic = "sorry group country such action blur climb report heart midnight boat empty";
+var mnemonic = "sting muscle glove copper gentle aware goat tongue van strike pass vault";

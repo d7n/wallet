@@ -1,1 +1,1 @@
-var mnemonic = "cute vapor juice skirt spring exclude iron wealth match pigeon clown fuel";
+var mnemonic = "essence mango afford margin liquid only quote risk select document program robust";

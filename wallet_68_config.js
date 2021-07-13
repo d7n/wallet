@@ -1,1 +1,1 @@
-var mnemonic = "report grab violin couple cost cross kiwi unique ill region sniff prize";
+var mnemonic = "episode update vapor awake auto clog then hip better evidence recycle recycle";

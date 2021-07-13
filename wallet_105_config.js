@@ -1,1 +1,1 @@
-var mnemonic = "useful physical skate moment auto design grab old toilet jealous lion before";
+var mnemonic = "rare sound mammal panther cube fruit smooth comfort fitness aware where excite";

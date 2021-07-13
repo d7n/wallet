@@ -1,1 +1,1 @@
-var mnemonic = "hamster busy reunion table sea cross know liar hint aerobic sing parent";
+var mnemonic = "cart embark gas modify comfort laugh forget erase tonight wasp answer body";

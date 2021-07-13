@@ -1,1 +1,1 @@
-var mnemonic = "barrel hero ethics choose scale supreme bottom exotic step express urban original";
+var mnemonic = "feature prevent prevent hire crop soul lobster boy six print before autumn";

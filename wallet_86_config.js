@@ -1,1 +1,1 @@
-var mnemonic = "fox sting project thought degree basic fury caught gift trouble avoid target";
+var mnemonic = "exclude twenty patient work under olive strike lava depth harbor achieve fantasy";

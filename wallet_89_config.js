@@ -1,1 +1,1 @@
-var mnemonic = "raven wedding fury genuine wheel prepare parade void example news resist ski";
+var mnemonic = "few hard detect achieve hurry ripple famous arch income report surge possible";

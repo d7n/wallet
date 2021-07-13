@@ -1,1 +1,1 @@
-var mnemonic = "accident total blame pill awkward laundry alone pilot final genre oxygen woman";
+var mnemonic = "cake magic harsh else total magnet pulp walnut expect shift buyer this";

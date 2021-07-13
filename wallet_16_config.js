@@ -1,1 +1,1 @@
-var mnemonic = "disorder picture inhale latin kangaroo climb sponsor chronic wage debate wheel click";
+var mnemonic = "hair dream hill order shaft enemy proof goddess finish ankle chef false";

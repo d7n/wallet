@@ -1,1 +1,1 @@
-var mnemonic = "helmet choice coil diary trick multiply bid chat stay lecture prosper venue";
+var mnemonic = "reform effort strong cry cousin recycle board exit magic attack rebel index";

@@ -1,1 +1,1 @@
-var mnemonic = "pitch sun gift summer credit front twelve seed bid dry slim glue";
+var mnemonic = "announce trend leg proud limit average link modify fantasy primary leisure gravity";

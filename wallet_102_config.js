@@ -1,1 +1,1 @@
-var mnemonic = "saddle across width moment approve flush repeat ribbon praise embody damp quote";
+var mnemonic = "clarify permit upset loan couple same excite learn tiny kiwi aspect prosper";

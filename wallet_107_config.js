@@ -1,1 +1,1 @@
-var mnemonic = "spray isolate bargain sustain clay space metal coconut sea climb foster tired";
+var mnemonic = "invest town chaos panther useless bless stairs license door accident input slice";

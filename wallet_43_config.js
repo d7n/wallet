@@ -1,1 +1,1 @@
-var mnemonic = "burden foot evolve thumb shell nurse recycle deputy walnut pond this buddy";
+var mnemonic = "rural vast wife patient blade tunnel acoustic candy stem town over able";

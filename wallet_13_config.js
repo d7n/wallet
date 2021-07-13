@@ -1,1 +1,1 @@
-var mnemonic = "aerobic smoke slice unlock give tennis fade swear news solid own sibling";
+var mnemonic = "live deposit agree unlock potato apple number smooth angle rival analyst forum";

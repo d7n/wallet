@@ -1,1 +1,1 @@
-var mnemonic = "top symptom category tissue account budget cause year marine north cancel people";
+var mnemonic = "next gadget tennis link sentence all anger exhaust garage shoot sudden spoon";

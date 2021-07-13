@@ -1,1 +1,1 @@
-var mnemonic = "air service hard approve match power such chair fame cave crime flash";
+var mnemonic = "obvious brother mammal require property citizen enact walnut sponsor strike limit castle";

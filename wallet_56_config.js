@@ -1,1 +1,1 @@
-var mnemonic = "bridge deliver metal umbrella memory valid enjoy simple airport equal method video";
+var mnemonic = "wasp pelican green session snack flower awkward dog remove mass rice again";

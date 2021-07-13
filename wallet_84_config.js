@@ -1,1 +1,1 @@
-var mnemonic = "aim merit awake behind plug purity baby robust peanut cave room puzzle";
+var mnemonic = "about ozone truth dial chalk comfort ozone claim venture roast settle around";

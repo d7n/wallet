@@ -1,1 +1,1 @@
-var mnemonic = "recall script bid cheap still reject across faint border swear ridge ice";
+var mnemonic = "riot mutual noodle pistol sure sketch ridge purpose daring forest minimum lucky";

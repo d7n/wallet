@@ -1,1 +1,1 @@
-var mnemonic = "neglect office icon design because job impulse genre uncle usage lemon uniform";
+var mnemonic = "issue disease noble define shaft drive divide surge grief chat acid tobacco";

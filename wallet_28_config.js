@@ -1,1 +1,1 @@
-var mnemonic = "bread stock bacon satoshi champion ceiling modify token security key donate monster";
+var mnemonic = "guide tone license position local rather material myth camera boy list indicate";

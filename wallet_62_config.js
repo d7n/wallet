@@ -1,1 +1,1 @@
-var mnemonic = "immense awesome dragon luxury ripple neutral page pottery dizzy filter hood evoke";
+var mnemonic = "quiz peanut curve nature muscle organ knee loop property hazard hurry announce";

@@ -1,1 +1,1 @@
-var mnemonic = "mass parent observe fancy finish over spy blush catch pilot lunch fever";
+var mnemonic = "dish phone coast clutch fluid toddler fitness casual cute cabbage medal sorry";

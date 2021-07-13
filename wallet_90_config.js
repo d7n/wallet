@@ -1,1 +1,1 @@
-var mnemonic = "curious fame decrease benefit damage woman denial monkey usual sibling bomb sing";
+var mnemonic = "dismiss weapon address dad govern step focus pride rocket wait veteran allow";

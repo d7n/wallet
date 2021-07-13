@@ -1,1 +1,1 @@
-var mnemonic = "kingdom pink surge two rule feature okay job winner moon mango climb";
+var mnemonic = "liquid wild rocket science actual proof loan mule border feature manage water";

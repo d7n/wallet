@@ -1,1 +1,1 @@
-var mnemonic = "dash bottom chronic farm element attitude dove wreck sauce admit aim man";
+var mnemonic = "there aerobic margin unknown arctic pretty delay attract between addict tongue end";

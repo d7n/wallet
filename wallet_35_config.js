@@ -1,1 +1,1 @@
-var mnemonic = "present square swear roof swap tunnel group build filter smart bid weather";
+var mnemonic = "ready neck orchard dynamic wonder limb monster opera moon upset pitch raven";

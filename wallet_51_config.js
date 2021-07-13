@@ -1,1 +1,1 @@
-var mnemonic = "peanut exact wealth obtain reunion roof shine tattoo enter assist divorce alone";
+var mnemonic = "ritual enhance manual casino renew winter volcano staff young way trash security";

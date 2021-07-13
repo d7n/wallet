@@ -1,1 +1,1 @@
-var mnemonic = "satisfy sock color maid wide tell message equip wing can wisdom mad";
+var mnemonic = "position stomach skin urban glance brother lizard health usage jelly window age";

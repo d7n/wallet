@@ -1,1 +1,1 @@
-var mnemonic = "crumble circle odor flame essence obey wealth luxury seed game suffer crime";
+var mnemonic = "inform effort smooth among deer mixture scene canvas position farm rent melody";

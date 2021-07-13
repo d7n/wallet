@@ -1,1 +1,1 @@
-var mnemonic = "child edge island wedding verify spring year remember spice nest mind system";
+var mnemonic = "hire shine fortune salad alien magnet salad provide nose always hand cool";

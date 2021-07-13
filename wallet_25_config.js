@@ -1,1 +1,1 @@
-var mnemonic = "hollow earn fine dizzy shadow eight cabin purse shock sibling breeze arrive";
+var mnemonic = "scan episode sting flame six satoshi quality firm scorpion frown undo bind";

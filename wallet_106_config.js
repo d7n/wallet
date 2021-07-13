@@ -1,1 +1,1 @@
-var mnemonic = "hospital slogan tourist anger creek bright valid level filter decade kind fade";
+var mnemonic = "morning snake swallow melt major cube poem giggle despair atom relax video";

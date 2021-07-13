@@ -1,1 +1,1 @@
-var mnemonic = "decade hire humor cross awake undo claim snap answer local glass rely";
+var mnemonic = "stand depend time fury fame mobile enlist stadium lazy amount shoe depart";

@@ -1,1 +1,1 @@
-var mnemonic = "inspire cricket relief maple system major cause food outdoor solid element wall";
+var mnemonic = "deliver iron episode strike avoid result milk close bullet razor flight own";

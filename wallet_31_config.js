@@ -1,1 +1,1 @@
-var mnemonic = "ignore doctor photo script rice tide idea damage shield forest bicycle case";
+var mnemonic = "diesel bless sweet foster enough legal crush regret canvas crack turkey fetch";

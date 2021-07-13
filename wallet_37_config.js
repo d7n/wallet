@@ -1,1 +1,1 @@
-var mnemonic = "bulk runway unable stand gadget miracle stable stove confirm song hub amount";
+var mnemonic = "flight sunset hover pistol naive join home flavor face meadow before shy";

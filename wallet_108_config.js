@@ -1,1 +1,1 @@
-var mnemonic = "involve option cake index later text wire galaxy evolve unfold hospital embrace";
+var mnemonic = "recall surge buddy gun fragile nation heart awesome memory group chief census";

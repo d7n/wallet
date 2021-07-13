@@ -1,1 +1,1 @@
-var mnemonic = "inform panther chair confirm focus pulp desk quiz trick strong gold boy";
+var mnemonic = "turkey prefer region catalog tuna weather music purchase stadium grunt lazy weekend";

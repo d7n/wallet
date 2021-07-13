@@ -1,1 +1,1 @@
-var mnemonic = "west rural sport suggest gentle large deputy fluid upper you upon away";
+var mnemonic = "oppose wide much day wonder dynamic chase hero provide relief disorder stomach";

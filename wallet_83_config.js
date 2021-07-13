@@ -1,1 +1,1 @@
-var mnemonic = "peasant brave join lava cross weather banner obvious raise hospital bulb victory";
+var mnemonic = "holiday once educate captain panic adapt maid ask rebel action style blur";

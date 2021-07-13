@@ -1,1 +1,1 @@
-var mnemonic = "supreme spice mammal resemble clump addict awful buddy grit width gym local";
+var mnemonic = "problem know table tackle sweet zero ride dismiss setup plate drastic order";

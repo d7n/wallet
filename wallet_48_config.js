@@ -1,1 +1,1 @@
-var mnemonic = "combine flip gun sunny foil end drink clutch sponsor want surface face";
+var mnemonic = "modify shed cute armed process brick next razor reunion mistake evoke spider";
