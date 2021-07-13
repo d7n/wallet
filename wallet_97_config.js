@@ -1,1 +1,1 @@
-var mnemonic = "hungry casino wagon super inmate next add mad cousin wish wink trend";
+var mnemonic = "law charge crawl gather federal congress walnut first file equal couple bring";

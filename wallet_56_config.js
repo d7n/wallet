@@ -1,1 +1,1 @@
-var mnemonic = "verb metal essence gravity tourist supply avocado urge struggle method purchase repair";
+var mnemonic = "exhibit install benefit hedgehog adjust remain trade adult balcony crowd traffic fiction";

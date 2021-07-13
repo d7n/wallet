@@ -1,1 +1,1 @@
-var mnemonic = "hidden shed title bottom month comfort survey have diamond expire blur sight";
+var mnemonic = "bind outer merge west proof panic render service mind oyster badge tuition";

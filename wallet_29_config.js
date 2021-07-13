@@ -1,1 +1,1 @@
-var mnemonic = "pulp catch hover hotel title toy deliver release foil orbit aim edge";
+var mnemonic = "parrot false erosion dignity play brass elder fall flight soda flush base";

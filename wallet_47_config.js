@@ -1,1 +1,1 @@
-var mnemonic = "youth pumpkin beef silver father catch win decline ensure tomorrow burst hour";
+var mnemonic = "yellow category load below rose enact milk magic direct senior girl visa";

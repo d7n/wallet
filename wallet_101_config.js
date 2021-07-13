@@ -1,1 +1,1 @@
-var mnemonic = "shrimp endless layer tomorrow post hidden fade milk cause can siege eye";
+var mnemonic = "undo razor thing attend ancient frame lift keen entry settle world remove";

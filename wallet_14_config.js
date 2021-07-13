@@ -1,1 +1,1 @@
-var mnemonic = "toddler derive city share bid cage belt cook phone fan behave kit";
+var mnemonic = "fresh sing loyal fatigue indicate able bone capable borrow square person any";

@@ -1,1 +1,1 @@
-var mnemonic = "finger foster sponsor announce grunt oblige code dad electric gate brain swim";
+var mnemonic = "equip cool song grunt roast medal spell ecology shadow clap usual insane";

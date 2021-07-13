@@ -1,1 +1,1 @@
-var mnemonic = "ahead digital verify reward group blur worry bitter category record quiz borrow";
+var mnemonic = "off zoo rather trouble field cheap roast meadow donkey crack anger dilemma";

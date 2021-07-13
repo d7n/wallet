@@ -1,1 +1,1 @@
-var mnemonic = "assist rhythm mystery exile letter moment describe crew dash monkey man unhappy";
+var mnemonic = "virtual sound menu crystal dismiss gather act group mobile believe jar spice";

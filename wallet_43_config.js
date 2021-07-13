@@ -1,1 +1,1 @@
-var mnemonic = "ghost among duty pill weasel veteran where pet female digital only ready";
+var mnemonic = "service omit galaxy oblige hungry course cover jealous round name trip rigid";

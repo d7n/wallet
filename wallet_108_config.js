@@ -1,1 +1,1 @@
-var mnemonic = "zebra feel seed fit decrease purse cross sleep surface limb loan giggle";
+var mnemonic = "cart leaf artefact paddle pride under artwork sausage host fan truck ceiling";

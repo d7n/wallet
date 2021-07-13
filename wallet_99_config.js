@@ -1,1 +1,1 @@
-var mnemonic = "property certain then rain squirrel stick uniform select benefit advance salt reduce";
+var mnemonic = "right before section absorb subway also diagram feature false torch gym include";

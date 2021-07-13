@@ -1,1 +1,1 @@
-var mnemonic = "any arrest eyebrow visual shrug dad return spell father unhappy purity mix";
+var mnemonic = "security cup appear clean tip power offer torch mimic arch material blouse";

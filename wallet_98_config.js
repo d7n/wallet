@@ -1,1 +1,1 @@
-var mnemonic = "drive switch blast hollow mixture mobile frost assist wreck frog cross joke";
+var mnemonic = "decrease retire extra load heavy neck book antenna hammer explain lady pride";

@@ -1,1 +1,1 @@
-var mnemonic = "random pulse lemon hair office equip alcohol sketch cannon wide horn normal";
+var mnemonic = "child rug speed flee lady dawn strike patient short garment ball penalty";

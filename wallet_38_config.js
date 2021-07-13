@@ -1,1 +1,1 @@
-var mnemonic = "tackle tired fun spray cave shiver glimpse act hub hand base stamp";
+var mnemonic = "coach echo silly phrase shop action salt novel uncle flight pencil galaxy";

@@ -1,1 +1,1 @@
-var mnemonic = "tattoo knock regular left fun weird shuffle heart gaze skate omit time";
+var mnemonic = "canoe north mosquito gauge weasel crucial thunder faith use fork toy organ";

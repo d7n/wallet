@@ -1,1 +1,1 @@
-var mnemonic = "wave twin business visa electric chronic auction horror allow buyer tube expire";
+var mnemonic = "saddle erosion lizard hole castle maple access rude upset bless lazy creek";

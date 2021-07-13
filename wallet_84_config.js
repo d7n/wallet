@@ -1,1 +1,1 @@
-var mnemonic = "dog surface unit blouse shift beach load sleep nut bulk tooth lawn";
+var mnemonic = "gather style lumber excite exist elite castle end sudden hover culture room";

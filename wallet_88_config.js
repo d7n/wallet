@@ -1,1 +1,1 @@
-var mnemonic = "metal analyst cupboard village unaware lobster wink toss nurse analyst dream hockey";
+var mnemonic = "physical cotton net coil film master smart harvest outer recycle prosper supply";

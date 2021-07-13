@@ -1,1 +1,1 @@
-var mnemonic = "diagram stand faith veteran angle catch shy sleep exit pluck banana unfair";
+var mnemonic = "alert father hood nice orbit end enemy unit kid biology wire dash";

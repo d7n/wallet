@@ -1,1 +1,1 @@
-var mnemonic = "crouch usual season quality dizzy grunt extend cancel asset garage rubber silk";
+var mnemonic = "hurt style bike pencil step clock bag essence flash naive march either";

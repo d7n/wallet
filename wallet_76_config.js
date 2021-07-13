@@ -1,1 +1,1 @@
-var mnemonic = "seat kiwi army motor breeze maid method arctic fix guess anchor side";
+var mnemonic = "bean curtain pioneer arm lion desk song service before trim omit element";

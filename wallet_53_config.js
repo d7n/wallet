@@ -1,1 +1,1 @@
-var mnemonic = "reward kiwi major census flash high puppy gauge surface inspire metal oven";
+var mnemonic = "ask cause cancel random few peanut fatigue old pioneer aunt inner village";

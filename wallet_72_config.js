@@ -1,1 +1,1 @@
-var mnemonic = "toward army welcome ignore change now trap chicken cabin head net follow";
+var mnemonic = "ensure borrow hammer check innocent gown dragon glue verify suggest vehicle broccoli";

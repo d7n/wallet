@@ -1,1 +1,1 @@
-var mnemonic = "payment opera chest maid check punch paddle patch labor online gloom tool";
+var mnemonic = "wide bridge regret pause tobacco biology cheap require live rhythm rough seminar";

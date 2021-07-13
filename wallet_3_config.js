@@ -1,1 +1,1 @@
-var mnemonic = "wheel oak machine animal airport entry enrich mushroom mass banana wealth tongue";
+var mnemonic = "daring craft punch judge effort okay nice connect polar marine ranch whisper";

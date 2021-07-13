@@ -1,1 +1,1 @@
-var mnemonic = "seven sound sphere dice online raw domain account flower scissors decline mutual";
+var mnemonic = "regular pattern world stool coyote chimney day success profit hospital cotton ahead";

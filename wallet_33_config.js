@@ -1,1 +1,1 @@
-var mnemonic = "discover mansion crack radio foster luggage error lemon purity teach loud foam";
+var mnemonic = "unfold anxiety boost auto artefact cloth vendor solar all gym seminar best";

@@ -1,1 +1,1 @@
-var mnemonic = "identify drive age inform hen canvas client iron canoe surge peace move";
+var mnemonic = "wish deliver danger arrest nation inherit board want success reopen fit clip";

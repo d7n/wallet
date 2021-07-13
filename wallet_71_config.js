@@ -1,1 +1,1 @@
-var mnemonic = "cinnamon zone update spread gas dose argue card material nasty actor marriage";
+var mnemonic = "proud month palace brush educate diagram sad envelope fatigue poet toy fish";

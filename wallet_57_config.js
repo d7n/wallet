@@ -1,1 +1,1 @@
-var mnemonic = "ticket forget away cancel breeze stereo tenant police egg what screen cake";
+var mnemonic = "undo beyond enjoy abstract aspect nice drift cram pen smoke that soul";

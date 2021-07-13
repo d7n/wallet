@@ -1,1 +1,1 @@
-var mnemonic = "book drive already bike poet faith submit feature rally pyramid bronze rack";
+var mnemonic = "rug kidney spider dial gallery balcony proud parent ready spoil kick feel";

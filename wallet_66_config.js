@@ -1,1 +1,1 @@
-var mnemonic = "fatal rescue donkey achieve say remember limit define door number celery rely";
+var mnemonic = "example zoo slight weird alter throw deer high odor finger tomorrow bench";

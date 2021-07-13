@@ -1,1 +1,1 @@
-var mnemonic = "correct lucky patch street undo remove squirrel defy bind thunder option iron";
+var mnemonic = "finger oak leg sell someone able void toe toilet rail toast blossom";

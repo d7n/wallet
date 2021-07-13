@@ -1,1 +1,1 @@
-var mnemonic = "success half prize mind smoke holiday history custom cigar lyrics earn square";
+var mnemonic = "roof bone grow coffee plastic penalty hidden spin orient absent stamp usual";

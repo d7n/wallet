@@ -1,1 +1,1 @@
-var mnemonic = "lemon brain write canoe basket reveal favorite rigid retreat shrimp clarify diamond";
+var mnemonic = "taste hollow wedding any hockey copy chunk lecture invite erode base quantum";

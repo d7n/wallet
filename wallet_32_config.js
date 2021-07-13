@@ -1,1 +1,1 @@
-var mnemonic = "scrub sphere noble tumble equip try lottery combine disease end sort text";
+var mnemonic = "swamp squirrel differ bitter helmet ten spy awkward turkey brisk hood churn";

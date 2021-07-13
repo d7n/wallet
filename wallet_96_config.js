@@ -1,1 +1,1 @@
-var mnemonic = "issue cart curtain knee ancient record spot comic picture grid cherry absurd";
+var mnemonic = "blast crime ostrich risk pole zone dream track unveil magnet series surface";

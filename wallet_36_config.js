@@ -1,1 +1,1 @@
-var mnemonic = "narrow report welcome reward nerve grant fabric gown ignore avoid north guess";
+var mnemonic = "motor valve congress tuition diamond muscle switch mention conduct gain month pond";

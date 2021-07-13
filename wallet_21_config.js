@@ -1,1 +1,1 @@
-var mnemonic = "economy release mask wise business project endless cool uniform shove path lazy";
+var mnemonic = "latin mixture unique fault road prevent ancient audit fruit expand invite tree";

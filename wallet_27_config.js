@@ -1,1 +1,1 @@
-var mnemonic = "ocean doctor pistol security diamond then great seat pulse hazard okay flame";
+var mnemonic = "midnight dawn faint park uniform blush donor rhythm axis rabbit shiver attend";

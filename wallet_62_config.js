@@ -1,1 +1,1 @@
-var mnemonic = "begin opinion mad bone fantasy sugar mobile evidence word abstract orient airport";
+var mnemonic = "top expire box unique sea board manual dose tattoo eye provide border";

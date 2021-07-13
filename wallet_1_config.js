@@ -1,1 +1,1 @@
-var mnemonic = "unique cereal raw trap miracle stick poverty witness grow dinner mean aerobic";
+var mnemonic = "nephew decorate ride bracket baby bike van build nurse hand dog wide";

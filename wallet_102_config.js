@@ -1,1 +1,1 @@
-var mnemonic = "icon faint discover square now axis toilet absorb grow lend rug exhibit";
+var mnemonic = "luxury ability swear dream open zoo axis wise tunnel forward resource museum";

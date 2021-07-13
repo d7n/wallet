@@ -1,1 +1,1 @@
-var mnemonic = "brother slight bargain ghost buzz favorite marble pony sentence mansion room put";
+var mnemonic = "tragic alert gift hamster innocent tube police indicate poem congress monitor oven";

@@ -1,1 +1,1 @@
-var mnemonic = "will prevent dune balance figure profit coach art tree net boring chase";
+var mnemonic = "inmate print table jazz put actress limit throw initial real suggest frozen";

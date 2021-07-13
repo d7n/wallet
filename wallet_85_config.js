@@ -1,1 +1,1 @@
-var mnemonic = "eight trophy feed figure hip mammal fly bounce beyond belt patch dirt";
+var mnemonic = "attend lumber network labor eye original valid brown before copper antique small";

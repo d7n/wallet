@@ -1,1 +1,1 @@
-var mnemonic = "toy banana congress empower banana define beef guitar mercy transfer agent install";
+var mnemonic = "scene million there decade can plug awake aisle dinosaur enrich plastic giggle";

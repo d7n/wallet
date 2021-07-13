@@ -1,1 +1,1 @@
-var mnemonic = "clown wisdom mask switch task that undo process cruel entry uncover maple";
+var mnemonic = "bulk cram hair response kangaroo butter together hand humble shop guard tornado";

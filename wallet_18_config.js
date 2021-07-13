@@ -1,1 +1,1 @@
-var mnemonic = "toe spider same garden wise element jaguar second clog mail cube lunch";
+var mnemonic = "crowd laptop round minor solid anxiety mandate smile give chapter toward proof";

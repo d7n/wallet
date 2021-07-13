@@ -1,1 +1,1 @@
-var mnemonic = "feel glance must that valley bunker deposit banner consider suit orient butter";
+var mnemonic = "blast prepare shock theme nuclear gloom execute hamster uncover broccoli this focus";

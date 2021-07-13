@@ -1,1 +1,1 @@
-var mnemonic = "tell split regret cereal token text venue shadow scissors sister pudding arrest";
+var mnemonic = "pact tape delay poet slow salmon tobacco wash law scene napkin say";

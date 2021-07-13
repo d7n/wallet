@@ -1,1 +1,1 @@
-var mnemonic = "kite follow arm unknown federal bless canal mom fluid account access sell";
+var mnemonic = "shop trash warrior remind sunset can remain toward pyramid afford youth act";

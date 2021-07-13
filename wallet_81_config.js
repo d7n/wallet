@@ -1,1 +1,1 @@
-var mnemonic = "curtain bag gap congress tonight daring tourist length oblige rigid raccoon aerobic";
+var mnemonic = "sure clump burst degree donkey prefer office valve pair report olympic rookie";

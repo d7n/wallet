@@ -1,1 +1,1 @@
-var mnemonic = "term drift burden candy ancient chicken concert pool flat razor misery tenant";
+var mnemonic = "grow kingdom universe note drill depend seek mixture top pool odor grass";

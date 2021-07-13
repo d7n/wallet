@@ -1,1 +1,1 @@
-var mnemonic = "mutual invest frame home afford shuffle employ wheel doll skate erosion lesson";
+var mnemonic = "pool feature strategy satisfy topple athlete demise ring promote cigar fence business";

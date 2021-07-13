@@ -1,1 +1,1 @@
-var mnemonic = "hip spare else dumb call resource mercy outer decade trend fit ranch";
+var mnemonic = "celery turtle wealth fresh alcohol chuckle kid oppose any mouse share youth";

@@ -1,1 +1,1 @@
-var mnemonic = "ability panther myself region access inflict seek ecology slow spare extra mandate";
+var mnemonic = "repair finger saddle silent divorce venture gossip salute bridge return latin please";

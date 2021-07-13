@@ -1,1 +1,1 @@
-var mnemonic = "doctor heavy crowd glimpse tackle sad carbon ski smooth like vibrant cloth";
+var mnemonic = "search rebel lawn palace sustain firm lunch buffalo liar amount boring confirm";

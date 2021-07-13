@@ -1,1 +1,1 @@
-var mnemonic = "club shift imitate census female noodle scout napkin spin game mushroom bronze";
+var mnemonic = "size cheap emerge topic surprise topic silent recall cost alarm upset jealous";

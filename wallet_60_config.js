@@ -1,1 +1,1 @@
-var mnemonic = "west tide fantasy broom clay remain traffic hint unable input wild jazz";
+var mnemonic = "coach crystal coffee list scare voyage solid health cheap wool tonight squeeze";

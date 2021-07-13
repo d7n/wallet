@@ -1,1 +1,1 @@
-var mnemonic = "height section keep typical cost install gate logic rain custom manual engage";
+var mnemonic = "bachelor topple shift victory deliver school silent sudden night demand lunch rotate";

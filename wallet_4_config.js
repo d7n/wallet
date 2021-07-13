@@ -1,1 +1,1 @@
-var mnemonic = "tower pass sunset night file galaxy movie item genuine flock guitar trim";
+var mnemonic = "range radio pretty diesel hill drift range first canvas glimpse image pupil";

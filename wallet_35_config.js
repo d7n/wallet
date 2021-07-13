@@ -1,1 +1,1 @@
-var mnemonic = "emerge verb uncle popular zebra where scheme face mammal veteran casino thank";
+var mnemonic = "mammal athlete convince main where pilot federal leopard case fantasy cushion december";

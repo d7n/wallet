@@ -1,1 +1,1 @@
-var mnemonic = "shield shadow young obvious amazing bomb move bean extra hint panel prosper";
+var mnemonic = "rival supply gadget brass bright logic lab grunt inquiry solution lazy gold";

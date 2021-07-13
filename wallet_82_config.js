@@ -1,1 +1,1 @@
-var mnemonic = "space metal doctor cup slow park thumb gravity certain idea fox pepper";
+var mnemonic = "traffic female unique catch basic fabric barrel tape resemble surround crop silver";

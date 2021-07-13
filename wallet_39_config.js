@@ -1,1 +1,1 @@
-var mnemonic = "priority various tube soap camp matrix visit harbor spice sunny random receive";
+var mnemonic = "cloth repair hero prosper erase discover exist about visa soup scale fish";

@@ -1,1 +1,1 @@
-var mnemonic = "day potato bunker trumpet middle split clump subway giant hat throw cheap";
+var mnemonic = "buddy reflect tissue badge broom bracket elevator garden coil sausage fury rhythm";

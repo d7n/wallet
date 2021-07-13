@@ -1,1 +1,1 @@
-var mnemonic = "fee bundle trash yard funny path simple side simple able super elephant";
+var mnemonic = "virtual indicate river amateur stone peanut project duck garden robust rival skin";

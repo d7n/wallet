@@ -1,1 +1,1 @@
-var mnemonic = "winner velvet poem vintage disease disease equip utility spoil subject artist swallow";
+var mnemonic = "reason tenant this renew fat trouble cruise machine sword nothing anxiety say";

@@ -1,1 +1,1 @@
-var mnemonic = "female ahead theme captain couple extend shell budget eagle river ladder lobster";
+var mnemonic = "void stomach crouch scheme defense corn ghost young unhappy forget simple hard";

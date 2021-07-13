@@ -1,1 +1,1 @@
-var mnemonic = "pledge dish child pole fame frost wreck track nominee lawn grunt mechanic";
+var mnemonic = "material example wage brush blouse limb lonely olympic have pill culture shy";

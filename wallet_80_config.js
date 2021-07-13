@@ -1,1 +1,1 @@
-var mnemonic = "narrow scorpion tired rebuild device leaf salt fork clay route visit vague";
+var mnemonic = "program snap zebra fiscal outdoor ocean safe theme assault cinnamon jelly surprise";

@@ -1,1 +1,1 @@
-var mnemonic = "animal adult coconut glue swing hole turkey bench visual isolate region frost";
+var mnemonic = "enhance adjust goddess lens addict cream pool chicken width tape learn crawl";

@@ -1,1 +1,1 @@
-var mnemonic = "pyramid laptop defy desk asset grief prosper inch pink twice detect owner";
+var mnemonic = "grass arm luggage alter party size sure enact law mistake crime tonight";

@@ -1,1 +1,1 @@
-var mnemonic = "trick kind among arrow bless bind long fancy worry inject spin rebuild";
+var mnemonic = "dragon upper simple hawk crouch chest sudden object word color right glow";

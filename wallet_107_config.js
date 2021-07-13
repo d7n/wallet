@@ -1,1 +1,1 @@
-var mnemonic = "six december wait credit couch volcano skate window outdoor hotel senior midnight";
+var mnemonic = "forget trouble engine dream future turkey clip element foster reopen topple pitch";

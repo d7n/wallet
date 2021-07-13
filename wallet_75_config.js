@@ -1,1 +1,1 @@
-var mnemonic = "ozone piano teach taxi enter rebuild immense foil exercise lizard keep link";
+var mnemonic = "miss purse essence daughter service valley float asthma rice rally valley august";

@@ -1,1 +1,1 @@
-var mnemonic = "evidence reward siren jaguar drum edit distance tornado weapon right vicious police";
+var mnemonic = "review flee cancel item venture address absent chuckle motion argue sister library";

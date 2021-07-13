@@ -1,1 +1,1 @@
-var mnemonic = "spread rabbit total tomato into system leader educate witness foot eagle return";
+var mnemonic = "frozen morning flavor misery news curious morning keen twin tail stock main";

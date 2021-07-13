@@ -1,1 +1,1 @@
-var mnemonic = "tomorrow museum innocent settle lawn say mansion cattle unfold decade soon lizard";
+var mnemonic = "donate wet enjoy pair cloth lion spread ticket better praise review essence";

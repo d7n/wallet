@@ -1,1 +1,1 @@
-var mnemonic = "equal robot flush gym rack steak vendor patrol elite wood giant hunt";
+var mnemonic = "scrub almost use double recycle secret erosion ignore glow task memory current";

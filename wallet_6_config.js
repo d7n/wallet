@@ -1,1 +1,1 @@
-var mnemonic = "color advice juice walnut assume physical hub copper fatal half pistol casino";
+var mnemonic = "mixture cloth drama fetch panda unaware walk swarm spatial wet school raw";

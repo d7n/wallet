@@ -1,1 +1,1 @@
-var mnemonic = "top health give icon energy fish firm cook tribe author team recycle";
+var mnemonic = "ginger question cream isolate account inmate castle faith theory journey swallow promote";
