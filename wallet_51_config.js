@@ -1,1 +1,1 @@
-var mnemonic = "ship zebra hotel together cost rocket brass aim rate service idle install";
+var mnemonic = "pioneer casual rice oppose worth sphere you invite clown job start vendor";

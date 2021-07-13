@@ -1,1 +1,1 @@
-var mnemonic = "slot canoe resemble spin seven test because devote unfold book fade nature";
+var mnemonic = "artist since empty solution trust host roof force kidney squirrel cloth tree";

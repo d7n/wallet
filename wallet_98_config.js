@@ -1,1 +1,1 @@
-var mnemonic = "when hip innocent allow bundle flight reform episode garden scissors announce burst";
+var mnemonic = "below bulb guitar negative measure sign transfer bid velvet often sell public";

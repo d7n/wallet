@@ -1,1 +1,1 @@
-var mnemonic = "crime add mix width female valid rookie cry pair tongue evolve abuse";
+var mnemonic = "fortune pencil result grunt dial harsh involve story rule envelope topple shift";

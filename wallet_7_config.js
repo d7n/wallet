@@ -1,1 +1,1 @@
-var mnemonic = "mule gasp jacket clutch say version skill ask discover market manual argue";
+var mnemonic = "truck stage come quote debris kite easy stable estate man shop riot";

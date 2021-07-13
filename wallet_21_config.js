@@ -1,1 +1,1 @@
-var mnemonic = "surprise then ankle tower champion gap clinic urban disorder rally neglect trick";
+var mnemonic = "broken brush common unique pyramid swap rug elite session crush discover wise";

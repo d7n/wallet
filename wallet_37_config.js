@@ -1,1 +1,1 @@
-var mnemonic = "mosquito chair vote almost rate grocery reward trophy tray lonely ocean ghost";
+var mnemonic = "inform second make liquid speak brush hazard major surface joy session crack";

@@ -1,1 +1,1 @@
-var mnemonic = "cluster detect move viable panel iron special calm manual share sunset idle";
+var mnemonic = "despair minute inspire picture boy engage member fuel mandate kitchen welcome planet";

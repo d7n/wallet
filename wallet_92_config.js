@@ -1,1 +1,1 @@
-var mnemonic = "castle sniff notable never physical there sport solar diamond economy text abuse";
+var mnemonic = "vocal barely connect finger then reveal exercise express guard picnic essay two";

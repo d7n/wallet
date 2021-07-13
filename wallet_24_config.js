@@ -1,1 +1,1 @@
-var mnemonic = "vibrant sentence crunch gloom time example monitor forum diet cart card child";
+var mnemonic = "satisfy make ready rough surface song require device oil thumb royal oppose";

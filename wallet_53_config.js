@@ -1,1 +1,1 @@
-var mnemonic = "review forest eyebrow tortoise connect area owner ivory turn setup push today";
+var mnemonic = "nerve decade reveal shift crouch original timber begin teach spatial regret tip";

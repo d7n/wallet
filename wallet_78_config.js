@@ -1,1 +1,1 @@
-var mnemonic = "candy company gym pipe glad upset bargain enforce garbage during divide slot";
+var mnemonic = "hundred vacant dune range kick name viable salute wrong tank want firm";

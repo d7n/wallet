@@ -1,1 +1,1 @@
-var mnemonic = "word gift labor arrest desk recall attack cute rare success innocent neutral";
+var mnemonic = "document rice gaze sell address guitar become fade census machine maximum toward";

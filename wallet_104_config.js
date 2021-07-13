@@ -1,1 +1,1 @@
-var mnemonic = "build nephew deliver awake wave heart lend cycle rifle snake garbage arrest";
+var mnemonic = "source country excuse feel improve phrase lounge police wise index device poem";

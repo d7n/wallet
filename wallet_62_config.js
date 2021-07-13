@@ -1,1 +1,1 @@
-var mnemonic = "trust arrive sheriff win exercise theory holiday motor roof early claim cabbage";
+var mnemonic = "awkward supreme camp vital matrix cluster feed scene often warfare razor type";

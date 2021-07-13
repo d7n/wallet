@@ -1,1 +1,1 @@
-var mnemonic = "habit proof isolate panda office tunnel ahead much essay solution balcony submit";
+var mnemonic = "sight document loan family rescue between define glory tonight ripple shoot project";

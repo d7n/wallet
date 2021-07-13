@@ -1,1 +1,1 @@
-var mnemonic = "clutch index portion thank finish primary depth glance filter mistake daring top";
+var mnemonic = "coin amount drip rotate orange dinosaur mix era remind exhibit omit grunt";

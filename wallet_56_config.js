@@ -1,1 +1,1 @@
-var mnemonic = "pattern beef toe cash lawn measure vapor illegal mango mix prison street";
+var mnemonic = "describe human click occur crucial ask vicious drink bracket luggage artwork diet";

@@ -1,1 +1,1 @@
-var mnemonic = "squeeze asthma opinion when detect average extend congress wrist stumble rail around";
+var mnemonic = "gentle draw penalty unveil food process miracle people ladder visit excuse glad";

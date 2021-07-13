@@ -1,1 +1,1 @@
-var mnemonic = "escape venture hidden join robust judge firm cricket title grab helmet fever";
+var mnemonic = "all turn ghost album arrive skin fancy barely delay offer where pipe";

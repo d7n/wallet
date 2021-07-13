@@ -1,1 +1,1 @@
-var mnemonic = "thought invite love iron bullet dignity decorate hello witness fringe great fatigue";
+var mnemonic = "diagram city zone best blood gravity detail gallery remove undo reason model";

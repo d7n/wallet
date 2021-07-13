@@ -1,1 +1,1 @@
-var mnemonic = "stable believe shuffle cable anger smooth route island visa volcano under floor";
+var mnemonic = "evolve wood student rubber auction buddy pass drama ill diamond diary raw";

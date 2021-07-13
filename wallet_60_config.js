@@ -1,1 +1,1 @@
-var mnemonic = "media shoot comic below display acquire left supreme sad north solve galaxy";
+var mnemonic = "radio reward gain figure off tooth cushion layer suspect cricket liar sort";

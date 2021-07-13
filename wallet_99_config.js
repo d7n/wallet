@@ -1,1 +1,1 @@
-var mnemonic = "chuckle cousin better weekend express domain know great fit orchard friend august";
+var mnemonic = "garden spider hip safe spell future black improve woman asthma twist foster";

@@ -1,1 +1,1 @@
-var mnemonic = "grow crew retreat twin dial eye wild sail frame galaxy hidden axis";
+var mnemonic = "prize fury point jar fabric slight want exhaust note theme glimpse mystery";

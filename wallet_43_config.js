@@ -1,1 +1,1 @@
-var mnemonic = "term fragile snap patient domain trap kind music naive spoil rabbit enlist";
+var mnemonic = "dilemma bounce angry team case erase foam penalty gold humor hard maximum";

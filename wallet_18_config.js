@@ -1,1 +1,1 @@
-var mnemonic = "scale merry mystery benefit twice innocent alley service gloom fabric chronic knock";
+var mnemonic = "fiscal party drastic shiver copper phone celery pull combine cloud spoil problem";

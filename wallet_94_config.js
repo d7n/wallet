@@ -1,1 +1,1 @@
-var mnemonic = "type raise cruel wagon actor dish toss lock segment extend brass pattern";
+var mnemonic = "list equal sort ostrich success clap gesture loan access long mushroom fancy";

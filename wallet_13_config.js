@@ -1,1 +1,1 @@
-var mnemonic = "random pretty wage grape exchange capable response fatigue master notable banner evil";
+var mnemonic = "upon loan invite manage toddler surge corn term axis convince pear edit";

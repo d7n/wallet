@@ -1,1 +1,1 @@
-var mnemonic = "endless arctic open mom drink buyer vendor correct waste recipe vote miracle";
+var mnemonic = "huge latin hint muscle ghost cover better siren almost candy spell laptop";

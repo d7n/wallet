@@ -1,1 +1,1 @@
-var mnemonic = "switch minute donor vocal hidden age section glad hint bronze empty pupil";
+var mnemonic = "maid pink explain grape industry forward proud evil common elevator gauge basket";

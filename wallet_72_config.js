@@ -1,1 +1,1 @@
-var mnemonic = "poverty approve number elevator profit mutual bleak stomach illegal upset fly mixture";
+var mnemonic = "slush acoustic series decline robot robust say absorb verb oven envelope nation";

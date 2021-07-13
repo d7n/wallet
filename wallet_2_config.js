@@ -1,1 +1,1 @@
-var mnemonic = "tone good cargo ensure lion figure drastic spin physical option neglect opera";
+var mnemonic = "about setup horror style danger priority energy enlist alone brass light shine";

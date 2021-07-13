@@ -1,1 +1,1 @@
-var mnemonic = "cupboard ladder tourist ethics purse captain town embody keen also demise artefact";
+var mnemonic = "wrap size neglect turkey tenant turn dismiss wire pulp apple file there";

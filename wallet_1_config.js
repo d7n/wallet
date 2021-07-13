@@ -1,1 +1,1 @@
-var mnemonic = "shed quality physical phone truck off artwork ordinary true motor balcony behave";
+var mnemonic = "enrich gospel skirt insect cash marriage holiday undo orbit spirit spatial term";

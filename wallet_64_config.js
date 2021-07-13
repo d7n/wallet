@@ -1,1 +1,1 @@
-var mnemonic = "garment chat purse silent sphere matter clinic corn usual upon photo spin";
+var mnemonic = "humor canyon butter protect style primary minor grow purpose enforce congress flash";

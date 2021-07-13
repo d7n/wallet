@@ -1,1 +1,1 @@
-var mnemonic = "steel differ burden impact tortoise seed trap siren shock final quit hotel";
+var mnemonic = "mind average shell energy minor retreat valley frog valve point crystal enough";

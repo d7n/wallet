@@ -1,1 +1,1 @@
-var mnemonic = "hundred tennis gift token main doll amused token off recipe purchase bench";
+var mnemonic = "cloud anger earth canal property fence explain flat define slogan rude awesome";

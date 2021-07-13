@@ -1,1 +1,1 @@
-var mnemonic = "olive gallery pistol afraid river menu knock mimic equal material wrist glue";
+var mnemonic = "boost tackle chair find daughter toddler hamster comic disease police stereo crane";

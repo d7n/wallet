@@ -1,1 +1,1 @@
-var mnemonic = "milk hub bone try canoe globe brief panther fault flee wool alley";
+var mnemonic = "venue skill orchard job depend victory margin squeeze bleak excuse crack couch";

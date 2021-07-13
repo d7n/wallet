@@ -1,1 +1,1 @@
-var mnemonic = "prefer hockey render air proud income wet melody ladder tumble churn bounce";
+var mnemonic = "weekend olympic modify grass rule right humor unfold mouse click edge scheme";

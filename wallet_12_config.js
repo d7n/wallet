@@ -1,1 +1,1 @@
-var mnemonic = "tank wave fit scatter present eager finger please bench toy panther spell";
+var mnemonic = "scheme detect odor urban until top clog birth bid sniff media tree";

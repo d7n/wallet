@@ -1,1 +1,1 @@
-var mnemonic = "focus drink extend envelope stamp shine bonus attack hair trash cliff net";
+var mnemonic = "bind zero parade hotel employ reflect cook oak train element outside relief";

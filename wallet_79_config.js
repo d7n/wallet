@@ -1,1 +1,1 @@
-var mnemonic = "round peasant syrup result spray panther team transfer erode grain shine spin";
+var mnemonic = "kitchen income spring wheel sheriff year plug vital subject mixed save long";

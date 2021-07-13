@@ -1,1 +1,1 @@
-var mnemonic = "aspect left cage tunnel zone answer among mom when inherit cheese crime";
+var mnemonic = "thing toward float flame comic cherry bomb resource spend voyage trap orchard";

@@ -1,1 +1,1 @@
-var mnemonic = "doll ice sort churn spatial select thing rally aim tone cute rubber";
+var mnemonic = "rack logic badge price floor direct opinion hero turkey motion satoshi only";

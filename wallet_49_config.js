@@ -1,1 +1,1 @@
-var mnemonic = "gasp connect axis brave change know pipe true cost art author there";
+var mnemonic = "shield banner diet mansion whip embody cigar twin local village cricket diagram";

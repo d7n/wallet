@@ -1,1 +1,1 @@
-var mnemonic = "sport denial during achieve road fox man gift clown blur oxygen pause";
+var mnemonic = "wrong mixed harvest virtual settle want foam diamond release effort cycle resource";

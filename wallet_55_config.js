@@ -1,1 +1,1 @@
-var mnemonic = "cabin neutral pupil mind melody nurse apple sausage pulp answer rib patrol";
+var mnemonic = "private cave vendor sponsor trick brown help run mind card armor rabbit";

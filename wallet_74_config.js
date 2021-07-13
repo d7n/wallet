@@ -1,1 +1,1 @@
-var mnemonic = "peasant caution enact better brand issue move juice insect hood uphold arctic";
+var mnemonic = "gold bus lock typical system stage zoo sea tilt talk bargain depart";

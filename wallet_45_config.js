@@ -1,1 +1,1 @@
-var mnemonic = "work initial demise smart minimum magnet throw foster level panel noble you";
+var mnemonic = "endorse replace cushion yellow swift cause surprise sustain script rain manage someone";

@@ -1,1 +1,1 @@
-var mnemonic = "table clinic survey shrimp enact clarify wheat proud find foot venture quote";
+var mnemonic = "clever minimum ensure staff essence cancel parade tumble unlock party useful box";

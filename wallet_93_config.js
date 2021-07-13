@@ -1,1 +1,1 @@
-var mnemonic = "blossom junior camp nurse boring magnet skin fluid flower purity term service";
+var mnemonic = "cube two exchange elevator blind system again recycle crater wait coast collect";

@@ -1,1 +1,1 @@
-var mnemonic = "review device disagree resemble bus dice thought minor about evidence secret consider";
+var mnemonic = "attack defy sword cook mosquito there oppose despair reason luggage winner marriage";

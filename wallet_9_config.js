@@ -1,1 +1,1 @@
-var mnemonic = "one act either segment run pen story skin talent pluck swing brother";
+var mnemonic = "trial basic pistol pledge robust scout wolf desert trash coconut happy jacket";

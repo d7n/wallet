@@ -1,1 +1,1 @@
-var mnemonic = "radar dry trumpet floor gold hurry page glow mention cricket catalog brush";
+var mnemonic = "palace pause deal switch tenant nothing stadium come machine tortoise army gun";

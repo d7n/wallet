@@ -1,1 +1,1 @@
-var mnemonic = "source course rich stand route dentist gap dwarf issue expand couch faculty";
+var mnemonic = "success journey need muffin place lecture pupil large goddess salad insane dial";

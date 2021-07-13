@@ -1,1 +1,1 @@
-var mnemonic = "sail bulk shed sample venue match recipe daughter use advance donor thought";
+var mnemonic = "prison ugly digital river people hamster pony ramp turn love sentence place";

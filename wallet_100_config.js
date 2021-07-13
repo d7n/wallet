@@ -1,1 +1,1 @@
-var mnemonic = "room survey machine toast crop spin butter cactus suspect toe obey around";
+var mnemonic = "panther decade expect cricket axis soul crew combine large dirt ten front";

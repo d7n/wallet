@@ -1,1 +1,1 @@
-var mnemonic = "material spread torch vibrant armed range canvas edge taste juice rate insect";
+var mnemonic = "leader pony state rack oven remember double whale shift used potato soldier";

@@ -1,1 +1,1 @@
-var mnemonic = "race maze devote aunt universe planet tooth power feature direct mixed car";
+var mnemonic = "tip eternal rice stock keep busy quarter rely anxiety code vital artwork";

@@ -1,1 +1,1 @@
-var mnemonic = "love pilot young appear bachelor appear rather sport renew sure monkey tongue";
+var mnemonic = "isolate game pioneer assault excess goddess chronic crucial team dream leopard appear";

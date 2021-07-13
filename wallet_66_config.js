@@ -1,1 +1,1 @@
-var mnemonic = "note alarm iron cable stock hour pole address receive carpet wall despair";
+var mnemonic = "have grief hazard awful dry winter know true guilt hand orbit six";

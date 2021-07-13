@@ -1,1 +1,1 @@
-var mnemonic = "release lonely glove betray genius aunt art eagle comfort couple choose team";
+var mnemonic = "crane laundry possible salute buddy polar false nice gain comic observe bicycle";

@@ -1,1 +1,1 @@
-var mnemonic = "wet retire reveal acoustic involve kangaroo seminar erupt fatal public maid donate";
+var mnemonic = "gospel wonder around february convince high volume enemy ginger lake degree buyer";

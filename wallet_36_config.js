@@ -1,1 +1,1 @@
-var mnemonic = "era solid window client woman basic expect bamboo peace sword month license";
+var mnemonic = "demand become squeeze mother hip differ female spot zoo sorry success debris";

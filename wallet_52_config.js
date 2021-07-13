@@ -1,1 +1,1 @@
-var mnemonic = "cable web fashion arrest want crash brush rule nothing normal opinion sentence";
+var mnemonic = "cube mobile puzzle disorder three force sustain hawk harbor season sister lend";

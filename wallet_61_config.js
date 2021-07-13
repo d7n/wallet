@@ -1,1 +1,1 @@
-var mnemonic = "media useless organ toward place garage cake miracle summer swap brand vocal";
+var mnemonic = "width ghost traffic occur broken dismiss satoshi grace slight matter off champion";

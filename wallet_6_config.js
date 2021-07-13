@@ -1,1 +1,1 @@
-var mnemonic = "protect upper quit ask grant staff peanut story swarm couple voice imitate";
+var mnemonic = "prefer patient method angry style tomorrow minute kitten essay omit marine various";

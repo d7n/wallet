@@ -1,1 +1,1 @@
-var mnemonic = "thought hair defense forest salute original link live defy cactus wine busy";
+var mnemonic = "find perfect clock random audit forward party immune annual canyon tackle depth";

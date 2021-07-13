@@ -1,1 +1,1 @@
-var mnemonic = "offer card tooth apple pond debris pioneer fog convince unaware civil install";
+var mnemonic = "local furnace spoon donkey ordinary recipe desert raccoon narrow smoke wisdom give";

@@ -1,1 +1,1 @@
-var mnemonic = "guilt pioneer tone ticket rent melt mercy pass diesel art search joke";
+var mnemonic = "pioneer valid truth document supreme effort female chicken despair slide worth smooth";

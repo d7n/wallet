@@ -1,1 +1,1 @@
-var mnemonic = "absorb survey tower credit cool address outdoor soul joy soldier install satisfy";
+var mnemonic = "couch result tornado wine antique fee similar scissors pause jaguar kind cube";

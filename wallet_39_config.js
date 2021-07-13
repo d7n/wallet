@@ -1,1 +1,1 @@
-var mnemonic = "south gaze isolate marble hover stick crew shiver sphere float attack hair";
+var mnemonic = "soup village feature beauty mountain crash spray angle real share nothing west";

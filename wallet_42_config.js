@@ -1,1 +1,1 @@
-var mnemonic = "afraid stumble vintage blue gorilla boring farm beef ankle dwarf scissors episode";
+var mnemonic = "purse snake medal ribbon electric digital grape wide tip select weapon diesel";

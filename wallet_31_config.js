@@ -1,1 +1,1 @@
-var mnemonic = "notice load annual vibrant tenant trouble alien proud mystery human door pass";
+var mnemonic = "curtain unfold enrich tackle illegal airport token draw side radar want used";

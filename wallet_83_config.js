@@ -1,1 +1,1 @@
-var mnemonic = "bachelor praise try strike robot vivid alone must any figure sponsor reward";
+var mnemonic = "concert entry neutral holiday much still defy giraffe trophy verify hunt item";

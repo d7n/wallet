@@ -1,1 +1,1 @@
-var mnemonic = "digital connect social season culture judge topple patch joy march alter forest";
+var mnemonic = "easy brother nature month grunt midnight sphere river arrow elevator rain knife";

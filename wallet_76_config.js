@@ -1,1 +1,1 @@
-var mnemonic = "monitor private true latin empower hurry modify hidden soup toward office pelican";
+var mnemonic = "ship rate modify zone click involve release wrist sibling despair fiber bargain";

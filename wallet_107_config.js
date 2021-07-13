@@ -1,1 +1,1 @@
-var mnemonic = "chair stadium creek imitate maze abstract inhale spoon pelican shed thrive zero";
+var mnemonic = "fetch snap open title matter never sample gossip patrol pattern caught wrist";

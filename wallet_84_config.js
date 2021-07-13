@@ -1,1 +1,1 @@
-var mnemonic = "fire puzzle elevator tilt know silk someone hat pottery frozen canvas village";
+var mnemonic = "soul marriage wink curtain neck element coin coach negative magnet squirrel earn";

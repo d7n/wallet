@@ -1,1 +1,1 @@
-var mnemonic = "witness loop mobile leave six throw settle elephant brief power chuckle cram";
+var mnemonic = "saddle venture appear topic vacuum nominee empower other loop where hotel light";

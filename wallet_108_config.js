@@ -1,1 +1,1 @@
-var mnemonic = "battle business fresh student foil rival found opera shy choose spawn strong";
+var mnemonic = "chase actress sport catch real excuse step carbon civil frequent cup carry";

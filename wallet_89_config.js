@@ -1,1 +1,1 @@
-var mnemonic = "two express resource oven method symbol snap blue mosquito patient intact honey";
+var mnemonic = "verb symbol arm lazy visual catalog target energy head embrace tube spirit";

@@ -1,1 +1,1 @@
-var mnemonic = "roast robot hint pave satoshi strong smart transfer draw pulp segment drink";
+var mnemonic = "sugar fault employ ten rose rival exclude engine ritual wink transfer apology";

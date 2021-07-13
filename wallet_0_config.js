@@ -1,1 +1,1 @@
-var mnemonic = "axis breeze member engine safe drink usage bar envelope car acoustic deal";
+var mnemonic = "pear hotel mesh absurd kiss casino riot satoshi marine light era scheme";

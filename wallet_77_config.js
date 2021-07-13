@@ -1,1 +1,1 @@
-var mnemonic = "expand scorpion danger reduce grid song resource wood silk iron earn bamboo";
+var mnemonic = "base smooth vast long coral task bunker atom they artwork parrot fish";

@@ -1,1 +1,1 @@
-var mnemonic = "clinic vault secret elevator october imitate diet butter ladder gentle kick youth";
+var mnemonic = "stove sauce service base notice nest remember afraid blue unable chase boring";

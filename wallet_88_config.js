@@ -1,1 +1,1 @@
-var mnemonic = "evolve comic stumble surround click grief viable gloom sort bring trash mixture";
+var mnemonic = "combine uncle stay rebuild wrestle segment index brass color nice sting focus";

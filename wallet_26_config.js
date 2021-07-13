@@ -1,1 +1,1 @@
-var mnemonic = "forest resemble fog maid cloud actress trim crush tonight often already orange";
+var mnemonic = "trust shadow suffer flavor find castle rule slam sister speak liquid orange";

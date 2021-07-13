@@ -1,1 +1,1 @@
-var mnemonic = "much asset theme jump bleak one guide trade raise subway gain smart";
+var mnemonic = "dilemma reveal confirm portion lady inform drift left upset stock bubble flock";

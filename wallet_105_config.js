@@ -1,1 +1,1 @@
-var mnemonic = "marriage cluster rescue casino net tortoise supreme erode draw illegal valley require";
+var mnemonic = "enroll runway ignore isolate strong often stadium admit change actress exile ginger";

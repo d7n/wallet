@@ -1,1 +1,1 @@
-var mnemonic = "second deal promote catch enemy pact sadness pen gain negative worry fortune";
+var mnemonic = "vital hood easily glass burden barely jeans reveal library lazy cloth excuse";

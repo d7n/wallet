@@ -1,1 +1,1 @@
-var mnemonic = "science rug history toward biology latin diamond barrel chase element six gossip";
+var mnemonic = "reason stool federal connect deer runway cousin village flip dog chapter text";
