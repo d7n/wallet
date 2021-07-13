@@ -1,1 +1,1 @@
-var mnemonic = "face issue owner oval stage exhibit setup tomorrow erosion midnight pony poet";
+var mnemonic = "nephew gift nose tip six vacant flee patch marine ranch behave cigar";

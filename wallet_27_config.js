@@ -1,1 +1,1 @@
-var mnemonic = "chronic giraffe garden elegant tone arrive rebuild mixture energy over problem radio";
+var mnemonic = "defense correct latin loyal purity embody fatal woman hip scheme deposit letter";

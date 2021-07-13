@@ -1,1 +1,1 @@
-var mnemonic = "decide primary tomorrow float lion select immune judge settle lunar zero try";
+var mnemonic = "luggage ridge famous title simple base spike fork anxiety trophy odor sample";

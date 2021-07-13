@@ -1,1 +1,1 @@
-var mnemonic = "peace melody fossil ketchup shy size sight oval story session warrior caught";
+var mnemonic = "bring universe motor hand leader female mansion install juice phrase friend often";

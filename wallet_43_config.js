@@ -1,1 +1,1 @@
-var mnemonic = "wheat social wear reveal laptop west salt limit crowd profit truth cricket";
+var mnemonic = "stay boy cube belt jar certain noise glad high calm cube inmate";

@@ -1,1 +1,1 @@
-var mnemonic = "arrow focus position reject fee stool material base dance upper sauce output";
+var mnemonic = "fossil grass cloud sadness junk idea effort rabbit baby hen pioneer street";

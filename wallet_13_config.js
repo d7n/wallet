@@ -1,1 +1,1 @@
-var mnemonic = "priority sunset extra case evoke top royal marriage cost marriage enhance gasp";
+var mnemonic = "museum champion inform double sponsor steak trade borrow dad only sound bless";

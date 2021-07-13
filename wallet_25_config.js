@@ -1,1 +1,1 @@
-var mnemonic = "flock concert creek organ alien crack arena young outer rose subject hour";
+var mnemonic = "army van treat rotate science toe motor avoid stone salon sorry enlist";

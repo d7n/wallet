@@ -1,1 +1,1 @@
-var mnemonic = "exist afford clump spot cactus jar opera flight involve volume winner control";
+var mnemonic = "merry conduct globe spend alarm cost elegant claw stamp fancy light degree";

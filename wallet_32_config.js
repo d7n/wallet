@@ -1,1 +1,1 @@
-var mnemonic = "fever blade acoustic second napkin mixed food mountain voice equal special retire";
+var mnemonic = "uphold pear session riot vast edit bicycle return spatial champion appear ripple";

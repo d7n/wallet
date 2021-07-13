@@ -1,1 +1,1 @@
-var mnemonic = "library belt switch vessel visual alpha inhale sense spot post eye oil";
+var mnemonic = "black found dash always typical rate junior wasp rubber drink hunt cable";

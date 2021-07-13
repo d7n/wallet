@@ -1,1 +1,1 @@
-var mnemonic = "crazy onion attitude hobby nature exclude stool hair buddy stomach physical trip";
+var mnemonic = "enough daughter cable obscure nice network exchange resemble eyebrow blanket cabin age";

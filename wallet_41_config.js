@@ -1,1 +1,1 @@
-var mnemonic = "labor jar bundle couple ostrich mammal equip burst language dove indoor prize";
+var mnemonic = "case grace vapor paper iron success busy cousin train three provide parent";

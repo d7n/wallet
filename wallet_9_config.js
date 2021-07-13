@@ -1,1 +1,1 @@
-var mnemonic = "index grid monkey luggage aspect half web pattern body panic ill concert";
+var mnemonic = "cave inside mind excess cheese piano decorate enough depart shift slight economy";

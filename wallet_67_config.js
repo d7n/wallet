@@ -1,1 +1,1 @@
-var mnemonic = "isolate dutch wrestle eight result tumble banana receive budget useless try club";
+var mnemonic = "tortoise shed spread rescue body whisper fancy birth mutual one dirt exhaust";

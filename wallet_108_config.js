@@ -1,1 +1,1 @@
-var mnemonic = "ability admit album cloth month wreck hedgehog manage suit response ski scissors";
+var mnemonic = "bounce cry knife grid cat atom author amused seminar plunge zoo six";

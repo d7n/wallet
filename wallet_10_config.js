@@ -1,1 +1,1 @@
-var mnemonic = "toddler web tragic brush genius modify wedding warrior pretty squeeze tonight creek";
+var mnemonic = "gasp settle limb blast slam debris image other lake message tenant blur";

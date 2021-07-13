@@ -1,1 +1,1 @@
-var mnemonic = "feature today garment north garden holiday horse pilot butter elder race radio";
+var mnemonic = "sing brass gasp gain oyster orient diet wait evoke rose dumb naive";

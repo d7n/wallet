@@ -1,1 +1,1 @@
-var mnemonic = "chalk divert clap eye stable hat lake between spring steak wet become";
+var mnemonic = "allow genre crunch fit board dinner cherry oil divorce rude mixture repeat";

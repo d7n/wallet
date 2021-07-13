@@ -1,1 +1,1 @@
-var mnemonic = "announce manual gesture divide lemon approve security busy luxury street stand grunt";
+var mnemonic = "inhale demand flip dial predict mutual tide second left exact shadow improve";

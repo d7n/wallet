@@ -1,1 +1,1 @@
-var mnemonic = "foam business bottom play thought antique exhibit flat thrive dutch engage scorpion";
+var mnemonic = "sport erode fog hospital mind exit orient appear explain second broom pigeon";

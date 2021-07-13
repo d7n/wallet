@@ -1,1 +1,1 @@
-var mnemonic = "tribe keep account smart era upper between yellow enhance echo monkey render";
+var mnemonic = "device jaguar evolve comic hamster ivory more pupil vendor length oval where";

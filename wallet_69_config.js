@@ -1,1 +1,1 @@
-var mnemonic = "power woman feel afraid kingdom bar mesh inside pond pair weasel kick";
+var mnemonic = "differ version distance clock celery glare oxygen onion cricket huge helmet above";

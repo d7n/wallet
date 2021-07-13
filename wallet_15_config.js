@@ -1,1 +1,1 @@
-var mnemonic = "glue you face vital wealth stumble cupboard corn grit waste chapter pilot";
+var mnemonic = "syrup prevent machine twelve spring oyster empower promote siege stick tired erosion";

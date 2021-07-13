@@ -1,1 +1,1 @@
-var mnemonic = "sand will puzzle piece enlist village desert name wool loan concert clog";
+var mnemonic = "photo mirror above crisp affair lonely holiday legend weekend silver more merit";

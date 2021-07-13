@@ -1,1 +1,1 @@
-var mnemonic = "execute cushion detect ocean analyst tiger mass powder card east fresh tail";
+var mnemonic = "blanket odor say junior camp zone solution useless furnace help elegant inside";

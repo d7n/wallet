@@ -1,1 +1,1 @@
-var mnemonic = "adapt forest exhaust trigger theory debris alone chaos satoshi rotate mixture decide";
+var mnemonic = "dolphin motion sunset elevator head bounce supreme enrich panel cheese blade turtle";

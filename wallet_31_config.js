@@ -1,1 +1,1 @@
-var mnemonic = "baby pull walk success tomorrow elegant bracket walnut easy bike brand tuna";
+var mnemonic = "other ramp story funny oppose repeat olive near half buyer tackle echo";

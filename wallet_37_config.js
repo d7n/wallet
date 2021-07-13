@@ -1,1 +1,1 @@
-var mnemonic = "cliff miss success obscure agent canvas shiver safe satisfy talent fish talent";
+var mnemonic = "spot ghost remember magic reason suit disease army furnace luggage shine shift";

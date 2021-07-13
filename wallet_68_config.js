@@ -1,1 +1,1 @@
-var mnemonic = "knee across holiday glass bus dust seven rubber title autumn column flower";
+var mnemonic = "ship knock country property range walnut insane ticket celery swing predict blast";

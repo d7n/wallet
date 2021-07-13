@@ -1,1 +1,1 @@
-var mnemonic = "antique october vocal sausage tonight problem cruel giraffe defy hungry pyramid blood";
+var mnemonic = "dance easy lady anchor pepper breeze pen reopen giggle august visit maple";

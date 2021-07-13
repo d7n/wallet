@@ -1,1 +1,1 @@
-var mnemonic = "major before february wealth voice gasp agent clip circle comic weekend jealous";
+var mnemonic = "order jump tank van text calm donor room phrase public cupboard sting";

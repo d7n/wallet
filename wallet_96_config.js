@@ -1,1 +1,1 @@
-var mnemonic = "tray kitten submit sketch ice dawn mandate world happy blanket option breeze";
+var mnemonic = "police outdoor faith music promote reflect lumber label kiss vast near future";

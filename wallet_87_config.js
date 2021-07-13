@@ -1,1 +1,1 @@
-var mnemonic = "silk unknown drink sweet install ripple fuel police often hurt town print";
+var mnemonic = "pole crush accuse ostrich fury book fatigue that goat excite child dial";

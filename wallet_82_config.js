@@ -1,1 +1,1 @@
-var mnemonic = "spread rebuild kiss memory liquid dumb margin service employ bring solve border";
+var mnemonic = "link fashion drop chimney under source face stumble tornado accuse muffin exit";

@@ -1,1 +1,1 @@
-var mnemonic = "funny excess stamp gesture broken process cancel margin hundred horse ghost distance";
+var mnemonic = "gap size ankle novel swamp flag use village dish survey nephew address";

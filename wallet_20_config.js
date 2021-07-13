@@ -1,1 +1,1 @@
-var mnemonic = "vast dilemma witness walnut tool feed deposit submit jelly pipe vivid concert";
+var mnemonic = "save shrimp shoot mixed modify card please issue autumn dune voice kitten";

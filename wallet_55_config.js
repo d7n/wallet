@@ -1,1 +1,1 @@
-var mnemonic = "stable feature length art quiz rabbit comic property harbor reduce patrol wood";
+var mnemonic = "giant poet frost across tourist shoulder fantasy morning ranch detail pottery broken";

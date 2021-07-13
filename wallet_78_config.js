@@ -1,1 +1,1 @@
-var mnemonic = "warrior spray cargo gadget crawl fat trip ladder sure trick correct panda";
+var mnemonic = "rabbit surround embrace upset exile picnic acid robot chalk margin buzz wide";

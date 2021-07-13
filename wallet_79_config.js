@@ -1,1 +1,1 @@
-var mnemonic = "breeze scrap strike jaguar column around just borrow nephew car paper kiwi";
+var mnemonic = "sell ginger split carpet hip rebuild nephew peace theory hollow taxi organ";

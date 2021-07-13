@@ -1,1 +1,1 @@
-var mnemonic = "brown benefit turn patient battle fly aisle uncle original sand coast month";
+var mnemonic = "check pudding receive topic shy identify cook congress eternal intact panda embrace";

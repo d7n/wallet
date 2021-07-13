@@ -1,1 +1,1 @@
-var mnemonic = "angry wine live filter ecology foot joy injury hint moral hat off";
+var mnemonic = "unique hour ahead nest mesh across ecology provide gown frequent truth fabric";

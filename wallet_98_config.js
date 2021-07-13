@@ -1,1 +1,1 @@
-var mnemonic = "spot race anxiety account corn zoo gym wedding matrix addict industry steel";
+var mnemonic = "disagree frost unfair awesome ugly immense dizzy knee sting fortune pyramid mom";

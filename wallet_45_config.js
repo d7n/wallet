@@ -1,1 +1,1 @@
-var mnemonic = "piece daring rib there final include symptom buddy clever over empower smooth";
+var mnemonic = "chase cricket initial snow item uniform popular early shove adjust task snap";

@@ -1,1 +1,1 @@
-var mnemonic = "walk axis discover allow olympic garment equip image whip rotate runway reform";
+var mnemonic = "test install dizzy egg physical genuine color hope strong network mixture involve";

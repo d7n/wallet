@@ -1,1 +1,1 @@
-var mnemonic = "awesome denial position idea blouse carbon canyon lady people foam lion razor";
+var mnemonic = "very violin stadium duck buyer lava light model person drama width organ";

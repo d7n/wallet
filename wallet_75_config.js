@@ -1,1 +1,1 @@
-var mnemonic = "expect brown wreck wear slice tragic promote actual party three toast audit";
+var mnemonic = "milk minimum tackle hire path coral crop people wine sail relax donate";

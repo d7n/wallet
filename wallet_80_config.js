@@ -1,1 +1,1 @@
-var mnemonic = "rich middle engine inform fashion replace decorate kick ill better addict plate";
+var mnemonic = "muffin scan define aspect label bright fish fog bubble trend picture guard";

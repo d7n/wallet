@@ -1,1 +1,1 @@
-var mnemonic = "million result virus speed diesel lawn assume tooth staff assault bike abandon";
+var mnemonic = "strategy blind inform powder sock toss bleak color fabric benefit cross finger";

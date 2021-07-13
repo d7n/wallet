@@ -1,1 +1,1 @@
-var mnemonic = "snow essence buffalo start satoshi frost they high replace tumble live speed";
+var mnemonic = "legend rate expire monster heavy speed leopard rigid twenty alley evoke banner";

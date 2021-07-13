@@ -1,1 +1,1 @@
-var mnemonic = "symptom odor remove pride busy script pepper urban print injury agree inmate";
+var mnemonic = "provide reunion spawn powder split own tag truly process obvious grape social";

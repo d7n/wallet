@@ -1,1 +1,1 @@
-var mnemonic = "fiber favorite egg output glad lumber venue board health please scale demise";
+var mnemonic = "uphold master employ phrase toss forest robot street total damp old sentence";

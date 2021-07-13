@@ -1,1 +1,1 @@
-var mnemonic = "ignore large discover require thought rate curtain finish purity easily across coast";
+var mnemonic = "essay stone solution vote muffin faculty point exhaust link section canoe tissue";

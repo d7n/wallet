@@ -1,1 +1,1 @@
-var mnemonic = "social offer absent speak flee cousin shallow crystal join doll bind measure";
+var mnemonic = "sponsor rib kite witness despair butter scorpion green perfect phone adjust project";

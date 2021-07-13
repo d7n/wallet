@@ -1,1 +1,1 @@
-var mnemonic = "tortoise damage crystal spice enough brave true patch window company labor stove";
+var mnemonic = "fitness okay print bundle embody public public mistake hybrid later eye favorite";

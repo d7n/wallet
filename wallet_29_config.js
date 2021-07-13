@@ -1,1 +1,1 @@
-var mnemonic = "legend dizzy pilot cotton hurdle twelve verb buddy pumpkin crucial enact decrease";
+var mnemonic = "barely surface nation fame latin onion jacket kite scale divide vivid lunar";

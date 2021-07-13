@@ -1,1 +1,1 @@
-var mnemonic = "awesome equip expect zero dinner drill party parade cart lens cheese term";
+var mnemonic = "canoe black curtain debate erosion tonight tape circle curious inmate shed stick";

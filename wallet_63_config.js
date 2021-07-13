@@ -1,1 +1,1 @@
-var mnemonic = "initial citizen piece payment mass speak exact route fan wing pear craft";
+var mnemonic = "memory carbon today banner kind bench blush lottery trust filter dwarf wool";

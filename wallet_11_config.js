@@ -1,1 +1,1 @@
-var mnemonic = "artefact used simple bus conduct own person wheat panic very tennis goddess";
+var mnemonic = "hold mistake affair high tuna north boring tomorrow magnet correct catalog swarm";

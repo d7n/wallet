@@ -1,1 +1,1 @@
-var mnemonic = "blouse light cluster raccoon civil amateur sorry essence divorce carry sail gold";
+var mnemonic = "satisfy cover opinion lucky wall expand picnic seven sell acquire radio stable";

@@ -1,1 +1,1 @@
-var mnemonic = "charge weapon hedgehog deposit call bike traffic armed citizen prosper brief upon";
+var mnemonic = "fall juice avocado unveil wait humor rebuild silly cost there setup pigeon";

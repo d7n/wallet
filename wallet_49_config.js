@@ -1,1 +1,1 @@
-var mnemonic = "will differ october organ help village grid judge image defense print trigger";
+var mnemonic = "company stone decide claim oval foster divide denial bullet cover aisle update";

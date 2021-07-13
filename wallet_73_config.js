@@ -1,1 +1,1 @@
-var mnemonic = "load talent blur seat power wide forward door admit anxiety unlock silly";
+var mnemonic = "girl antenna panel nasty exhibit label claw motion hover cute tackle route";

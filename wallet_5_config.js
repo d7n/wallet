@@ -1,1 +1,1 @@
-var mnemonic = "deal boat hammer street ski fiscal edge exile layer october flip dilemma";
+var mnemonic = "canoe duty pair crack emotion stomach ethics this squeeze depend uniform gold";

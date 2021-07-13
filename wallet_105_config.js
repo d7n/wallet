@@ -1,1 +1,1 @@
-var mnemonic = "clean sheriff card orphan remove make hen flight bird usual nothing deny";
+var mnemonic = "suffer police truth blood rack tell chat erode country liquid wild shoe";

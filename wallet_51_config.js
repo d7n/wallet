@@ -1,1 +1,1 @@
-var mnemonic = "inside swallow case ice shoulder inquiry now rhythm kid coral hour approve";
+var mnemonic = "wine plunge fan version term fat recycle enough liberty rabbit expire potato";

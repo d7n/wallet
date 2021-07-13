@@ -1,1 +1,1 @@
-var mnemonic = "inmate planet much island swamp virus glad peasant broken toilet shine proof";
+var mnemonic = "capital tortoise visa news recall retreat mushroom word comfort shadow tent welcome";

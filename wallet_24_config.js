@@ -1,1 +1,1 @@
-var mnemonic = "rapid fun boil wonder primary slogan dirt slab fold drama journey erupt";
+var mnemonic = "female vacuum vital couple arch venue doll chair broom close unaware hawk";

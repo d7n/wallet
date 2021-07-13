@@ -1,1 +1,1 @@
-var mnemonic = "region airport unfold plug assist front allow glide grant split blush about";
+var mnemonic = "sphere thank claim boring picnic office sustain cloud help rocket shuffle birth";

@@ -1,1 +1,1 @@
-var mnemonic = "acquire furnace during manual ivory load false ability gold lady ketchup clean";
+var mnemonic = "clump tube olympic common remind put rule airport bone unlock divorce search";

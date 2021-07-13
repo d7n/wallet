@@ -1,1 +1,1 @@
-var mnemonic = "swarm current sugar sibling subject museum appear output thumb rain noise affair";
+var mnemonic = "arch alien local keen else food write shift floor silk piece bamboo";

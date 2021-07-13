@@ -1,1 +1,1 @@
-var mnemonic = "super tumble scheme lend track forum surface taxi will lyrics amused pear";
+var mnemonic = "point moment tuna budget child nurse alcohol tennis good vapor scatter relief";

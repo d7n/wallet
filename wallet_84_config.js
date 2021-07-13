@@ -1,1 +1,1 @@
-var mnemonic = "girl rice pill tongue cluster ride risk climb pig sketch salad dismiss";
+var mnemonic = "skate jeans what forest wrestle vacant ensure person print bunker eager silent";

@@ -1,1 +1,1 @@
-var mnemonic = "actual zebra position position vacant clock dynamic affair tourist tattoo chest ability";
+var mnemonic = "impose trophy unhappy often entire mother admit august remember yard control knife";

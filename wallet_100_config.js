@@ -1,1 +1,1 @@
-var mnemonic = "observe nephew warm oil trigger marble universe core struggle pond enact attack";
+var mnemonic = "rigid alter fatigue control ill gun finish shine odor merit priority glove";

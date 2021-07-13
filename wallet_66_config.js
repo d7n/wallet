@@ -1,1 +1,1 @@
-var mnemonic = "clock hotel enemy addict current autumn heart amazing fever rookie dentist slot";
+var mnemonic = "erosion swim mesh engine bomb carpet soup diary cargo mesh gain into";

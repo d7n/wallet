@@ -1,1 +1,1 @@
-var mnemonic = "craft spirit sunset gather cheese harsh quiz bike derive embark adult clock";
+var mnemonic = "home finger skin nominee move banana excuse emerge program theme awkward equal";

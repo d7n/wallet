@@ -1,1 +1,1 @@
-var mnemonic = "result weather scout bone blanket dash bulk answer civil usage liquid prevent";
+var mnemonic = "kingdom pause cable almost husband rocket nerve stumble cool claim lizard usage";

@@ -1,1 +1,1 @@
-var mnemonic = "brave wreck dune mail thought raise summer bronze travel sentence vast fury";
+var mnemonic = "spend arctic idea erosion make hundred axis feed gauge depart caution fragile";

@@ -1,1 +1,1 @@
-var mnemonic = "category year airport hard season ankle swamp general assume connect pioneer tornado";
+var mnemonic = "crucial month trade model daughter stand tornado degree clog promote ankle cake";

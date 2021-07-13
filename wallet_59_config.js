@@ -1,1 +1,1 @@
-var mnemonic = "tunnel dolphin flag whisper worth endorse raven harsh spare orbit birth swap";
+var mnemonic = "swallow wedding client salon afford carry meadow thank base luggage reform almost";

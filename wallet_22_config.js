@@ -1,1 +1,1 @@
-var mnemonic = "inject write wonder soda rain extend era end work thumb puppy degree";
+var mnemonic = "release shoe infant recipe alone inmate oblige vanish slush robot carpet tomorrow";

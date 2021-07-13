@@ -1,1 +1,1 @@
-var mnemonic = "solid lazy surge myth enjoy final egg woman vendor donate mosquito caution";
+var mnemonic = "write special march master jaguar absorb slow october brave number blast discover";

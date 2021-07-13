@@ -1,1 +1,1 @@
-var mnemonic = "whip upper address wave theory empower pupil kitchen soul grace knee stumble";
+var mnemonic = "stomach dilemma seat seven twenty attack rookie office expose case half nerve";

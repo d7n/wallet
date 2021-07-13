@@ -1,1 +1,1 @@
-var mnemonic = "object movie fox become replace grunt humor card soon pudding abandon parent";
+var mnemonic = "tourist moment super father must device anxiety spring spell electric hover car";

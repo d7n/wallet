@@ -1,1 +1,1 @@
-var mnemonic = "cheese bus bubble core random cannon predict photo much lunar alter away";
+var mnemonic = "canyon oil mail mention device sure cabin target toward season avocado immense";

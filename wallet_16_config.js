@@ -1,1 +1,1 @@
-var mnemonic = "lazy clap recall basic bridge truth hungry athlete remain route again gasp";
+var mnemonic = "option chronic winter arrange primary runway soft humble usage economy trophy upon";

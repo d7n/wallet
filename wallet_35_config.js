@@ -1,1 +1,1 @@
-var mnemonic = "lock tribe garden learn ivory effort assault foil soccer brisk proud bulb";
+var mnemonic = "stage cross bright wild erase vapor domain kick earth swear carpet asthma";

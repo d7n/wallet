@@ -1,1 +1,1 @@
-var mnemonic = "term diamond main damp depend modify clog ask luggage picture assume violin";
+var mnemonic = "know remember urban powder apple deposit bread drive age net depend fish";
