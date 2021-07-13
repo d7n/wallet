@@ -1,1 +1,1 @@
-var mnemonic = "zone pluck plate rebel where matrix base heavy act kangaroo medal army";
+var mnemonic = "siege rigid visa weapon pony awful jungle jungle extend fashion conduct adult";

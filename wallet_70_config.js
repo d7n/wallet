@@ -1,1 +1,1 @@
-var mnemonic = "type pretty harsh liar sight upset space chase wing thumb loud region";
+var mnemonic = "snow victory general census vague source spawn number erase increase canyon arrow";

@@ -1,1 +1,1 @@
-var mnemonic = "neither present wide govern because three jeans stamp infant coffee wagon soul";
+var mnemonic = "grape relief little nice valid merge circle gorilla buzz cycle kite fever";

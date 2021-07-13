@@ -1,1 +1,1 @@
-var mnemonic = "task blouse hover wash surround mirror pond cloud will discover forward glance";
+var mnemonic = "slam truly ketchup huge cigar output sun jealous canoe fantasy empty fever";

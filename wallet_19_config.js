@@ -1,1 +1,1 @@
-var mnemonic = "you coil valid neither jump enable zoo supply spend satisfy audit advance";
+var mnemonic = "saddle crowd tiny unusual harsh north heavy arrive oak ignore repeat real";

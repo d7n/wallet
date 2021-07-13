@@ -1,1 +1,1 @@
-var mnemonic = "rifle corn sausage ski egg pitch bracket arctic vacant bone token later";
+var mnemonic = "child below success welcome lunch tail holiday column flee galaxy jewel enroll";

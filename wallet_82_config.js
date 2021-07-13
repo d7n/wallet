@@ -1,1 +1,1 @@
-var mnemonic = "swarm scene reveal marble tide bronze vacant trim edit lab universe cargo";
+var mnemonic = "sea clutch divorce dish method someone blanket agree hint kitchen focus pride";

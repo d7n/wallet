@@ -1,1 +1,1 @@
-var mnemonic = "goddess action pipe melt furnace train tiger industry convince zebra skirt sadness";
+var mnemonic = "diamond bridge cricket eternal canal street grief tumble rubber smooth rail tape";

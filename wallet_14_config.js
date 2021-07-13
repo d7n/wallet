@@ -1,1 +1,1 @@
-var mnemonic = "board rack tone fabric adult wheat decorate prefer anxiety ancient toward any";
+var mnemonic = "cross exhibit hurry dizzy vocal quantum sauce same sauce grocery garage luxury";

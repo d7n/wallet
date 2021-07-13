@@ -1,1 +1,1 @@
-var mnemonic = "cruise depend govern nice east scrap dignity refuse arrow case bone lottery";
+var mnemonic = "pull erode lonely term hip exercise cannon transfer cage chef immune foam";

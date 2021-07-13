@@ -1,1 +1,1 @@
-var mnemonic = "pass legal success globe trip evil hour earth artefact pear strike leave";
+var mnemonic = "drift provide grab main trigger tomato fish drum this wide beauty exhaust";

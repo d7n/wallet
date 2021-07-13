@@ -1,1 +1,1 @@
-var mnemonic = "trophy ranch famous alone hybrid neglect soap side gift decade culture only";
+var mnemonic = "grow crazy renew round situate float once ketchup tip forward park install";

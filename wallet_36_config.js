@@ -1,1 +1,1 @@
-var mnemonic = "trip intact chimney impose eternal arrange pyramid riot grit topic forest lesson";
+var mnemonic = "swift side yard shy foil column culture input family drop canyon biology";

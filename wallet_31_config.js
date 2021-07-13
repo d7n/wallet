@@ -1,1 +1,1 @@
-var mnemonic = "can hidden casino merit music smoke middle sad disagree useful lesson breeze";
+var mnemonic = "whale forget bulk table mother okay imitate warfare cry cupboard fortune shock";

@@ -1,1 +1,1 @@
-var mnemonic = "bubble text village kangaroo original rough rather stone leader quantum desk fashion";
+var mnemonic = "fantasy until wreck kit hockey grow purse tower pluck retreat include relief";

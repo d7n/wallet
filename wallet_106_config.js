@@ -1,1 +1,1 @@
-var mnemonic = "armed put unknown betray end escape misery glimpse clock oven charge success";
+var mnemonic = "crunch few rifle sample fluid proud oven color equip march allow screen";

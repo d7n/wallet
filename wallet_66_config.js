@@ -1,1 +1,1 @@
-var mnemonic = "soft sight unhappy level try chuckle scheme dolphin any target long festival";
+var mnemonic = "useful derive bridge foam danger cradle dish giggle sister craft tank hello";

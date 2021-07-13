@@ -1,1 +1,1 @@
-var mnemonic = "benefit action matter transfer journey file bomb lift bike diary worth year";
+var mnemonic = "endless basket embrace dust apart supply bottom rescue accuse armor retire prize";

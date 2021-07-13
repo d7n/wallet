@@ -1,1 +1,1 @@
-var mnemonic = "recycle patient excuse tape fire grab enroll simple kangaroo wrap object legend";
+var mnemonic = "peasant scheme fat polar dog excite inmate sample common human forum debris";

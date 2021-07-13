@@ -1,1 +1,1 @@
-var mnemonic = "else able obvious hawk win nut wine risk cage hundred bus calm";
+var mnemonic = "envelope clog lady pottery subject movie situate used spy exit drift wave";

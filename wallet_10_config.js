@@ -1,1 +1,1 @@
-var mnemonic = "just possible hybrid strong movie twelve gas purity pretty yellow consider verb";
+var mnemonic = "fringe unique guitar helmet enhance great winter survey sauce foster modify soap";

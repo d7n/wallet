@@ -1,1 +1,1 @@
-var mnemonic = "mouse slush sphere write race news avocado nasty chronic choose manual alley";
+var mnemonic = "audit size cost luggage layer need expect acoustic nice stage issue build";

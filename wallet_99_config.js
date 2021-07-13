@@ -1,1 +1,1 @@
-var mnemonic = "van truck bird twenty slow romance vacuum maple labor gate track resist";
+var mnemonic = "very ahead stadium nominee wolf member excess execute column cream shock grow";

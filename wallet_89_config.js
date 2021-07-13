@@ -1,1 +1,1 @@
-var mnemonic = "enforce account fog plate dial system pitch control renew buyer party upper";
+var mnemonic = "human quantum bag betray rhythm else hair must rack earth fresh control";

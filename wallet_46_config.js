@@ -1,1 +1,1 @@
-var mnemonic = "drastic allow agree lemon poverty deposit pelican dance decide orbit flame guilt";
+var mnemonic = "jewel theory silk quarter fossil allow hundred excess autumn toward impulse congress";

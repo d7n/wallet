@@ -1,1 +1,1 @@
-var mnemonic = "garbage secret rapid heavy grid regret arena gold coyote access oak loop";
+var mnemonic = "broccoli gap layer clutch bleak success avoid exercise profit milk hat drive";

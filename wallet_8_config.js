@@ -1,1 +1,1 @@
-var mnemonic = "consider save neglect toss fun border dumb excite stomach reduce rule slight";
+var mnemonic = "sense tourist image click excess month sand text silk lesson exact oyster";

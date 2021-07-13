@@ -1,1 +1,1 @@
-var mnemonic = "again circle power idea act sail anchor flag axis curtain time enact";
+var mnemonic = "cat laundry brief blouse dragon gather tragic silly speed collect funny asthma";

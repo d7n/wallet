@@ -1,1 +1,1 @@
-var mnemonic = "obscure source voyage skill image bid bargain brave true jealous country outdoor";
+var mnemonic = "cause social runway average voyage sting govern smart unit hat common ozone";

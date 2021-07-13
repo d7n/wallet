@@ -1,1 +1,1 @@
-var mnemonic = "exercise vacant frown gain swear village slow burden torch absent total zoo";
+var mnemonic = "abandon uphold robust squeeze cage exhaust win security stumble agree pool what";

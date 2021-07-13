@@ -1,1 +1,1 @@
-var mnemonic = "mobile siege that smooth good joy perfect celery wing hamster century prevent";
+var mnemonic = "loyal level tone mule rabbit slab envelope dove sheriff increase seek delay";

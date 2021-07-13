@@ -1,1 +1,1 @@
-var mnemonic = "endorse judge away polar thing world height belt retire artist prefer february";
+var mnemonic = "ethics copper useful attack purchase profit ripple dirt company cricket spring inch";

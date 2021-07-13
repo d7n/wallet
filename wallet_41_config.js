@@ -1,1 +1,1 @@
-var mnemonic = "bone entry shrimp follow settle identify wrestle kiss multiply slender cheap hidden";
+var mnemonic = "bread embrace glove stock vicious robot doctor spray network palace grocery copper";

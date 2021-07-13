@@ -1,1 +1,1 @@
-var mnemonic = "hub swarm fashion ramp jelly gesture usual mix stay side document fresh";
+var mnemonic = "cube dune champion arctic bridge bubble rally source bulb brown hair finish";

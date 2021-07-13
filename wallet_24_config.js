@@ -1,1 +1,1 @@
-var mnemonic = "salon bus diamond camp damp worry average stage priority focus sausage lock";
+var mnemonic = "ecology moon flush dice letter bar sleep author cash sure donor harvest";

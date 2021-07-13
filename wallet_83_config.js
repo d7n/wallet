@@ -1,1 +1,1 @@
-var mnemonic = "hover plug echo south ordinary aware drum bronze urban nothing awful depend";
+var mnemonic = "flag canyon goddess fluid thank knock act cousin museum must trend save";

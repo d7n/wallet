@@ -1,1 +1,1 @@
-var mnemonic = "chief slot seek trigger east chimney torch wear hire gossip vault athlete";
+var mnemonic = "notable silly public feed decorate sadness oval census wine hotel setup scatter";

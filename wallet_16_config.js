@@ -1,1 +1,1 @@
-var mnemonic = "second wood pupil endless leopard gospel run talk february minor misery extend";
+var mnemonic = "tribe local valley trim cup discover erode female announce senior man fresh";

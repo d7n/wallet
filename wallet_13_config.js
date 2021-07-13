@@ -1,1 +1,1 @@
-var mnemonic = "wear rebel table tourist easy phrase design salute side tower lens rookie";
+var mnemonic = "off toss move wrong snake return twelve apple bench obvious rule gaze";

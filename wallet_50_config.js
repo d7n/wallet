@@ -1,1 +1,1 @@
-var mnemonic = "uncle build laugh burst shoot laptop trap fly matter wolf snack neck";
+var mnemonic = "section protect sight imitate casino scatter speed argue mimic garden rabbit problem";

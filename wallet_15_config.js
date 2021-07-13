@@ -1,1 +1,1 @@
-var mnemonic = "mistake ice appear gospel october hill evidence input enrich female mystery banana";
+var mnemonic = "spend true fine daughter crew receive father bargain flash fragile urge grunt";

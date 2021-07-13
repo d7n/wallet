@@ -1,1 +1,1 @@
-var mnemonic = "excess april flip critic smooth average ensure stove space belt habit slim";
+var mnemonic = "beauty cigar maximum fish story picnic figure athlete consider prize slab leopard";

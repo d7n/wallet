@@ -1,1 +1,1 @@
-var mnemonic = "fox hip thrive sand heart stick visit hat square sketch ivory faith";
+var mnemonic = "donate answer potato army inject member large escape pledge caution actor way";

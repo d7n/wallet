@@ -1,1 +1,1 @@
-var mnemonic = "casual lumber drift grief alone knee fresh ship whip ordinary fancy sadness";
+var mnemonic = "net release cradle mercy chaos sock cannon rather kiwi steel pave ancient";

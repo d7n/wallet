@@ -1,1 +1,1 @@
-var mnemonic = "dizzy weekend sleep trial speak cabin animal physical urge icon lady tell";
+var mnemonic = "foot history aunt right original group finish sort artist better sheriff tattoo";

@@ -1,1 +1,1 @@
-var mnemonic = "guilt people dutch cushion empower myself guilt device curtain visit tunnel mean";
+var mnemonic = "hair viable change nest mercy flight health sudden arch above drink ritual";

@@ -1,1 +1,1 @@
-var mnemonic = "long point column tumble shed click can fit current palm connect essence";
+var mnemonic = "jacket dune venue melody since language inch grab toilet fan nothing pistol";

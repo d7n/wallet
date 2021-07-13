@@ -1,1 +1,1 @@
-var mnemonic = "lens fun burst race recycle banana faculty rather tackle sad deny elephant";
+var mnemonic = "dizzy minor kangaroo beach float target donkey piano baby gain eternal rapid";

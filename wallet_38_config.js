@@ -1,1 +1,1 @@
-var mnemonic = "tunnel topic dignity flush receive short carbon ensure scan volcano stomach random";
+var mnemonic = "favorite find write move liar excuse velvet okay neither body weapon afford";

@@ -1,1 +1,1 @@
-var mnemonic = "erosion wheel nation strong audit lawsuit pull term unusual juice blood spare";
+var mnemonic = "morning throw romance omit razor toy home valve spring plate rate plastic";

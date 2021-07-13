@@ -1,1 +1,1 @@
-var mnemonic = "hamster crush science settle trick gauge copper better rural alien gasp panda";
+var mnemonic = "symptom tone celery engage summer inject panic glimpse ensure eight ginger wrist";

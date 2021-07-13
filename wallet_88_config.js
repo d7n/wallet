@@ -1,1 +1,1 @@
-var mnemonic = "drama illness general rural ancient collect quiz scrap isolate shock sibling write";
+var mnemonic = "smoke check alert forward staff game recall ask today tool next siege";

@@ -1,1 +1,1 @@
-var mnemonic = "segment kitchen decade april story field neglect smoke peasant never glimpse basket";
+var mnemonic = "corn wisdom soccer slogan flame dune kid ranch buffalo fee gospel detect";

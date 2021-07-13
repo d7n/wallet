@@ -1,1 +1,1 @@
-var mnemonic = "chapter boost biology must hard mass bright great credit filter poverty flower";
+var mnemonic = "found eager reopen measure neglect pelican omit biology danger vague salmon priority";

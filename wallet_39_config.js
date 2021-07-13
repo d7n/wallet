@@ -1,1 +1,1 @@
-var mnemonic = "loud public toy domain catch surface purchase tone dirt device black soft";
+var mnemonic = "jelly extend apart copper avocado marble pet supply fix decrease hip green";

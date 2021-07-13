@@ -1,1 +1,1 @@
-var mnemonic = "scan apple document below velvet mushroom honey tuna able glare dress toilet";
+var mnemonic = "bicycle lunar modify embrace gas turtle order danger fish settle fluid turn";

@@ -1,1 +1,1 @@
-var mnemonic = "blouse dilemma husband fancy artwork bronze captain warrior wrestle exact velvet outer";
+var mnemonic = "kiss peasant member gravity globe live token dinner minimum sort noise usual";

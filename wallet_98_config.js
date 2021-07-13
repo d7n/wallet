@@ -1,1 +1,1 @@
-var mnemonic = "scan super genius blanket bulb water immune youth attend melody whale absorb";
+var mnemonic = "forum crucial supreme mom december corn speed tonight outdoor acoustic join piano";

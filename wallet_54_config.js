@@ -1,1 +1,1 @@
-var mnemonic = "accuse plate habit bracket copper regret smoke have hand photo chunk stable";
+var mnemonic = "tiger champion swallow someone develop news lottery claw glue act dismiss crush";

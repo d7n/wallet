@@ -1,1 +1,1 @@
-var mnemonic = "like era stereo move cloud scorpion evidence decade spin coach ill exchange";
+var mnemonic = "mesh innocent glimpse desk abandon edit update error nuclear unknown nerve pride";

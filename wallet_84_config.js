@@ -1,1 +1,1 @@
-var mnemonic = "damp region delay push damp scorpion faint valid duty hobby this clown";
+var mnemonic = "now penalty library legend sleep silver spice motion alter vessel trip zero";

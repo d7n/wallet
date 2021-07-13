@@ -1,1 +1,1 @@
-var mnemonic = "element defy diet physical luxury grunt soccer usual taxi lazy differ excite";
+var mnemonic = "unable bench puzzle orchard ahead shrug upper wedding nerve insect tired common";

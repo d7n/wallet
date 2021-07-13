@@ -1,1 +1,1 @@
-var mnemonic = "amazing fantasy safe close antique room away stereo tip vivid gun friend";
+var mnemonic = "obvious collect negative sustain illegal wait invest atom plug tongue country account";

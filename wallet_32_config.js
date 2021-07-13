@@ -1,1 +1,1 @@
-var mnemonic = "what bullet festival head annual shift neck usual deputy motion capital maximum";
+var mnemonic = "comic drastic clump glue extend soft alley chicken snack choose laugh vendor";

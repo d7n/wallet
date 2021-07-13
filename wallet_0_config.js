@@ -1,1 +1,1 @@
-var mnemonic = "sword time limit manual brown rhythm shock praise sweet volcano wire will";
+var mnemonic = "game stadium damp roof prefer focus bind lake real keen figure couple";

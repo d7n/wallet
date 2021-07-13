@@ -1,1 +1,1 @@
-var mnemonic = "always steel net okay toilet hole comic fantasy kid fossil recall artefact";
+var mnemonic = "rabbit naive coffee retreat prefer animal hero embody slide degree kiwi leave";

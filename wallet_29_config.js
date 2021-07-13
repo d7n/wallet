@@ -1,1 +1,1 @@
-var mnemonic = "copy news double poem wage permit story vehicle learn coffee sorry legal";
+var mnemonic = "green clinic avocado private fine bonus control core tower any safe kitten";

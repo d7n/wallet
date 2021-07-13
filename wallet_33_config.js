@@ -1,1 +1,1 @@
-var mnemonic = "patient light bubble hill celery satisfy core ball spike draw medal notice";
+var mnemonic = "glove across charge life approve average cup inhale sand achieve hold lift";

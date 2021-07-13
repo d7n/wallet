@@ -1,1 +1,1 @@
-var mnemonic = "defy pair purchase sadness target magnet detect unhappy key fancy into local";
+var mnemonic = "tattoo shiver radio gospel install prison property country point special beach bone";

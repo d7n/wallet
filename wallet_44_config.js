@@ -1,1 +1,1 @@
-var mnemonic = "increase fashion domain muffin robust lady suit hobby fly dose cradle gesture";
+var mnemonic = "carpet neither allow omit lucky rack blood curve engine actress obscure broken";

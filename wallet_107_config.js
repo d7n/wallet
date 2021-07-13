@@ -1,1 +1,1 @@
-var mnemonic = "learn swift erosion strategy scare veteran mule luxury save lonely swamp orient";
+var mnemonic = "bachelor regular relief mirror obscure gas fortune pledge tiger actor echo senior";

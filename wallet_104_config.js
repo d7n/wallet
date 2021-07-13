@@ -1,1 +1,1 @@
-var mnemonic = "matrix boil glory trophy depth version initial impose sad chapter woman boost";
+var mnemonic = "boy oxygen casino gloom tornado major enroll blouse leaf salt degree spike";

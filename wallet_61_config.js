@@ -1,1 +1,1 @@
-var mnemonic = "leg advice vehicle rail merit corn law ship fresh gift wait brown";
+var mnemonic = "accident float shiver cart ivory oil base execute cool casual shock bonus";

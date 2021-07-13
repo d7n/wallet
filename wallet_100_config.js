@@ -1,1 +1,1 @@
-var mnemonic = "note talk smooth pledge erosion cargo luxury lion gravity rocket kick popular";
+var mnemonic = "nut caution win drive hair budget barely code fiscal remind zero apology";

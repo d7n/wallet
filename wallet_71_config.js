@@ -1,1 +1,1 @@
-var mnemonic = "endorse boring uncover walk fog soap unveil file bright castle destroy usage";
+var mnemonic = "afford rough certain light borrow shift bread hazard lounge language mom minimum";

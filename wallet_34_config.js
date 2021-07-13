@@ -1,1 +1,1 @@
-var mnemonic = "agree dismiss check hurt goose under enrich client flock cigar ribbon ignore";
+var mnemonic = "photo nest song trophy useful owner unlock profit you carry zoo dismiss";

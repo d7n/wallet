@@ -1,1 +1,1 @@
-var mnemonic = "host sentence chimney hat surge joke estate initial office orchard deny capital";
+var mnemonic = "wild keen nerve brisk pony goat beauty flight crucial news cage label";

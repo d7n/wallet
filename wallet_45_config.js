@@ -1,1 +1,1 @@
-var mnemonic = "catch captain tube midnight regular seek often search earn empty spirit guess";
+var mnemonic = "seminar post east govern rule era black minimum slogan small during match";

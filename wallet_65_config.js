@@ -1,1 +1,1 @@
-var mnemonic = "impose blame someone gospel park quick stuff click barrel picture delay desk";
+var mnemonic = "glass taxi mom inflict bird bachelor member code light home category screen";

@@ -1,1 +1,1 @@
-var mnemonic = "very chaos same sick family march uncle alert grass true ill patient";
+var mnemonic = "lucky next patrol gallery broken holiday cruel possible turtle buyer panther vehicle";

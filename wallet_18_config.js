@@ -1,1 +1,1 @@
-var mnemonic = "debris win layer auto announce nut embrace blur slush accuse hammer case";
+var mnemonic = "cake neutral peace lonely logic boy defy verb exhaust draft size pet";

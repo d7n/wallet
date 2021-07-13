@@ -1,1 +1,1 @@
-var mnemonic = "neck plunge silly affair club man deal order type arch novel loan";
+var mnemonic = "rebuild zebra measure weather tape labor approve warm deliver found annual lava";

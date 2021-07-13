@@ -1,1 +1,1 @@
-var mnemonic = "loop anxiety fox frame harbor eight blue edit expire proud ticket angle";
+var mnemonic = "badge lend vault ocean outer want auto custom give elephant need vehicle";

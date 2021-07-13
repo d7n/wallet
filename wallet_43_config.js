@@ -1,1 +1,1 @@
-var mnemonic = "naive front fragile deputy doctor left swing pumpkin unveil arm movie plunge";
+var mnemonic = "horse disagree bunker come tissue absent question knee school mandate noble denial";

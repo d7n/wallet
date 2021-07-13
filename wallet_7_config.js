@@ -1,1 +1,1 @@
-var mnemonic = "pilot coyote person into goat hero palm pair eagle split apology october";
+var mnemonic = "this boring raccoon drum equal olive immune day axis slot enjoy hurdle";

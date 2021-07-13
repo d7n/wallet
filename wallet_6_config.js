@@ -1,1 +1,1 @@
-var mnemonic = "toss large empower once clap forum inch diagram tornado large blame fragile";
+var mnemonic = "silver wall hundred luggage art supreme illness rough mystery wire approve romance";

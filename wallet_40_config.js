@@ -1,1 +1,1 @@
-var mnemonic = "manual road quiz term seven loan illness tank food twin rate pencil";
+var mnemonic = "salute rely moral predict hill model day also catch pool lobster across";

@@ -1,1 +1,1 @@
-var mnemonic = "shuffle crouch idle analyst snake axis sword speak stone art subway alarm";
+var mnemonic = "stick drill sure enhance eternal citizen live tennis stock since fade save";

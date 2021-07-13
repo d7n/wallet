@@ -1,1 +1,1 @@
-var mnemonic = "fire soul cabbage explain tonight number soul happy morning short rubber giant";
+var mnemonic = "fall tiny same master loan guilt practice vote carpet first enable buddy";

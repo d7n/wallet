@@ -1,1 +1,1 @@
-var mnemonic = "return hire found figure peace entry bottom carry topple extend author rifle";
+var mnemonic = "sorry creek focus blossom shiver answer sponsor define increase energy gun know";

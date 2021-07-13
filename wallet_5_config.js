@@ -1,1 +1,1 @@
-var mnemonic = "wing normal grit assault fly custom boat road museum wisdom tobacco alarm";
+var mnemonic = "speak novel goddess sound air boost shoot mixed citizen fuel dilemma swallow";

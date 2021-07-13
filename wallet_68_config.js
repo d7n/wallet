@@ -1,1 +1,1 @@
-var mnemonic = "loud street end truly chef type moral degree ship achieve innocent aware";
+var mnemonic = "negative drift enlist delay wealth stool abstract dismiss solution suit test prison";
