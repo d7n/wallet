@@ -1,1 +1,1 @@
-var mnemonic = "vague mail hood congress emotion vital giant proud unaware gloom advice robot";
+var mnemonic = "narrow report welcome reward nerve grant fabric gown ignore avoid north guess";

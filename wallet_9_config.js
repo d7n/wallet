@@ -1,1 +1,1 @@
-var mnemonic = "lawsuit ring similar find morning raw trim lounge warfare hollow manual vessel";
+var mnemonic = "day potato bunker trumpet middle split clump subway giant hat throw cheap";

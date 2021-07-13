@@ -1,1 +1,1 @@
-var mnemonic = "all blind drill permit kit swing immune vendor bone zoo entry nation";
+var mnemonic = "eight trophy feed figure hip mammal fly bounce beyond belt patch dirt";

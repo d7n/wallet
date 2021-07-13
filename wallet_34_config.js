@@ -1,1 +1,1 @@
-var mnemonic = "stamp tip best vapor empower put crunch foam reform genre enter tenant";
+var mnemonic = "toy banana congress empower banana define beef guitar mercy transfer agent install";

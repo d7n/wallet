@@ -1,1 +1,1 @@
-var mnemonic = "loop endless enhance tomato either tape surge depart differ winner foam design";
+var mnemonic = "tell split regret cereal token text venue shadow scissors sister pudding arrest";

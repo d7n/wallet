@@ -1,1 +1,1 @@
-var mnemonic = "bitter round solar siren cube advice slow paper gun fruit call eight";
+var mnemonic = "dog surface unit blouse shift beach load sleep nut bulk tooth lawn";

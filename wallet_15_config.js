@@ -1,1 +1,1 @@
-var mnemonic = "member lonely grain embrace virus solution winter future penalty crazy movie burst";
+var mnemonic = "claw gallery thunder adapt inform rice funny diagram squeeze sorry jungle weekend";

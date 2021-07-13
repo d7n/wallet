@@ -1,1 +1,1 @@
-var mnemonic = "diagram snack hurdle change gloom tortoise daring ripple luxury produce tray lyrics";
+var mnemonic = "hidden shed title bottom month comfort survey have diamond expire blur sight";

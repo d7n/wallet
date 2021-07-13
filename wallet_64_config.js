@@ -1,1 +1,1 @@
-var mnemonic = "normal sea state nice soda receive dinosaur salute year diary have wonder";
+var mnemonic = "identify drive age inform hen canvas client iron canoe surge peace move";

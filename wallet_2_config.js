@@ -1,1 +1,1 @@
-var mnemonic = "tornado poverty drift try family traffic patrol saddle canoe because moment recall";
+var mnemonic = "book drive already bike poet faith submit feature rally pyramid bronze rack";

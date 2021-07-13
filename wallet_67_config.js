@@ -1,1 +1,1 @@
-var mnemonic = "cube green apart famous assault enough manual neck theory case rude notable";
+var mnemonic = "wave twin business visa electric chronic auction horror allow buyer tube expire";

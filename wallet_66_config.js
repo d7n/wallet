@@ -1,1 +1,1 @@
-var mnemonic = "diamond sphere bunker harbor unit omit much desert noodle cruel predict click";
+var mnemonic = "fatal rescue donkey achieve say remember limit define door number celery rely";

@@ -1,1 +1,1 @@
-var mnemonic = "joke day stuff universe satoshi guitar canvas fossil unveil motor silver water";
+var mnemonic = "cinnamon zone update spread gas dose argue card material nasty actor marriage";

@@ -1,1 +1,1 @@
-var mnemonic = "vessel filter vintage nothing smooth attract tired panther reform index rebuild palm";
+var mnemonic = "loan village glimpse hobby maximum kick prefer label home inflict suit since";

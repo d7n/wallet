@@ -1,1 +1,1 @@
-var mnemonic = "foil electric check across mixture grief ride settle head topple narrow notice";
+var mnemonic = "term drift burden candy ancient chicken concert pool flat razor misery tenant";

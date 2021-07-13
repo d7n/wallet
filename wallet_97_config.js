@@ -1,1 +1,1 @@
-var mnemonic = "dream antique sight catalog practice latin song miracle unique prison matrix equal";
+var mnemonic = "hungry casino wagon super inmate next add mad cousin wish wink trend";

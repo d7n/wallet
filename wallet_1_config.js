@@ -1,1 +1,1 @@
-var mnemonic = "dream rich total can off crime soap satoshi bike sheriff path kitten";
+var mnemonic = "unique cereal raw trap miracle stick poverty witness grow dinner mean aerobic";

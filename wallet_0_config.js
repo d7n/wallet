@@ -1,1 +1,1 @@
-var mnemonic = "wood retreat mouse kick scorpion reason scissors next reason appear royal tray";
+var mnemonic = "random pulse lemon hair office equip alcohol sketch cannon wide horn normal";

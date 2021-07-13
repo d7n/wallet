@@ -1,1 +1,1 @@
-var mnemonic = "master satisfy moral sport magic trap foster belt renew economy disagree reveal";
+var mnemonic = "animal adult coconut glue swing hole turkey bench visual isolate region frost";

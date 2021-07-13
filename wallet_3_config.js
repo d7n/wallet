@@ -1,1 +1,1 @@
-var mnemonic = "occur hill impose endorse ivory comfort art ritual noble salad tragic vapor";
+var mnemonic = "wheel oak machine animal airport entry enrich mushroom mass banana wealth tongue";

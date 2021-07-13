@@ -1,1 +1,1 @@
-var mnemonic = "tribe swarm between uphold phrase pattern column view play matter tide guard";
+var mnemonic = "crush viable wonder sand analyst invite reflect desk purity brand rebuild fantasy";

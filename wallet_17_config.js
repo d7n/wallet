@@ -1,1 +1,1 @@
-var mnemonic = "figure pizza color reduce morning beef convince skate venue enter collect thing";
+var mnemonic = "excess chalk hospital rubber fold census fiber tape vapor very noodle peasant";

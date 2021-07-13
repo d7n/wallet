@@ -1,1 +1,1 @@
-var mnemonic = "this tiger brown copper witness pulse sunny cry post pretty elite vacuum";
+var mnemonic = "west tide fantasy broom clay remain traffic hint unable input wild jazz";

@@ -1,1 +1,1 @@
-var mnemonic = "cabbage balcony same tiger oval swear video dry clump where stadium very";
+var mnemonic = "column kangaroo thumb unaware rebuild obvious quiz join orbit defy copy degree";

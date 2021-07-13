@@ -1,1 +1,1 @@
-var mnemonic = "grit put item regret that cable rail photo nature life volume play";
+var mnemonic = "diagram stand faith veteran angle catch shy sleep exit pluck banana unfair";

@@ -1,1 +1,1 @@
-var mnemonic = "pudding task auto minimum animal usual siren decorate fitness tube brain call";
+var mnemonic = "spread rabbit total tomato into system leader educate witness foot eagle return";

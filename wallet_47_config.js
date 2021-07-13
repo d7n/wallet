@@ -1,1 +1,1 @@
-var mnemonic = "saddle about ship flee industry open amount air squirrel tragic learn decline";
+var mnemonic = "youth pumpkin beef silver father catch win decline ensure tomorrow burst hour";

@@ -1,1 +1,1 @@
-var mnemonic = "airport drive skull embrace drama fitness balcony garbage account produce save ill";
+var mnemonic = "tackle tired fun spray cave shiver glimpse act hub hand base stamp";

@@ -1,1 +1,1 @@
-var mnemonic = "rate problem coconut retreat gauge domain question shove stamp unlock record bridge";
+var mnemonic = "seven sound sphere dice online raw domain account flower scissors decline mutual";

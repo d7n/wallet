@@ -1,1 +1,1 @@
-var mnemonic = "dynamic dinosaur farm decide doll fog allow false cream stand party road";
+var mnemonic = "grow burger smile radio tobacco picture anger size member engage world lucky";

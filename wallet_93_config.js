@@ -1,1 +1,1 @@
-var mnemonic = "book man brand attitude stone loan innocent kidney sleep cover blur casino";
+var mnemonic = "tomorrow museum innocent settle lawn say mansion cattle unfold decade soon lizard";

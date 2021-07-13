@@ -1,1 +1,1 @@
-var mnemonic = "onion merry enact blossom wear eyebrow trend glare exist deliver skin social";
+var mnemonic = "crouch usual season quality dizzy grunt extend cancel asset garage rubber silk";

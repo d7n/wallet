@@ -1,1 +1,1 @@
-var mnemonic = "palm tooth penalty pistol lecture wreck anchor town recall exhibit grass wood";
+var mnemonic = "success half prize mind smoke holiday history custom cigar lyrics earn square";

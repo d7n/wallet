@@ -1,1 +1,1 @@
-var mnemonic = "father pool grain perfect spider track moon toss end ignore tomorrow entry";
+var mnemonic = "ability panther myself region access inflict seek ecology slow spare extra mandate";

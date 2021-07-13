@@ -1,1 +1,1 @@
-var mnemonic = "planet climb oblige sad size tip funny file bag flight coin juice";
+var mnemonic = "ozone piano teach taxi enter rebuild immense foil exercise lizard keep link";

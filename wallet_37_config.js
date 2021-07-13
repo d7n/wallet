@@ -1,1 +1,1 @@
-var mnemonic = "cousin hood alien phone verify club march pizza awkward twenty kid avoid";
+var mnemonic = "height section keep typical cost install gate logic rain custom manual engage";

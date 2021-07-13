@@ -1,1 +1,1 @@
-var mnemonic = "welcome conduct quiz pride rhythm enact naive frame august border cabbage upset";
+var mnemonic = "priority various tube soap camp matrix visit harbor spice sunny random receive";

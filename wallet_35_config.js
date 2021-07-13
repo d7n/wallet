@@ -1,1 +1,1 @@
-var mnemonic = "flame pumpkin daughter unlock bacon rival night version tower dog million cannon";
+var mnemonic = "emerge verb uncle popular zebra where scheme face mammal veteran casino thank";

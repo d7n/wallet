@@ -1,1 +1,1 @@
-var mnemonic = "adult blush cool dress lion success famous truly measure lion bird diagram";
+var mnemonic = "lemon brain write canoe basket reveal favorite rigid retreat shrimp clarify diamond";

@@ -1,1 +1,1 @@
-var mnemonic = "maple brain relief legend comfort page easily raise top hawk bamboo apple";
+var mnemonic = "feel glance must that valley bunker deposit banner consider suit orient butter";

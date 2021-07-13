@@ -1,1 +1,1 @@
-var mnemonic = "mandate novel either ocean trim trial inform tonight craft picture bus dutch";
+var mnemonic = "make public claim foot iron gasp okay blame stairs host pause fruit";

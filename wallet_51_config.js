@@ -1,1 +1,1 @@
-var mnemonic = "choice crunch innocent general original relief gap pyramid shell tail female banner";
+var mnemonic = "brother slight bargain ghost buzz favorite marble pony sentence mansion room put";

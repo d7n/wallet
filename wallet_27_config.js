@@ -1,1 +1,1 @@
-var mnemonic = "horn genius clinic rookie ribbon disorder prize long remain tag control bounce";
+var mnemonic = "ocean doctor pistol security diamond then great seat pulse hazard okay flame";

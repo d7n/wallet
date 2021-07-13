@@ -1,1 +1,1 @@
-var mnemonic = "remove filter nuclear will grass ticket nose consider witness unable camera live";
+var mnemonic = "will prevent dune balance figure profit coach art tree net boring chase";

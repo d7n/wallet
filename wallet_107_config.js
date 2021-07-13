@@ -1,1 +1,1 @@
-var mnemonic = "imitate soul anchor argue theme drink moment rookie isolate love canvas tank";
+var mnemonic = "six december wait credit couch volcano skate window outdoor hotel senior midnight";

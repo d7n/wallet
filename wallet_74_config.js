@@ -1,1 +1,1 @@
-var mnemonic = "health entire column control practice envelope damp employ vote consider ignore flash";
+var mnemonic = "stumble buyer slight monitor cruise winner negative town model shine cake nominee";

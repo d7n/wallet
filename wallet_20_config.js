@@ -1,1 +1,1 @@
-var mnemonic = "current dial muscle unique latin fox impact phone hire club divorce gas";
+var mnemonic = "clown wisdom mask switch task that undo process cruel entry uncover maple";

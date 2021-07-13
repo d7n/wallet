@@ -1,1 +1,1 @@
-var mnemonic = "rookie supreme exit tonight capital situate embrace screen rail tent exhaust blood";
+var mnemonic = "orient monitor coffee become wool goose patient ability danger ready tail diet";

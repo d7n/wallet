@@ -1,1 +1,1 @@
-var mnemonic = "ranch fall any orchard shop egg staff park adult fatal trash leg";
+var mnemonic = "reward kiwi major census flash high puppy gauge surface inspire metal oven";

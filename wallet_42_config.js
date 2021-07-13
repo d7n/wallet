@@ -1,1 +1,1 @@
-var mnemonic = "bulb drastic skirt canyon seminar crash broom swift place autumn few alpha";
+var mnemonic = "tattoo knock regular left fun weird shuffle heart gaze skate omit time";

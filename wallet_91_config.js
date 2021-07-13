@@ -1,1 +1,1 @@
-var mnemonic = "rough comic soldier relief bicycle six simple rapid sell social abstract fruit";
+var mnemonic = "club shift imitate census female noodle scout napkin spin game mushroom bronze";

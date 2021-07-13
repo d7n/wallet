@@ -1,1 +1,1 @@
-var mnemonic = "ladder equip boy route ostrich tree stock cry dolphin clay one essay";
+var mnemonic = "begin opinion mad bone fantasy sugar mobile evidence word abstract orient airport";

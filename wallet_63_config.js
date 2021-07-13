@@ -1,1 +1,1 @@
-var mnemonic = "fashion lucky rally worth auction mix aisle calm pudding lobster isolate pass";
+var mnemonic = "hip spare else dumb call resource mercy outer decade trend fit ranch";

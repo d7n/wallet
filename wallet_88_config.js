@@ -1,1 +1,1 @@
-var mnemonic = "meadow skin receive orange figure rare initial will cluster desert gadget crowd";
+var mnemonic = "metal analyst cupboard village unaware lobster wink toss nurse analyst dream hockey";

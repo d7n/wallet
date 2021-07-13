@@ -1,1 +1,1 @@
-var mnemonic = "limit sniff gym wrist diary cash disorder entire desk side robust noble";
+var mnemonic = "any arrest eyebrow visual shrug dad return spell father unhappy purity mix";

@@ -1,1 +1,1 @@
-var mnemonic = "say violin symbol learn early leopard crystal attack can student oxygen demand";
+var mnemonic = "toddler derive city share bid cage belt cook phone fan behave kit";

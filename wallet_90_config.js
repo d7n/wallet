@@ -1,1 +1,1 @@
-var mnemonic = "word strong source goose worry job produce route prefer okay protect dignity";
+var mnemonic = "ahead digital verify reward group blur worry bitter category record quiz borrow";

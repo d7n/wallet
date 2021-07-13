@@ -1,1 +1,1 @@
-var mnemonic = "diesel boost rhythm panel wreck interest virus clerk victory lesson fringe elevator";
+var mnemonic = "economy release mask wise business project endless cool uniform shove path lazy";

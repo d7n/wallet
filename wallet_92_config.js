@@ -1,1 +1,1 @@
-var mnemonic = "worry oyster gasp elder oppose moral hotel fan cup marble logic excuse";
+var mnemonic = "kite follow arm unknown federal bless canal mom fluid account access sell";

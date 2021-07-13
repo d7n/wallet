@@ -1,1 +1,1 @@
-var mnemonic = "inch bullet defy blind cage home math seek want nuclear concert ticket";
+var mnemonic = "fee bundle trash yard funny path simple side simple able super elephant";

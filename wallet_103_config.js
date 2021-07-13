@@ -1,1 +1,1 @@
-var mnemonic = "seven blast snake twice before elbow hint young corn stock sibling scout";
+var mnemonic = "suffer urge enough real dizzy syrup exclude slogan become fatigue bread rocket";

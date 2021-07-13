@@ -1,1 +1,1 @@
-var mnemonic = "vendor suspect useless hood quarter pottery group forest bacon ahead umbrella copy";
+var mnemonic = "drama column balcony end voyage section ignore champion canal hurdle mean present";

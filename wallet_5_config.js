@@ -1,1 +1,1 @@
-var mnemonic = "minimum ready celery window humor sleep eye matter bullet festival execute know";
+var mnemonic = "alone cricket open issue vault pilot essay found country rifle parade omit";

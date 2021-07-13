@@ -1,1 +1,1 @@
-var mnemonic = "chest object bulk upper occur spot gospel subject aim people swear good";
+var mnemonic = "winner velvet poem vintage disease disease equip utility spoil subject artist swallow";

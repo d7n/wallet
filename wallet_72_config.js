@@ -1,1 +1,1 @@
-var mnemonic = "summer banner add insect humble shine argue stay foster seven scene sense";
+var mnemonic = "toward army welcome ignore change now trap chicken cabin head net follow";

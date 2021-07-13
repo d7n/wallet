@@ -1,1 +1,1 @@
-var mnemonic = "frequent vital speed table seat section kit whale end one sniff crunch";
+var mnemonic = "issue cart curtain knee ancient record spot comic picture grid cherry absurd";

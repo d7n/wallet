@@ -1,1 +1,1 @@
-var mnemonic = "hand mystery buffalo honey state cost quantum later subway twelve fun coconut";
+var mnemonic = "curtain bag gap congress tonight daring tourist length oblige rigid raccoon aerobic";

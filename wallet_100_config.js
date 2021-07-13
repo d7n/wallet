@@ -1,1 +1,1 @@
-var mnemonic = "glimpse decline repeat loop protect trap ancient fix travel curve grow lemon";
+var mnemonic = "trick kind among arrow bless bind long fancy worry inject spin rebuild";

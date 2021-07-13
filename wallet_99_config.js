@@ -1,1 +1,1 @@
-var mnemonic = "mean hospital merit waste sort similar topple memory unusual unit artwork control";
+var mnemonic = "property certain then rain squirrel stick uniform select benefit advance salt reduce";

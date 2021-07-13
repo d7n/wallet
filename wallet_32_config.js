@@ -1,1 +1,1 @@
-var mnemonic = "myself certain illness merry scatter neglect crisp quality great alien put ramp";
+var mnemonic = "scrub sphere noble tumble equip try lottery combine disease end sort text";

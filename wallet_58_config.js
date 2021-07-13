@@ -1,1 +1,1 @@
-var mnemonic = "goddess devote finish surprise urban token firm glare comic pottery index domain";
+var mnemonic = "assist rhythm mystery exile letter moment describe crew dash monkey man unhappy";

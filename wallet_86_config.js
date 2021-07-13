@@ -1,1 +1,1 @@
-var mnemonic = "envelope guilt add blouse kingdom blame unusual dice quiz faith churn egg";
+var mnemonic = "churn couch kidney faculty senior slow riot glass convince tail audit knee";

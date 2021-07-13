@@ -1,1 +1,1 @@
-var mnemonic = "antique ancient version unhappy moral dizzy arctic more predict mention camp solve";
+var mnemonic = "evidence reward siren jaguar drum edit distance tornado weapon right vicious police";

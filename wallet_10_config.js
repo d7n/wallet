@@ -1,1 +1,1 @@
-var mnemonic = "wing virtual permit palace title baby disorder trash develop message bachelor pet";
+var mnemonic = "payment opera chest maid check punch paddle patch labor online gloom tool";

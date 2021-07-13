@@ -1,1 +1,1 @@
-var mnemonic = "unique bubble worry access fiction barrel supply depart endless twenty awful more";
+var mnemonic = "pulp catch hover hotel title toy deliver release foil orbit aim edge";

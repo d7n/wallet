@@ -1,1 +1,1 @@
-var mnemonic = "adapt scene lounge cube forward salon wrist accident velvet grain army snake";
+var mnemonic = "hold client blur dice candy keen globe vapor dismiss excess credit ritual";

@@ -1,1 +1,1 @@
-var mnemonic = "eye hammer lunar long brown aunt ticket scout umbrella forest rifle level";
+var mnemonic = "tower wreck screen noodle comic spend miss scissors plate cargo little sample";

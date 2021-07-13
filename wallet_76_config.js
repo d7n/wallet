@@ -1,1 +1,1 @@
-var mnemonic = "spider glide delay ghost century edge hybrid curious giraffe between rebuild gauge";
+var mnemonic = "seat kiwi army motor breeze maid method arctic fix guess anchor side";

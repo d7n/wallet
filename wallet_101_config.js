@@ -1,1 +1,1 @@
-var mnemonic = "sunny area spread twelve inform mosquito jump ride hamster goddess like initial";
+var mnemonic = "shrimp endless layer tomorrow post hidden fade milk cause can siege eye";

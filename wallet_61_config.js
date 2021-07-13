@@ -1,1 +1,1 @@
-var mnemonic = "tumble emotion artwork eager corn custom mesh tube tiger give radar voice";
+var mnemonic = "horse tank taste lecture concert bind foster spin exercise used vibrant diet";

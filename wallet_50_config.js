@@ -1,1 +1,1 @@
-var mnemonic = "game whale picture jungle media note leave salmon seek retreat inflict biology";
+var mnemonic = "pyramid laptop defy desk asset grief prosper inch pink twice detect owner";

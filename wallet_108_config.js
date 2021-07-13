@@ -1,1 +1,1 @@
-var mnemonic = "document candy rule nasty giraffe tortoise client photo junior aisle license truth";
+var mnemonic = "zebra feel seed fit decrease purse cross sleep surface limb loan giggle";

@@ -1,1 +1,1 @@
-var mnemonic = "mule elbow hint there fever tell achieve fancy warrior flip floor giggle";
+var mnemonic = "doctor heavy crowd glimpse tackle sad carbon ski smooth like vibrant cloth";

@@ -1,1 +1,1 @@
-var mnemonic = "dice thing window round choice kingdom camera network castle daring admit spirit";
+var mnemonic = "narrow scorpion tired rebuild device leaf salt fork clay route visit vague";

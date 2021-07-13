@@ -1,1 +1,1 @@
-var mnemonic = "make tank school point action journey affair kiss symbol spot oil fluid";
+var mnemonic = "toe spider same garden wise element jaguar second clog mail cube lunch";

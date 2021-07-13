@@ -1,1 +1,1 @@
-var mnemonic = "swim fly awake wish helmet erupt regret napkin nephew mirror soup silk";
+var mnemonic = "finger foster sponsor announce grunt oblige code dad electric gate brain swim";
