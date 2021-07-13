@@ -1,1 +1,1 @@
-var mnemonic = "audit size cost luggage layer need expect acoustic nice stage issue build";
+var mnemonic = "define shoulder credit reunion rose crawl wagon injury fantasy shove seminar culture";

@@ -1,1 +1,1 @@
-var mnemonic = "jacket dune venue melody since language inch grab toilet fan nothing pistol";
+var mnemonic = "chair network wet health giant auction limb faculty purity castle day grow";

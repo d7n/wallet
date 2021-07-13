@@ -1,1 +1,1 @@
-var mnemonic = "donate answer potato army inject member large escape pledge caution actor way";
+var mnemonic = "practice trap latin squirrel draft budget bronze flush turtle okay obscure swear";

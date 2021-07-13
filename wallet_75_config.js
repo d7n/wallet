@@ -1,1 +1,1 @@
-var mnemonic = "lucky next patrol gallery broken holiday cruel possible turtle buyer panther vehicle";
+var mnemonic = "mixed bamboo favorite shallow grit sand north slow night client concert kangaroo";

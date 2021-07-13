@@ -1,1 +1,1 @@
-var mnemonic = "abandon uphold robust squeeze cage exhaust win security stumble agree pool what";
+var mnemonic = "digital youth twin universe scene cool mystery hover wasp dry session omit";

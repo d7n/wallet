@@ -1,1 +1,1 @@
-var mnemonic = "envelope clog lady pottery subject movie situate used spy exit drift wave";
+var mnemonic = "able ostrich pause mad lawsuit rally upon logic obscure junior city crazy";

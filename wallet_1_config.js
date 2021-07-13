@@ -1,1 +1,1 @@
-var mnemonic = "net release cradle mercy chaos sock cannon rather kiwi steel pave ancient";
+var mnemonic = "pact lamp fashion casino chalk own young prize clean pill man accident";

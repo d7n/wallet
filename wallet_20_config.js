@@ -1,1 +1,1 @@
-var mnemonic = "hair viable change nest mercy flight health sudden arch above drink ritual";
+var mnemonic = "retire educate bamboo mirror kick army menu clarify hazard ankle grocery prize";

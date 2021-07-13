@@ -1,1 +1,1 @@
-var mnemonic = "cat laundry brief blouse dragon gather tragic silly speed collect funny asthma";
+var mnemonic = "cliff street salt omit mutual bitter reward wear truth lyrics clever raccoon";

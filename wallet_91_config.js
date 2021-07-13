@@ -1,1 +1,1 @@
-var mnemonic = "grow crazy renew round situate float once ketchup tip forward park install";
+var mnemonic = "useful example depend shallow view deny taxi kick warrior course pledge narrow";

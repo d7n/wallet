@@ -1,1 +1,1 @@
-var mnemonic = "ethics copper useful attack purchase profit ripple dirt company cricket spring inch";
+var mnemonic = "runway review oyster avoid shrug invite clutch lazy opinion funny snow fan";

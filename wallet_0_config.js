@@ -1,1 +1,1 @@
-var mnemonic = "game stadium damp roof prefer focus bind lake real keen figure couple";
+var mnemonic = "dolphin canyon leave install border buffalo crystal robot iron orchard only script";

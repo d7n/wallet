@@ -1,1 +1,1 @@
-var mnemonic = "frown purse load forest icon vault six mercy brisk kitten renew angry";
+var mnemonic = "vehicle coast theme dust volcano bridge flight parrot axis balcony visit pave";

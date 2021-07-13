@@ -1,1 +1,1 @@
-var mnemonic = "photo nest song trophy useful owner unlock profit you carry zoo dismiss";
+var mnemonic = "motor food produce weasel ensure picture bench stove exile drive forest gift";

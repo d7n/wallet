@@ -1,1 +1,1 @@
-var mnemonic = "found eager reopen measure neglect pelican omit biology danger vague salmon priority";
+var mnemonic = "icon better fitness athlete among card ankle dial abandon confirm endless diary";

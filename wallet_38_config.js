@@ -1,1 +1,1 @@
-var mnemonic = "favorite find write move liar excuse velvet okay neither body weapon afford";
+var mnemonic = "skirt attend survey rib gauge galaxy logic weasel fire scare use system";

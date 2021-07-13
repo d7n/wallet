@@ -1,1 +1,1 @@
-var mnemonic = "cause social runway average voyage sting govern smart unit hat common ozone";
+var mnemonic = "accuse stem magic switch entire observe tourist swallow betray shuffle select enact";

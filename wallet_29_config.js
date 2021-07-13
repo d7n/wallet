@@ -1,1 +1,1 @@
-var mnemonic = "green clinic avocado private fine bonus control core tower any safe kitten";
+var mnemonic = "few false soda shine polar exercise diesel debris ozone transfer industry perfect";

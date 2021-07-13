@@ -1,1 +1,1 @@
-var mnemonic = "tiger champion swallow someone develop news lottery claw glue act dismiss crush";
+var mnemonic = "pattern intact evolve economy vessel expose bounce month embody camp ability stone";

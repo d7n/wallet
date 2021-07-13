@@ -1,1 +1,1 @@
-var mnemonic = "absurd habit memory gauge primary direct solid hire motor early glare tackle";
+var mnemonic = "rate good feature street write blade estate crystal board island base school";

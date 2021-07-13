@@ -1,1 +1,1 @@
-var mnemonic = "winter proof penalty brand energy quarter kidney forget repair focus enforce minor";
+var mnemonic = "monster wealth submit reduce buyer tiny swap area impact sad glad unfold";

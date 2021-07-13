@@ -1,1 +1,1 @@
-var mnemonic = "comic drastic clump glue extend soft alley chicken snack choose laugh vendor";
+var mnemonic = "normal device army current equal diary pear card key harvest charge laptop";

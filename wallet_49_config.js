@@ -1,1 +1,1 @@
-var mnemonic = "sorry creek focus blossom shiver answer sponsor define increase energy gun know";
+var mnemonic = "mosquito blast idea allow visa shop pupil slot veteran license actress shadow";

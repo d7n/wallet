@@ -1,1 +1,1 @@
-var mnemonic = "jelly extend apart copper avocado marble pet supply fix decrease hip green";
+var mnemonic = "cancel vote walk ability cereal forget excuse injury room seven damp stay";

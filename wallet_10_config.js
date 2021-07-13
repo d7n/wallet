@@ -1,1 +1,1 @@
-var mnemonic = "fringe unique guitar helmet enhance great winter survey sauce foster modify soap";
+var mnemonic = "limb rail figure siren resource noble field blade plastic illness wish search";

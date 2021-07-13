@@ -1,1 +1,1 @@
-var mnemonic = "foot history aunt right original group finish sort artist better sheriff tattoo";
+var mnemonic = "assume online author fever enemy couple dirt dust insane steak leaf chief";

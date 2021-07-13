@@ -1,1 +1,1 @@
-var mnemonic = "jewel theory silk quarter fossil allow hundred excess autumn toward impulse congress";
+var mnemonic = "aware also list stumble warrior snack common royal collect fringe lake gold";

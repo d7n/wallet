@@ -1,1 +1,1 @@
-var mnemonic = "endless basket embrace dust apart supply bottom rescue accuse armor retire prize";
+var mnemonic = "artwork carbon anxiety gentle old roof search provide reopen text dry donkey";

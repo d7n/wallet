@@ -1,1 +1,1 @@
-var mnemonic = "dizzy minor kangaroo beach float target donkey piano baby gain eternal rapid";
+var mnemonic = "clock maid lava fuel popular replace child thought blur tuition fuel sell";

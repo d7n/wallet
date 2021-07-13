@@ -1,1 +1,1 @@
-var mnemonic = "bread embrace glove stock vicious robot doctor spray network palace grocery copper";
+var mnemonic = "across brave tray benefit jump foil come garment path grass bicycle improve";

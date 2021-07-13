@@ -1,1 +1,1 @@
-var mnemonic = "bicycle lunar modify embrace gas turtle order danger fish settle fluid turn";
+var mnemonic = "field detail correct luggage neck write stand cabin fiber uncover beauty grow";

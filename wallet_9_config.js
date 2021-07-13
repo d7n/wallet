@@ -1,1 +1,1 @@
-var mnemonic = "either emotion leisure select cycle find vessel color pattern perfect cave sugar";
+var mnemonic = "story lonely anger nothing cherry crumble short dizzy head travel wait record";

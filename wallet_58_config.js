@@ -1,1 +1,1 @@
-var mnemonic = "inflict jaguar security lock motor board mandate segment organ hybrid sell evidence";
+var mnemonic = "throw segment exact detail gospel journey audit drip bunker connect account nation";

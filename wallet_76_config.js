@@ -1,1 +1,1 @@
-var mnemonic = "drift provide grab main trigger tomato fish drum this wide beauty exhaust";
+var mnemonic = "dry exhibit exact hospital drop breeze wise ramp metal giraffe history mountain";

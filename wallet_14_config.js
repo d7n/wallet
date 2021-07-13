@@ -1,1 +1,1 @@
-var mnemonic = "cross exhibit hurry dizzy vocal quantum sauce same sauce grocery garage luxury";
+var mnemonic = "casino brown pave acoustic loud vicious mimic bread boil essence banner shove";

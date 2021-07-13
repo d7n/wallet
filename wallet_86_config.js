@@ -1,1 +1,1 @@
-var mnemonic = "diamond bridge cricket eternal canal street grief tumble rubber smooth rail tape";
+var mnemonic = "green eight oven stairs wing test edge must file learn describe powder";

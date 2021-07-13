@@ -1,1 +1,1 @@
-var mnemonic = "crunch few rifle sample fluid proud oven color equip march allow screen";
+var mnemonic = "camera response advice walnut brass ring excess disorder advice rubber rate over";

@@ -1,1 +1,1 @@
-var mnemonic = "morning throw romance omit razor toy home valve spring plate rate plastic";
+var mnemonic = "sock humble talent leg annual rice phone science also despair shaft bulk";

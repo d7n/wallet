@@ -1,1 +1,1 @@
-var mnemonic = "tenant brush behave motion tribe practice web category secret deliver machine lunar";
+var mnemonic = "test lumber connect coral sail mean accident west pen label wrap better";

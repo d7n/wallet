@@ -1,1 +1,1 @@
-var mnemonic = "steel scheme promote radio boring quick viable pink police sweet scheme tennis";
+var mnemonic = "grant grass assault reduce love carpet crack onion glimpse action sword toddler";

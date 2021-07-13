@@ -1,1 +1,1 @@
-var mnemonic = "accident float shiver cart ivory oil base execute cool casual shock bonus";
+var mnemonic = "village until note grit shrug neck casual safe unfair robust across knock";

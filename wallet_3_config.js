@@ -1,1 +1,1 @@
-var mnemonic = "zebra army food vast science filter spray prize lamp silk skirt library";
+var mnemonic = "identify artefact antenna dinosaur opinion kitchen issue melody skirt rural acid unlock";

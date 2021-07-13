@@ -1,1 +1,1 @@
-var mnemonic = "horse disagree bunker come tissue absent question knee school mandate noble denial";
+var mnemonic = "banana select team juice universe have pupil express unaware pepper silk bright";

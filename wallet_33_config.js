@@ -1,1 +1,1 @@
-var mnemonic = "glove across charge life approve average cup inhale sand achieve hold lift";
+var mnemonic = "theory clap genuine card liar waste cattle relax expect baby clip ivory";

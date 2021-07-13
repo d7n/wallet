@@ -1,1 +1,1 @@
-var mnemonic = "group you okay actor city victory copper north crazy olive inherit kingdom";
+var mnemonic = "radio apple tragic witness zone range yard swap swing mandate similar guitar";

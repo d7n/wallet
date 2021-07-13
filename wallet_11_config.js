@@ -1,1 +1,1 @@
-var mnemonic = "fantasy until wreck kit hockey grow purse tower pluck retreat include relief";
+var mnemonic = "shiver sport mirror outside crawl keep vehicle bonus wage flee tuition stay";

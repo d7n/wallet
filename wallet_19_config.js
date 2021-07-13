@@ -1,1 +1,1 @@
-var mnemonic = "saddle crowd tiny unusual harsh north heavy arrive oak ignore repeat real";
+var mnemonic = "number crisp swear dinosaur proud dignity analyst sorry twin nurse muscle anger";

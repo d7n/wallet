@@ -1,1 +1,1 @@
-var mnemonic = "antique symptom guard patch embrace erase quiz nephew gadget resist wagon head";
+var mnemonic = "paddle abuse faith say float inflict wonder usage phrase wool lava zone";

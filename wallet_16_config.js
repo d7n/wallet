@@ -1,1 +1,1 @@
-var mnemonic = "tribe local valley trim cup discover erode female announce senior man fresh";
+var mnemonic = "palace price salon play normal adapt depend present feature slice sting motor";

@@ -1,1 +1,1 @@
-var mnemonic = "symptom tone celery engage summer inject panic glimpse ensure eight ginger wrist";
+var mnemonic = "album gauge fragile spot useless twelve execute practice accident wish rubber now";

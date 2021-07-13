@@ -1,1 +1,1 @@
-var mnemonic = "forum crucial supreme mom december corn speed tonight outdoor acoustic join piano";
+var mnemonic = "circle point vacuum choose rate mystery alley thunder olympic ripple rough vanish";

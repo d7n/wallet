@@ -1,1 +1,1 @@
-var mnemonic = "siege rigid visa weapon pony awful jungle jungle extend fashion conduct adult";
+var mnemonic = "car problem young length thunder mind uncle tray march output nice raw";

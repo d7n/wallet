@@ -1,1 +1,1 @@
-var mnemonic = "nut caution win drive hair budget barely code fiscal remind zero apology";
+var mnemonic = "mirror street describe illness gadget soon loop rain price atom truly mandate";

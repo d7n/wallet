@@ -1,1 +1,1 @@
-var mnemonic = "unable bench puzzle orchard ahead shrug upper wedding nerve insect tired common";
+var mnemonic = "rescue diary athlete trash jungle remain weird enemy upset solve quality sphere";

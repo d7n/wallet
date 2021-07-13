@@ -1,1 +1,1 @@
-var mnemonic = "sea clutch divorce dish method someone blanket agree hint kitchen focus pride";
+var mnemonic = "fork lounge pizza accuse gadget clock canoe unfold knife paddle lonely unable";

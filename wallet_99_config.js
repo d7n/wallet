@@ -1,1 +1,1 @@
-var mnemonic = "very ahead stadium nominee wolf member excess execute column cream shock grow";
+var mnemonic = "join put click negative claw inject fiction bridge leisure elegant park junk";

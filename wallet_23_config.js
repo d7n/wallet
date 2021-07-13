@@ -1,1 +1,1 @@
-var mnemonic = "loyal level tone mule rabbit slab envelope dove sheriff increase seek delay";
+var mnemonic = "type artist bacon travel black hammer shrug insect accident ridge edge sheriff";

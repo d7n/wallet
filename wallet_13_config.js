@@ -1,1 +1,1 @@
-var mnemonic = "off toss move wrong snake return twelve apple bench obvious rule gaze";
+var mnemonic = "vicious repair blur ginger dial large rocket drink window story spread nuclear";

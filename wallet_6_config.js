@@ -1,1 +1,1 @@
-var mnemonic = "silver wall hundred luggage art supreme illness rough mystery wire approve romance";
+var mnemonic = "initial chapter peanut hello stumble rice differ congress gadget gallery oil saddle";

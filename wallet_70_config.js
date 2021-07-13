@@ -1,1 +1,1 @@
-var mnemonic = "snow victory general census vague source spawn number erase increase canyon arrow";
+var mnemonic = "interest breeze mutual trap smooth jar kangaroo clock quality develop enrich quick";

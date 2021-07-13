@@ -1,1 +1,1 @@
-var mnemonic = "kiss peasant member gravity globe live token dinner minimum sort noise usual";
+var mnemonic = "pluck color casino sponsor scatter enroll fence want gaze any dust naive";

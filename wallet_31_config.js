@@ -1,1 +1,1 @@
-var mnemonic = "whale forget bulk table mother okay imitate warfare cry cupboard fortune shock";
+var mnemonic = "comfort item talent alien grant minor almost glad danger quantum toward method";

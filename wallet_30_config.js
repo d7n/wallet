@@ -1,1 +1,1 @@
-var mnemonic = "intact drift man bulb love tray record grief oblige symbol payment section";
+var mnemonic = "change canyon angry genre chuckle man affair join purse account lemon muscle";

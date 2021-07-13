@@ -1,1 +1,1 @@
-var mnemonic = "tattoo shiver radio gospel install prison property country point special beach bone";
+var mnemonic = "organ accident round guard best stem stick depend indoor idea space canvas";

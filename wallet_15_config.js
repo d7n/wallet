@@ -1,1 +1,1 @@
-var mnemonic = "spend true fine daughter crew receive father bargain flash fragile urge grunt";
+var mnemonic = "perfect quality orphan album blouse artist ship drift ostrich story post guide";

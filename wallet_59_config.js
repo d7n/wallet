@@ -1,1 +1,1 @@
-var mnemonic = "notable silly public feed decorate sadness oval census wine hotel setup scatter";
+var mnemonic = "silly mutual eagle trial viable swift fee common urban jaguar hurry symbol";

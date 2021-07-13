@@ -1,1 +1,1 @@
-var mnemonic = "negative drift enlist delay wealth stool abstract dismiss solution suit test prison";
+var mnemonic = "trim chalk beef client zone toilet cloud forum mesh olympic soft like";

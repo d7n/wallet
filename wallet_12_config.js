@@ -1,1 +1,1 @@
-var mnemonic = "foot base filter outdoor settle pride adult deposit market allow predict puzzle";
+var mnemonic = "pipe arch program spoil account gallery bachelor lift case exercise camera antenna";

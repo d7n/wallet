@@ -1,1 +1,1 @@
-var mnemonic = "apple mandate priority album apology captain average pencil strong federal relax siege";
+var mnemonic = "ill grant mammal excite bonus remove worth local cement camp easily utility";

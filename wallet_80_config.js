@@ -1,1 +1,1 @@
-var mnemonic = "broccoli gap layer clutch bleak success avoid exercise profit milk hat drive";
+var mnemonic = "buffalo rebuild exercise property window portion spell spot expose captain shoe popular";

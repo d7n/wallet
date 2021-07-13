@@ -1,1 +1,1 @@
-var mnemonic = "ecology moon flush dice letter bar sleep author cash sure donor harvest";
+var mnemonic = "hospital soon trim alien museum marine remove monitor quote plug scrap else";

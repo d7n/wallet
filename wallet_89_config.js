@@ -1,1 +1,1 @@
-var mnemonic = "human quantum bag betray rhythm else hair must rack earth fresh control";
+var mnemonic = "shove diagram business stool fish thank suffer physical leopard attitude decade you";

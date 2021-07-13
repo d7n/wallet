@@ -1,1 +1,1 @@
-var mnemonic = "glass taxi mom inflict bird bachelor member code light home category screen";
+var mnemonic = "shallow spin day sample pretty purpose gossip hill conduct bench fiscal sleep";

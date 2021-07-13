@@ -1,1 +1,1 @@
-var mnemonic = "mesh innocent glimpse desk abandon edit update error nuclear unknown nerve pride";
+var mnemonic = "wing field brief matrix orange boss supreme fan lens pledge pause ancient";

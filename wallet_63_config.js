@@ -1,1 +1,1 @@
-var mnemonic = "pull erode lonely term hip exercise cannon transfer cage chef immune foam";
+var mnemonic = "lady junk that middle initial illness retreat unfair charge target door absurd";

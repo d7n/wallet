@@ -1,1 +1,1 @@
-var mnemonic = "cake neutral peace lonely logic boy defy verb exhaust draft size pet";
+var mnemonic = "jelly vague detail decline dilemma inhale hazard own globe sick note any";

@@ -1,1 +1,1 @@
-var mnemonic = "seminar post east govern rule era black minimum slogan small during match";
+var mnemonic = "away chimney want term end replace dignity coach distance minor fold girl";

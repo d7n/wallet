@@ -1,1 +1,1 @@
-var mnemonic = "flag canyon goddess fluid thank knock act cousin museum must trend save";
+var mnemonic = "satoshi fox drama path year fun moment hover buffalo market present chapter";

@@ -1,1 +1,1 @@
-var mnemonic = "bachelor regular relief mirror obscure gas fortune pledge tiger actor echo senior";
+var mnemonic = "also aspect bargain sad energy beauty silver outer wild leaf embrace yard";

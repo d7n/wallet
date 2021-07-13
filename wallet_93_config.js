@@ -1,1 +1,1 @@
-var mnemonic = "beauty cigar maximum fish story picnic figure athlete consider prize slab leopard";
+var mnemonic = "atom kid pony this reveal endorse night trim history crop strategy enlist";

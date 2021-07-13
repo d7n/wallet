@@ -1,1 +1,1 @@
-var mnemonic = "smoke check alert forward staff game recall ask today tool next siege";
+var mnemonic = "daring amazing wear bonus nose second swamp sustain spare snack paper reveal";

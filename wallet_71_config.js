@@ -1,1 +1,1 @@
-var mnemonic = "afford rough certain light borrow shift bread hazard lounge language mom minimum";
+var mnemonic = "team goose inherit tortoise alarm arch another use receive steel toy bar";

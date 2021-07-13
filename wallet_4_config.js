@@ -1,1 +1,1 @@
-var mnemonic = "stick drill sure enhance eternal citizen live tennis stock since fade save";
+var mnemonic = "typical spare drink mask tourist enter priority six alarm behind piece soap";

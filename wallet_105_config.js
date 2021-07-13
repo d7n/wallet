@@ -1,1 +1,1 @@
-var mnemonic = "cube dune champion arctic bridge bubble rally source bulb brown hair finish";
+var mnemonic = "polar cry evolve shaft canoe sauce when pave cricket virus episode lecture";

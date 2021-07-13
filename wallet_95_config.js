@@ -1,1 +1,1 @@
-var mnemonic = "off vanish brisk congress monkey kick small plate rigid ethics inspire lemon";
+var mnemonic = "evoke rival salmon chimney invest nurse entry phrase hamster vivid inmate expand";

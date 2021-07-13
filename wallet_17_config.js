@@ -1,1 +1,1 @@
-var mnemonic = "slam truly ketchup huge cigar output sun jealous canoe fantasy empty fever";
+var mnemonic = "mixture gasp neck render stool crash hold summer lava column embrace inmate";

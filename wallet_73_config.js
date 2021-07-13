@@ -1,1 +1,1 @@
-var mnemonic = "obvious collect negative sustain illegal wait invest atom plug tongue country account";
+var mnemonic = "wreck chicken speak tennis actress glance matrix review dad increase manual remain";

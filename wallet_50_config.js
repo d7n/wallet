@@ -1,1 +1,1 @@
-var mnemonic = "section protect sight imitate casino scatter speed argue mimic garden rabbit problem";
+var mnemonic = "child blue snack envelope such world example kit plunge muscle unusual advance";

@@ -1,1 +1,1 @@
-var mnemonic = "boy oxygen casino gloom tornado major enroll blouse leaf salt degree spike";
+var mnemonic = "true target firm year siren crazy call lend snake tone flight foot";
