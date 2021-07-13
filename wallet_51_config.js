@@ -1,1 +1,1 @@
-var mnemonic = "sibling inform march chunk topic become resource lemon catch town crucial sponsor";
+var mnemonic = "notice crop mail sugar shiver rich neglect keep illness doll matter oval";

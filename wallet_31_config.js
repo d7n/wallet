@@ -1,1 +1,1 @@
-var mnemonic = "lunch rely library silly seek use fossil butter burden cruise second pair";
+var mnemonic = "one eye belt guilt antique pyramid relax dish check action tragic delay";

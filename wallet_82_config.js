@@ -1,1 +1,1 @@
-var mnemonic = "soccer illegal aspect myth keep giggle oak bag genuine meat since coin";
+var mnemonic = "antenna denial tunnel chief deputy settle sniff excess episode whale essay mule";

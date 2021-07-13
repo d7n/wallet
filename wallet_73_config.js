@@ -1,1 +1,1 @@
-var mnemonic = "need express powder usage february simple predict vacant until slush ice example";
+var mnemonic = "report force march volume permit gloom traffic logic inject already dinosaur hamster";

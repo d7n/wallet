@@ -1,1 +1,1 @@
-var mnemonic = "old clinic legal wave young trap elevator interest tunnel border panel two";
+var mnemonic = "addict phone mimic noise marine net boy eye guitar chair private airport";

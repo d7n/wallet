@@ -1,1 +1,1 @@
-var mnemonic = "metal front satoshi nut prison cricket element erupt video outside boil cabbage";
+var mnemonic = "brand review vivid love icon antique cute ritual spice guide cotton source";

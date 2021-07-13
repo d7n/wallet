@@ -1,1 +1,1 @@
-var mnemonic = "gloom team magic mean cable alcohol meadow couple december female announce review";
+var mnemonic = "cluster palace bulk conduct expire system deputy where easily tragic ozone lyrics";

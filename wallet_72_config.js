@@ -1,1 +1,1 @@
-var mnemonic = "merge produce fashion three group web cover color cause antenna salmon color";
+var mnemonic = "room liar tag rocket during memory pottery obvious radio color dismiss devote";

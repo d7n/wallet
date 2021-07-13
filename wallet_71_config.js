@@ -1,1 +1,1 @@
-var mnemonic = "elite used grunt company street disease fame valid smoke distance cancel game";
+var mnemonic = "cruise number whip admit dinosaur leader iron maze rather shoulder brown diamond";

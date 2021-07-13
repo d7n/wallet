@@ -1,1 +1,1 @@
-var mnemonic = "wide audit speed gap object stand retreat fresh slender grab ability unaware";
+var mnemonic = "top risk picture laugh jewel swear soft innocent drill virtual pipe alter";

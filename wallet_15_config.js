@@ -1,1 +1,1 @@
-var mnemonic = "immense bonus riot gallery country advance wide room transfer head iron luggage";
+var mnemonic = "nose flower cool giraffe opinion enforce blind suspect blur bless protect outside";

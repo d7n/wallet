@@ -1,1 +1,1 @@
-var mnemonic = "drastic reject crash task swallow already impact payment tomato enable remove simple";
+var mnemonic = "select weird tell bag this unfair wing imitate science bunker sheriff climb";

@@ -1,1 +1,1 @@
-var mnemonic = "story chest swap frost label display noble under bunker hybrid address suit";
+var mnemonic = "puzzle uncle monitor myth equal plug light view quarter gossip exhaust warrior";

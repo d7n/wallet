@@ -1,1 +1,1 @@
-var mnemonic = "ladder antenna reopen divert bike scatter file visit jelly feed wagon alpha";
+var mnemonic = "uncle swap blossom kind evolve course guide cinnamon remind allow stairs addict";

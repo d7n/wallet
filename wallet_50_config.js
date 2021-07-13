@@ -1,1 +1,1 @@
-var mnemonic = "talent spice nose myth field analyst ring rely squirrel sketch option fix";
+var mnemonic = "defense sea dish marble spell butter cable toe gap step shine monster";

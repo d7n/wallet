@@ -1,1 +1,1 @@
-var mnemonic = "crowd ketchup prefer virus violin snake satisfy dove toast exile foam test";
+var mnemonic = "north punch party pizza motion electric dog early foam pride put jealous";

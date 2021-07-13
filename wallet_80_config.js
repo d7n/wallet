@@ -1,1 +1,1 @@
-var mnemonic = "lyrics rough boil resist jaguar charge labor pattern pig crisp margin knee";
+var mnemonic = "crime gauge hunt sell crouch labor foam palace bench become opera position";

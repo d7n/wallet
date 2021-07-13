@@ -1,1 +1,1 @@
-var mnemonic = "note leisure genre sure catch vibrant story toss skirt entry tragic behind";
+var mnemonic = "guard quit violin divert stool sauce worth pig miracle know jazz hole";

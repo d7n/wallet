@@ -1,1 +1,1 @@
-var mnemonic = "keep tomorrow sight fee sport frame nasty offer pony claim load sport";
+var mnemonic = "anger chimney below agent club capable gown turkey afraid wait creek acoustic";

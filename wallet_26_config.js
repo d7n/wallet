@@ -1,1 +1,1 @@
-var mnemonic = "rich learn lunch amused west prepare prefer scorpion regular just three lyrics";
+var mnemonic = "gadget kangaroo where hello expand approve easy bird canal moral throw toy";

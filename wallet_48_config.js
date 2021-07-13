@@ -1,1 +1,1 @@
-var mnemonic = "dash tonight model ship seminar twenty book wait speed robot journey solid";
+var mnemonic = "husband citizen pond jacket segment able title tray endorse cheap nurse doctor";

@@ -1,1 +1,1 @@
-var mnemonic = "hidden empty broccoli enjoy onion clay quarter dilemma desert media riot crash";
+var mnemonic = "charge spell file pond jealous there protect lucky final staff tomato wink";

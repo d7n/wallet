@@ -1,1 +1,1 @@
-var mnemonic = "extra firm satisfy indicate audit champion uniform prize dentist need giggle spin";
+var mnemonic = "inherit survey width fabric bus kingdom voyage clump zero denial fix claw";

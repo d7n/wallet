@@ -1,1 +1,1 @@
-var mnemonic = "basic mix speed whisper note mix glide office length solid seat neck";
+var mnemonic = "orient need master raven useful someone final emerge nephew sure two surge";

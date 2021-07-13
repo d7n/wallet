@@ -1,1 +1,1 @@
-var mnemonic = "claim proud struggle false brass result fabric hawk aspect worth car pear";
+var mnemonic = "bar monitor warfare zebra afford pink want elevator wrestle exhaust sister cactus";

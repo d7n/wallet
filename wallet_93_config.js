@@ -1,1 +1,1 @@
-var mnemonic = "join neglect arm cabbage stem enemy digital fat deputy because endless city";
+var mnemonic = "eight clever over profit deer achieve trial fever error opinion gaze rude";

@@ -1,1 +1,1 @@
-var mnemonic = "jump sail blanket alarm mobile hollow duck cause error donor poet then";
+var mnemonic = "rude tank system regular frequent bench target mechanic poverty ribbon desk brand";

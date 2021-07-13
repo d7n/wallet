@@ -1,1 +1,1 @@
-var mnemonic = "exile return brain soldier wealth luggage bitter win admit destroy erase shed";
+var mnemonic = "priority theory minute enter glare vendor lift flight power drastic hill limit";

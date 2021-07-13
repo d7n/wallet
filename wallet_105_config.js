@@ -1,1 +1,1 @@
-var mnemonic = "vessel actor ranch tornado salon quality episode dose drip major act quick";
+var mnemonic = "civil garment glue check entire stomach afford shell sock double basket visa";

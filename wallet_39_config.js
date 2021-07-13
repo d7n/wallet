@@ -1,1 +1,1 @@
-var mnemonic = "ribbon tomorrow bomb proof crew lake deputy whip obtain rate silk rebuild";
+var mnemonic = "female reopen tube sword place elite doll multiply motion quantum ten render";

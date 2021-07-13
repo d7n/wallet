@@ -1,1 +1,1 @@
-var mnemonic = "anchor more super arrest find rebel rare grocery ostrich term fire depth";
+var mnemonic = "remove lens place valid trial soon face middle under jazz napkin mother";

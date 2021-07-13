@@ -1,1 +1,1 @@
-var mnemonic = "dish effort flock mesh surface dial name afraid warrior sport lunch text";
+var mnemonic = "chief talk viable material hurt cabbage cigar sport solution swamp cruise pepper";

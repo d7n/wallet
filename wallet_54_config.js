@@ -1,1 +1,1 @@
-var mnemonic = "pass blouse laptop knee jaguar radio sunny zero hat symbol shallow oil";
+var mnemonic = "proud sentence robust cigar field mass monster blind fun digital panther ahead";

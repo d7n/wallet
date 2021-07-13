@@ -1,1 +1,1 @@
-var mnemonic = "loop truck inside moment duck shoot rapid bone dance echo badge verb";
+var mnemonic = "frame toy food soccer yard solve glass ice fall prison garment sponsor";

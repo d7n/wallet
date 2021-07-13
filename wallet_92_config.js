@@ -1,1 +1,1 @@
-var mnemonic = "eye glove gauge parade swift away firm bench wise desert rookie ahead";
+var mnemonic = "hill kiss nerve shed useful license option step melt barely worth file";

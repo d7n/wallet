@@ -1,1 +1,1 @@
-var mnemonic = "common blanket seed room stage begin donor target miracle fancy hip endorse";
+var mnemonic = "enact shiver buyer snow used torch impact pelican peanut setup mixture profit";

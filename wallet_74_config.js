@@ -1,1 +1,1 @@
-var mnemonic = "armor afraid crystal walk minute vendor suffer nuclear often noise today elder";
+var mnemonic = "below gesture session rotate figure way scatter behave check debris armed vote";

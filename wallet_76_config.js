@@ -1,1 +1,1 @@
-var mnemonic = "language upper domain equal already limit rabbit gun memory cabbage audit horror";
+var mnemonic = "enrich husband sock hungry unique warm wonder zero feel vacuum together river";

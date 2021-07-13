@@ -1,1 +1,1 @@
-var mnemonic = "fever general enhance pink farm bomb escape discover blast often approve angry";
+var mnemonic = "picnic brush involve light army mask corn primary scrap another tumble circle";

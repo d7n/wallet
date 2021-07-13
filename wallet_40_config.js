@@ -1,1 +1,1 @@
-var mnemonic = "laptop pigeon picture accuse jar loud drive unhappy venture peasant law boss";
+var mnemonic = "end clever man clap aerobic illness vague sentence skirt dilemma industry crumble";

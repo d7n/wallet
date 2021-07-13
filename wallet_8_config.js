@@ -1,1 +1,1 @@
-var mnemonic = "student trip zone theme swift attitude lesson pulp shuffle dream impact gain";
+var mnemonic = "tunnel rocket supreme enemy fish finish prevent attract sunset must noodle lunch";

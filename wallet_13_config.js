@@ -1,1 +1,1 @@
-var mnemonic = "truly buffalo solve pave nest minor fringe media alpha neglect future industry";
+var mnemonic = "melody electric message pair swarm echo grab enemy shock autumn mirror cook";

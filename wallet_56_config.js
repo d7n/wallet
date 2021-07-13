@@ -1,1 +1,1 @@
-var mnemonic = "cricket expand clinic august time silk symbol wait winter maid enact lazy";
+var mnemonic = "phrase weekend slush cute frown ripple rabbit spice twin basic zone federal";

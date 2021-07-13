@@ -1,1 +1,1 @@
-var mnemonic = "soon scatter okay slush gap lift arrest rubber embark powder fine retreat";
+var mnemonic = "dumb echo festival play effort install derive clerk sphere dragon clap popular";

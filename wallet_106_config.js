@@ -1,1 +1,1 @@
-var mnemonic = "basic noble satisfy cover advance mammal artefact like virus boss stone throw";
+var mnemonic = "snake wide own broken naive wait invite keen ribbon dial skin chimney";

@@ -1,1 +1,1 @@
-var mnemonic = "sand brain learn ketchup give federal pet cause license friend inspire benefit";
+var mnemonic = "safe elbow egg pair wood hire merge token eager mushroom machine track";

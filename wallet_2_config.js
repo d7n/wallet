@@ -1,1 +1,1 @@
-var mnemonic = "town mosquito unlock pretty unknown give play either ivory admit skull garment";
+var mnemonic = "lottery strike light toe action spy turtle stone mean solution suspect quarter";

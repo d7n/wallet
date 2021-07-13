@@ -1,1 +1,1 @@
-var mnemonic = "ready goose knock sibling alpha elegant door anger screen bamboo never pattern";
+var mnemonic = "identify sing staff twelve recall analyst youth cup grace copper horn teach";

@@ -1,1 +1,1 @@
-var mnemonic = "develop picnic bus quantum citizen crime all cave used pool project saddle";
+var mnemonic = "erosion cherry region tower end until silly short hazard cancel acquire slide";

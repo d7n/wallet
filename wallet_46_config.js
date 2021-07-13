@@ -1,1 +1,1 @@
-var mnemonic = "either unhappy sail behave mosquito phrase hawk cable daughter file plug crater";
+var mnemonic = "exact hero about maze dash invest enemy hair company tone scorpion matter";

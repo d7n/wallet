@@ -1,1 +1,1 @@
-var mnemonic = "diet lobster tennis reflect abstract tomato person mule ozone direct juice shaft";
+var mnemonic = "normal license average ritual like stuff vote pill health busy galaxy cause";

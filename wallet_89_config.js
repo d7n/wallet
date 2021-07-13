@@ -1,1 +1,1 @@
-var mnemonic = "feel below trial put perfect wheel tiny reduce trigger alien shift grunt";
+var mnemonic = "trust slow more off harsh flight hybrid usage sound copper must manage";

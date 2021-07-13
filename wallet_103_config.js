@@ -1,1 +1,1 @@
-var mnemonic = "lucky clinic awkward snap solid funny always oval turtle senior moon pizza";
+var mnemonic = "day often smile outdoor topple royal victory powder friend chicken resemble media";

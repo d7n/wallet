@@ -1,1 +1,1 @@
-var mnemonic = "trigger hard wild panther gesture art dentist express oak toddler borrow critic";
+var mnemonic = "palm monitor add lumber siege work tomorrow embody flame engage ritual sustain";

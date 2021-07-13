@@ -1,1 +1,1 @@
-var mnemonic = "off describe pink security excuse biology subway west tray broom push carbon";
+var mnemonic = "short warm resemble chaos what double pottery live strategy vanish believe coyote";

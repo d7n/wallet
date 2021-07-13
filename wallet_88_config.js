@@ -1,1 +1,1 @@
-var mnemonic = "breeze evolve prevent clever eye device diet power old danger father hawk";
+var mnemonic = "rule soup sword local there bulb breeze stamp muffin logic hazard crunch";

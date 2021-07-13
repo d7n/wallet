@@ -1,1 +1,1 @@
-var mnemonic = "monster glide work wrist phrase seminar lizard recycle panic join suit put";
+var mnemonic = "neither car dry knock donate become cash quote adapt steak poverty fame";

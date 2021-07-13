@@ -1,1 +1,1 @@
-var mnemonic = "fish fade give reopen betray dish worth ghost verb one laugh urge";
+var mnemonic = "bargain ask sad boost endorse paddle angry hundred swim wreck oil melody";

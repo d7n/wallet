@@ -1,1 +1,1 @@
-var mnemonic = "plastic primary ignore radar lottery width chapter top major nest spice mammal";
+var mnemonic = "accident clock myth question estate merry foam blossom vicious cereal require effort";

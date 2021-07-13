@@ -1,1 +1,1 @@
-var mnemonic = "burger wear street easy kiwi crystal worry bless water jump diagram famous";
+var mnemonic = "chat soldier word season acid country throw fragile patch aunt swim sock";

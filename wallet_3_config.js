@@ -1,1 +1,1 @@
-var mnemonic = "apple expire denial kidney prosper wife light net orange pond picnic pretty";
+var mnemonic = "menu merit beyond rain unfair hard prevent rug brief sponsor runway little";

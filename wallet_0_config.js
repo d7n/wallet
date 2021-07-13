@@ -1,1 +1,1 @@
-var mnemonic = "protect spatial owner order basket husband eagle castle garbage near material trade";
+var mnemonic = "movie chef decrease olive large armor thought news today fame thunder pact";

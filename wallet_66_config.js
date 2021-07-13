@@ -1,1 +1,1 @@
-var mnemonic = "blouse cereal ready cook alarm estate dwarf ivory banana pistol disagree report";
+var mnemonic = "wear ridge layer strategy advance fantasy pull escape guide false duck all";

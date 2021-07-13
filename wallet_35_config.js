@@ -1,1 +1,1 @@
-var mnemonic = "expire portion shy salon vanish congress asset prosper index forest decide punch";
+var mnemonic = "horn top test amount need grow safe bind glow annual inhale trial";

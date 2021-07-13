@@ -1,1 +1,1 @@
-var mnemonic = "issue rack giraffe sick warrior caution abuse crunch setup faint gas plate";
+var mnemonic = "scale man fat undo ten sample thumb misery genuine provide snack message";

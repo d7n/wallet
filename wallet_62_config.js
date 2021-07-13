@@ -1,1 +1,1 @@
-var mnemonic = "mesh small team absent keen keen verify favorite unfair mutual tip kit";
+var mnemonic = "exotic quit term puzzle hungry creek hover crime mesh horn faculty aim";

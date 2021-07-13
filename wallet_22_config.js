@@ -1,1 +1,1 @@
-var mnemonic = "mention toward crouch better sleep recycle ketchup copy fox purchase glare cause";
+var mnemonic = "medal filter excite online require arctic warfare there light crazy rival payment";

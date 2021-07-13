@@ -1,1 +1,1 @@
-var mnemonic = "keep vivid combine pipe mansion word permit pulse super useless october catalog";
+var mnemonic = "three embrace right casual silver grant reopen pull glow sudden bright safe";

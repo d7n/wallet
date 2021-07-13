@@ -1,1 +1,1 @@
-var mnemonic = "unusual deposit endorse scheme law turtle print still armed dish stick ostrich";
+var mnemonic = "balcony giggle odor agree number poet wolf can night fashion door arm";

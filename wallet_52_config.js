@@ -1,1 +1,1 @@
-var mnemonic = "consider melody priority electric nasty purpose rookie speak loyal protect opera bamboo";
+var mnemonic = "warm reduce upgrade reunion sail father catch swear juice buyer trial giraffe";

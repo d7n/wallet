@@ -1,1 +1,1 @@
-var mnemonic = "ocean endorse bounce pizza weekend agree orange month snake when never cube";
+var mnemonic = "side return slogan quantum soldier grunt flee vendor plug hair village nominee";

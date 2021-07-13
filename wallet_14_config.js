@@ -1,1 +1,1 @@
-var mnemonic = "elegant combine idle battle cave bonus start boat famous boil detect hen";
+var mnemonic = "toss dog best imitate pill gallery pink athlete analyst female crazy piece";

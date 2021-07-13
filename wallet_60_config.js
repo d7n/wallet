@@ -1,1 +1,1 @@
-var mnemonic = "top under east chuckle shiver lawsuit park sample sleep long burden dose";
+var mnemonic = "online monkey mango horror pride exhibit congress impact then shuffle math enable";

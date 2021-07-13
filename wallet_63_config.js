@@ -1,1 +1,1 @@
-var mnemonic = "squirrel fashion index tower benefit lesson upgrade weird public shrimp loyal abstract";
+var mnemonic = "pond wedding congress stage taxi brain pioneer robot fine husband brain beach";

@@ -1,1 +1,1 @@
-var mnemonic = "merit face clinic member legal satisfy rapid maximum edge journey close common";
+var mnemonic = "minute rural aware desk wheat response vital jealous suffer network jeans raccoon";

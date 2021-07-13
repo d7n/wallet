@@ -1,1 +1,1 @@
-var mnemonic = "danger section deputy gadget market document grid denial earth portion brief allow";
+var mnemonic = "edge ten slide bus snake leg behave black like correct accident vast";

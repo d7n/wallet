@@ -1,1 +1,1 @@
-var mnemonic = "design endless case federal parent rural desk art aim girl claw refuse";
+var mnemonic = "absent genuine shoot spare half wing plunge salt label error bonus pole";

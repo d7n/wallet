@@ -1,1 +1,1 @@
-var mnemonic = "pitch order trick rebel loop lumber remove bulk music soup taste energy";
+var mnemonic = "smile pass choose embrace witness liquid pink soft juice outside staff trend";

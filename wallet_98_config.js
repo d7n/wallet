@@ -1,1 +1,1 @@
-var mnemonic = "field govern orphan gallery matter orphan depth decorate enhance animal note auto";
+var mnemonic = "brain rug fence enlist tortoise direct poverty undo predict slab climb ranch";

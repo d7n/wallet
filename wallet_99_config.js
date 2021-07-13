@@ -1,1 +1,1 @@
-var mnemonic = "bulk misery you scissors rifle reason rally possible rather fuel tuition wrong";
+var mnemonic = "enjoy rotate scout ahead arrive under reason say purse defense quit noble";

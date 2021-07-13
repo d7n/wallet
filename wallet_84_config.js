@@ -1,1 +1,1 @@
-var mnemonic = "book april banana bulk height update village gain purity shed drip setup";
+var mnemonic = "cherry drift badge hold enjoy shock proof arrow lawn venue rifle laundry";

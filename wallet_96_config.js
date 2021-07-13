@@ -1,1 +1,1 @@
-var mnemonic = "chronic spoon quality aerobic wide umbrella cliff siren neglect orbit fragile stumble";
+var mnemonic = "friend elite arctic nose ugly chef coyote appear omit elegant blue truth";

@@ -1,1 +1,1 @@
-var mnemonic = "spawn body pigeon orbit gasp rubber bacon path opinion gesture mad banner";
+var mnemonic = "exhaust lobster grain acquire hip pond misery hedgehog shift impact wisdom invest";

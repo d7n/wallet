@@ -1,1 +1,1 @@
-var mnemonic = "expand more circle wear include average trigger equal east moment portion manage";
+var mnemonic = "dutch okay top blanket myself plug marine casual three city frown afford";

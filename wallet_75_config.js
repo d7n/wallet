@@ -1,1 +1,1 @@
-var mnemonic = "bag amateur coin april cruise buzz eternal aware urge extend empty cereal";
+var mnemonic = "always first virtual autumn spell enforce cable mind torch fine bitter volume";

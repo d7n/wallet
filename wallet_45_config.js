@@ -1,1 +1,1 @@
-var mnemonic = "edge acid elevator whip employ gain urban satisfy march observe later round";
+var mnemonic = "gossip inquiry survey cluster hospital shop ketchup fat group arena else phrase";

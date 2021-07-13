@@ -1,1 +1,1 @@
-var mnemonic = "grass funny evolve recycle home claim ordinary nurse slogan away across awake";
+var mnemonic = "smile pulse ski razor switch behave loud talk hobby vivid casual brass";

@@ -1,1 +1,1 @@
-var mnemonic = "trash disorder actress bitter clerk cake crouch dream labor vital ugly truly";
+var mnemonic = "whale keep misery client rent drip memory rack base pass dizzy gain";

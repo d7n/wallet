@@ -1,1 +1,1 @@
-var mnemonic = "parade surge ready run trick violin peasant myth crane thumb party hire";
+var mnemonic = "aim maximum slot senior never soda treat multiply hundred blossom ship calm";

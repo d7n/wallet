@@ -1,1 +1,1 @@
-var mnemonic = "page rough must correct cube divert twin anchor palm smooth pyramid right";
+var mnemonic = "goat canal glove inflict athlete kiss gas kick woman captain shock all";

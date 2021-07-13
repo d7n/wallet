@@ -1,1 +1,1 @@
-var mnemonic = "define salad eyebrow base into wagon coral indicate point expand famous apart";
+var mnemonic = "artefact alert match mail easy frame ceiling olympic rule lobster harsh rule";
