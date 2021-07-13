@@ -1,1 +1,1 @@
-var mnemonic = "round dilemma jewel dragon clump plate reflect forum end squeeze science cry";
+var mnemonic = "door rhythm know current stamp high before offer voyage section steak zoo";

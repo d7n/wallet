@@ -1,1 +1,1 @@
-var mnemonic = "music midnight need canoe fossil kiss identify gun yellow scatter evidence midnight";
+var mnemonic = "fall explain foster few vehicle suffer science inhale curious crawl enroll slab";

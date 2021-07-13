@@ -1,1 +1,1 @@
-var mnemonic = "put seven panic holiday idea neck rent world weird error soap one";
+var mnemonic = "design visual badge crash absent rug drift surround crush future echo shallow";

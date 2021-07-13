@@ -1,1 +1,1 @@
-var mnemonic = "lemon injury pass enable put neutral wrong lecture museum flee vacuum chest";
+var mnemonic = "accident length ill frog top lock budget easy firm sand clay sample";

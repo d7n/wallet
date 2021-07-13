@@ -1,1 +1,1 @@
-var mnemonic = "injury prison apology hockey camera chapter magnet chapter attack wing salon ramp";
+var mnemonic = "lend answer shadow educate wage weird wet dirt uncover van blush pelican";

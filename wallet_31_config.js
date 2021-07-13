@@ -1,1 +1,1 @@
-var mnemonic = "scheme sting relax slight pass cereal carry alert curtain wet worry pause";
+var mnemonic = "chase over win leader frost crouch lyrics regret clump unknown donkey file";

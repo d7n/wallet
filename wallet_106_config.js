@@ -1,1 +1,1 @@
-var mnemonic = "demand abandon focus service bonus equip door inspire rug perfect reduce power";
+var mnemonic = "guitar fall flavor umbrella planet couch brave gain fossil negative hybrid script";

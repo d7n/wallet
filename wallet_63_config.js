@@ -1,1 +1,1 @@
-var mnemonic = "bar remove group mirror federal soldier hurt garbage zebra case boil cousin";
+var mnemonic = "hobby note atom destroy melody record word happy combine bullet mechanic awake";

@@ -1,1 +1,1 @@
-var mnemonic = "slab tool pulp curious rookie lounge wear denial stove truck there picnic";
+var mnemonic = "bulb ribbon honey impact mirror column knock vintage equip baby salute huge";

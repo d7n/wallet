@@ -1,1 +1,1 @@
-var mnemonic = "amused check curtain student category lend now bitter humor half almost secret";
+var mnemonic = "napkin then disease wisdom type raccoon tail token immense laptop hello clog";

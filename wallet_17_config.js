@@ -1,1 +1,1 @@
-var mnemonic = "song food envelope brave will jazz raw warfare peanut finish grow demand";
+var mnemonic = "flight menu enough orchard equip oak guide adjust approve asthma reflect fine";

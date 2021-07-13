@@ -1,1 +1,1 @@
-var mnemonic = "palm buzz attract bus eternal thank either razor arrest bread knock sunny";
+var mnemonic = "genre blast machine genius behind laugh region gallery wage food gasp matter";

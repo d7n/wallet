@@ -1,1 +1,1 @@
-var mnemonic = "habit safe mask dilemma sword chat same picnic toast patch shoot pipe";
+var mnemonic = "ripple giggle where dawn pony fatigue van usual memory owner impact pupil";

@@ -1,1 +1,1 @@
-var mnemonic = "slice fire giggle mule bid canvas rude lemon avoid promote rough provide";
+var mnemonic = "suggest lesson acquire guard consider margin edge camera walnut degree security prefer";

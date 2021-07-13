@@ -1,1 +1,1 @@
-var mnemonic = "usual teach power text tooth buzz ribbon latin vacuum gentle mango hero";
+var mnemonic = "catch sponsor wrong myself ecology moral ancient noble lens brush assist slice";

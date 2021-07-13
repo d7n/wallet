@@ -1,1 +1,1 @@
-var mnemonic = "define burger motor long original federal arrive divorce unit can fresh green";
+var mnemonic = "attitude bag economy right give real satisfy issue rhythm oven immense gasp";

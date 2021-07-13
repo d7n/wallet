@@ -1,1 +1,1 @@
-var mnemonic = "service umbrella slow oppose helmet curtain spoon tomorrow owner face relief elder";
+var mnemonic = "often armor ecology autumn emotion liberty snake demand possible shallow ensure repair";

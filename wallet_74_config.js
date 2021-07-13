@@ -1,1 +1,1 @@
-var mnemonic = "physical wear angle wealth whip aware mother smoke feel frown pony ghost";
+var mnemonic = "select axis dice among asthma essence country old accident stem crater similar";

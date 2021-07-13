@@ -1,1 +1,1 @@
-var mnemonic = "round conduct prefer rare awake decline aunt divide garment forum exhibit remind";
+var mnemonic = "maple rich warfare border tobacco asset escape luxury wine shuffle victory sweet";

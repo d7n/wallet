@@ -1,1 +1,1 @@
-var mnemonic = "actress divert youth equal guard subway depth appear error amateur north holiday";
+var mnemonic = "spread hood pass boring sick jump quick elite until nerve hair term";

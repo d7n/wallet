@@ -1,1 +1,1 @@
-var mnemonic = "draw doll true caution time winner amateur junior rib gadget liquid repeat";
+var mnemonic = "camera motor first give emerge agent resource expire body pony wrong sweet";

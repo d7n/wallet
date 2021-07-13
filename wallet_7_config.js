@@ -1,1 +1,1 @@
-var mnemonic = "supreme interest olive labor main benefit admit human cute float spoon aerobic";
+var mnemonic = "say please walnut comic matter fabric uphold castle rubber because sugar actress";

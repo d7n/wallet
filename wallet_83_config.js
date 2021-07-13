@@ -1,1 +1,1 @@
-var mnemonic = "nephew yard rail tackle wash student own luggage endless letter seek purse";
+var mnemonic = "ride ladder dilemma civil level bless barrel ride theme world doll melody";

@@ -1,1 +1,1 @@
-var mnemonic = "banner pipe barely aerobic satoshi twin fringe usage power earn law awkward";
+var mnemonic = "type equal myth sausage degree cycle gravity agree orchard educate census amount";

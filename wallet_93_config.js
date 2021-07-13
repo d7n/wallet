@@ -1,1 +1,1 @@
-var mnemonic = "april shrimp key blame capable quantum rabbit refuse banana push govern rough";
+var mnemonic = "spy green quantum swim elevator useful meadow frame doll panic giggle unaware";

@@ -1,1 +1,1 @@
-var mnemonic = "mango sun urban portion business prepare saddle toy divorce abstract such public";
+var mnemonic = "bunker squeeze ranch prepare episode hunt morning flavor oval heart alter swear";

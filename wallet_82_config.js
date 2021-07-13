@@ -1,1 +1,1 @@
-var mnemonic = "jungle collect rude dog demise clump innocent enact divide cry refuse pet";
+var mnemonic = "idea logic tortoise bench robust tube path manage analyst cage manual video";

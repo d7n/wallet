@@ -1,1 +1,1 @@
-var mnemonic = "music best sister jazz twist sell lock time service huge gas allow";
+var mnemonic = "wall banner dune clinic glide gauge rookie youth gentle trigger side festival";

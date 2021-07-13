@@ -1,1 +1,1 @@
-var mnemonic = "only fish arrow blanket bamboo axis reduce bus clinic adjust space bulk";
+var mnemonic = "profit improve inhale cruel sea fix pistol ankle naive wine coach noise";

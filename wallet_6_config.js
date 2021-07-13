@@ -1,1 +1,1 @@
-var mnemonic = "latin waste heavy motor future tube obvious kid doll inner parent hold";
+var mnemonic = "sphere oil leg luxury cargo drum proof about large engine depth pelican";

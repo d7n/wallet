@@ -1,1 +1,1 @@
-var mnemonic = "gorilla artefact volcano crystal zebra rookie liberty gym crystal ribbon valley ecology";
+var mnemonic = "awful among concert distance wing prefer suit index human erosion logic hammer";

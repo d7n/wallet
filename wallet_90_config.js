@@ -1,1 +1,1 @@
-var mnemonic = "rapid arch transfer evoke veteran obvious palm abstract park olympic warfare guess";
+var mnemonic = "say thank cloth recipe marriage math broken shoot erosion party alley decline";

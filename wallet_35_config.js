@@ -1,1 +1,1 @@
-var mnemonic = "trash ask reveal tackle glory spread okay can glove guess kit gym";
+var mnemonic = "poverty actor hood space abandon cave worry minute property vessel want example";

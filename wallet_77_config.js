@@ -1,1 +1,1 @@
-var mnemonic = "volcano hen absurd way avocado weather august exhaust pig gate vital rally";
+var mnemonic = "second math bubble merit audit add nice pond lawsuit animal retreat hungry";

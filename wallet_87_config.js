@@ -1,1 +1,1 @@
-var mnemonic = "uphold indicate sister person certain acquire tool hole pumpkin opera calm swift";
+var mnemonic = "acquire swift blame captain fog way reject include beach venue pass pipe";

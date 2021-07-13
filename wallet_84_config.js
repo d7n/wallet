@@ -1,1 +1,1 @@
-var mnemonic = "guess still practice crime rail awesome process image upper salad frog float";
+var mnemonic = "jaguar subway lake mask length silent other virtual jealous raw double barely";

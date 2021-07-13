@@ -1,1 +1,1 @@
-var mnemonic = "gallery plunge hawk solid rate vote shadow hungry uncle cream upgrade man";
+var mnemonic = "require police cheese witness tunnel alcohol walnut news music spread across enhance";

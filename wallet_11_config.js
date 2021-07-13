@@ -1,1 +1,1 @@
-var mnemonic = "disease mansion twenty car sniff two valid worth stem reflect museum spread";
+var mnemonic = "hole system subway magnet metal devote curve alien bundle wheel route leader";

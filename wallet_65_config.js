@@ -1,1 +1,1 @@
-var mnemonic = "cage sock violin element unveil adult fiction suspect gift circle lecture sentence";
+var mnemonic = "cereal marine weather blood eager august fossil mind ill coconut way material";

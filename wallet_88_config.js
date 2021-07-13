@@ -1,1 +1,1 @@
-var mnemonic = "cattle prefer field token cherry globe alley lumber behind asthma panda meadow";
+var mnemonic = "south wheel asthma kitten music choice replace document travel output stool mixed";

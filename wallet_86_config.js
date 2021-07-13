@@ -1,1 +1,1 @@
-var mnemonic = "plunge burst discover wall slide surge mercy journey card identify wrap panic";
+var mnemonic = "town include glove balcony banana space toward title gorilla citizen accident account";

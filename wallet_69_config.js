@@ -1,1 +1,1 @@
-var mnemonic = "attend couple shift slice first rural cactus pink creek arrive pond morning";
+var mnemonic = "question know body uniform asthma gate tenant couple gap pet general cupboard";

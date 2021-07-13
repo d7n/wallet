@@ -1,1 +1,1 @@
-var mnemonic = "educate valley time sign umbrella web dog radar echo lend label below";
+var mnemonic = "eight merit lake idle ill carbon month news eagle artwork flock tag";

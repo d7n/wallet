@@ -1,1 +1,1 @@
-var mnemonic = "army pluck involve final sketch know dust lava crystal sorry carbon purity";
+var mnemonic = "agree smooth cause slogan quality venture witness elevator expand hire pudding extend";

@@ -1,1 +1,1 @@
-var mnemonic = "response ugly act able sick dinosaur rookie disease describe salmon glad cruise";
+var mnemonic = "mistake scheme hidden term bar bean pet hole blood kidney army cannon";

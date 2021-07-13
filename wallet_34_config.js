@@ -1,1 +1,1 @@
-var mnemonic = "carry excuse produce spoil energy strong initial faith observe subway prefer idle";
+var mnemonic = "fashion claim sock phone exact shell artwork tobacco pumpkin cancel silly rival";

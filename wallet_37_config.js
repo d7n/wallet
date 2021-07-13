@@ -1,1 +1,1 @@
-var mnemonic = "hazard scare echo seminar lemon senior inch bullet mixture horse pledge cargo";
+var mnemonic = "gym offer weasel night pledge ginger orphan bicycle rug sort build copy";

@@ -1,1 +1,1 @@
-var mnemonic = "shoot vessel bamboo robust celery travel keen ship rely evidence ordinary inspire";
+var mnemonic = "fire now brisk fiction fix glue debris muscle snow goose behave hammer";

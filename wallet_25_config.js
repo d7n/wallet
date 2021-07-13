@@ -1,1 +1,1 @@
-var mnemonic = "exhibit slight fabric become fresh potato sugar canvas inner act bike noise";
+var mnemonic = "rapid hotel account cheese artefact tumble moon surround jewel win network member";

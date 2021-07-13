@@ -1,1 +1,1 @@
-var mnemonic = "rely employ exhaust drama payment design giggle monitor grape winner neck portion";
+var mnemonic = "drink depart now earn circle impact multiply exclude wrestle medal inside bless";

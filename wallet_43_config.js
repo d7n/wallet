@@ -1,1 +1,1 @@
-var mnemonic = "month surround diet repair uphold youth face stomach negative where page accident";
+var mnemonic = "spoon click beauty shrug denial payment ask hub when crunch double exchange";

@@ -1,1 +1,1 @@
-var mnemonic = "close kind dog erupt multiply dress group detail inhale blame shadow torch";
+var mnemonic = "arctic beyond wagon immune buyer globe body can annual bamboo chair unique";

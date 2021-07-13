@@ -1,1 +1,1 @@
-var mnemonic = "barrel cradle random top guess evidence smooth master oppose hint crack weasel";
+var mnemonic = "floor ceiling adapt sting laundry kind expect butter forest track endless method";

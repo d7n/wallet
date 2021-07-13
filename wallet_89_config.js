@@ -1,1 +1,1 @@
-var mnemonic = "camp top rigid craft mixture mountain twin edit plastic sketch film choice";
+var mnemonic = "layer retreat filter gold dog october slim thrive kite stairs dry reduce";

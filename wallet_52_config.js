@@ -1,1 +1,1 @@
-var mnemonic = "start dice monster arm clinic thought dress intact light connect emotion stadium";
+var mnemonic = "supply violin quick panic layer glove other secret hour fine ensure novel";

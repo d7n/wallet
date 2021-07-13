@@ -1,1 +1,1 @@
-var mnemonic = "vehicle rifle disagree crater steak scrub income transfer transfer live country lobster";
+var mnemonic = "manual nothing dust castle desk scan earn say rent margin gloom either";

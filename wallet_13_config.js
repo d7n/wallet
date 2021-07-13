@@ -1,1 +1,1 @@
-var mnemonic = "lobster comfort hedgehog bird fatal blush offer hawk equal march siege finger";
+var mnemonic = "plastic prepare where medal satisfy rude fancy electric ball calm can decline";

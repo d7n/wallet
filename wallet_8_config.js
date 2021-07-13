@@ -1,1 +1,1 @@
-var mnemonic = "tray spoon cereal voyage lawn glare practice riot release trash jazz feature";
+var mnemonic = "base quote alone hollow since fun myself tonight town window cinnamon naive";

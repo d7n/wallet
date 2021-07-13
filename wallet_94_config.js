@@ -1,1 +1,1 @@
-var mnemonic = "basket coffee toward pool harbor cupboard cook endorse plunge board train display";
+var mnemonic = "load amateur lazy gain pretty enemy gravity keen deliver melody help hotel";

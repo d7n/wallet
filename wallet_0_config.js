@@ -1,1 +1,1 @@
-var mnemonic = "okay bullet crumble rural faculty input kit twelve matter now always hood";
+var mnemonic = "unlock dolphin dynamic guide creek burst depth human similar gasp famous brick";

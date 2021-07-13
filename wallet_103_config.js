@@ -1,1 +1,1 @@
-var mnemonic = "group scan modify clean engage peanut flip nuclear grunt grass spare width";
+var mnemonic = "fancy valve dog sort sport oil ready forward achieve make banana trigger";

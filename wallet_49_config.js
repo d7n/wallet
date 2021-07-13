@@ -1,1 +1,1 @@
-var mnemonic = "swap print neither duck night occur cannon bench danger thumb amused shy";
+var mnemonic = "zebra honey decline dinner mail bracket essence place fix ugly corn salmon";

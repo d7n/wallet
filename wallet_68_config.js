@@ -1,1 +1,1 @@
-var mnemonic = "hamster decorate glare club essence evidence deal evil next ribbon test kingdom";
+var mnemonic = "entire enforce speak blur dentist head all guilt despair mechanic delay popular";

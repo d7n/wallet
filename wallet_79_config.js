@@ -1,1 +1,1 @@
-var mnemonic = "cinnamon myself boring perfect tribe cupboard coffee brisk guard fury asset solve";
+var mnemonic = "poverty fun release often relax nest cattle solve note subject elegant patient";

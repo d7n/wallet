@@ -1,1 +1,1 @@
-var mnemonic = "evolve make matter mechanic weird answer swap museum orient memory special deputy";
+var mnemonic = "cash cushion offer dizzy hybrid super hope sniff practice believe farm few";

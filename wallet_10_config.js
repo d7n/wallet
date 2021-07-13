@@ -1,1 +1,1 @@
-var mnemonic = "forum crash winner moral special lady dumb behave decide unfair blossom coast";
+var mnemonic = "move erupt tide uncover tomorrow bulk narrow acoustic jar inmate law melody";

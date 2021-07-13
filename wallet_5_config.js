@@ -1,1 +1,1 @@
-var mnemonic = "mule pause breeze reunion modify silent uniform live zero lend boil random";
+var mnemonic = "runway night metal flock manage forget clever lunch cement nasty text vague";

@@ -1,1 +1,1 @@
-var mnemonic = "border pioneer session sphere sister half sweet ring resist brand hazard host";
+var mnemonic = "engine cheese deer together gloom delay gap give merry flame matter stove";

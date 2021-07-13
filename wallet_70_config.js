@@ -1,1 +1,1 @@
-var mnemonic = "rather deal common basic penalty sustain yard exotic subject skin squeeze atom";
+var mnemonic = "cross urban drink novel multiply add resist view quote ready accident friend";

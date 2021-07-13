@@ -1,1 +1,1 @@
-var mnemonic = "fit diesel local fortune entire spoil demand machine slim bridge left bless";
+var mnemonic = "episode letter stool bean link cannon oak shell negative lake twelve marriage";

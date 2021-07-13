@@ -1,1 +1,1 @@
-var mnemonic = "ensure beauty bring panic arctic scrub lion program piece mistake quarter next";
+var mnemonic = "update pony spread canal pattern step illness enforce release road hotel fade";

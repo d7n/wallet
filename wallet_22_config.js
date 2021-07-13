@@ -1,1 +1,1 @@
-var mnemonic = "future girl please moon fancy armor laundry tube drastic curve method sock";
+var mnemonic = "shift later banana paper property food young matter dash verb muscle flush";

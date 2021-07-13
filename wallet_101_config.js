@@ -1,1 +1,1 @@
-var mnemonic = "trash hotel ticket embrace broom upgrade glow foam lizard purchase source journey";
+var mnemonic = "attract yellow picture merry lecture powder barrel model hint stereo neck elevator";

@@ -1,1 +1,1 @@
-var mnemonic = "wide evil pattern argue unaware rigid element odor wood reward surround develop";
+var mnemonic = "sibling apple acoustic urban square sausage hammer claw alter step trash hurry";

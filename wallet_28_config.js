@@ -1,1 +1,1 @@
-var mnemonic = "merge burger tribe goddess grit body fatigue already dance tragic surprise chief";
+var mnemonic = "cupboard anxiety orphan firm super opinion glass soda unlock victory pull mixed";

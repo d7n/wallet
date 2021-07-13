@@ -1,1 +1,1 @@
-var mnemonic = "enhance knee rich depth away decline flush mask reward venue rely boss";
+var mnemonic = "result else kite lumber bid mushroom afford panther one village little basket";

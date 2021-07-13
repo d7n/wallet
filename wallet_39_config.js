@@ -1,1 +1,1 @@
-var mnemonic = "human donate virtual dream success ready simple exact until cash boring multiply";
+var mnemonic = "power lumber violin vicious salt choice ignore enable rule master ketchup opera";

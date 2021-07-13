@@ -1,1 +1,1 @@
-var mnemonic = "tattoo blue churn dream sheriff floor gain sketch seek ask menu away";
+var mnemonic = "sudden program frog floor all father web anchor viable clean among artefact";

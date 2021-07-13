@@ -1,1 +1,1 @@
-var mnemonic = "country field prefer crash exercise gold cliff chef notice mercy ivory journey";
+var mnemonic = "brisk mind rabbit grab leopard warrior oak purpose bid roof stick insane";

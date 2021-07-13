@@ -1,1 +1,1 @@
-var mnemonic = "unhappy pen couple idle mouse charge route cause draft cheese rug satisfy";
+var mnemonic = "match valley flip holiday south fine arrow pretty time chapter city breeze";

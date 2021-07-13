@@ -1,1 +1,1 @@
-var mnemonic = "party board weekend violin kidney inject pigeon puppy mimic garlic protect blouse";
+var mnemonic = "limb horror jar strong once dragon prepare sunny local poem sugar clock";

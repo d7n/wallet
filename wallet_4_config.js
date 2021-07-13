@@ -1,1 +1,1 @@
-var mnemonic = "case goat face source little wood beauty scare protect school wolf maple";
+var mnemonic = "world hawk video make box clog midnight sorry oil wagon thing unable";

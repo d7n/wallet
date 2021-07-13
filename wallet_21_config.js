@@ -1,1 +1,1 @@
-var mnemonic = "hybrid attend monitor right jazz tourist crucial news myself wave awful enlist";
+var mnemonic = "joke eagle annual manual crack caught ivory gold advice assume wheel poem";

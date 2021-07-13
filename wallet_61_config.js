@@ -1,1 +1,1 @@
-var mnemonic = "magnet peanut long symbol reward energy only forum senior museum dizzy snack";
+var mnemonic = "bridge trade emotion next casino easily nothing arctic machine roof tenant smile";

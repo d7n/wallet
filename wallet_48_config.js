@@ -1,1 +1,1 @@
-var mnemonic = "snake someone margin visit photo wing gossip jewel shield cheese slow design";
+var mnemonic = "question smoke bottom field upgrade become risk screen limb cube advance artefact";

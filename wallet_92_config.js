@@ -1,1 +1,1 @@
-var mnemonic = "quiz theme host also melody deal tent ignore moon property salute trap";
+var mnemonic = "develop glance okay ramp artefact scatter solve inform quiz mom heart exhaust";

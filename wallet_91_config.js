@@ -1,1 +1,1 @@
-var mnemonic = "amount transfer science scale spider mind hollow goose badge capable blur awake";
+var mnemonic = "swamp aspect eternal galaxy eyebrow panic undo cattle cake learn monkey path";

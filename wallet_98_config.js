@@ -1,1 +1,1 @@
-var mnemonic = "adult shell keen traffic another response wait phrase split slot purchase gift";
+var mnemonic = "essence tumble absent wedding antique cheese cloth cliff grace distance together solid";

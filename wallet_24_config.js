@@ -1,1 +1,1 @@
-var mnemonic = "wonder silver artist before end agent retreat crowd deposit subway unveil mandate";
+var mnemonic = "marine wait hire velvet rival mesh clog glance ozone dial math arrive";

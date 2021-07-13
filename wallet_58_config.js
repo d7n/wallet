@@ -1,1 +1,1 @@
-var mnemonic = "brain divide point banner hour gaze lift axis cake code quality push";
+var mnemonic = "brief marriage duck giggle autumn prevent slight enforce pistol napkin zero town";

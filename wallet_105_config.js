@@ -1,1 +1,1 @@
-var mnemonic = "clown label adult immune surround poet off insect license improve lamp behind";
+var mnemonic = "fog grant grain fancy cover round wrap wink song result lottery involve";

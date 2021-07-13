@@ -1,1 +1,1 @@
-var mnemonic = "vehicle nominee cube regular hour shiver subway scatter flash style seed seat";
+var mnemonic = "dinosaur toast also trophy menu suffer else shine crisp enrich priority clean";
