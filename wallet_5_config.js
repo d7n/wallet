@@ -1,1 +1,1 @@
-var mnemonic = "deer have reward wisdom cinnamon trend version total screen pioneer unit man";
+var mnemonic = "minimum ready celery window humor sleep eye matter bullet festival execute know";

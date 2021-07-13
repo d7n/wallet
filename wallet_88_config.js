@@ -1,1 +1,1 @@
-var mnemonic = "luxury extend black lonely invite exercise wheel habit unique choose harvest balance";
+var mnemonic = "meadow skin receive orange figure rare initial will cluster desert gadget crowd";

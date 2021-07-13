@@ -1,1 +1,1 @@
-var mnemonic = "stable liberty oblige hungry addict admit charge dash throw old heavy local";
+var mnemonic = "online leader sense feed frozen tent thank medal pact cotton topple gaze";

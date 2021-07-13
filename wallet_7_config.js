@@ -1,1 +1,1 @@
-var mnemonic = "fall warm simple foster pretty fame alien upon ethics refuse adult track";
+var mnemonic = "grape wife ranch pilot guitar title aim tennis hub patient salon tornado";

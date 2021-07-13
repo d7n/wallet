@@ -1,1 +1,1 @@
-var mnemonic = "leave high force wonder vote sort cute pudding assume proof advice today";
+var mnemonic = "castle arrest blame absent olympic recall drift soon top school will theme";

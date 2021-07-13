@@ -1,1 +1,1 @@
-var mnemonic = "belt pause snap success scheme jewel student laptop twist acid picnic celery";
+var mnemonic = "ranch fall any orchard shop egg staff park adult fatal trash leg";

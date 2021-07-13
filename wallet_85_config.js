@@ -1,1 +1,1 @@
-var mnemonic = "dragon occur dog voice october glass win arrive dynamic legend fox insect";
+var mnemonic = "all blind drill permit kit swing immune vendor bone zoo entry nation";

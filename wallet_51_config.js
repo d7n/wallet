@@ -1,1 +1,1 @@
-var mnemonic = "slogan hover raise garment industry attract inside trash similar couch essence narrow";
+var mnemonic = "choice crunch innocent general original relief gap pyramid shell tail female banner";

@@ -1,1 +1,1 @@
-var mnemonic = "void budget isolate into woman wild transfer abstract camera conduct exclude walnut";
+var mnemonic = "icon shove number category tail noodle filter describe tragic dinner symbol object";

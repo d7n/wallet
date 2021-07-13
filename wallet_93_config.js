@@ -1,1 +1,1 @@
-var mnemonic = "solar jump price sorry embark hammer bind rigid identify soap require tennis";
+var mnemonic = "book man brand attitude stone loan innocent kidney sleep cover blur casino";

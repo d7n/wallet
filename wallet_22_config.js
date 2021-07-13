@@ -1,1 +1,1 @@
-var mnemonic = "rich scatter devote fury hungry puppy merry enjoy pioneer turkey hard banana";
+var mnemonic = "inch bullet defy blind cage home math seek want nuclear concert ticket";

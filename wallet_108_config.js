@@ -1,1 +1,1 @@
-var mnemonic = "clock repair figure arrive switch want inspire beyond place bag blast destroy";
+var mnemonic = "document candy rule nasty giraffe tortoise client photo junior aisle license truth";

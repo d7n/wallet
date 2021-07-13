@@ -1,1 +1,1 @@
-var mnemonic = "rhythm deny famous luxury spell thing cushion hybrid draft corn crawl torch";
+var mnemonic = "hand mystery buffalo honey state cost quantum later subway twelve fun coconut";

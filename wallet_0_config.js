@@ -1,1 +1,1 @@
-var mnemonic = "element blush creek dial sand teach sight outdoor subject muscle myth shield";
+var mnemonic = "wood retreat mouse kick scorpion reason scissors next reason appear royal tray";

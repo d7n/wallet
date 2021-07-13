@@ -1,1 +1,1 @@
-var mnemonic = "sunny join mammal affair inmate someone repair mixture shed apology error track";
+var mnemonic = "young west fix affair permit spare twin nothing mouse clown february profit";

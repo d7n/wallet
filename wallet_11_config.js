@@ -1,1 +1,1 @@
-var mnemonic = "front symbol insect build advance marine valid swallow virtual amateur swear evil";
+var mnemonic = "adult blush cool dress lion success famous truly measure lion bird diagram";

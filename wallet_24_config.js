@@ -1,1 +1,1 @@
-var mnemonic = "claw distance warm sunset print chaos session like rather win course brick";
+var mnemonic = "tribe swarm between uphold phrase pattern column view play matter tide guard";

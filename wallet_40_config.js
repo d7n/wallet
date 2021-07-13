@@ -1,1 +1,1 @@
-var mnemonic = "shift canoe open night doctor safe artist usage melody elephant rent senior";
+var mnemonic = "dynamic ramp grocery organ panther catch size column nice accident useful notable";

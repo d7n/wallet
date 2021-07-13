@@ -1,1 +1,1 @@
-var mnemonic = "title object minimum rely exact type vault salute cheap help gym child";
+var mnemonic = "palm tooth penalty pistol lecture wreck anchor town recall exhibit grass wood";

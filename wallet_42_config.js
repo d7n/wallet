@@ -1,1 +1,1 @@
-var mnemonic = "lend junk gaze what enrich regret shrug private rebuild coffee sense alert";
+var mnemonic = "bulb drastic skirt canyon seminar crash broom swift place autumn few alpha";

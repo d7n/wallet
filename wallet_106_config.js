@@ -1,1 +1,1 @@
-var mnemonic = "tennis sheriff belt truck pottery guard measure bomb firm flush relief lake";
+var mnemonic = "master satisfy moral sport magic trap foster belt renew economy disagree reveal";

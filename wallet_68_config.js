@@ -1,1 +1,1 @@
-var mnemonic = "equip wasp clinic fortune left hedgehog forward tribe loan tell cupboard reduce";
+var mnemonic = "rate problem coconut retreat gauge domain question shove stamp unlock record bridge";

@@ -1,1 +1,1 @@
-var mnemonic = "author history first post crunch hammer bleak faint judge lock carbon wonder";
+var mnemonic = "limit sniff gym wrist diary cash disorder entire desk side robust noble";

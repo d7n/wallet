@@ -1,1 +1,1 @@
-var mnemonic = "job unveil truth force flame lucky approve joke load lesson ankle address";
+var mnemonic = "couple path tip good inform broccoli express protect inch shoe faith bone";

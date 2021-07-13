@@ -1,1 +1,1 @@
-var mnemonic = "note badge error scan project page vendor burst wing first job life";
+var mnemonic = "riot ripple occur glimpse asset pen sure evoke tank loyal leader undo";

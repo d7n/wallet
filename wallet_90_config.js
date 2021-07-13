@@ -1,1 +1,1 @@
-var mnemonic = "miss social feel biology liquid genuine barrel flock ghost toss inject found";
+var mnemonic = "word strong source goose worry job produce route prefer okay protect dignity";

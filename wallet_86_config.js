@@ -1,1 +1,1 @@
-var mnemonic = "wear engage zoo slide supreme gas goddess jaguar height ignore pony dish";
+var mnemonic = "envelope guilt add blouse kingdom blame unusual dice quiz faith churn egg";

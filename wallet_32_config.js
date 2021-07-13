@@ -1,1 +1,1 @@
-var mnemonic = "equip wagon shrimp behind play riot merge intact give tube eye kiss";
+var mnemonic = "myself certain illness merry scatter neglect crisp quality great alien put ramp";

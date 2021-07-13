@@ -1,1 +1,1 @@
-var mnemonic = "mountain weather beef kitten gloom cute deal bachelor carpet evil relief road";
+var mnemonic = "eye hammer lunar long brown aunt ticket scout umbrella forest rifle level";

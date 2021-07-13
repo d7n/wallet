@@ -1,1 +1,1 @@
-var mnemonic = "fancy cigar express learn unusual steak giant huge menu gorilla fire humble";
+var mnemonic = "planet climb oblige sad size tip funny file bag flight coin juice";

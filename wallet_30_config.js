@@ -1,1 +1,1 @@
-var mnemonic = "congress wash quote price tired hat spread safe insane segment any foot";
+var mnemonic = "trash robust wing step model math culture lunch script congress peanut below";

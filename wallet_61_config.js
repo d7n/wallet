@@ -1,1 +1,1 @@
-var mnemonic = "canvas claw never tobacco salad spoil true proof canal brown dirt until";
+var mnemonic = "tumble emotion artwork eager corn custom mesh tube tiger give radar voice";

@@ -1,1 +1,1 @@
-var mnemonic = "junk day pitch country silent despair click depart practice bleak riot cherry";
+var mnemonic = "cabbage balcony same tiger oval swear video dry clump where stadium very";

@@ -1,1 +1,1 @@
-var mnemonic = "vault museum uncover grant man perfect enable someone finish where undo similar";
+var mnemonic = "unique bubble worry access fiction barrel supply depart endless twenty awful more";

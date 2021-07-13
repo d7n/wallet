@@ -1,1 +1,1 @@
-var mnemonic = "mass panda people cabin inspire caught path question shine language uncle fault";
+var mnemonic = "diagram snack hurdle change gloom tortoise daring ripple luxury produce tray lyrics";

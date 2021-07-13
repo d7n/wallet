@@ -1,1 +1,1 @@
-var mnemonic = "detail parade mosquito inflict prison boss brown problem verb frown loyal culture";
+var mnemonic = "make tank school point action journey affair kiss symbol spot oil fluid";

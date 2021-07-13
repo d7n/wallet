@@ -1,1 +1,1 @@
-var mnemonic = "payment erode grunt rude fresh draft achieve equal staff private gravity play";
+var mnemonic = "mandate novel either ocean trim trial inform tonight craft picture bus dutch";

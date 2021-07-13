@@ -1,1 +1,1 @@
-var mnemonic = "trade exotic copy become front spend sunset swim setup camera cave session";
+var mnemonic = "game whale picture jungle media note leave salmon seek retreat inflict biology";

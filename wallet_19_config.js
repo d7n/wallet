@@ -1,1 +1,1 @@
-var mnemonic = "sunny weekend identify air cross depend clap club citizen wool verb fragile";
+var mnemonic = "mule elbow hint there fever tell achieve fancy warrior flip floor giggle";

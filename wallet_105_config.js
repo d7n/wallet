@@ -1,1 +1,1 @@
-var mnemonic = "rabbit produce cluster oven reflect runway casual million enforce blouse enrich census";
+var mnemonic = "swim fly awake wish helmet erupt regret napkin nephew mirror soup silk";

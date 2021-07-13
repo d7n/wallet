@@ -1,1 +1,1 @@
-var mnemonic = "diamond weekend entire grocery arrange charge army canal afford misery display indicate";
+var mnemonic = "father pool grain perfect spider track moon toss end ignore tomorrow entry";

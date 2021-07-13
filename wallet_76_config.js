@@ -1,1 +1,1 @@
-var mnemonic = "hamster disagree clump congress today child violin sheriff budget problem super vote";
+var mnemonic = "spider glide delay ghost century edge hybrid curious giraffe between rebuild gauge";

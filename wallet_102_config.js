@@ -1,1 +1,1 @@
-var mnemonic = "lizard kid clap staff urge guitar topic depart shine deliver give fog";
+var mnemonic = "hair farm oak push lens play process coffee tooth impulse sphere scissors";

@@ -1,1 +1,1 @@
-var mnemonic = "frequent opera check panda gym enough emerge lemon task leg apart coach";
+var mnemonic = "emotion garbage injury loud erode thunder invite melt outer catch fashion enforce";

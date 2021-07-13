@@ -1,1 +1,1 @@
-var mnemonic = "rely announce stick ramp nation shoulder boil inch blush also proud offer";
+var mnemonic = "normal sea state nice soda receive dinosaur salute year diary have wonder";

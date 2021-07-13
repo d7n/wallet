@@ -1,1 +1,1 @@
-var mnemonic = "rocket pledge slender spare parent fox chalk hood crime unaware buyer flight";
+var mnemonic = "antique ancient version unhappy moral dizzy arctic more predict mention camp solve";

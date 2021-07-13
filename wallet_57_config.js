@@ -1,1 +1,1 @@
-var mnemonic = "lawn lawsuit oblige slow prosper regular cube sell silly pitch doll steel";
+var mnemonic = "desert sketch mushroom effort there online stove push waste galaxy clump crack";

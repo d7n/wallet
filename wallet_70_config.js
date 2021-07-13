@@ -1,1 +1,1 @@
-var mnemonic = "donate protect you wing item attitude advance mansion shrimp gadget voice deny";
+var mnemonic = "wolf couple icon box pig ride prevent apart crouch gesture clutch ozone";

@@ -1,1 +1,1 @@
-var mnemonic = "enough pill disagree amazing feed travel harsh fence drama tag that protect";
+var mnemonic = "maple brain relief legend comfort page easily raise top hawk bamboo apple";

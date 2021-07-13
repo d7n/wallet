@@ -1,1 +1,1 @@
-var mnemonic = "guess slogan fame busy review core border question auction rocket equal citizen";
+var mnemonic = "sunny area spread twelve inform mosquito jump ride hamster goddess like initial";

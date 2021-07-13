@@ -1,1 +1,1 @@
-var mnemonic = "unveil horse abstract cool path dawn giggle base current rubber vicious acquire";
+var mnemonic = "diesel boost rhythm panel wreck interest virus clerk victory lesson fringe elevator";

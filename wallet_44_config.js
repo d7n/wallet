@@ -1,1 +1,1 @@
-var mnemonic = "major skill famous tragic potato staff allow infant buddy pony great burst";
+var mnemonic = "loop endless enhance tomato either tape surge depart differ winner foam design";

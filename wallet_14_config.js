@@ -1,1 +1,1 @@
-var mnemonic = "manage habit atom congress depth key onion person social march address welcome";
+var mnemonic = "say violin symbol learn early leopard crystal attack can student oxygen demand";

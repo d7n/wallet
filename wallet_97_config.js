@@ -1,1 +1,1 @@
-var mnemonic = "glimpse thrive lawsuit inner add nose figure salon dinosaur girl dragon civil";
+var mnemonic = "dream antique sight catalog practice latin song miracle unique prison matrix equal";

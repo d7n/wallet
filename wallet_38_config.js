@@ -1,1 +1,1 @@
-var mnemonic = "palm enforce husband all nest patient they gun other indicate shrimp bunker";
+var mnemonic = "airport drive skull embrace drama fitness balcony garbage account produce save ill";

@@ -1,1 +1,1 @@
-var mnemonic = "flag salt universe cycle sort that grain topic purpose fork inherit sentence";
+var mnemonic = "saddle about ship flee industry open amount air squirrel tragic learn decline";

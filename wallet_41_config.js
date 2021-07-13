@@ -1,1 +1,1 @@
-var mnemonic = "cream strike approve direct vast load rude liquid divert fly found afford";
+var mnemonic = "rookie supreme exit tonight capital situate embrace screen rail tent exhaust blood";

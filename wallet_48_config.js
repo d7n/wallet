@@ -1,1 +1,1 @@
-var mnemonic = "gap frequent disagree grid flower dance bargain fork mother robot weapon rib";
+var mnemonic = "foil electric check across mixture grief ride settle head topple narrow notice";

@@ -1,1 +1,1 @@
-var mnemonic = "flight bind toddler oyster blade remain field nuclear nose oak measure faith";
+var mnemonic = "burst increase board book pitch journey prepare address market cliff company letter";

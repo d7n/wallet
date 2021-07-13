@@ -1,1 +1,1 @@
-var mnemonic = "window access salon talk stuff fork shock nothing insane finger rescue stereo";
+var mnemonic = "adapt scene lounge cube forward salon wrist accident velvet grain army snake";

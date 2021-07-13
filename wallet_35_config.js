@@ -1,1 +1,1 @@
-var mnemonic = "document tone mix rotate warrior mistake layer accident menu duty reward summer";
+var mnemonic = "flame pumpkin daughter unlock bacon rival night version tower dog million cannon";

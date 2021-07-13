@@ -1,1 +1,1 @@
-var mnemonic = "midnight typical cup letter leaf fence mother phone dad risk feature gesture";
+var mnemonic = "vessel filter vintage nothing smooth attract tired panther reform index rebuild palm";

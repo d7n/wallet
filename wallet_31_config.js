@@ -1,1 +1,1 @@
-var mnemonic = "casual dignity devote trend joy special govern turn sad often scatter curious";
+var mnemonic = "remove filter nuclear will grass ticket nose consider witness unable camera live";

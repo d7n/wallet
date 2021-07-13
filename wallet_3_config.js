@@ -1,1 +1,1 @@
-var mnemonic = "like input leader axis shallow light inspire camp banana tower woman system";
+var mnemonic = "occur hill impose endorse ivory comfort art ritual noble salad tragic vapor";

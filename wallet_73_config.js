@@ -1,1 +1,1 @@
-var mnemonic = "know night indicate galaxy nice zebra admit poem balcony pair bomb slogan";
+var mnemonic = "onion merry enact blossom wear eyebrow trend glare exist deliver skin social";

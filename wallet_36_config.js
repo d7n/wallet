@@ -1,1 +1,1 @@
-var mnemonic = "example toward metal staff cycle broom cross lesson error volcano that never";
+var mnemonic = "vague mail hood congress emotion vital giant proud unaware gloom advice robot";

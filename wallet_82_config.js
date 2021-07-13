@@ -1,1 +1,1 @@
-var mnemonic = "later require metal gloom garage path comic merry luxury vintage pill chronic";
+var mnemonic = "where frog execute pupil bike any close stone actual bleak excess course";

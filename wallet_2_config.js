@@ -1,1 +1,1 @@
-var mnemonic = "fashion bar mercy result inch main north spread glance sad quantum flee";
+var mnemonic = "tornado poverty drift try family traffic patrol saddle canoe because moment recall";

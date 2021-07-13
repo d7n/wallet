@@ -1,1 +1,1 @@
-var mnemonic = "special business proud dentist olive replace abandon chronic child panda chuckle refuse";
+var mnemonic = "lawsuit ring similar find morning raw trim lounge warfare hollow manual vessel";

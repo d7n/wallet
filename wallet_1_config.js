@@ -1,1 +1,1 @@
-var mnemonic = "write anger vacant congress marble plastic soon industry render risk great degree";
+var mnemonic = "dream rich total can off crime soap satoshi bike sheriff path kitten";

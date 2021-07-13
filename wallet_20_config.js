@@ -1,1 +1,1 @@
-var mnemonic = "giraffe nephew animal sorry tuition help market actress shaft transfer brass juice";
+var mnemonic = "current dial muscle unique latin fox impact phone hire club divorce gas";

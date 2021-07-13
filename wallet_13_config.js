@@ -1,1 +1,1 @@
-var mnemonic = "unit win silent cherry give alter teach piece render finger case stable";
+var mnemonic = "valve stomach manual away link total picnic cousin define minor credit sustain";

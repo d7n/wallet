@@ -1,1 +1,1 @@
-var mnemonic = "silk tissue family cross digital clog vibrant rich doll brand oxygen behave";
+var mnemonic = "cousin hood alien phone verify club march pizza awkward twenty kid avoid";

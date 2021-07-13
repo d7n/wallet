@@ -1,1 +1,1 @@
-var mnemonic = "only wrap average embrace holiday debris bamboo creek surprise dune traffic beach";
+var mnemonic = "worry oyster gasp elder oppose moral hotel fan cup marble logic excuse";

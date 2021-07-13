@@ -1,1 +1,1 @@
-var mnemonic = "spirit frog horse tonight snake april use light liquid narrow broken just";
+var mnemonic = "joke day stuff universe satoshi guitar canvas fossil unveil motor silver water";

@@ -1,1 +1,1 @@
-var mnemonic = "harbor position buddy chase you husband warm endless quarter jelly away ghost";
+var mnemonic = "dice thing window round choice kingdom camera network castle daring admit spirit";

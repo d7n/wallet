@@ -1,1 +1,1 @@
-var mnemonic = "mule slender strong just lounge visit winner mutual make bicycle mouse desert";
+var mnemonic = "summer banner add insect humble shine argue stay foster seven scene sense";

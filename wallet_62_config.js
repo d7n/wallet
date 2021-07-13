@@ -1,1 +1,1 @@
-var mnemonic = "miracle project vocal then file fresh opinion awesome border split jewel grape";
+var mnemonic = "ladder equip boy route ostrich tree stock cry dolphin clay one essay";

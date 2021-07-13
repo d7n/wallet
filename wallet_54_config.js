@@ -1,1 +1,1 @@
-var mnemonic = "boost system crack bundle stone abandon level certain cabbage gentle parent system";
+var mnemonic = "february solve plastic orbit shift void bright style inform wage science reward";

@@ -1,1 +1,1 @@
-var mnemonic = "artwork intact female slow run draft farm parent gentle sign fancy miracle";
+var mnemonic = "festival penalty island nature emerge mean ethics child lens resemble sock armor";

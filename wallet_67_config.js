@@ -1,1 +1,1 @@
-var mnemonic = "business misery matrix boil embrace stomach original digital odor guide doctor coffee";
+var mnemonic = "cube green apart famous assault enough manual neck theory case rude notable";

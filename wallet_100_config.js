@@ -1,1 +1,1 @@
-var mnemonic = "leader output final scale cool exact stage curtain tell endless multiply moon";
+var mnemonic = "glimpse decline repeat loop protect trap ancient fix travel curve grow lemon";

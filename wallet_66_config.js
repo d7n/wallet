@@ -1,1 +1,1 @@
-var mnemonic = "tip prefer ramp food ski pencil assume retreat mobile room novel vocal";
+var mnemonic = "diamond sphere bunker harbor unit omit much desert noodle cruel predict click";

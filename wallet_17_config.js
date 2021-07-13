@@ -1,1 +1,1 @@
-var mnemonic = "pulp piece echo festival special impulse hole mammal stable find lunar boil";
+var mnemonic = "figure pizza color reduce morning beef convince skate venue enter collect thing";

@@ -1,1 +1,1 @@
-var mnemonic = "oppose scrub leaf machine heavy lab spice umbrella puppy when double child";
+var mnemonic = "poverty defense position planet impulse bean mosquito team minimum spell job void";

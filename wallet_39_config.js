@@ -1,1 +1,1 @@
-var mnemonic = "follow dance metal hobby song agent kitchen eyebrow kick roof theme spot";
+var mnemonic = "welcome conduct quiz pride rhythm enact naive frame august border cabbage upset";

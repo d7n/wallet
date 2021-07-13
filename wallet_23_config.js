@@ -1,1 +1,1 @@
-var mnemonic = "pencil subject protect manual monster spawn news kidney sister genuine please dirt";
+var mnemonic = "dynamic dinosaur farm decide doll fog allow false cream stand party road";

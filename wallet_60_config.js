@@ -1,1 +1,1 @@
-var mnemonic = "disagree pill paddle copy manual kingdom mass update athlete enhance shift sweet";
+var mnemonic = "this tiger brown copper witness pulse sunny cry post pretty elite vacuum";

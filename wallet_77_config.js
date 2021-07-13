@@ -1,1 +1,1 @@
-var mnemonic = "town spread aspect wire cable record rule shed purchase also flavor churn";
+var mnemonic = "fatal purchase horror mule favorite poem young setup ethics monkey embrace run";

@@ -1,1 +1,1 @@
-var mnemonic = "evolve trigger pistol garbage melt clinic future powder direct detail earth fancy";
+var mnemonic = "seven blast snake twice before elbow hint young corn stock sibling scout";

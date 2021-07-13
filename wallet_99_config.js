@@ -1,1 +1,1 @@
-var mnemonic = "core gun seven science man dawn clap scorpion base stable vocal basket";
+var mnemonic = "mean hospital merit waste sort similar topple memory unusual unit artwork control";

@@ -1,1 +1,1 @@
-var mnemonic = "swim source deposit absent future jar firm remind team cousin tone mansion";
+var mnemonic = "member lonely grain embrace virus solution winter future penalty crazy movie burst";
