@@ -1,1 +1,1 @@
-var mnemonic = "risk torch air super decorate wear shed mystery normal exotic shoot rapid";
+var mnemonic = "seat become agent stem sun seminar load ridge degree subway fancy depend";

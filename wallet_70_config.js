@@ -1,1 +1,1 @@
-var mnemonic = "earn dwarf harvest ivory display dutch topple cover muscle rug bomb kiss";
+var mnemonic = "inflict matter able gun response slot puzzle grain film glue celery chapter";

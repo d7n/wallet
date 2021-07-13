@@ -1,1 +1,1 @@
-var mnemonic = "chalk spy vehicle double comic lazy tissue crystal diary borrow dynamic merit";
+var mnemonic = "include leaf network album half protect bird cradle vanish divert length chest";

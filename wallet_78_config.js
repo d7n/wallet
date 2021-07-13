@@ -1,1 +1,1 @@
-var mnemonic = "job dismiss taxi latin abandon brief wagon man liquid target snack rhythm";
+var mnemonic = "breeze sight write position trial foam property flat february flower dust fashion";

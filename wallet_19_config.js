@@ -1,1 +1,1 @@
-var mnemonic = "monitor normal palace already speak worth army memory west purse shrug upon";
+var mnemonic = "rhythm gift belt glad civil tone color surprise that diamond begin town";

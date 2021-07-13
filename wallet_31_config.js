@@ -1,1 +1,1 @@
-var mnemonic = "actor wash sister chase they gentle rural tissue spawn cannon empower hurry";
+var mnemonic = "virtual symbol orient nominee room army bulk tiny guess rookie sea hundred";

@@ -1,1 +1,1 @@
-var mnemonic = "west magnet sick crowd ginger stick cart clarify spread essay retire rally";
+var mnemonic = "patient lift message annual sauce finger follow face captain good weekend merry";

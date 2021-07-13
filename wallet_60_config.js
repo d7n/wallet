@@ -1,1 +1,1 @@
-var mnemonic = "spell crater fold brother assist cement charge daring cry raccoon space impose";
+var mnemonic = "amount mind typical scene pink wrestle adjust clock artwork clarify harbor abuse";

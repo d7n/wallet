@@ -1,1 +1,1 @@
-var mnemonic = "tragic legend canal chronic october water require side high era knock coyote";
+var mnemonic = "open ready humor endless slow image match follow eternal daughter unveil siege";

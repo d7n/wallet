@@ -1,1 +1,1 @@
-var mnemonic = "jeans cost habit ketchup off poet dawn soda response town open shoot";
+var mnemonic = "opera since armor focus grow ghost toss amateur debris early push snap";

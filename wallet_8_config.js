@@ -1,1 +1,1 @@
-var mnemonic = "moon robust degree razor ceiling dove student glory mammal latin ship bike";
+var mnemonic = "verify twice pretty monkey source slice stand muscle idle pupil lobster damp";

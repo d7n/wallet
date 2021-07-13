@@ -1,1 +1,1 @@
-var mnemonic = "zero humor mail naive rally text inmate labor sausage light goose country";
+var mnemonic = "canvas treat defense enable hover cruise unveil world antenna unknown cinnamon grape";

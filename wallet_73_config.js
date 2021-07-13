@@ -1,1 +1,1 @@
-var mnemonic = "mean usual fine fox grow marriage morning bounce mention entry army vehicle";
+var mnemonic = "erosion own detail price ribbon siege exhaust armor year catalog smile carry";

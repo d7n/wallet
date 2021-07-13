@@ -1,1 +1,1 @@
-var mnemonic = "develop whip anxiety velvet illness dream lecture scheme cream guitar injury river";
+var mnemonic = "exercise person human duty mirror dose dress perfect choice unit brush excess";

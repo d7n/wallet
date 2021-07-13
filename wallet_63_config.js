@@ -1,1 +1,1 @@
-var mnemonic = "album sad wash fuel fork business visa recycle cancel tuition reveal tumble";
+var mnemonic = "utility sustain cushion dad panel fuel nut bunker tool monster output real";

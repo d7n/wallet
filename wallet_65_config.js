@@ -1,1 +1,1 @@
-var mnemonic = "dry bullet tape umbrella copper wisdom job boss have blade knock onion";
+var mnemonic = "fox wise cross trouble bench must also sorry machine now seven piece";

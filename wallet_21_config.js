@@ -1,1 +1,1 @@
-var mnemonic = "lab open slogan rely emerge source tenant benefit bonus west discover better";
+var mnemonic = "learn slush good million version patrol basket birth kid divide advice rapid";

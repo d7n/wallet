@@ -1,1 +1,1 @@
-var mnemonic = "fork wrap forum donkey claim resource skull finish civil great quote hub";
+var mnemonic = "giraffe deal actor price candy dad decade oval swear decorate comic globe";

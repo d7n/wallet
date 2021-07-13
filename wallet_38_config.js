@@ -1,1 +1,1 @@
-var mnemonic = "wedding devote arena observe gift paper release little purpose job thing violin";
+var mnemonic = "rapid eagle machine ordinary outside vacuum engine voice team rude clerk enter";

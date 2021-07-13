@@ -1,1 +1,1 @@
-var mnemonic = "people top tip board derive friend type novel hold brave chase this";
+var mnemonic = "nest reflect glide knee swamp offer differ gas cloth draw bubble black";

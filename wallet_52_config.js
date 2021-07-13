@@ -1,1 +1,1 @@
-var mnemonic = "salad private bamboo flush fashion sting connect normal tennis plastic quit ankle";
+var mnemonic = "fiber gain nephew velvet hill iron have give happy brave increase force";

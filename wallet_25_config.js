@@ -1,1 +1,1 @@
-var mnemonic = "ketchup shed install almost glimpse custom unit wedding stool bone say forward";
+var mnemonic = "gravity fashion picnic spike time lake major alarm view foil stay bind";

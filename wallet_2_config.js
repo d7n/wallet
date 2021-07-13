@@ -1,1 +1,1 @@
-var mnemonic = "tired then path submit raccoon utility gas hedgehog fatigue giggle remain volcano";
+var mnemonic = "left friend blanket aisle expire olive absurd install lumber buffalo home drum";

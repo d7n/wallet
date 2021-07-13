@@ -1,1 +1,1 @@
-var mnemonic = "comfort decline roof vast dash farm element mom hat fence chest want";
+var mnemonic = "weekend soon outdoor property true feel salmon noodle success fence ski omit";

@@ -1,1 +1,1 @@
-var mnemonic = "olympic purpose bleak van wall maze goat raise fashion banana embrace outdoor";
+var mnemonic = "rain maze spike learn brother devote oppose salon rural toss sweet term";

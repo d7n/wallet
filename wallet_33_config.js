@@ -1,1 +1,1 @@
-var mnemonic = "fence pluck young voyage rule emotion garbage flock radar glide rural before";
+var mnemonic = "clap asthma enhance runway suit law model absorb orphan famous sea tired";

@@ -1,1 +1,1 @@
-var mnemonic = "orchard boy trigger interest join conduct inmate spread bike horse mesh put";
+var mnemonic = "history entire ring ribbon cabin anchor evil lock forest stomach off zebra";

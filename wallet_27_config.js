@@ -1,1 +1,1 @@
-var mnemonic = "reward cover empty whip clever aunt morning yellow tennis firm mail diesel";
+var mnemonic = "friend thunder duty spray keep typical valve fossil divert device total arm";

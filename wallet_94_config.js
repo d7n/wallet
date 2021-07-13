@@ -1,1 +1,1 @@
-var mnemonic = "cross rebel east property assault swift install evil foam vault truth damage";
+var mnemonic = "husband diagram olympic embrace much picture rescue during loyal disease sauce wink";

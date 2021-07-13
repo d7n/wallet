@@ -1,1 +1,1 @@
-var mnemonic = "muscle noble loud duty off unhappy raise hollow submit input grunt print";
+var mnemonic = "match skate pen horror road boil blush romance used shy fatal rain";

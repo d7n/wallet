@@ -1,1 +1,1 @@
-var mnemonic = "scout ozone medal mean beyond heavy ancient toy advice shoe inquiry goose";
+var mnemonic = "allow assault amount wrap remember voyage head monitor vanish miss catalog cram";

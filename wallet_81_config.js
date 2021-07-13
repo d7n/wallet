@@ -1,1 +1,1 @@
-var mnemonic = "bomb high nuclear trigger never citizen desert move bargain stadium obvious material";
+var mnemonic = "pulp erase insect control brother proud curious direct digital join educate sketch";

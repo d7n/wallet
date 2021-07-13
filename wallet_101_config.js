@@ -1,1 +1,1 @@
-var mnemonic = "office phone focus hero hamster cannon grow grant country inform alter top";
+var mnemonic = "sick uniform excess grain oppose census capital episode verify grief scorpion prepare";

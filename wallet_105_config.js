@@ -1,1 +1,1 @@
-var mnemonic = "prize fire over spatial connect merge eager ketchup twenty wheat renew property";
+var mnemonic = "cook dial evoke shrimp success ankle brown find ginger barrel column senior";

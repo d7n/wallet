@@ -1,1 +1,1 @@
-var mnemonic = "giant street surface reveal during power tide amazing name wedding grid settle";
+var mnemonic = "river deputy success monster round debate settle puppy rough boring pottery twin";

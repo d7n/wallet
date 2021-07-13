@@ -1,1 +1,1 @@
-var mnemonic = "village industry sphere vintage burst eight matrix only mass scale note lava";
+var mnemonic = "daring rare wild spatial myself more sing prison escape movie quick seven";

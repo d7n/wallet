@@ -1,1 +1,1 @@
-var mnemonic = "book hunt ethics dream enroll jungle solution lounge spider stereo worry glass";
+var mnemonic = "limit debris organ filter planet health equal useful door chest vast ozone";

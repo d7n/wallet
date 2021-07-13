@@ -1,1 +1,1 @@
-var mnemonic = "daughter oil supply tenant message nerve brush space canal parrot give remain";
+var mnemonic = "final lazy muscle rare swing nominee scale shed moon phrase village behind";

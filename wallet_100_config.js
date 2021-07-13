@@ -1,1 +1,1 @@
-var mnemonic = "govern category undo drama knee coast own radar token inject shift mesh";
+var mnemonic = "capable true lunch relax release idle consider book eyebrow come winner unknown";

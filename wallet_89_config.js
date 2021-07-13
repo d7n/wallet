@@ -1,1 +1,1 @@
-var mnemonic = "gold refuse switch belt short present skate midnight cement hole divide rent";
+var mnemonic = "desert inch depth joy room transfer ensure double order museum helmet wolf";

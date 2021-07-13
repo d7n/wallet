@@ -1,1 +1,1 @@
-var mnemonic = "nurse annual decline install effort spot office universe cheese sausage depth wave";
+var mnemonic = "must else pave roof motion square sleep despair fiscal eight penalty narrow";

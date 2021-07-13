@@ -1,1 +1,1 @@
-var mnemonic = "balcony fiber air worry head shock hunt horror enrich infant dwarf portion";
+var mnemonic = "keen drill work silver engine sing coral truly alpha bonus caught install";

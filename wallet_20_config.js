@@ -1,1 +1,1 @@
-var mnemonic = "castle agent culture opera split salmon museum taxi say push bulb crazy";
+var mnemonic = "clown unveil vote puzzle job group category coral embody genre book cheap";

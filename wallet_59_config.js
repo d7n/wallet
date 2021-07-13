@@ -1,1 +1,1 @@
-var mnemonic = "organ cupboard source world badge trend square office strategy still insect anxiety";
+var mnemonic = "arrange tuna save ritual aunt business couple busy arrest clean spirit claim";

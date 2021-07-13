@@ -1,1 +1,1 @@
-var mnemonic = "soon tissue someone jeans tuna kit cover card virus today crane six";
+var mnemonic = "nose canoe green liquid creek cattle abstract police solar swing poet hurt";

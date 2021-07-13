@@ -1,1 +1,1 @@
-var mnemonic = "club cannon craft betray security quit salute snake breeze furnace what later";
+var mnemonic = "security arrow interest flock juice pause cabin salmon trash neglect grace result";

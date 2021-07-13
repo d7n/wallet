@@ -1,1 +1,1 @@
-var mnemonic = "coral jaguar salt female tank erosion slice enhance kind bubble east kind";
+var mnemonic = "peace edge bracket sick ten scene lemon regret ugly plate differ amazing";

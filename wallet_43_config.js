@@ -1,1 +1,1 @@
-var mnemonic = "response ask shoulder talent cover casual depart move lounge organ police torch";
+var mnemonic = "dress brain absurd patient camera orphan source cross either sad pony cross";

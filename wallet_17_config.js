@@ -1,1 +1,1 @@
-var mnemonic = "table mention quantum digital laptop plate where awesome trick morning cool travel";
+var mnemonic = "leader select shop clap object marine immense stomach lumber magnet island sound";

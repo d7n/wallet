@@ -1,1 +1,1 @@
-var mnemonic = "disorder broccoli tuna side bean tiny seminar ship recall where side harvest";
+var mnemonic = "hill mistake library limit demise ball toddler urge valid betray today pitch";

@@ -1,1 +1,1 @@
-var mnemonic = "knock place submit canal visa squirrel field castle broccoli alcohol help check";
+var mnemonic = "ride salmon evil shoe stamp room one deal skate flame web glance";

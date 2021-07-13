@@ -1,1 +1,1 @@
-var mnemonic = "ketchup sick mom bubble wreck estate board typical vital salad ahead become";
+var mnemonic = "artwork science iron tail muffin drink network rate vibrant water original gather";

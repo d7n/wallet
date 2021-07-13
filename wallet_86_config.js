@@ -1,1 +1,1 @@
-var mnemonic = "verify gadget harbor assault cup cake silver breeze garbage gloom over beauty";
+var mnemonic = "where fitness swarm view tumble usual farm luggage yard speed task local";

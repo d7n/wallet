@@ -1,1 +1,1 @@
-var mnemonic = "universe course six wave depart tackle fly hurt struggle creek music fire";
+var mnemonic = "canyon dinner sentence manage forward wire hazard service crop depend age intact";

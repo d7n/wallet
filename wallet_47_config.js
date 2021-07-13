@@ -1,1 +1,1 @@
-var mnemonic = "toe leisure vast quit awkward tank pelican find scheme small legal next";
+var mnemonic = "duty bicycle keen wall oyster leaf arena purchase float vanish smile style";

@@ -1,1 +1,1 @@
-var mnemonic = "else olympic museum frequent main shy exist favorite hazard smoke walnut mansion";
+var mnemonic = "taste between boat news doctor husband skin pelican gown drive spin visa";

@@ -1,1 +1,1 @@
-var mnemonic = "retire family journey enrich whale solid ribbon pistol fresh pole need race";
+var mnemonic = "rude robot vault post rack tank copy lake unlock weapon before short";

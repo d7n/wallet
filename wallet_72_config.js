@@ -1,1 +1,1 @@
-var mnemonic = "utility copper post royal wing mule flip keen sugar claw camp paddle";
+var mnemonic = "will mobile syrup peanut power letter walk heavy power elbow amount coach";

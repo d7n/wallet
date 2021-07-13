@@ -1,1 +1,1 @@
-var mnemonic = "gossip smoke clock hello omit pledge hip during video embark oven guitar";
+var mnemonic = "nation waste silent song connect text math tragic canoe prosper side timber";

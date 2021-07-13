@@ -1,1 +1,1 @@
-var mnemonic = "round liar process uncover insane giggle mechanic rely liberty dismiss bird expire";
+var mnemonic = "bus gadget come regular ivory border salt account lyrics find guitar foam";

@@ -1,1 +1,1 @@
-var mnemonic = "diet rely seed accident cram story fiscal lizard guess print afraid chaos";
+var mnemonic = "trip wrestle layer borrow mother armor decrease young action invest turkey evolve";

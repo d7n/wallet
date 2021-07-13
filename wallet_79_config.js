@@ -1,1 +1,1 @@
-var mnemonic = "must flash school entry quality predict skull decade key act urban hurdle";
+var mnemonic = "essay rule unfair boil warfare kick enrich cage someone pear crack orphan";

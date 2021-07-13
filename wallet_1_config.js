@@ -1,1 +1,1 @@
-var mnemonic = "flavor scout nation weasel wrong another sweet later idea clown match problem";
+var mnemonic = "famous another gesture soap dress tree piano quick position extend shrimp erase";

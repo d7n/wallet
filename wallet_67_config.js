@@ -1,1 +1,1 @@
-var mnemonic = "believe cactus summer shoe wild shop fever supreme virtual pause despair oppose";
+var mnemonic = "nerve prize category biology conduct wire slow cook echo ankle execute huge";

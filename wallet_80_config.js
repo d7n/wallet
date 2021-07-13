@@ -1,1 +1,1 @@
-var mnemonic = "royal welcome review cross correct hawk stone anxiety rail ignore wish jealous";
+var mnemonic = "permit banner april benefit ivory income rule state sign state cart caught";

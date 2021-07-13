@@ -1,1 +1,1 @@
-var mnemonic = "adjust involve fortune weather dragon team bitter deputy flip ice hero oven";
+var mnemonic = "umbrella run remember coil across labor brave cousin weapon more copy sudden";

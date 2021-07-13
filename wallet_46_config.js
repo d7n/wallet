@@ -1,1 +1,1 @@
-var mnemonic = "science elegant tired label actor fitness monster rival seek goose step filter";
+var mnemonic = "essence neck perfect praise net arrange relax deputy palm census shrimp kangaroo";

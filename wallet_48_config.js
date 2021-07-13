@@ -1,1 +1,1 @@
-var mnemonic = "file agree tail deliver pill help offer blade kingdom parrot blush carpet";
+var mnemonic = "clarify grunt nephew hobby essence route category distance arch sister sweet ridge";

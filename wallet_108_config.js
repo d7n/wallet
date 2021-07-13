@@ -1,1 +1,1 @@
-var mnemonic = "input soon music bike crane bring badge mass pattern escape photo giraffe";
+var mnemonic = "shift pole exist harbor injury better boost siege december hungry example hard";

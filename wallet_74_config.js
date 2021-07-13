@@ -1,1 +1,1 @@
-var mnemonic = "file alpha ecology spider economy move juice fancy draw sample life grain";
+var mnemonic = "town jeans record outdoor cupboard inherit bulb enlist method about upon erode";

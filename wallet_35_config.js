@@ -1,1 +1,1 @@
-var mnemonic = "ship crime valley idle mushroom scrub artefact laugh inner flavor pink game";
+var mnemonic = "danger soda exact prosper steel rice margin awesome canal engine joy defense";

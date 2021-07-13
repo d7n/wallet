@@ -1,1 +1,1 @@
-var mnemonic = "ten business fury engage woman project fresh treat gallery decline curve odor";
+var mnemonic = "huge reunion napkin witness vault company relax shadow since candy add doctor";

@@ -1,1 +1,1 @@
-var mnemonic = "very obtain lyrics position horse keep wish opera exhibit mask ramp raven";
+var mnemonic = "breeze huge found machine toddler outside stomach subway code cabbage success silent";

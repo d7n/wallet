@@ -1,1 +1,1 @@
-var mnemonic = "input gasp faith pact spin truck column feel cost diary glove leader";
+var mnemonic = "reason change ivory roast cabbage entry among torch steak early hidden faculty";

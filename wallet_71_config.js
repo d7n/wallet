@@ -1,1 +1,1 @@
-var mnemonic = "misery list moon initial disease put true curtain table quiz hand fun";
+var mnemonic = "surround horse hammer earn robust laugh river rebel whisper atom soccer olive";

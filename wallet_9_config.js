@@ -1,1 +1,1 @@
-var mnemonic = "treat fat such blur area topple spell vehicle license luggage become math";
+var mnemonic = "identify drink rare release north exact sunset knife apple lion salon suspect";

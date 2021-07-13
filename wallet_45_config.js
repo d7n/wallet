@@ -1,1 +1,1 @@
-var mnemonic = "thrive galaxy street dizzy grain mom behave balcony announce soft february toilet";
+var mnemonic = "plastic ketchup soldier spot maze appear turn stumble faith tunnel runway advance";

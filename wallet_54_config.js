@@ -1,1 +1,1 @@
-var mnemonic = "lunch denial usage pipe choose wealth grass forget slush erupt daughter indicate";
+var mnemonic = "celery drip seminar stamp message icon minor catch fan civil reunion ahead";

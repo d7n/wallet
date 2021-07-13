@@ -1,1 +1,1 @@
-var mnemonic = "burger ship hybrid allow lottery slide mom nice issue fuel resist lonely";
+var mnemonic = "empty must crop permit focus august clarify bike way valley green frame";

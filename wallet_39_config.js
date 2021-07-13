@@ -1,1 +1,1 @@
-var mnemonic = "dial senior liquid tunnel fitness accident large spend frequent gaze carbon ability";
+var mnemonic = "submit boost whale tumble actor nurse blame extra knife salt usage decline";

@@ -1,1 +1,1 @@
-var mnemonic = "damp plate enhance cause cigar recall liberty love action glare unknown horn";
+var mnemonic = "skin soup have middle exchange metal sphere pupil minimum buyer gorilla report";

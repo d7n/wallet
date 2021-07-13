@@ -1,1 +1,1 @@
-var mnemonic = "virtual chronic anxiety defense derive boat carry forget breeze lecture vocal draft";
+var mnemonic = "remain witness mother away pony foster swift door defense ride team just";

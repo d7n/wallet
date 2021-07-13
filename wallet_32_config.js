@@ -1,1 +1,1 @@
-var mnemonic = "learn idle grunt glass tuna dog boat wire ride fabric raven advice";
+var mnemonic = "kitten bitter mesh ride affair rail unusual hedgehog dwarf mimic notable rally";

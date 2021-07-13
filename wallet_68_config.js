@@ -1,1 +1,1 @@
-var mnemonic = "festival tattoo below turkey science switch unfair expose certain process slight pool";
+var mnemonic = "custom million school multiply minute good charge deputy only rural immense street";

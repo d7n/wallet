@@ -1,1 +1,1 @@
-var mnemonic = "ski car tribe protect dream neither blur match harsh member shift airport";
+var mnemonic = "ancient fever laptop cross radio ginger amount gun belt velvet lecture pepper";

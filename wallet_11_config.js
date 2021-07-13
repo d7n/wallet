@@ -1,1 +1,1 @@
-var mnemonic = "come crane tackle plate omit unhappy fury hurry olympic young melt radio";
+var mnemonic = "neither actor tackle media slight bike rude artist current proof angle matrix";

@@ -1,1 +1,1 @@
-var mnemonic = "crucial coral model creek across collect indicate bracket dwarf kitchen million police";
+var mnemonic = "joke intact portion ride usual occur wrong solution same explain business tape";

@@ -1,1 +1,1 @@
-var mnemonic = "shove resist then move bleak similar pen grain service spice fatigue solution";
+var mnemonic = "power all tent torch sugar brave next inform course actor chef civil";

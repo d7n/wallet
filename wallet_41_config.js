@@ -1,1 +1,1 @@
-var mnemonic = "course order hammer ice laundry sunset bird shoulder supply negative bounce coyote";
+var mnemonic = "solve relax veteran news agent defy harvest spray shine rubber deputy reveal";

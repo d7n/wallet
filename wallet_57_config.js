@@ -1,1 +1,1 @@
-var mnemonic = "pony pencil two pear raven ranch birth similar replace box thank spring";
+var mnemonic = "transfer since tide asset boss siege myth wage meat forest regular dynamic";

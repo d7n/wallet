@@ -1,1 +1,1 @@
-var mnemonic = "humble unlock spirit dilemma exclude lucky oak token combine coil year lazy";
+var mnemonic = "ten lock despair fit attend pottery chaos able pizza kick used use";

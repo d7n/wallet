@@ -1,1 +1,1 @@
-var mnemonic = "ladder ecology outdoor mystery brick truth undo defense rose dumb blouse real";
+var mnemonic = "panic friend you brush rule dizzy doll world verb whale indoor direct";

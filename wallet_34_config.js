@@ -1,1 +1,1 @@
-var mnemonic = "eight tent taste pride usual cabin debris depend spawn three win aspect";
+var mnemonic = "chest diary clerk obey noise mask expose flight maze blame dwarf critic";

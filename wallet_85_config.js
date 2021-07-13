@@ -1,1 +1,1 @@
-var mnemonic = "spice green midnight tortoise risk thing shed parent budget stuff fruit cheese";
+var mnemonic = "target obscure ceiling congress oblige wear build until merry apology feel absent";
