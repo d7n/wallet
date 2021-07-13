@@ -1,1 +1,1 @@
-var mnemonic = "menu result wool second annual auto brush envelope label wheel twice govern";
+var mnemonic = "paddle keen cricket enlist enrich cheap feed stone you nominee crumble seven";

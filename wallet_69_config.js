@@ -1,1 +1,1 @@
-var mnemonic = "isolate smoke weapon emotion dawn mouse grow derive road ignore into sick";
+var mnemonic = "sorry pride recall fish stick pear pave gorilla solar attract script seek";

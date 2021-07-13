@@ -1,1 +1,1 @@
-var mnemonic = "isolate review divide property cancel antique future pottery great entry prevent charge";
+var mnemonic = "snake chimney book must grit trick logic dutch flame gloom champion program";

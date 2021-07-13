@@ -1,1 +1,1 @@
-var mnemonic = "tenant window peasant movie nut energy industry uncle later border raccoon web";
+var mnemonic = "pluck guess hamster boat galaxy ketchup slot brick tide depth bunker tilt";

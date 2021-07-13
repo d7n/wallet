@@ -1,1 +1,1 @@
-var mnemonic = "cross funny relax undo husband they keep monitor dolphin carry execute scissors";
+var mnemonic = "plate laundry ten toast peasant result play fringe purity remove foil hat";

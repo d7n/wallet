@@ -1,1 +1,1 @@
-var mnemonic = "banner any culture boat talent roast crew music black foot warm fog";
+var mnemonic = "pledge mouse ozone reunion million game skate earth noodle smile buffalo extra";

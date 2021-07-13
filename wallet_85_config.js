@@ -1,1 +1,1 @@
-var mnemonic = "oxygen loop breeze learn vital fire bag decade winner dutch sample donkey";
+var mnemonic = "describe cliff winter soon pet zebra rally tail defy imitate voyage ahead";

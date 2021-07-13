@@ -1,1 +1,1 @@
-var mnemonic = "latin quick pattern jaguar abstract festival moment negative useless twist raw solve";
+var mnemonic = "diary weasel aim method fun bundle either problem measure noble radar own";

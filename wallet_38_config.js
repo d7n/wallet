@@ -1,1 +1,1 @@
-var mnemonic = "disorder sorry what century daring toilet apple curve sphere hard grace civil";
+var mnemonic = "bulb acoustic suggest gym lift birth helmet blossom ostrich jewel member now";

@@ -1,1 +1,1 @@
-var mnemonic = "action when license crime swing limb rebel size cheese response left sheriff";
+var mnemonic = "cream first annual version begin marriage mad click grocery burst jewel wrap";

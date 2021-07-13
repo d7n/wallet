@@ -1,1 +1,1 @@
-var mnemonic = "utility keen dirt merge boring apple limb odor system this green usual";
+var mnemonic = "sugar trophy gadget crew feel fiction remember cargo project surge damp wrap";

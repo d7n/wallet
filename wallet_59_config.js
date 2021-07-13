@@ -1,1 +1,1 @@
-var mnemonic = "pull question neglect cash trumpet provide poem gadget visit close neglect citizen";
+var mnemonic = "swing midnight frost provide help often lake voice media direct robot appear";

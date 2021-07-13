@@ -1,1 +1,1 @@
-var mnemonic = "october bubble coach turn lazy habit little casual return weird lobster course";
+var mnemonic = "sing outer close soda shell habit become behave system erase column atom";

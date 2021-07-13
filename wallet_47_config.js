@@ -1,1 +1,1 @@
-var mnemonic = "glare food field repeat early heart ball item accident city magnet turtle";
+var mnemonic = "ostrich present profit acoustic dose confirm volume pig bullet whisper nation inform";

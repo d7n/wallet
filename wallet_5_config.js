@@ -1,1 +1,1 @@
-var mnemonic = "edit replace quick dry add audit gift lion stable credit cube beef";
+var mnemonic = "reject crater rifle vocal another steel olive case solar aerobic deposit mix";

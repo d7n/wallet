@@ -1,1 +1,1 @@
-var mnemonic = "subject hazard path fog addict type visit smooth latin misery uncover update";
+var mnemonic = "yard script want device robot side energy legal raise try gift thought";

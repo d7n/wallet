@@ -1,1 +1,1 @@
-var mnemonic = "blouse suffer glide man humble top ocean amazing lunch print place twelve";
+var mnemonic = "tooth echo return sort employ merge wing soda drink release during sell";

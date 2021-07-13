@@ -1,1 +1,1 @@
-var mnemonic = "vanish math calm concert panther demise seat attitude brown glow diamond source";
+var mnemonic = "promote attitude any flavor episode page valley hurdle ring birth cube kitchen";

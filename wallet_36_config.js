@@ -1,1 +1,1 @@
-var mnemonic = "maid anxiety derive ladder again tongue thing lottery smooth scene shine payment";
+var mnemonic = "fatal time crowd enough bacon hedgehog brand faint hand crime diamond one";

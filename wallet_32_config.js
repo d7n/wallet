@@ -1,1 +1,1 @@
-var mnemonic = "clock tackle street crash spider sad issue shrimp affair rude camera crime";
+var mnemonic = "announce top fame where tank turn attitude dinosaur genuine urban love ramp";

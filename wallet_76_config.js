@@ -1,1 +1,1 @@
-var mnemonic = "ice confirm link grab urban eager appear sorry average manage illegal debate";
+var mnemonic = "horse deposit benefit tourist item unlock era loud sphere gown way below";

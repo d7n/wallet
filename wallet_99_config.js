@@ -1,1 +1,1 @@
-var mnemonic = "arrive program grief hand tomorrow usual father patch laundry target jealous embrace";
+var mnemonic = "vibrant palm another measure cat current holiday sustain deer fitness patch camera";

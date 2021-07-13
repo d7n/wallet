@@ -1,1 +1,1 @@
-var mnemonic = "virus chase office stick elder primary acoustic primary hedgehog mountain moment borrow";
+var mnemonic = "index banana left girl mixed acid shield heart venue cute palm outside";

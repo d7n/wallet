@@ -1,1 +1,1 @@
-var mnemonic = "humor captain hawk hockey vault adapt brand lady junior impulse short arrange";
+var mnemonic = "call honey excite twice scatter vivid shuffle enlist fade knock chronic raccoon";

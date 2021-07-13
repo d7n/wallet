@@ -1,1 +1,1 @@
-var mnemonic = "shove cushion shuffle fog child century rally depart salon neglect vital dwarf";
+var mnemonic = "rapid dizzy sting small such strike split own civil fly humble cargo";

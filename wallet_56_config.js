@@ -1,1 +1,1 @@
-var mnemonic = "gorilla wrong spike judge length print breeze verify depart exhaust eyebrow viable";
+var mnemonic = "law black rabbit rocket wreck fruit lazy program will joke leisure fury";

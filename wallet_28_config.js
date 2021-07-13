@@ -1,1 +1,1 @@
-var mnemonic = "robot sauce caution other pet dune crop suit modify staff celery shiver";
+var mnemonic = "myth tuition provide lyrics dust inside sudden cruise treat fancy flight lecture";

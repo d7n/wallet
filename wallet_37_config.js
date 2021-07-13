@@ -1,1 +1,1 @@
-var mnemonic = "actor typical option glide soldier lecture ecology oxygen blame penalty tackle leaf";
+var mnemonic = "weapon boat remember dial owner aunt divert divorce twist mimic worry traffic";

@@ -1,1 +1,1 @@
-var mnemonic = "better symptom city inherit mad cigar foot verify until impose earth vocal";
+var mnemonic = "actor venue curious barely maze main library judge dance enroll decorate kiwi";

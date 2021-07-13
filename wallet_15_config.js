@@ -1,1 +1,1 @@
-var mnemonic = "vacant minor farm license hobby teach crisp head maid pluck token sister";
+var mnemonic = "crack key rice trade banner chat hollow school noise walk demise reflect";

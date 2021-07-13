@@ -1,1 +1,1 @@
-var mnemonic = "mean frozen measure radar choice disease end excuse hip lonely antique eager";
+var mnemonic = "duck fold piece marble increase salt body world turtle average tag sock";

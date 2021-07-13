@@ -1,1 +1,1 @@
-var mnemonic = "jump finish beef weekend oven another carpet code mandate benefit direct churn";
+var mnemonic = "creek another pave earn crawl gym high strategy bottom wonder income leader";

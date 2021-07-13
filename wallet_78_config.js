@@ -1,1 +1,1 @@
-var mnemonic = "body situate whale blade festival sauce middle actress dash early bean retire";
+var mnemonic = "caution spoon win account federal diary depth process oblige ensure city run";

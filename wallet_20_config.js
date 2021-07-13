@@ -1,1 +1,1 @@
-var mnemonic = "type brisk agree arena design turtle reject salute entry learn draw scrub";
+var mnemonic = "antique shiver across void switch legal bag squeeze extend cave bonus vanish";

@@ -1,1 +1,1 @@
-var mnemonic = "essence argue social pole notice donkey unlock layer stand setup solar defense";
+var mnemonic = "turtle razor worth chronic bike daughter infant sketch write state tip scissors";

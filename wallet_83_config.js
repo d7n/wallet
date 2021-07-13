@@ -1,1 +1,1 @@
-var mnemonic = "short habit monitor dinner pudding cannon leg vanish song frame suggest lemon";
+var mnemonic = "pact balance rocket various boring finger action render true knife task able";

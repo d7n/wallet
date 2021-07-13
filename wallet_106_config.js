@@ -1,1 +1,1 @@
-var mnemonic = "curtain soda popular say spike cancel butter rotate attend you access permit";
+var mnemonic = "figure brush rack aisle faint lemon trade spike element noodle price smooth";

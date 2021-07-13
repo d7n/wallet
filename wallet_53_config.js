@@ -1,1 +1,1 @@
-var mnemonic = "asthma fade damage time outdoor kidney gate mask arrange mistake club hood";
+var mnemonic = "predict shop blast medal buzz relief doll oppose kit virus finger among";

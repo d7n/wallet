@@ -1,1 +1,1 @@
-var mnemonic = "consider pencil electric interest together major biology two rude bus exit horn";
+var mnemonic = "swift siren dutch goddess chaos source dumb lake among size drive six";

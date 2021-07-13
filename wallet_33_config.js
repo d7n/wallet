@@ -1,1 +1,1 @@
-var mnemonic = "flash resource slogan stairs walnut key rescue connect pulse nurse tortoise hybrid";
+var mnemonic = "soldier skill pyramid round federal manual ozone brain fiber differ tray initial";

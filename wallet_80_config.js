@@ -1,1 +1,1 @@
-var mnemonic = "cost tube student grief fetch meat depart profit negative narrow laundry tired";
+var mnemonic = "grain absurd gap always fade explain apology miracle blame tornado glance theme";

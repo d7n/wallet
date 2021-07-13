@@ -1,1 +1,1 @@
-var mnemonic = "feel install thrive hidden calm token vintage fall cabbage limb invite pigeon";
+var mnemonic = "embark veteran major coil picnic nose nerve mistake panther siege leader tell";

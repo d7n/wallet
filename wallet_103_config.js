@@ -1,1 +1,1 @@
-var mnemonic = "discover grow inhale jealous version yellow gospel end fork tray excess dentist";
+var mnemonic = "devote history custom picnic morning stamp scene industry month endless embrace hunt";

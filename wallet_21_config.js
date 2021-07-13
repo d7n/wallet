@@ -1,1 +1,1 @@
-var mnemonic = "motor rural sentence federal member drum verify human canyon canal soccer mystery";
+var mnemonic = "ten sadness whale pair wait pact cute between federal response awkward butter";

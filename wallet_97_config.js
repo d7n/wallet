@@ -1,1 +1,1 @@
-var mnemonic = "tuition rug crystal world already garlic attend grant interest solid trim brief";
+var mnemonic = "hope winner shield enlist hen quote tail drip seminar disagree empower satoshi";

@@ -1,1 +1,1 @@
-var mnemonic = "actor dizzy acquire battle believe shove winter filter hotel cup kick inform";
+var mnemonic = "camera obtain grab people turtle vacant better tiger visual leader blood eager";

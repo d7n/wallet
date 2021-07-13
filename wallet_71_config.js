@@ -1,1 +1,1 @@
-var mnemonic = "farm pride glide reward poverty later height wisdom approve endorse artefact jar";
+var mnemonic = "loan final gaze catch find measure fade during glimpse execute glimpse crash";

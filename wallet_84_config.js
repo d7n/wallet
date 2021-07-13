@@ -1,1 +1,1 @@
-var mnemonic = "rib jaguar call foil silent liberty patrol globe issue kingdom sorry potato";
+var mnemonic = "muscle grunt view table sure win express country bundle bundle silver seek";

@@ -1,1 +1,1 @@
-var mnemonic = "math omit casino shallow trick primary noodle educate smoke chaos sleep amused";
+var mnemonic = "volcano tray age drill resist reveal rib girl curve equip glass trim";

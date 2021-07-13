@@ -1,1 +1,1 @@
-var mnemonic = "across path mask notable kind dutch fantasy jelly escape close cradle market";
+var mnemonic = "strategy brisk there dune husband lonely alcohol cotton chronic clay time order";

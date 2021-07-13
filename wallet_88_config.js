@@ -1,1 +1,1 @@
-var mnemonic = "latin fork reveal trophy grain foam cupboard flash cheap miss away husband";
+var mnemonic = "despair net speak veteran fan weasel parrot wolf put car visual endless";

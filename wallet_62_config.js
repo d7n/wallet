@@ -1,1 +1,1 @@
-var mnemonic = "spoil learn autumn tuna joke slush ancient time private whale choose tiger";
+var mnemonic = "series novel thrive behave point admit creek resemble emerge primary wet more";

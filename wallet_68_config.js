@@ -1,1 +1,1 @@
-var mnemonic = "size produce hobby grocery banner obtain piano start boat tilt insect earth";
+var mnemonic = "south album artwork tired orbit link learn conduct above panic custom maid";

@@ -1,1 +1,1 @@
-var mnemonic = "element whip tourist normal nature answer pink hockey celery cave admit mention";
+var mnemonic = "subway maid dolphin group trash problem gain crack chief spell hidden flower";

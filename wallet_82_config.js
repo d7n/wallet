@@ -1,1 +1,1 @@
-var mnemonic = "cereal benefit phrase horse manual solid ice hybrid response boring whip shallow";
+var mnemonic = "advice trend post mutual palace gesture abstract visit culture congress cat novel";

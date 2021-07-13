@@ -1,1 +1,1 @@
-var mnemonic = "cycle fuel october february clip ahead fresh roast forward burden escape hammer";
+var mnemonic = "review jeans wolf churn perfect like kitten vanish false patrol enroll section";

@@ -1,1 +1,1 @@
-var mnemonic = "lawn wife frequent erosion shoe actress hunt mail gain candy weasel write";
+var mnemonic = "victory camp ocean insane cruel reunion blossom tent pizza choose intact sort";

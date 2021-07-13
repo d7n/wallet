@@ -1,1 +1,1 @@
-var mnemonic = "one aisle initial snake ginger era tumble limb brand humor table soldier";
+var mnemonic = "siren marine clever insect lonely remind vital minor toe arrange capable science";

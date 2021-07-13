@@ -1,1 +1,1 @@
-var mnemonic = "museum blur answer tell suit praise poverty what mountain remember few depth";
+var mnemonic = "calm series speed spin believe gym canvas need symptom awake renew point";

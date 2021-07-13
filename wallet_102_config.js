@@ -1,1 +1,1 @@
-var mnemonic = "globe baby kitchen fire proof onion sign conduct urban river detail wedding";
+var mnemonic = "express shield town wire soccer drum opera bitter auto cover joy security";

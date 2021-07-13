@@ -1,1 +1,1 @@
-var mnemonic = "reduce sauce forward silent insane industry clump manage denial grid way lunch";
+var mnemonic = "repeat just flame pencil marriage install master come moment sleep range female";

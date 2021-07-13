@@ -1,1 +1,1 @@
-var mnemonic = "need music silver rib exist leisure device quarter glad kit great puzzle";
+var mnemonic = "asset boy arrange soul legal canyon math matrix dumb people cable deliver";

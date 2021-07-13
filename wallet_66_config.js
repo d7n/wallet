@@ -1,1 +1,1 @@
-var mnemonic = "total occur delay audit aspect kangaroo hobby weekend neck luggage penalty degree";
+var mnemonic = "bicycle angry miss exist picnic put kick piano junk foam pistol view";

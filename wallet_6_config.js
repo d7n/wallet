@@ -1,1 +1,1 @@
-var mnemonic = "vote ribbon vehicle electric clap cruel better razor nest twice wing deny";
+var mnemonic = "jeans bicycle void eagle spend mean vocal owner guide harsh design similar";

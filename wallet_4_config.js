@@ -1,1 +1,1 @@
-var mnemonic = "alone example tilt deliver orphan gold sick attract camp dinosaur wink impose";
+var mnemonic = "alert depth hen welcome keep hamster rescue what inform window arm million";

@@ -1,1 +1,1 @@
-var mnemonic = "jungle catch rare ritual surround tool wine also agent gold fine cross";
+var mnemonic = "derive upper net nice arm maid attend express donate insane drastic aware";

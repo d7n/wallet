@@ -1,1 +1,1 @@
-var mnemonic = "situate olive gadget also offer receive across uniform tiger rate wrestle soldier";
+var mnemonic = "outside change brand course buzz attack party crumble noble sheriff panic canal";

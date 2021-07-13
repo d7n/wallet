@@ -1,1 +1,1 @@
-var mnemonic = "ancient humor crack focus lady lion worry amused vendor fold insane enlist";
+var mnemonic = "boss age calm choose assume radio snap rebuild control delay narrow list";

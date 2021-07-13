@@ -1,1 +1,1 @@
-var mnemonic = "jewel friend price birth man random spike peace absent skin offer bird";
+var mnemonic = "canvas sing memory undo winter pause frequent certain floor alert again planet";

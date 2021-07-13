@@ -1,1 +1,1 @@
-var mnemonic = "click armed parent long loop curtain throw fame squeeze length wrestle kitten";
+var mnemonic = "erupt party split horror cool hunt broken any amused prevent field hazard";

@@ -1,1 +1,1 @@
-var mnemonic = "another mixed pulp champion dance hope climb second betray interest what chuckle";
+var mnemonic = "price wonder toward park autumn poem shiver badge actress shoe age dose";

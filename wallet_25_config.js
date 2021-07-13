@@ -1,1 +1,1 @@
-var mnemonic = "reflect bridge slush scan topic present runway street pizza fold learn mad";
+var mnemonic = "erode fan cry special treat rib oppose sea chaos holiday inquiry moment";

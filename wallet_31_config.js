@@ -1,1 +1,1 @@
-var mnemonic = "south dutch crystal knee soccer nephew real stumble runway prosper unusual pluck";
+var mnemonic = "soft old rule coral humble follow damage liberty muffin celery teach praise";

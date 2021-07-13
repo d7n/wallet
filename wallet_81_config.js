@@ -1,1 +1,1 @@
-var mnemonic = "brass crime lion pause crush job robot oak history answer addict sun";
+var mnemonic = "ocean fever spin usage into there grape noodle casual hello either coffee";

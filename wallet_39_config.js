@@ -1,1 +1,1 @@
-var mnemonic = "people patient green marine mercy vital utility field subject pass lizard extra";
+var mnemonic = "arctic zebra swamp broom labor great near hip congress stem crop hockey";

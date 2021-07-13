@@ -1,1 +1,1 @@
-var mnemonic = "nurse second fish similar vintage mad bag message awesome april knife sight";
+var mnemonic = "team empower retire sand angry torch climb submit vendor exotic snake maze";

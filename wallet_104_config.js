@@ -1,1 +1,1 @@
-var mnemonic = "ritual clap biology select quick differ board credit round vivid radar great";
+var mnemonic = "picture speak scorpion size suggest easy number stumble illegal elevator occur cute";

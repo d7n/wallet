@@ -1,1 +1,1 @@
-var mnemonic = "execute cup inject frown frost sell diet exact rare blast sad okay";
+var mnemonic = "search grief load diesel orange priority chase rotate sea always chapter fade";

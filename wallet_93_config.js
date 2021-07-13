@@ -1,1 +1,1 @@
-var mnemonic = "town nation hurt tent chapter mutual report employ elephant follow lens army";
+var mnemonic = "yellow fan suit split blanket unveil jar flock barrel north hair debate";

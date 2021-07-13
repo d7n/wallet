@@ -1,1 +1,1 @@
-var mnemonic = "journey uncle double basket critic alter wood hold believe report online educate";
+var mnemonic = "comic light lonely debris elite heart question crack penalty roast reason velvet";

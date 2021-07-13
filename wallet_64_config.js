@@ -1,1 +1,1 @@
-var mnemonic = "process expire educate gift remember runway pluck dune other fringe scheme gravity";
+var mnemonic = "toy gasp planet runway rough smile timber wall rifle thrive awful develop";

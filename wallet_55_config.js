@@ -1,1 +1,1 @@
-var mnemonic = "wheat fix search truth anchor oblige exact cream save husband bag rookie";
+var mnemonic = "awful decrease equal lawsuit ginger whisper doctor since mail copy metal rug";

@@ -1,1 +1,1 @@
-var mnemonic = "shop hockey maximum foil patrol still young resource save logic front jazz";
+var mnemonic = "iron business capable solve blue uphold victory october sight legal target cousin";

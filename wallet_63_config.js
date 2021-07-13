@@ -1,1 +1,1 @@
-var mnemonic = "enrich snake copper stool flat surface twelve myself quality glory point behave";
+var mnemonic = "blur jewel egg antenna indoor length depend master demand tongue admit proof";
