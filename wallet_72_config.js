@@ -1,1 +1,1 @@
-var mnemonic = "tourist moment super father must device anxiety spring spell electric hover car";
+var mnemonic = "you zero enemy whip heavy claim group pear movie art park memory";

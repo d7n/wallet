@@ -1,1 +1,1 @@
-var mnemonic = "device jaguar evolve comic hamster ivory more pupil vendor length oval where";
+var mnemonic = "tiny popular about vault hotel knock horror hero physical penalty strong fan";

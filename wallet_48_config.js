@@ -1,1 +1,1 @@
-var mnemonic = "gap size ankle novel swamp flag use village dish survey nephew address";
+var mnemonic = "weekend crush right hat scatter kiwi answer abuse record pulp grape tail";

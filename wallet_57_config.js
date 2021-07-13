@@ -1,1 +1,1 @@
-var mnemonic = "bring universe motor hand leader female mansion install juice phrase friend often";
+var mnemonic = "twin success enlist then brush oven target lizard donate summer eagle hill";

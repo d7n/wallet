@@ -1,1 +1,1 @@
-var mnemonic = "luggage ridge famous title simple base spike fork anxiety trophy odor sample";
+var mnemonic = "cloud fiction enough exact appear bar ugly spider wrist law meadow desert";

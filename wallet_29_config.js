@@ -1,1 +1,1 @@
-var mnemonic = "barely surface nation fame latin onion jacket kite scale divide vivid lunar";
+var mnemonic = "scorpion note news noodle ability vacuum morning embrace access loop truly volume";

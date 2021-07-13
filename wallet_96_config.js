@@ -1,1 +1,1 @@
-var mnemonic = "police outdoor faith music promote reflect lumber label kiss vast near future";
+var mnemonic = "chest post when enrich term apology job interest hair copy sibling unfair";

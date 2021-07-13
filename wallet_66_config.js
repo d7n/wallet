@@ -1,1 +1,1 @@
-var mnemonic = "erosion swim mesh engine bomb carpet soup diary cargo mesh gain into";
+var mnemonic = "copy subway recycle flee curtain pill scrap physical nominee attend awesome shadow";

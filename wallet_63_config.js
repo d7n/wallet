@@ -1,1 +1,1 @@
-var mnemonic = "memory carbon today banner kind bench blush lottery trust filter dwarf wool";
+var mnemonic = "arrive dad saddle tissue west across song air economy gospel napkin section";

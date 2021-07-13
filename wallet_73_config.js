@@ -1,1 +1,1 @@
-var mnemonic = "girl antenna panel nasty exhibit label claw motion hover cute tackle route";
+var mnemonic = "fabric dirt system shrug offer sick october physical garbage fly foot rescue";

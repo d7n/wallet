@@ -1,1 +1,1 @@
-var mnemonic = "satisfy cover opinion lucky wall expand picnic seven sell acquire radio stable";
+var mnemonic = "kick define naive annual old pupil example about helmet skill six demise";

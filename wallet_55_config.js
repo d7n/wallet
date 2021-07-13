@@ -1,1 +1,1 @@
-var mnemonic = "giant poet frost across tourist shoulder fantasy morning ranch detail pottery broken";
+var mnemonic = "exist suffer palace vicious cotton remind junior shell shrug census craft mountain";

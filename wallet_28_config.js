@@ -1,1 +1,1 @@
-var mnemonic = "canoe black curtain debate erosion tonight tape circle curious inmate shed stick";
+var mnemonic = "minimum come become fossil panic face radio grain birth today begin isolate";

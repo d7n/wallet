@@ -1,1 +1,1 @@
-var mnemonic = "dance easy lady anchor pepper breeze pen reopen giggle august visit maple";
+var mnemonic = "uphold vote key involve agree upgrade fetch crew season easy index board";

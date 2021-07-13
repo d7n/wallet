@@ -1,1 +1,1 @@
-var mnemonic = "tortoise shed spread rescue body whisper fancy birth mutual one dirt exhaust";
+var mnemonic = "cage attract point jump flush west fragile brave nothing elephant trouble biology";

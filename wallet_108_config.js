@@ -1,1 +1,1 @@
-var mnemonic = "bounce cry knife grid cat atom author amused seminar plunge zoo six";
+var mnemonic = "honey inflict tape virtual ring will capital decline chat knock turn left";

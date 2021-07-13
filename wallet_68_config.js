@@ -1,1 +1,1 @@
-var mnemonic = "ship knock country property range walnut insane ticket celery swing predict blast";
+var mnemonic = "green jealous pitch switch salon paper exit bunker antique dove pledge ostrich";

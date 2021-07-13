@@ -1,1 +1,1 @@
-var mnemonic = "link fashion drop chimney under source face stumble tornado accuse muffin exit";
+var mnemonic = "chicken thank bulb calm same usage soul cattle mandate gift lava use";

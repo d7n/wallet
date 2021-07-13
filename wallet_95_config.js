@@ -1,1 +1,1 @@
-var mnemonic = "similar snack shrimp wet claw rigid wagon erosion essay genuine across obtain";
+var mnemonic = "crumble edit soon net dinner visit deer dinosaur mountain true volcano donate";

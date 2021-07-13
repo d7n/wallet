@@ -1,1 +1,1 @@
-var mnemonic = "arch alien local keen else food write shift floor silk piece bamboo";
+var mnemonic = "feel maid pattern receive chapter rent season donkey save coin oppose bonus";

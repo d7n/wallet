@@ -1,1 +1,1 @@
-var mnemonic = "swallow wedding client salon afford carry meadow thank base luggage reform almost";
+var mnemonic = "health elevator bid share artefact number coast rubber model style patch correct";

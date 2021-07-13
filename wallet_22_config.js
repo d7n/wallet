@@ -1,1 +1,1 @@
-var mnemonic = "release shoe infant recipe alone inmate oblige vanish slush robot carpet tomorrow";
+var mnemonic = "scheme icon federal display december truck body design castle voyage powder maximum";

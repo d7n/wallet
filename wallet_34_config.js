@@ -1,1 +1,1 @@
-var mnemonic = "impose trophy unhappy often entire mother admit august remember yard control knife";
+var mnemonic = "magic turkey maximum soda add reflect pledge assist raven tomato add wife";

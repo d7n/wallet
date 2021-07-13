@@ -1,1 +1,1 @@
-var mnemonic = "check pudding receive topic shy identify cook congress eternal intact panda embrace";
+var mnemonic = "one label egg coconut kiwi double smoke observe shiver focus bunker exchange";

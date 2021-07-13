@@ -1,1 +1,1 @@
-var mnemonic = "welcome family super top kid race spike victory verify sustain corn useful";
+var mnemonic = "vague cool spend quarter trumpet surprise tower onion fancy ridge movie sibling";

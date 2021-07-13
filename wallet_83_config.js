@@ -1,1 +1,1 @@
-var mnemonic = "cross sorry segment rather space attend recall maid wage hole pyramid worth";
+var mnemonic = "despair gauge predict usual impulse word music youth kite notice charge huge";

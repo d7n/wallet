@@ -1,1 +1,1 @@
-var mnemonic = "noodle hazard carry vendor base submit school town object absorb window prison";
+var mnemonic = "night people border spirit weekend domain text control rebuild sing supreme pulp";

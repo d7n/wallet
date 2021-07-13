@@ -1,1 +1,1 @@
-var mnemonic = "crucial month trade model daughter stand tornado degree clog promote ankle cake";
+var mnemonic = "window poem day forum ribbon tobacco offer curious key hen puzzle eight";

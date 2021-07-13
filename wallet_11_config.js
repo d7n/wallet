@@ -1,1 +1,1 @@
-var mnemonic = "hold mistake affair high tuna north boring tomorrow magnet correct catalog swarm";
+var mnemonic = "cart celery soon chief fame kidney session liberty pigeon maze retreat egg";

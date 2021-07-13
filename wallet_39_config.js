@@ -1,1 +1,1 @@
-var mnemonic = "fitness okay print bundle embody public public mistake hybrid later eye favorite";
+var mnemonic = "sell leave helmet mammal voice settle health ordinary pipe hospital thank book";

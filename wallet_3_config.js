@@ -1,1 +1,1 @@
-var mnemonic = "unique hour ahead nest mesh across ecology provide gown frequent truth fabric";
+var mnemonic = "antenna coast decrease brief grief stay anchor evolve silent federal inmate family";

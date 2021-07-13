@@ -1,1 +1,1 @@
-var mnemonic = "clump tube olympic common remind put rule airport bone unlock divorce search";
+var mnemonic = "elevator sign term auto medal barely slow diary frame canyon mystery sick";

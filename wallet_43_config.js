@@ -1,1 +1,1 @@
-var mnemonic = "stay boy cube belt jar certain noise glad high calm cube inmate";
+var mnemonic = "tooth humble include recipe swarm flat nothing delay garden naive barrel stay";

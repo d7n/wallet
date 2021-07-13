@@ -1,1 +1,1 @@
-var mnemonic = "sell ginger split carpet hip rebuild nephew peace theory hollow taxi organ";
+var mnemonic = "where roast basic ginger bus wisdom public solid visual trigger horror daring";

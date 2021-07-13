@@ -1,1 +1,1 @@
-var mnemonic = "capital tortoise visa news recall retreat mushroom word comfort shadow tent welcome";
+var mnemonic = "price polar spin amazing flat float dismiss depend coyote increase guide rigid";

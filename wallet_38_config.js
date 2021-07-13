@@ -1,1 +1,1 @@
-var mnemonic = "volume gym talk topic trend grocery toss muffin ripple know glance resemble";
+var mnemonic = "public dirt metal shrug rookie day rural stadium spin obscure average race";

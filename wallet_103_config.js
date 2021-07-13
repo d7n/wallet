@@ -1,1 +1,1 @@
-var mnemonic = "palm actress midnight asset kiss flower bonus order man digital eagle supply";
+var mnemonic = "clutch tiny decrease exercise phone away turtle spread team cereal tape pig";

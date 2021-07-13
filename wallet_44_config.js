@@ -1,1 +1,1 @@
-var mnemonic = "test install dizzy egg physical genuine color hope strong network mixture involve";
+var mnemonic = "way uniform accuse deputy knife memory deposit matter beach century push fly";

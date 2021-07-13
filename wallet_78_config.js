@@ -1,1 +1,1 @@
-var mnemonic = "rabbit surround embrace upset exile picnic acid robot chalk margin buzz wide";
+var mnemonic = "find basket snow height edit ship response lab dirt forward apology social";

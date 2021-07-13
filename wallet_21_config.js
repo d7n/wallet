@@ -1,1 +1,1 @@
-var mnemonic = "census front vault say crush fiscal squeeze drastic skull pluck bridge promote";
+var mnemonic = "want wine topple icon pole surround weekend squeeze minute teach aspect today";

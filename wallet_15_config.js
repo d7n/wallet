@@ -1,1 +1,1 @@
-var mnemonic = "syrup prevent machine twelve spring oyster empower promote siege stick tired erosion";
+var mnemonic = "bomb outdoor rebuild just wonder coast awake clean talk unfold imitate bar";

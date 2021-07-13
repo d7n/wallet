@@ -1,1 +1,1 @@
-var mnemonic = "home finger skin nominee move banana excuse emerge program theme awkward equal";
+var mnemonic = "drink brand reflect chalk gas combine inmate general echo piano tortoise message";

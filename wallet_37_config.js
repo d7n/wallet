@@ -1,1 +1,1 @@
-var mnemonic = "spot ghost remember magic reason suit disease army furnace luggage shine shift";
+var mnemonic = "raw dress boss dose add sunny assist candy obey adjust differ cannon";

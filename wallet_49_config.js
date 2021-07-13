@@ -1,1 +1,1 @@
-var mnemonic = "company stone decide claim oval foster divide denial bullet cover aisle update";
+var mnemonic = "distance armor trash patrol apology rack track cereal behave sister emerge chunk";

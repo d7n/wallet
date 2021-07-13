@@ -1,1 +1,1 @@
-var mnemonic = "sport erode fog hospital mind exit orient appear explain second broom pigeon";
+var mnemonic = "drift comic panel rain gold toward act hope defense favorite figure text";

@@ -1,1 +1,1 @@
-var mnemonic = "west village dune dish stool magnet clutch exercise patrol remember myself sad";
+var mnemonic = "pear concert exotic better bounce where predict share acoustic label seminar fragile";

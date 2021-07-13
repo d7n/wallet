@@ -1,1 +1,1 @@
-var mnemonic = "charge aunt absurd pupil entry drift panda match ceiling scrub grid camera";
+var mnemonic = "fold scan round noodle hint spray keen annual lift crowd fruit profit";

@@ -1,1 +1,1 @@
-var mnemonic = "stomach dilemma seat seven twenty attack rookie office expose case half nerve";
+var mnemonic = "napkin brush slim explain swarm lady celery check lady sorry film tip";

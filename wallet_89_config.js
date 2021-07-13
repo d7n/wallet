@@ -1,1 +1,1 @@
-var mnemonic = "quality funny clutch narrow tail world space pond frame between someone curve";
+var mnemonic = "disorder pass relax zoo silk surge clerk prison govern ritual shoot scheme";

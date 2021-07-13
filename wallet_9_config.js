@@ -1,1 +1,1 @@
-var mnemonic = "cave inside mind excess cheese piano decorate enough depart shift slight economy";
+var mnemonic = "vocal crystal wood vault solar south bomb yard survey rate spread dish";

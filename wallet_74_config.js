@@ -1,1 +1,1 @@
-var mnemonic = "strategy blind inform powder sock toss bleak color fabric benefit cross finger";
+var mnemonic = "donate intact crime genre skin ritual hover success soon survey embody pioneer";

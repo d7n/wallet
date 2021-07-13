@@ -1,1 +1,1 @@
-var mnemonic = "suffer police truth blood rack tell chat erode country liquid wild shoe";
+var mnemonic = "heavy route wait correct clip ritual runway cause sustain obscure super lounge";

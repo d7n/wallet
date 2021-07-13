@@ -1,1 +1,1 @@
-var mnemonic = "wine plunge fan version term fat recycle enough liberty rabbit expire potato";
+var mnemonic = "taste flip torch total cart execute purse wink pupil spoil wink slow";

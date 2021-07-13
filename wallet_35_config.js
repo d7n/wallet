@@ -1,1 +1,1 @@
-var mnemonic = "stage cross bright wild erase vapor domain kick earth swear carpet asthma";
+var mnemonic = "dilemma earn renew rice onion ask figure december arena truth gown season";

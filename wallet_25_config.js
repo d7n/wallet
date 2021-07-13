@@ -1,1 +1,1 @@
-var mnemonic = "army van treat rotate science toe motor avoid stone salon sorry enlist";
+var mnemonic = "front topple upon rapid depth direct fuel cycle sport liquid tornado claw";

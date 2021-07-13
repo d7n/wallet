@@ -1,1 +1,1 @@
-var mnemonic = "point moment tuna budget child nurse alcohol tennis good vapor scatter relief";
+var mnemonic = "garbage banner dust fish dentist blanket repeat enjoy brave scatter legend taste";

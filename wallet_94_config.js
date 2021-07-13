@@ -1,1 +1,1 @@
-var mnemonic = "legend rate expire monster heavy speed leopard rigid twenty alley evoke banner";
+var mnemonic = "aware antenna boy cute rich source flock eight knee balcony swamp reject";

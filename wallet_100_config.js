@@ -1,1 +1,1 @@
-var mnemonic = "rigid alter fatigue control ill gun finish shine odor merit priority glove";
+var mnemonic = "refuse dolphin token need lounge develop dumb actor deposit festival kite crunch";

@@ -1,1 +1,1 @@
-var mnemonic = "enough daughter cable obscure nice network exchange resemble eyebrow blanket cabin age";
+var mnemonic = "arrow resemble relax eternal list ranch float tool question measure skull spell";

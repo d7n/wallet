@@ -1,1 +1,1 @@
-var mnemonic = "chase cricket initial snow item uniform popular early shove adjust task snap";
+var mnemonic = "voyage become welcome muscle daughter pattern treat will enjoy ridge salmon fall";

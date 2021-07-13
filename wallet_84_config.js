@@ -1,1 +1,1 @@
-var mnemonic = "skate jeans what forest wrestle vacant ensure person print bunker eager silent";
+var mnemonic = "bargain shiver what avocado orange angry alien trim shy member direct toddler";

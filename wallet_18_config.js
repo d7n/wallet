@@ -1,1 +1,1 @@
-var mnemonic = "fault lady baby injury catch size economy sight already walk flip glimpse";
+var mnemonic = "daring pear scan trumpet boat lobster comfort squirrel little gasp spike tray";

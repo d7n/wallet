@@ -1,1 +1,1 @@
-var mnemonic = "disagree frost unfair awesome ugly immense dizzy knee sting fortune pyramid mom";
+var mnemonic = "quarter hour minimum mind fox case payment bird punch corn lift manage";

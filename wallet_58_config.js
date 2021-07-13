@@ -1,1 +1,1 @@
-var mnemonic = "know remember urban powder apple deposit bread drive age net depend fish";
+var mnemonic = "liquid crouch brass soldier evidence liquid trick duck this spawn junk canyon";

@@ -1,1 +1,1 @@
-var mnemonic = "canyon oil mail mention device sure cabin target toward season avocado immense";
+var mnemonic = "point apart face real logic deposit dinner pipe furnace glove soft sunny";

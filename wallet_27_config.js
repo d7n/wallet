@@ -1,1 +1,1 @@
-var mnemonic = "defense correct latin loyal purity embody fatal woman hip scheme deposit letter";
+var mnemonic = "perfect polar flame outdoor aware document knock renew window enough tribe budget";

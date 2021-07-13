@@ -1,1 +1,1 @@
-var mnemonic = "option chronic winter arrange primary runway soft humble usage economy trophy upon";
+var mnemonic = "balcony roof close prison office width prefer mercy share goat lunch protect";

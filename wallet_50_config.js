@@ -1,1 +1,1 @@
-var mnemonic = "lyrics dentist valley raven coral breeze jungle position invest apart advice swift";
+var mnemonic = "diet arch vital remember flavor phrase cruise notable inside icon fetch decline";

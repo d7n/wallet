@@ -1,1 +1,1 @@
-var mnemonic = "essay stone solution vote muffin faculty point exhaust link section canoe tissue";
+var mnemonic = "famous garbage finish elder music rely elevator vocal noble soup lift dentist";

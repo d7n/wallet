@@ -1,1 +1,1 @@
-var mnemonic = "allow genre crunch fit board dinner cherry oil divorce rude mixture repeat";
+var mnemonic = "fan lobster thank bachelor letter hour goddess eagle minimum surround police situate";

@@ -1,1 +1,1 @@
-var mnemonic = "sing brass gasp gain oyster orient diet wait evoke rose dumb naive";
+var mnemonic = "sword horror rate dune priority maximum trap liquid despair deal cruel wolf";

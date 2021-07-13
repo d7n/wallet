@@ -1,1 +1,1 @@
-var mnemonic = "budget travel fresh forum coast bleak bracket sword avocado balcony fuel toilet";
+var mnemonic = "expand online rebuild ocean slide width flower phone novel hobby crane width";

@@ -1,1 +1,1 @@
-var mnemonic = "antenna inject quote saddle proud capable pig moral dish wife hungry rate";
+var mnemonic = "glove genius cream obtain harvest safe ring spirit satisfy solid pear leave";

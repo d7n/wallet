@@ -1,1 +1,1 @@
-var mnemonic = "nephew gift nose tip six vacant flee patch marine ranch behave cigar";
+var mnemonic = "shoulder public muffin transfer time style arrow always road forum rebel awful";

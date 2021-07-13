@@ -1,1 +1,1 @@
-var mnemonic = "gasp settle limb blast slam debris image other lake message tenant blur";
+var mnemonic = "always hold season between domain lottery sketch accident predict near melody vacuum";

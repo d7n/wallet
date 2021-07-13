@@ -1,1 +1,1 @@
-var mnemonic = "provide reunion spawn powder split own tag truly process obvious grape social";
+var mnemonic = "hungry goddess pony almost latin because scissors start elegant easily rack yellow";

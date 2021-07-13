@@ -1,1 +1,1 @@
-var mnemonic = "kingdom pause cable almost husband rocket nerve stumble cool claim lizard usage";
+var mnemonic = "move leaf rescue open rescue clutch pill ozone camera fatal gate flock";

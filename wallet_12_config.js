@@ -1,1 +1,1 @@
-var mnemonic = "write special march master jaguar absorb slow october brave number blast discover";
+var mnemonic = "same devote powder camp stick sport flag enroll glass hover oxygen hour";

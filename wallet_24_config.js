@@ -1,1 +1,1 @@
-var mnemonic = "female vacuum vital couple arch venue doll chair broom close unaware hawk";
+var mnemonic = "furnace rally snake load knife shrug unable this virtual unveil adjust cricket";

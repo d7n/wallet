@@ -1,1 +1,1 @@
-var mnemonic = "pole crush accuse ostrich fury book fatigue that goat excite child dial";
+var mnemonic = "parrot number marriage grief chair fiction anchor april canoe process warrior blush";

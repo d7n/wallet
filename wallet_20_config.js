@@ -1,1 +1,1 @@
-var mnemonic = "save shrimp shoot mixed modify card please issue autumn dune voice kitten";
+var mnemonic = "sun define jeans strategy beef whip ritual juice meadow cake section when";

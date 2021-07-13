@@ -1,1 +1,1 @@
-var mnemonic = "photo mirror above crisp affair lonely holiday legend weekend silver more merit";
+var mnemonic = "crunch oxygen voyage burden stumble enter duty roof banner index talk shuffle";

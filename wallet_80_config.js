@@ -1,1 +1,1 @@
-var mnemonic = "muffin scan define aspect label bright fish fog bubble trend picture guard";
+var mnemonic = "sheriff inspire stem small make interest avoid mean any tobacco alcohol congress";

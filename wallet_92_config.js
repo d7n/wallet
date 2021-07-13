@@ -1,1 +1,1 @@
-var mnemonic = "rather leader stumble giant rally rare era much sketch address parade decide";
+var mnemonic = "click pupil police text beauty any snake pill element dad brick fog";

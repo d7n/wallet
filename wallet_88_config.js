@@ -1,1 +1,1 @@
-var mnemonic = "sock innocent seed vehicle fee credit industry glue harsh novel book rich";
+var mnemonic = "guard talk knock cabbage valid survey grain snake wealth deputy blood east";

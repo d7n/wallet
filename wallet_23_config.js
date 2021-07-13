@@ -1,1 +1,1 @@
-var mnemonic = "sponsor rib kite witness despair butter scorpion green perfect phone adjust project";
+var mnemonic = "wrist nephew convince half stereo unfair poem strong accident tower double impulse";

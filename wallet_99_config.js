@@ -1,1 +1,1 @@
-var mnemonic = "fall juice avocado unveil wait humor rebuild silly cost there setup pigeon";
+var mnemonic = "fan history come sting have empower clean runway episode bonus parade mutual";

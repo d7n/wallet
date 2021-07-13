@@ -1,1 +1,1 @@
-var mnemonic = "museum champion inform double sponsor steak trade borrow dad only sound bless";
+var mnemonic = "enforce jealous version saddle involve south escape anchor army clutch chunk pen";

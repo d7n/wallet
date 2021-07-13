@@ -1,1 +1,1 @@
-var mnemonic = "very violin stadium duck buyer lava light model person drama width organ";
+var mnemonic = "hour tattoo result leader zone acid decorate rose arena immune give theory";

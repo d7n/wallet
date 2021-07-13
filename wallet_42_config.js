@@ -1,1 +1,1 @@
-var mnemonic = "black found dash always typical rate junior wasp rubber drink hunt cable";
+var mnemonic = "inquiry away wall already desert just goose false salad decline maple parade";

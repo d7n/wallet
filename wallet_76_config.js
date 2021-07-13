@@ -1,1 +1,1 @@
-var mnemonic = "uphold master employ phrase toss forest robot street total damp old sentence";
+var mnemonic = "produce same asthma toddler upon orange kingdom fork identify hire lonely toward";

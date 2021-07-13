@@ -1,1 +1,1 @@
-var mnemonic = "uphold pear session riot vast edit bicycle return spatial champion appear ripple";
+var mnemonic = "dry energy wet ramp payment curtain scene salute cloud fatal clown turtle";

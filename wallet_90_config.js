@@ -1,1 +1,1 @@
-var mnemonic = "merry conduct globe spend alarm cost elegant claw stamp fancy light degree";
+var mnemonic = "cart letter toss fix giggle mushroom oak true salon lock gas hip";
