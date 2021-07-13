@@ -1,1 +1,1 @@
-var mnemonic = "quit limit chest useful fiction pioneer say tiny close version magic square";
+var mnemonic = "hire cycle very enable father fix destroy child item slender review fossil";

@@ -1,1 +1,1 @@
-var mnemonic = "race radio work assault mix doctor task oak position plastic arrange bar";
+var mnemonic = "copy ring expand wise believe remove flat concert sample crush hawk crazy";

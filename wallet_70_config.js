@@ -1,1 +1,1 @@
-var mnemonic = "letter govern ugly monster often acquire genuine note fish burst phone car";
+var mnemonic = "tomato quit panel game horror romance account daring picture legend hundred birth";

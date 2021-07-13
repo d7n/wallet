@@ -1,1 +1,1 @@
-var mnemonic = "fancy sun boil country fragile kind suggest drip quality mountain power wood";
+var mnemonic = "start great deer load street muffin afford quality close scale wave charge";

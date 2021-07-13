@@ -1,1 +1,1 @@
-var mnemonic = "slice code wife cart require slide stove inform pelican say swamp village";
+var mnemonic = "mother cement tag radio legal never citizen page gadget orient trade earn";

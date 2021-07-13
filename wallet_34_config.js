@@ -1,1 +1,1 @@
-var mnemonic = "cute people repair suffer identify wealth miss broccoli recipe fever food travel";
+var mnemonic = "venture inspire rug cherry split damp tape kitchen shiver voyage festival pioneer";

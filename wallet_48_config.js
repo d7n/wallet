@@ -1,1 +1,1 @@
-var mnemonic = "pepper shed kid night give penalty soccer wash club gauge mail feed";
+var mnemonic = "shed jacket vehicle intact try blind already obey student tail mix engine";

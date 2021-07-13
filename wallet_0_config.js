@@ -1,1 +1,1 @@
-var mnemonic = "phone upon drama sweet police soccer wreck provide suggest awful catch palace";
+var mnemonic = "try garage saddle cotton dish bargain attract knock ghost lucky inherit sugar";

@@ -1,1 +1,1 @@
-var mnemonic = "drastic inject frequent hint unit tunnel girl zone owner occur clarify clean";
+var mnemonic = "siege envelope illness silver advice husband chicken burst shine negative slide sword";

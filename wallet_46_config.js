@@ -1,1 +1,1 @@
-var mnemonic = "mix spatial defense intact combine account exercise uniform conduct slab battle witness";
+var mnemonic = "merit judge method disease spend bronze gallery tomato bicycle alien attack fee";

@@ -1,1 +1,1 @@
-var mnemonic = "spray zoo copper define banner edge desert ghost mobile recipe arm gas";
+var mnemonic = "believe opinion paddle genuine this uncle crucial side base smile youth token";

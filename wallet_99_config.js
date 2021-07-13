@@ -1,1 +1,1 @@
-var mnemonic = "climb original borrow universe rigid pen music because stamp someone february typical";
+var mnemonic = "brass solve corn melody phone fringe anxiety coin afraid cherry casino crouch";

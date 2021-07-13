@@ -1,1 +1,1 @@
-var mnemonic = "scorpion waste walnut essence sort team live improve jazz cloth roof aim";
+var mnemonic = "local chalk symptom exotic inhale remind saddle melt topple enter sister heart";

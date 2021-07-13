@@ -1,1 +1,1 @@
-var mnemonic = "energy morning vivid kiss betray inspire cave drink force noodle kiwi run";
+var mnemonic = "evolve topic casino vacuum fresh stairs tennis exact issue sort develop crunch";

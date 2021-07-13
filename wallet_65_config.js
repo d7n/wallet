@@ -1,1 +1,1 @@
-var mnemonic = "theory tennis nut girl fortune already mobile public radio whale dad false";
+var mnemonic = "dinner flip hip twist erase void program shock trust where champion machine";

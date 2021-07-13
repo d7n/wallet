@@ -1,1 +1,1 @@
-var mnemonic = "hole coach lazy wealth solid roof fragile occur fiber paper manual allow";
+var mnemonic = "fossil rate reward amateur goddess input craft wear crush fit dove club";

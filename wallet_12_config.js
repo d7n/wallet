@@ -1,1 +1,1 @@
-var mnemonic = "steel chaos ankle supply web inner height quiz thumb walk maze valid";
+var mnemonic = "surprise tackle faith bike dad exist march promote long steak surface twelve";

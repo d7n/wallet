@@ -1,1 +1,1 @@
-var mnemonic = "front art fantasy insane because bus clutch siren offer ancient check fat";
+var mnemonic = "crush face dust cliff escape angle adjust stable immense mom fresh matter";

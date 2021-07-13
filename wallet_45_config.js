@@ -1,1 +1,1 @@
-var mnemonic = "gas notable place bus column library lazy birth vanish actual entire vault";
+var mnemonic = "salt eager glad patient quantum swap soccer cross flash coast ensure try";

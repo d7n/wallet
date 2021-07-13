@@ -1,1 +1,1 @@
-var mnemonic = "then survey bleak coast trash walk domain silk soap wool bless quick";
+var mnemonic = "kick humor beach receive acid assault frame picture naive alter remove lazy";

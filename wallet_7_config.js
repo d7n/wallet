@@ -1,1 +1,1 @@
-var mnemonic = "noble bunker waste material husband seek jungle ticket industry goose pony enact";
+var mnemonic = "hint six loan speed belt absent civil credit upgrade pumpkin opera able";

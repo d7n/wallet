@@ -1,1 +1,1 @@
-var mnemonic = "custom dash spatial purchase pencil bronze finish proof kit phrase tide bless";
+var mnemonic = "tattoo repair debris dutch water erosion sword forget debris giant uncle learn";

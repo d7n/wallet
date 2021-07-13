@@ -1,1 +1,1 @@
-var mnemonic = "filter sport ignore language amazing heavy kitten nephew public gorilla width creek";
+var mnemonic = "right caught evolve laptop arctic awake chef service slush school health text";

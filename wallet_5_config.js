@@ -1,1 +1,1 @@
-var mnemonic = "pig brief humor easy away helmet endorse stamp picnic jealous put mix";
+var mnemonic = "want execute deal narrow poem parent list flee little tunnel school gravity";

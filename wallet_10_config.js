@@ -1,1 +1,1 @@
-var mnemonic = "focus street aware exclude borrow round verb unusual apple forget pipe hockey";
+var mnemonic = "message quit submit then soldier cheap impact enforce save depart syrup coil";

@@ -1,1 +1,1 @@
-var mnemonic = "rule weapon camp kidney rescue army raise exit sausage silver plug vibrant";
+var mnemonic = "glimpse grape pet tilt nature plunge under purchase collect ranch trumpet useless";

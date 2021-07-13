@@ -1,1 +1,1 @@
-var mnemonic = "purse sauce lawsuit honey chef furnace filter credit novel helmet theory vague";
+var mnemonic = "material photo off enter thank dilemma promote pioneer satisfy modify order diamond";

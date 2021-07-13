@@ -1,1 +1,1 @@
-var mnemonic = "worth month since violin smile beauty bounce rain try long march donate";
+var mnemonic = "fame whip aunt sail stick achieve sauce smooth owner cannon level illness";

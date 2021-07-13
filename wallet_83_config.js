@@ -1,1 +1,1 @@
-var mnemonic = "check dizzy weekend cable rate tree art antique guard lottery marble wine";
+var mnemonic = "okay aisle sure letter loyal receive field tooth glad empower park despair";

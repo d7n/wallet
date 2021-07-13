@@ -1,1 +1,1 @@
-var mnemonic = "fiction drop travel multiply family trade junk way club romance capital phone";
+var mnemonic = "daughter mention oval slide fiscal hurdle satisfy flock cash radar worth mind";

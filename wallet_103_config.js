@@ -1,1 +1,1 @@
-var mnemonic = "obscure sun moon fluid hedgehog old sister traffic typical huge used melt";
+var mnemonic = "aunt cram section monkey leaf swing theory rain hurry valley domain upset";

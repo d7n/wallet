@@ -1,1 +1,1 @@
-var mnemonic = "buffalo depend dad issue talk aerobic tell clay object enable stairs multiply";
+var mnemonic = "level liar lyrics neck season evoke pony jeans when silent solve able";

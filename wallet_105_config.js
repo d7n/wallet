@@ -1,1 +1,1 @@
-var mnemonic = "easily country motor toe joke gift romance normal manual first hunt exclude";
+var mnemonic = "during gravity borrow west tooth smart exclude someone strong ladder soccer bracket";

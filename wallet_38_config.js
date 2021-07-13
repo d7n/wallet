@@ -1,1 +1,1 @@
-var mnemonic = "slam chronic oxygen initial fancy deliver arrest shrug help warrior north climb";
+var mnemonic = "above car garbage alert rigid agent expect promote smile swing impact acoustic";

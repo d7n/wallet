@@ -1,1 +1,1 @@
-var mnemonic = "setup symbol nature control flight pole myth focus gravity anchor author seat";
+var mnemonic = "point zoo brief humble cash quote super praise tower fly defy sport";

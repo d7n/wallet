@@ -1,1 +1,1 @@
-var mnemonic = "velvet kitchen pepper siege diet search action lottery range crime sea quantum";
+var mnemonic = "habit rain else situate quote drop among reject breeze decrease admit kitchen";

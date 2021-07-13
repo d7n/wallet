@@ -1,1 +1,1 @@
-var mnemonic = "unable puzzle fetch color shed yard swamp cool erase health humble inquiry";
+var mnemonic = "control liquid profit muffin theme chalk business panic mom choose holiday stem";

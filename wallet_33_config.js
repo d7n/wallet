@@ -1,1 +1,1 @@
-var mnemonic = "topic word throw place design mammal promote pave oil number faint tourist";
+var mnemonic = "trade exotic peanut ranch occur ridge input army dune canyon mansion two";

@@ -1,1 +1,1 @@
-var mnemonic = "truck voice spawn kitten reveal pink farm black olympic neck shaft thought";
+var mnemonic = "crack hood lab air mandate cost rose clay merge million grass warm";

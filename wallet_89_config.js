@@ -1,1 +1,1 @@
-var mnemonic = "forward tired better suffer tool brush vibrant episode demise civil regret subject";
+var mnemonic = "useless weasel pony top vacuum culture winner silly unlock lucky sister employ";

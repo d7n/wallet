@@ -1,1 +1,1 @@
-var mnemonic = "only near retreat sugar donor brave proud unhappy age steel will sweet";
+var mnemonic = "ocean early cabin morning phrase twin cup glow control meat hard envelope";

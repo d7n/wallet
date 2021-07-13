@@ -1,1 +1,1 @@
-var mnemonic = "unknown mixture carry stay kick toe one race spot title nest cup";
+var mnemonic = "misery derive shallow cannon easy alone vendor exchange stand throw camp legend";

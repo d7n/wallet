@@ -1,1 +1,1 @@
-var mnemonic = "enjoy discover section judge guilt prevent poverty win ranch scout mosquito offer";
+var mnemonic = "sing power twin sand tortoise calm sketch amateur thank unfold text allow";

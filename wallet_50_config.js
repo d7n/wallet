@@ -1,1 +1,1 @@
-var mnemonic = "genre submit street omit pave firm loyal split execute alien salad travel";
+var mnemonic = "man piece mistake come elegant insect weasel tribe orphan tobacco pair frog";

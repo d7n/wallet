@@ -1,1 +1,1 @@
-var mnemonic = "gym entire select kitten problem parade horn spread cotton net plunge they";
+var mnemonic = "matrix first busy reject height hip render bulb wise crunch enter mansion";

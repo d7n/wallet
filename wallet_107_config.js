@@ -1,1 +1,1 @@
-var mnemonic = "divert menu program range better clutch moon air admit arch obvious gadget";
+var mnemonic = "post young stamp duck spoon breeze gaze indicate afraid over deliver swarm";

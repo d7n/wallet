@@ -1,1 +1,1 @@
-var mnemonic = "neglect mansion theme merge length safe poverty moment topple couple kit oyster";
+var mnemonic = "deer love cup grant giggle off curtain tree label pistol merge cheap";

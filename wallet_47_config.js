@@ -1,1 +1,1 @@
-var mnemonic = "detail attack win lounge job diet board light force vicious never spawn";
+var mnemonic = "flight field jacket receive similar critic already fit piano certain medal tuition";

@@ -1,1 +1,1 @@
-var mnemonic = "reopen wage away metal shy invite month old talk waste family carpet";
+var mnemonic = "camera image possible pluck crop fetch abstract tongue stone ball obtain roast";

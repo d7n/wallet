@@ -1,1 +1,1 @@
-var mnemonic = "guess corn seek dose mask stage secret barely vital pioneer royal hope";
+var mnemonic = "beef monster science ensure cube patient aim twin choose solar junk able";

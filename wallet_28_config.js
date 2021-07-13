@@ -1,1 +1,1 @@
-var mnemonic = "shadow describe pepper crew endorse liberty dirt list chicken rotate clip abuse";
+var mnemonic = "fashion wire cat display bottom rug explain girl wagon hip check tone";

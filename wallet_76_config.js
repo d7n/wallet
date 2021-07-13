@@ -1,1 +1,1 @@
-var mnemonic = "alone gold surface glance lazy charge shock tissue limb give ripple dolphin";
+var mnemonic = "slam phrase tumble laundry margin actor margin early much huge champion fantasy";

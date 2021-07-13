@@ -1,1 +1,1 @@
-var mnemonic = "song identify royal regret other whale menu practice portion that episode actress";
+var mnemonic = "rhythm peace find sniff album humor thank shoot salad thumb bind tortoise";

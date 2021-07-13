@@ -1,1 +1,1 @@
-var mnemonic = "voyage gas gentle enrich loop two torch cabin brown slender announce kite";
+var mnemonic = "jaguar width frog return addict seminar unique usual mutual rib half ketchup";

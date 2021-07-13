@@ -1,1 +1,1 @@
-var mnemonic = "emerge knife law inform cream lyrics model trim awake bicycle around drip";
+var mnemonic = "eternal milk ten burst lecture chalk measure across valve funny era always";

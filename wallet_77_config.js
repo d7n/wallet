@@ -1,1 +1,1 @@
-var mnemonic = "night load runway chalk across scatter fever follow twenty bind turkey color";
+var mnemonic = "machine merge fiscal hole recall palace brush slogan diesel plunge canyon grape";

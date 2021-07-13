@@ -1,1 +1,1 @@
-var mnemonic = "above tornado tackle spring example garment average torch aunt grid behave cable";
+var mnemonic = "discover illegal long merit bid save bean disease insane angry medal air";

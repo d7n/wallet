@@ -1,1 +1,1 @@
-var mnemonic = "already hand sure luxury smart shop banner vacuum human lady group ivory";
+var mnemonic = "happy satisfy fiber slender scout split hello open oak mask eagle parent";

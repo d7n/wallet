@@ -1,1 +1,1 @@
-var mnemonic = "obey light embark teach friend surprise priority hair cricket tackle sound ghost";
+var mnemonic = "permit ripple avoid observe sword relax need eye shed swarm response uniform";

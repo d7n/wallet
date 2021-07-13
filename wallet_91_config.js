@@ -1,1 +1,1 @@
-var mnemonic = "banner victory caution october book divorce forget hotel party umbrella voyage cereal";
+var mnemonic = "float lunch armor cliff ability ahead virus friend radar riot wreck add";

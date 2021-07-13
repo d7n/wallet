@@ -1,1 +1,1 @@
-var mnemonic = "erupt shop certain loop unit field daring law jar ramp beef resource";
+var mnemonic = "joy flock cruise neck space viable element draw music cattle talk apology";

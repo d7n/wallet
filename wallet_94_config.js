@@ -1,1 +1,1 @@
-var mnemonic = "beyond exit drill tag option next amused bulk soap mercy foam begin";
+var mnemonic = "miracle scrub harvest derive must resist hammer vicious myself tag upon bird";

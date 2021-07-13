@@ -1,1 +1,1 @@
-var mnemonic = "edit stable pulse evidence dismiss seat normal final flower kid toy about";
+var mnemonic = "around ignore explain typical town bless favorite trouble cave replace toward dial";

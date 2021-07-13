@@ -1,1 +1,1 @@
-var mnemonic = "exercise minimum sustain rule inhale canal banana float coast educate youth wrist";
+var mnemonic = "lucky bachelor pudding uncover traffic upon year can adapt grape dial demise";

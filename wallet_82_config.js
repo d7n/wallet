@@ -1,1 +1,1 @@
-var mnemonic = "impulse dish envelope beef meadow edit art blade pottery oil tongue coconut";
+var mnemonic = "tiny win vapor acid wink knock diet camera lawsuit happy across hair";

@@ -1,1 +1,1 @@
-var mnemonic = "oyster cram cause fee tree mention pig sadness tunnel enable gown home";
+var mnemonic = "area cheese olive wine ivory mom edge few donkey tiger song family";

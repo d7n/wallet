@@ -1,1 +1,1 @@
-var mnemonic = "pretty champion behave pitch finger north double genuine sea normal marriage chase";
+var mnemonic = "icon behind win name abandon oak pluck property install state chunk young";

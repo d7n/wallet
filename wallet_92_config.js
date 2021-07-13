@@ -1,1 +1,1 @@
-var mnemonic = "rib leisure faint wish balcony trust meadow melt tent possible unveil humble";
+var mnemonic = "series else involve warm balcony picnic protect wool erosion found flash mix";

@@ -1,1 +1,1 @@
-var mnemonic = "thrive canoe boss junk jungle object viable tackle earn luggage act organ";
+var mnemonic = "slice across ghost sheriff word bulk sunny addict unfold edge strategy firm";

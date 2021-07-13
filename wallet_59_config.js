@@ -1,1 +1,1 @@
-var mnemonic = "spawn mountain sure road crop fiction ship differ tower pluck genius lucky";
+var mnemonic = "region erase science because start picnic cloud arrest mention cup kitchen cloth";

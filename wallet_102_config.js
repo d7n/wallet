@@ -1,1 +1,1 @@
-var mnemonic = "cost soft wall lyrics garbage segment author drastic any oak goddess maximum";
+var mnemonic = "exhaust laugh patient coffee column general panic spray seat exile lumber burst";

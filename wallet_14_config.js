@@ -1,1 +1,1 @@
-var mnemonic = "duck brand clog move armed like adult fancy scare lecture license rule";
+var mnemonic = "radio call exit brain item yard series virus tongue click hand stand";

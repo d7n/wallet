@@ -1,1 +1,1 @@
-var mnemonic = "frequent choice accuse quantum pair one unfair jelly easily wait true useful";
+var mnemonic = "penalty sweet stay subject glide such away common obey little fuel acid";

@@ -1,1 +1,1 @@
-var mnemonic = "alien battle glide eye monkey chalk future volcano clock symbol manual perfect";
+var mnemonic = "gasp february ready spawn length display level thought smile train crunch idea";

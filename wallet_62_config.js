@@ -1,1 +1,1 @@
-var mnemonic = "sauce edge check duty pear skin obey pink express bullet ability art";
+var mnemonic = "entry cheap tree ahead embrace skill wrestle nasty recipe sting manage parrot";

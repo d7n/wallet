@@ -1,1 +1,1 @@
-var mnemonic = "indoor ten tortoise olympic gain caught portion suit mix dad gym early";
+var mnemonic = "return lab afraid cheese original submit text cause engage anxiety sketch fan";

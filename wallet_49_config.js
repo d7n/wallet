@@ -1,1 +1,1 @@
-var mnemonic = "escape science cupboard enemy creek deal peasant strike cousin you caught sand";
+var mnemonic = "spend typical soul estate assume property genre rail attract bomb bridge reason";

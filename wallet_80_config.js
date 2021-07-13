@@ -1,1 +1,1 @@
-var mnemonic = "abstract else ahead clap want police fork piece fork million ask large";
+var mnemonic = "purchase army quiz armor jungle galaxy street cycle produce wine sell similar";

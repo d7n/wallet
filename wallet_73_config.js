@@ -1,1 +1,1 @@
-var mnemonic = "disorder rude sausage prison parade keep method axis arrive manage danger valid";
+var mnemonic = "bright eagle expand hybrid push club sugar shield awkward law effort beauty";

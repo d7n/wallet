@@ -1,1 +1,1 @@
-var mnemonic = "pilot sudden spawn useless morning reunion fire rebel rhythm gasp wink inform";
+var mnemonic = "simple forest crumble vicious twist wait verify snow twice lift add orchard";

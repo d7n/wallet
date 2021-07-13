@@ -1,1 +1,1 @@
-var mnemonic = "bright latin afraid unhappy peanut foam possible entry twenty glare good damage";
+var mnemonic = "maximum captain crazy drink antique false athlete loud season pass suggest tree";

@@ -1,1 +1,1 @@
-var mnemonic = "bean knock guilt between shine muffin wear supply bind cruel fresh security";
+var mnemonic = "course mirror balcony matrix busy canvas close excite concert crop index harbor";

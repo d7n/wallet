@@ -1,1 +1,1 @@
-var mnemonic = "praise piece fresh fire learn exchange soup vicious puppy prepare sibling stick";
+var mnemonic = "right moment search truth seminar more bleak what always evidence endless scrub";

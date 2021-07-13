@@ -1,1 +1,1 @@
-var mnemonic = "soda fluid surge reduce odor gospel run weather sorry divide add symbol";
+var mnemonic = "baby business dose soup seed employ gospel humble crew end section sniff";

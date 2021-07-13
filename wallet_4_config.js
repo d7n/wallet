@@ -1,1 +1,1 @@
-var mnemonic = "better cotton acoustic aunt derive tuna select apart winner admit over usual";
+var mnemonic = "jazz excite gallery extra visual wide offer miss uphold violin sad guess";

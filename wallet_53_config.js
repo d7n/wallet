@@ -1,1 +1,1 @@
-var mnemonic = "word camp wasp grief marble program nasty ice track crime leg rebel";
+var mnemonic = "try river master equip vessel two gadget cause grape swing tumble toast";

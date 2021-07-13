@@ -1,1 +1,1 @@
-var mnemonic = "mosquito age fragile erupt spend ginger plate fringe sand two like intact";
+var mnemonic = "punch excite hunt menu inside nasty book solar tattoo oppose note turn";

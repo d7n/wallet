@@ -1,1 +1,1 @@
-var mnemonic = "brother asset begin echo crowd work affair toe pledge fan lecture stove";
+var mnemonic = "peanut local there motion beach boil genuine approve banana genuine club smart";

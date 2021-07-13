@@ -1,1 +1,1 @@
-var mnemonic = "paper girl entry skull shop end pause hero almost divorce north sample";
+var mnemonic = "because chat balance hello stable bicycle buyer legal purse tribe clock nasty";

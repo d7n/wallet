@@ -1,1 +1,1 @@
-var mnemonic = "luxury paddle globe sunny repeat cotton castle year always trouble manage moral";
+var mnemonic = "stone company way fly merit attack scene rebuild skill jump all negative";

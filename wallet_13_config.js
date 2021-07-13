@@ -1,1 +1,1 @@
-var mnemonic = "tumble keen clerk possible august early web carpet bike medal often boat";
+var mnemonic = "word prefer echo pitch art slush fish multiply peasant curve sunny fade";

@@ -1,1 +1,1 @@
-var mnemonic = "neglect jelly inflict panic earth license muscle vessel noise govern confirm range";
+var mnemonic = "inherit stone crash word tray dry bridge dream question gentle stone tilt";

@@ -1,1 +1,1 @@
-var mnemonic = "tool taste chef dad jealous betray seek squirrel security pony frog local";
+var mnemonic = "guide venue wife slow public roast tragic matrix cushion gauge night elite";

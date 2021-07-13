@@ -1,1 +1,1 @@
-var mnemonic = "bus youth person ability palm cage keep fit sick alley initial rail";
+var mnemonic = "body impulse enjoy trick forest mystery fringe image spatial rich pioneer series";

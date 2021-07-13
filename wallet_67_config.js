@@ -1,1 +1,1 @@
-var mnemonic = "wait squirrel hope repair lake chase picnic flavor asset total final become";
+var mnemonic = "green smooth display sweet slow mobile boil away elevator kid sword midnight";
