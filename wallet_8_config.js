@@ -1,1 +1,1 @@
-var mnemonic = "neither primary author divorce teach armor early funny alley erode fat off";
+var mnemonic = "prevent index decide diesel base keen thank ranch catalog awful voyage involve";

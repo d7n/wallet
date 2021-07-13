@@ -1,1 +1,1 @@
-var mnemonic = "quality chapter ride task coach else doctor write argue move toward wait";
+var mnemonic = "twice bridge ribbon mystery balcony second suit jungle dinner chat praise skull";

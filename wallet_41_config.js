@@ -1,1 +1,1 @@
-var mnemonic = "usual bridge actress sunset picnic yard mountain polar exclude glory design thought";
+var mnemonic = "chief profit hub price hair type drip grit carbon team lock chicken";

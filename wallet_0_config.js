@@ -1,1 +1,1 @@
-var mnemonic = "chase cigar depth town country battle chuckle wish bronze speak still shine";
+var mnemonic = "battle defense ivory arena census merry path derive member welcome toast height";

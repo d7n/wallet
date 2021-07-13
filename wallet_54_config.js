@@ -1,1 +1,1 @@
-var mnemonic = "cable essay control nurse left physical smoke main feed whip latin fatal";
+var mnemonic = "inherit check stumble access number dog what roast cricket chef glare board";

@@ -1,1 +1,1 @@
-var mnemonic = "penalty tennis power cannon install license venue diagram apart wheat shoulder vault";
+var mnemonic = "snap auto employ middle there luggage live silver dragon rally polar amateur";

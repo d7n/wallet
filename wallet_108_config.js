@@ -1,1 +1,1 @@
-var mnemonic = "dinosaur party theme fury theory theme dish powder school trim tonight fuel";
+var mnemonic = "mansion pulp rude output system ripple stem day spike wall bird poverty";

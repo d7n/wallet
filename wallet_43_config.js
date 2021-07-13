@@ -1,1 +1,1 @@
-var mnemonic = "chase foot antique gadget sad armor nice draw equip puppy riot genre";
+var mnemonic = "festival card remember horse primary birth style sniff pet grab oxygen recycle";

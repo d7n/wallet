@@ -1,1 +1,1 @@
-var mnemonic = "cinnamon economy bread summer shoe loop forward lab jump bleak celery lobster";
+var mnemonic = "current recycle river casual teach find humor pilot fatigue fatal ticket crisp";

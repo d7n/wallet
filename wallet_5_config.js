@@ -1,1 +1,1 @@
-var mnemonic = "fat fancy test fashion fold banner easily mask fluid month surface dinner";
+var mnemonic = "trophy story teach stem employ praise easy giggle bundle head target glide";

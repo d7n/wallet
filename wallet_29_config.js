@@ -1,1 +1,1 @@
-var mnemonic = "oxygen alpha damage prison unfair mad nominee version wet clock acquire garage";
+var mnemonic = "roof discover robust mom cruel inhale order evoke wonder brush monkey fault";

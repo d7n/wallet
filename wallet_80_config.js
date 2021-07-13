@@ -1,1 +1,1 @@
-var mnemonic = "isolate hamster put judge frog real road reward trend clump approve rapid";
+var mnemonic = "game quote syrup harbor struggle eternal rough alter suspect author best half";

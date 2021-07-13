@@ -1,1 +1,1 @@
-var mnemonic = "undo lumber spirit latin melody segment sail embark promote race net filter";
+var mnemonic = "crumble tobacco tackle winner also deal planet economy prosper artefact truck reveal";

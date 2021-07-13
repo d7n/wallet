@@ -1,1 +1,1 @@
-var mnemonic = "apology hurdle coast cattle away noble ostrich insect team middle tooth wisdom";
+var mnemonic = "load nest legal around gain surge hurt shed chuckle lend buyer column";

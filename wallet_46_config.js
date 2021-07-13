@@ -1,1 +1,1 @@
-var mnemonic = "define water repair lumber success lounge delay artwork eye split vehicle toward";
+var mnemonic = "athlete patrol element differ hole peanut favorite scatter brown mosquito gasp gossip";

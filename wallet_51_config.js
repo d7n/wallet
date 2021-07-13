@@ -1,1 +1,1 @@
-var mnemonic = "gown portion kingdom cream sight wire leaf salad asset zebra funny company";
+var mnemonic = "hole together fade road expand knee wall slab film gesture miss virtual";

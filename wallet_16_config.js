@@ -1,1 +1,1 @@
-var mnemonic = "eyebrow metal invite witness narrow tomato daring tube trim column peasant ranch";
+var mnemonic = "cabin bubble cash flight move recycle solve omit border luxury unfair nerve";

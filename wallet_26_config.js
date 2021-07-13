@@ -1,1 +1,1 @@
-var mnemonic = "review priority alcohol stool kit december improve potato stock nuclear paper guitar";
+var mnemonic = "ride shoe elephant misery own movie link shadow abandon true neither pizza";

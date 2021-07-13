@@ -1,1 +1,1 @@
-var mnemonic = "embrace loud fiber coil pudding sketch intact pencil cube flush exact undo";
+var mnemonic = "local gloom reflect plunge blanket unaware dismiss slim fault doctor roast pen";

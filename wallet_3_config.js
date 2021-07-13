@@ -1,1 +1,1 @@
-var mnemonic = "lend stairs spoil noble sense comic trick trade artefact universe armed bomb";
+var mnemonic = "sentence arch magic gate result diary lesson saddle bargain harbor wing bicycle";

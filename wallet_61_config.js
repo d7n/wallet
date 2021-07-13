@@ -1,1 +1,1 @@
-var mnemonic = "market buzz park deer polar traffic eight pyramid divide mutual first neck";
+var mnemonic = "excuse already quote spray short impose rapid brisk birth electric service raccoon";

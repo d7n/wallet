@@ -1,1 +1,1 @@
-var mnemonic = "select diagram area slight issue fat inch life dutch goose news keep";
+var mnemonic = "payment cake tube fortune curtain deny aware dolphin crush foam melt raise";

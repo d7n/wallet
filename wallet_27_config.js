@@ -1,1 +1,1 @@
-var mnemonic = "decade trouble two uphold curious black drive layer satisfy grocery penalty magnet";
+var mnemonic = "convince claim capital phone essay raccoon outside trophy field category luxury affair";

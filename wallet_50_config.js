@@ -1,1 +1,1 @@
-var mnemonic = "safe scrub result arrest bag noise tattoo unknown minute tongue have turkey";
+var mnemonic = "depart because barely luxury orange train thought snake strike hospital miss lemon";

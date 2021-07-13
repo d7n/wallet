@@ -1,1 +1,1 @@
-var mnemonic = "flat such alcohol erosion inject search proud knee dry weather fringe truly";
+var mnemonic = "twelve junk bunker page barrel delay melt admit drill various wood toddler";

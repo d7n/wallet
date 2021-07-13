@@ -1,1 +1,1 @@
-var mnemonic = "joke enjoy phone luxury spoil design divorce web toast stock say exhibit";
+var mnemonic = "suspect foil silent color point notable photo busy deposit bid use clog";

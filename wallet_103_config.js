@@ -1,1 +1,1 @@
-var mnemonic = "leisure sunny lecture glue remove fork skin curve immense move fine approve";
+var mnemonic = "present lion tomorrow refuse fatal sand custom wool very gas tomorrow film";

@@ -1,1 +1,1 @@
-var mnemonic = "property entire bubble enough april excuse breeze industry section where lazy zebra";
+var mnemonic = "mystery stumble paddle logic year entry page best spike anxiety rebuild promote";

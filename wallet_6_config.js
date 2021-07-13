@@ -1,1 +1,1 @@
-var mnemonic = "forest reward dog best absent habit stand slush winner awful foster clerk";
+var mnemonic = "random mad wage across ladder test attack fatigue have blind hotel easily";

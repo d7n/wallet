@@ -1,1 +1,1 @@
-var mnemonic = "spoon gym present tattoo pill guard cradle orient hat near okay mistake";
+var mnemonic = "uniform fox memory abandon pull polar episode original window destroy sunny chuckle";

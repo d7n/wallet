@@ -1,1 +1,1 @@
-var mnemonic = "bleak evidence swear seminar develop bomb chuckle keep course lounge message long";
+var mnemonic = "erupt trap empower social uncover wave panda flee museum three camp crater";

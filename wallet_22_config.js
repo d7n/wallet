@@ -1,1 +1,1 @@
-var mnemonic = "hover decide struggle tray robot picnic margin list exile ordinary side dutch";
+var mnemonic = "buzz table foam mule media insect sing decorate lab place wasp reunion";

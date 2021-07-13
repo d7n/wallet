@@ -1,1 +1,1 @@
-var mnemonic = "sheriff unique garment evoke fatal trip echo paddle gallery copy napkin lazy";
+var mnemonic = "unveil trip potato avoid hollow civil there width head deputy wink connect";

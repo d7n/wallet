@@ -1,1 +1,1 @@
-var mnemonic = "cycle concert fatigue praise mansion six lecture just lake onion make ride";
+var mnemonic = "valley gallery immune butter tent pigeon utility sick twelve satisfy switch energy";

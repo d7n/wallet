@@ -1,1 +1,1 @@
-var mnemonic = "exhaust twenty junior student path bamboo stand collect turn famous refuse oven";
+var mnemonic = "course spell scrub other deny custom present corn palm popular great betray";

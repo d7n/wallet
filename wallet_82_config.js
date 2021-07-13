@@ -1,1 +1,1 @@
-var mnemonic = "bicycle school top scene unveil dove empty inform history ice film canvas";
+var mnemonic = "network wolf symbol yard detail supply protect head actor truth sword credit";

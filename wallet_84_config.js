@@ -1,1 +1,1 @@
-var mnemonic = "humble velvet spend emerge bus skin jealous able call thing turtle polar";
+var mnemonic = "slender battle type punch birth kingdom blind coast ladder inner trim muffin";

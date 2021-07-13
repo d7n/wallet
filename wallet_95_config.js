@@ -1,1 +1,1 @@
-var mnemonic = "expand note forget cloud winter beauty ecology settle blanket cause dash opinion";
+var mnemonic = "bitter offer dragon bring unit fiber negative develop wonder cereal cinnamon bundle";

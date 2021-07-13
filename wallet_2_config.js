@@ -1,1 +1,1 @@
-var mnemonic = "turn viable rifle lumber panic rough entry hammer play erode service liar";
+var mnemonic = "conduct member oak surface gas cargo liquid device session coffee skull toy";

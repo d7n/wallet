@@ -1,1 +1,1 @@
-var mnemonic = "debris tongue lucky decorate garment august stock proof absurd speak excite crane";
+var mnemonic = "morning slice cash drip when cattle anchor pave fever identify fiscal early";

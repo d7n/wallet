@@ -1,1 +1,1 @@
-var mnemonic = "rent bounce action plate cube turkey run able noble awful hybrid high";
+var mnemonic = "mosquito pupil curve adult toss night initial together ball bundle tag mosquito";

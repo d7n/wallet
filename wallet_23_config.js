@@ -1,1 +1,1 @@
-var mnemonic = "cattle mean casual train describe maid capital frequent volcano apart inner mushroom";
+var mnemonic = "foil mystery avocado cactus boost shell route race brand pyramid roast moral";

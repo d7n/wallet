@@ -1,1 +1,1 @@
-var mnemonic = "swarm gravity cloud very phrase cigar earn hospital spray list view slow";
+var mnemonic = "segment motion matrix cactus jelly bargain brown anger large giraffe reflect jump";

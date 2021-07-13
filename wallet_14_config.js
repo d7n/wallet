@@ -1,1 +1,1 @@
-var mnemonic = "assault model goose quote patrol august bridge gesture mind banner marine fit";
+var mnemonic = "lock today vital mix fatal whisper there bargain provide pledge donkey boy";

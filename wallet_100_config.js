@@ -1,1 +1,1 @@
-var mnemonic = "beauty opinion vintage choose first about cable general two this gadget coconut";
+var mnemonic = "slender album venue timber food skull burden home position oven orient across";

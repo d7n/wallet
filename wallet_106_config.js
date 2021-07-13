@@ -1,1 +1,1 @@
-var mnemonic = "stamp basket vehicle next item athlete execute buddy school state people best";
+var mnemonic = "myth obtain tumble federal fence way hybrid rain disease boring salt amused";

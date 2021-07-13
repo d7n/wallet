@@ -1,1 +1,1 @@
-var mnemonic = "penalty genius push axis ship coyote crumble cloud priority dog better cattle";
+var mnemonic = "impose jump slot scatter frozen tissue gossip order profit fine walk brand";

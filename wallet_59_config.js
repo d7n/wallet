@@ -1,1 +1,1 @@
-var mnemonic = "tiger snow tumble illegal antique math size warm glare hill trap used";
+var mnemonic = "divert other match drop split false universe hunt small answer gym donor";

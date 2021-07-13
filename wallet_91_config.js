@@ -1,1 +1,1 @@
-var mnemonic = "blanket correct direct bounce juice onion keep ocean brand copper clinic chicken";
+var mnemonic = "solution void patient unfair expire under avocado slogan drink dismiss rib plastic";

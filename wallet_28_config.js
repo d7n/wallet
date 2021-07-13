@@ -1,1 +1,1 @@
-var mnemonic = "foster syrup step ramp monitor amateur occur expose cabin fancy theory talk";
+var mnemonic = "keep where amazing else public squeeze charge rebuild goat proof secret smoke";

@@ -1,1 +1,1 @@
-var mnemonic = "horn merge crouch furnace return proud wait view viable mesh scrub erode";
+var mnemonic = "goddess firm advance loyal current current search fade network predict holiday crush";

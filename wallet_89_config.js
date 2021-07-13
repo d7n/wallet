@@ -1,1 +1,1 @@
-var mnemonic = "boat involve famous surprise guitar immense museum question machine faculty current pudding";
+var mnemonic = "cabin face wheat summer depend vanish prosper stay task shell amused escape";

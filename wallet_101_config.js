@@ -1,1 +1,1 @@
-var mnemonic = "copper sauce dance ritual blouse arena draw book clog sun total rocket";
+var mnemonic = "wolf rib mango silly country pact brief stool human chuckle scissors stick";

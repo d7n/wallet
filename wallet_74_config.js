@@ -1,1 +1,1 @@
-var mnemonic = "width buzz robot response powder alert distance peace clinic brother among weather";
+var mnemonic = "patch whale work slim rabbit special seek mango sound bring name supreme";

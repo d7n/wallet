@@ -1,1 +1,1 @@
-var mnemonic = "meat noise vicious retreat build crop major valve dream churn oppose praise";
+var mnemonic = "foam syrup clutch combine mention flush claw stadium inform captain wool donate";

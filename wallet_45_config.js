@@ -1,1 +1,1 @@
-var mnemonic = "pistol forum left spell pet damage flash capable load code super jelly";
+var mnemonic = "old minimum feel speed bless toss frame park chat rail ill glimpse";

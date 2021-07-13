@@ -1,1 +1,1 @@
-var mnemonic = "version gap spin owner flock lens uniform giraffe among jump cable stock";
+var mnemonic = "theory humor disease impulse upon pattern beauty drop rude together bargain gym";

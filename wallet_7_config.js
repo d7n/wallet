@@ -1,1 +1,1 @@
-var mnemonic = "bid plate warrior hover margin fury canyon clinic flight face medal inside";
+var mnemonic = "hospital bullet quality phrase metal struggle road spoon insect congress meadow index";

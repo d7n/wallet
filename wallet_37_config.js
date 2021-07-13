@@ -1,1 +1,1 @@
-var mnemonic = "talk envelope dynamic bleak void dad hen gorilla actual cable strike ensure";
+var mnemonic = "sentence purpose pig law survey weekend cricket badge work festival witness envelope";

@@ -1,1 +1,1 @@
-var mnemonic = "staff kit crawl urban trim crane amount crash divorce medal virtual kick";
+var mnemonic = "fade spice network behind churn rich mixed result midnight claw drop salad";

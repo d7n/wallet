@@ -1,1 +1,1 @@
-var mnemonic = "girl lunar track corn law vital alley melt canvas wrong eagle weather";
+var mnemonic = "owner accuse rule sister pass weapon blush tiger focus daring cement swap";

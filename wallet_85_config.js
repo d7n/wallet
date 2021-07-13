@@ -1,1 +1,1 @@
-var mnemonic = "eternal still birth blanket ensure mule garbage illness elephant venue nest myself";
+var mnemonic = "modify expand universe asthma roof police host gift group enter caught elephant";

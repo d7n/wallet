@@ -1,1 +1,1 @@
-var mnemonic = "employ math hold salon consider figure priority opinion brick group just quality";
+var mnemonic = "oven photo tattoo symbol alarm attack earn wrap target faith lunar soft";

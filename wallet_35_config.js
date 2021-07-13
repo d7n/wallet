@@ -1,1 +1,1 @@
-var mnemonic = "penalty eight soda record best account wave since armor opera uniform smoke";
+var mnemonic = "grass result pupil loan axis exhibit advance story metal balance success beauty";

@@ -1,1 +1,1 @@
-var mnemonic = "airport carpet tray blade carpet final film melt wave screen smoke hospital";
+var mnemonic = "crowd grain deputy unique fat miss long happy beauty fetch salmon number";

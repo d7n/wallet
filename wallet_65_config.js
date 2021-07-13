@@ -1,1 +1,1 @@
-var mnemonic = "victory weasel endless access citizen cousin broom carbon spring scare dumb chapter";
+var mnemonic = "hurt naive verb update surprise then area pupil toward typical embody title";

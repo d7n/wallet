@@ -1,1 +1,1 @@
-var mnemonic = "level vague turn sugar wood remove injury guess sausage baby remain genius";
+var mnemonic = "tent cliff glow danger quote acoustic pool like output nation wisdom author";

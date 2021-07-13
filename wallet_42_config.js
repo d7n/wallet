@@ -1,1 +1,1 @@
-var mnemonic = "raw diet excuse oxygen idea stadium flight rail habit trip tell chat";
+var mnemonic = "shell eyebrow add result dirt segment deposit gentle cactus seat sheriff tunnel";

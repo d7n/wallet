@@ -1,1 +1,1 @@
-var mnemonic = "moral gate exist fit reunion nerve wood coconut tribe beyond domain deputy";
+var mnemonic = "round address faith ripple asthma agree social sad pretty adult dutch skirt";

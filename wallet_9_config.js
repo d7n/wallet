@@ -1,1 +1,1 @@
-var mnemonic = "danger joke cigar execute close miss million tide vapor virus betray inhale";
+var mnemonic = "curtain squeeze green anchor later brisk program firm lunar wait lamp frog";

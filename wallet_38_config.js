@@ -1,1 +1,1 @@
-var mnemonic = "blush snake flag two leg alcohol tumble tomato jacket shallow winner feed";
+var mnemonic = "setup have essence patch waste squirrel desk prefer lumber chaos weird antique";

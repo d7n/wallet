@@ -1,1 +1,1 @@
-var mnemonic = "talent avoid inspire defense art shock release assault tattoo spring layer snow";
+var mnemonic = "super taxi hobby woman winter milk ice forum museum hill window spread";

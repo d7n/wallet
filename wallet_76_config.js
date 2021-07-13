@@ -1,1 +1,1 @@
-var mnemonic = "garden enroll fruit canyon rice father subject toddler enjoy isolate retire bracket";
+var mnemonic = "heavy pistol level gravity fun fluid sting sing sphere cook potato normal";

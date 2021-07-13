@@ -1,1 +1,1 @@
-var mnemonic = "velvet liar joke harsh twice couch bone mask sell mix wheat shine";
+var mnemonic = "crazy advance despair puzzle property rich kiss pretty learn elephant club fragile";

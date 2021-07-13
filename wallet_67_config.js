@@ -1,1 +1,1 @@
-var mnemonic = "punch stable garden whip virtual crater view artist autumn planet orbit crystal";
+var mnemonic = "any goat begin olympic three improve lawsuit virus copy force alcohol board";

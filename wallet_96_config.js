@@ -1,1 +1,1 @@
-var mnemonic = "ranch muffin swear spin math satoshi danger clap repeat silly unique oxygen";
+var mnemonic = "unveil curve copper net animal aerobic wing beauty price maid output atom";

@@ -1,1 +1,1 @@
-var mnemonic = "deal month eternal unique piano change you utility usual welcome carpet narrow";
+var mnemonic = "purpose match tomato sausage video fortune kid miss legend elder multiply cruel";

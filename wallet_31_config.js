@@ -1,1 +1,1 @@
-var mnemonic = "leg spoon keep leisure napkin decade suggest maximum control daughter ignore disease";
+var mnemonic = "raccoon frame announce couch plug man buddy behind remind unable typical thank";

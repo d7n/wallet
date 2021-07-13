@@ -1,1 +1,1 @@
-var mnemonic = "ivory only aerobic lemon remain inject slow cigar ancient poet fence antique";
+var mnemonic = "try cart display unhappy friend avoid average cheese tumble thumb second valid";

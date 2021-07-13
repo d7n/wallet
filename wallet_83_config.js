@@ -1,1 +1,1 @@
-var mnemonic = "float image mistake panic surface mansion engage render order column scrap hard";
+var mnemonic = "scatter core left supreme bird zero borrow quiz girl aim lesson couple";

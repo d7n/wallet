@@ -1,1 +1,1 @@
-var mnemonic = "pulp omit address seminar eager laptop degree salmon hand tomato guide cage";
+var mnemonic = "dwarf square grape matter side enjoy blood frame vocal blur between burst";

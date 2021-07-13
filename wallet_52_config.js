@@ -1,1 +1,1 @@
-var mnemonic = "forget table ecology impact lizard police there chief pilot file thumb stadium";
+var mnemonic = "search tenant kitten material culture kiss drive language chef garment deal achieve";

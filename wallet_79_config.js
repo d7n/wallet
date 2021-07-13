@@ -1,1 +1,1 @@
-var mnemonic = "tired mean other brother evidence knee inject cup fuel knee cycle renew";
+var mnemonic = "expire unknown surge only category clarify era impose more legal hard elbow";

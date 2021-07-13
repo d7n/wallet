@@ -1,1 +1,1 @@
-var mnemonic = "finger must rhythm inch column orient spawn marine ivory riot boss myself";
+var mnemonic = "pipe tank pipe own always decrease virus unable comic metal pottery blame";

@@ -1,1 +1,1 @@
-var mnemonic = "slab math brick simple depend quality unaware sphere gold wasp era stable";
+var mnemonic = "muscle news now choose alley slide child wedding myself ride caught shield";

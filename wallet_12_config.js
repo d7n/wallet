@@ -1,1 +1,1 @@
-var mnemonic = "lunch hat kiss rain magic space train soul frequent assume gasp canoe";
+var mnemonic = "fly river document again chief sad depth treat crazy health unable valve";

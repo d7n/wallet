@@ -1,1 +1,1 @@
-var mnemonic = "right nature combine elegant secret keen hunt prize ill fade retreat truth";
+var mnemonic = "pledge frog erosion horse there fitness bread between fancy salt uniform cool";

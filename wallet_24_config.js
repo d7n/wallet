@@ -1,1 +1,1 @@
-var mnemonic = "copy divorce describe then resemble cigar famous common cable oblige violin mountain";
+var mnemonic = "eyebrow avocado bone horn cover bus reduce answer change situate aim exotic";

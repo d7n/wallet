@@ -1,1 +1,1 @@
-var mnemonic = "have tortoise capable whisper reason december frequent motion sing sauce antenna shell";
+var mnemonic = "enhance mutual hub hundred cube evoke cactus stuff lawn strong supreme height";

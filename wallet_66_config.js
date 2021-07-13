@@ -1,1 +1,1 @@
-var mnemonic = "fat topple dirt swing often rotate remain list claim large holiday melt";
+var mnemonic = "blanket city relax during length immense piano deposit company illness march dog";

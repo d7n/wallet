@@ -1,1 +1,1 @@
-var mnemonic = "maid update frost bean always atom awful south waste grit general result";
+var mnemonic = "absent vicious process duck lawn slim advice quality swim observe target napkin";

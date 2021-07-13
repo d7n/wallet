@@ -1,1 +1,1 @@
-var mnemonic = "goddess term mother digital tortoise hard opera mammal else flight coconut upset";
+var mnemonic = "water choice resemble side width flash modify daring middle thumb dinner reflect";

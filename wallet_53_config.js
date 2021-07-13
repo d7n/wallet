@@ -1,1 +1,1 @@
-var mnemonic = "grain seven theory smoke buffalo whisper side tortoise charge settle room excuse";
+var mnemonic = "pig budget speak result quote art almost ski you govern bacon artefact";

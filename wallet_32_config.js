@@ -1,1 +1,1 @@
-var mnemonic = "cabin loop song knife clown avocado clap hawk cook yard unknown adapt";
+var mnemonic = "pioneer tortoise original safe advance trigger coast few lizard voice add welcome";

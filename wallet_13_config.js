@@ -1,1 +1,1 @@
-var mnemonic = "fashion orange broom output arrest monster sell member undo same ensure tunnel";
+var mnemonic = "photo uphold outer prefer agent cloth cup margin blood midnight claim expect";
