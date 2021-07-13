@@ -1,1 +1,1 @@
-var mnemonic = "joke eagle annual manual crack caught ivory gold advice assume wheel poem";
+var mnemonic = "retire law olympic card fire wedding cloud increase arm twice fragile primary";

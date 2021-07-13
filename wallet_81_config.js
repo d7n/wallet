@@ -1,1 +1,1 @@
-var mnemonic = "fragile able cycle rate armor ripple cement misery copper grape wear coconut";
+var mnemonic = "chalk divert clap eye stable hat lake between spring steak wet become";

@@ -1,1 +1,1 @@
-var mnemonic = "brief marriage duck giggle autumn prevent slight enforce pistol napkin zero town";
+var mnemonic = "term diamond main damp depend modify clog ask luggage picture assume violin";

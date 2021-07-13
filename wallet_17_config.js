@@ -1,1 +1,1 @@
-var mnemonic = "flight menu enough orchard equip oak guide adjust approve asthma reflect fine";
+var mnemonic = "whip upper address wave theory empower pupil kitchen soul grace knee stumble";

@@ -1,1 +1,1 @@
-var mnemonic = "result else kite lumber bid mushroom afford panther one village little basket";
+var mnemonic = "expect brown wreck wear slice tragic promote actual party three toast audit";

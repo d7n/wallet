@@ -1,1 +1,1 @@
-var mnemonic = "sudden program frog floor all father web anchor viable clean among artefact";
+var mnemonic = "ability admit album cloth month wreck hedgehog manage suit response ski scissors";

@@ -1,1 +1,1 @@
-var mnemonic = "engine cheese deer together gloom delay gap give merry flame matter stove";
+var mnemonic = "angry wine live filter ecology foot joy injury hint moral hat off";

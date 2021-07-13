@@ -1,1 +1,1 @@
-var mnemonic = "artwork solution hip cause coffee valley rival topic assume sentence adapt mercy";
+var mnemonic = "social offer absent speak flee cousin shallow crystal join doll bind measure";

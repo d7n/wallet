@@ -1,1 +1,1 @@
-var mnemonic = "accident length ill frog top lock budget easy firm sand clay sample";
+var mnemonic = "fever blade acoustic second napkin mixed food mountain voice equal special retire";

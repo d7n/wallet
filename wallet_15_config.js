@@ -1,1 +1,1 @@
-var mnemonic = "wall banner dune clinic glide gauge rookie youth gentle trigger side festival";
+var mnemonic = "glue you face vital wealth stumble cupboard corn grit waste chapter pilot";

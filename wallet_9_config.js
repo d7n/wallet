@@ -1,1 +1,1 @@
-var mnemonic = "legend chunk fun sunset mesh hazard chair chalk heavy foster call race";
+var mnemonic = "index grid monkey luggage aspect half web pattern body panic ill concert";

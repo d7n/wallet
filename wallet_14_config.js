@@ -1,1 +1,1 @@
-var mnemonic = "execute radio adult display submit later oil require problem student inquiry side";
+var mnemonic = "awesome denial position idea blouse carbon canyon lady people foam lion razor";

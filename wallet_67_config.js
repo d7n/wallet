@@ -1,1 +1,1 @@
-var mnemonic = "gorilla sound level mandate increase banana stem true become sunset issue person";
+var mnemonic = "isolate dutch wrestle eight result tumble banana receive budget useless try club";

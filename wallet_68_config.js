@@ -1,1 +1,1 @@
-var mnemonic = "entire enforce speak blur dentist head all guilt despair mechanic delay popular";
+var mnemonic = "knee across holiday glass bus dust seven rubber title autumn column flower";

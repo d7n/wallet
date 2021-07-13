@@ -1,1 +1,1 @@
-var mnemonic = "marine wait hire velvet rival mesh clog glance ozone dial math arrive";
+var mnemonic = "rapid fun boil wonder primary slogan dirt slab fold drama journey erupt";

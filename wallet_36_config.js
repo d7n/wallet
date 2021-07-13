@@ -1,1 +1,1 @@
-var mnemonic = "genre blast machine genius behind laugh region gallery wage food gasp matter";
+var mnemonic = "symptom odor remove pride busy script pepper urban print injury agree inmate";

@@ -1,1 +1,1 @@
-var mnemonic = "eight merit lake idle ill carbon month news eagle artwork flock tag";
+var mnemonic = "brave wreck dune mail thought raise summer bronze travel sentence vast fury";

@@ -1,1 +1,1 @@
-var mnemonic = "say thank cloth recipe marriage math broken shoot erosion party alley decline";
+var mnemonic = "exist afford clump spot cactus jar opera flight involve volume winner control";

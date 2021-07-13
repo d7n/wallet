@@ -1,1 +1,1 @@
-var mnemonic = "design visual badge crash absent rug drift surround crush future echo shallow";
+var mnemonic = "tunnel dolphin flag whisper worth endorse raven harsh spare orbit birth swap";

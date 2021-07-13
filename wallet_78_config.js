@@ -1,1 +1,1 @@
-var mnemonic = "require police cheese witness tunnel alcohol walnut news music spread across enhance";
+var mnemonic = "warrior spray cargo gadget crawl fat trip ladder sure trick correct panda";

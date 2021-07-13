@@ -1,1 +1,1 @@
-var mnemonic = "drink depart now earn circle impact multiply exclude wrestle medal inside bless";
+var mnemonic = "library belt switch vessel visual alpha inhale sense spot post eye oil";

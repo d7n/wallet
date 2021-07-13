@@ -1,1 +1,1 @@
-var mnemonic = "move erupt tide uncover tomorrow bulk narrow acoustic jar inmate law melody";
+var mnemonic = "toddler web tragic brush genius modify wedding warrior pretty squeeze tonight creek";

@@ -1,1 +1,1 @@
-var mnemonic = "question smoke bottom field upgrade become risk screen limb cube advance artefact";
+var mnemonic = "funny excess stamp gesture broken process cancel margin hundred horse ghost distance";

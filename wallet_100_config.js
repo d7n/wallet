@@ -1,1 +1,1 @@
-var mnemonic = "floor ceiling adapt sting laundry kind expect butter forest track endless method";
+var mnemonic = "observe nephew warm oil trigger marble universe core struggle pond enact attack";

@@ -1,1 +1,1 @@
-var mnemonic = "ripple giggle where dawn pony fatigue van usual memory owner impact pupil";
+var mnemonic = "announce manual gesture divide lemon approve security busy luxury street stand grunt";

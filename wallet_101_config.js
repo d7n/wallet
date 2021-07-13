@@ -1,1 +1,1 @@
-var mnemonic = "attract yellow picture merry lecture powder barrel model hint stereo neck elevator";
+var mnemonic = "craft spirit sunset gather cheese harsh quiz bike derive embark adult clock";

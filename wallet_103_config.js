@@ -1,1 +1,1 @@
-var mnemonic = "fancy valve dog sort sport oil ready forward achieve make banana trigger";
+var mnemonic = "use surround helmet fiscal sample loyal glide depart logic immense letter soft";

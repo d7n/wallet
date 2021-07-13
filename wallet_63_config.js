@@ -1,1 +1,1 @@
-var mnemonic = "hobby note atom destroy melody record word happy combine bullet mechanic awake";
+var mnemonic = "initial citizen piece payment mass speak exact route fan wing pear craft";

@@ -1,1 +1,1 @@
-var mnemonic = "gym offer weasel night pledge ginger orphan bicycle rug sort build copy";
+var mnemonic = "cliff miss success obscure agent canvas shiver safe satisfy talent fish talent";

@@ -1,1 +1,1 @@
-var mnemonic = "lend answer shadow educate wage weird wet dirt uncover van blush pelican";
+var mnemonic = "tribe keep account smart era upper between yellow enhance echo monkey render";

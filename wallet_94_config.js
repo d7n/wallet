@@ -1,1 +1,1 @@
-var mnemonic = "load amateur lazy gain pretty enemy gravity keen deliver melody help hotel";
+var mnemonic = "snow essence buffalo start satoshi frost they high replace tumble live speed";

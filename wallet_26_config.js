@@ -1,1 +1,1 @@
-var mnemonic = "dinosaur toast also trophy menu suffer else shine crisp enrich priority clean";
+var mnemonic = "super tumble scheme lend track forum surface taxi will lyrics amused pear";

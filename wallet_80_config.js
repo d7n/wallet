@@ -1,1 +1,1 @@
-var mnemonic = "axis space survey grid never wheel until gloom diary jacket elephant keep";
+var mnemonic = "rich middle engine inform fashion replace decorate kick ill better addict plate";

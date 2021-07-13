@@ -1,1 +1,1 @@
-var mnemonic = "poverty actor hood space abandon cave worry minute property vessel want example";
+var mnemonic = "lock tribe garden learn ivory effort assault foil soccer brisk proud bulb";

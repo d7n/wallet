@@ -1,1 +1,1 @@
-var mnemonic = "suggest lesson acquire guard consider margin edge camera walnut degree security prefer";
+var mnemonic = "arrow focus position reject fee stool material base dance upper sauce output";

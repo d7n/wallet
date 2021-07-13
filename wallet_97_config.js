@@ -1,1 +1,1 @@
-var mnemonic = "camera motor first give emerge agent resource expire body pony wrong sweet";
+var mnemonic = "bitter bunker ecology panda festival ski twin pull portion turtle enroll asset";

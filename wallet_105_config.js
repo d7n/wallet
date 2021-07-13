@@ -1,1 +1,1 @@
-var mnemonic = "fog grant grain fancy cover round wrap wink song result lottery involve";
+var mnemonic = "clean sheriff card orphan remove make hen flight bird usual nothing deny";

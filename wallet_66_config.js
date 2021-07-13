@@ -1,1 +1,1 @@
-var mnemonic = "catch sponsor wrong myself ecology moral ancient noble lens brush assist slice";
+var mnemonic = "clock hotel enemy addict current autumn heart amazing fever rookie dentist slot";

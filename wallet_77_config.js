@@ -1,1 +1,1 @@
-var mnemonic = "second math bubble merit audit add nice pond lawsuit animal retreat hungry";
+var mnemonic = "decide primary tomorrow float lion select immune judge settle lunar zero try";

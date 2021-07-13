@@ -1,1 +1,1 @@
-var mnemonic = "spread hood pass boring sick jump quick elite until nerve hair term";
+var mnemonic = "south bright deny loop civil curve day spray music fruit girl awful";

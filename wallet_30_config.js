@@ -1,1 +1,1 @@
-var mnemonic = "profit improve inhale cruel sea fix pistol ankle naive wine coach noise";
+var mnemonic = "adapt forest exhaust trigger theory debris alone chaos satoshi rotate mixture decide";

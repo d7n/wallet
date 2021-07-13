@@ -1,1 +1,1 @@
-var mnemonic = "develop glance okay ramp artefact scatter solve inform quiz mom heart exhaust";
+var mnemonic = "time school square negative feel actor claim awesome paddle orbit mercy afraid";

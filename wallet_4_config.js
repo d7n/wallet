@@ -1,1 +1,1 @@
-var mnemonic = "world hawk video make box clog midnight sorry oil wagon thing unable";
+var mnemonic = "crazy onion attitude hobby nature exclude stool hair buddy stomach physical trip";

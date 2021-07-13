@@ -1,1 +1,1 @@
-var mnemonic = "jaguar subway lake mask length silent other virtual jealous raw double barely";
+var mnemonic = "girl rice pill tongue cluster ride risk climb pig sketch salad dismiss";

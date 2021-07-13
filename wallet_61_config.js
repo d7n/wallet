@@ -1,1 +1,1 @@
-var mnemonic = "bridge trade emotion next casino easily nothing arctic machine roof tenant smile";
+var mnemonic = "category year airport hard season ankle swamp general assume connect pioneer tornado";

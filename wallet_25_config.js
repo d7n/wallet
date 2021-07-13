@@ -1,1 +1,1 @@
-var mnemonic = "rapid hotel account cheese artefact tumble moon surround jewel win network member";
+var mnemonic = "flock concert creek organ alien crack arena young outer rose subject hour";

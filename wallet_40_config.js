@@ -1,1 +1,1 @@
-var mnemonic = "mistake scheme hidden term bar bean pet hole blood kidney army cannon";
+var mnemonic = "blouse light cluster raccoon civil amateur sorry essence divorce carry sail gold";

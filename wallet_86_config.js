@@ -1,1 +1,1 @@
-var mnemonic = "town include glove balcony banana space toward title gorilla citizen accident account";
+var mnemonic = "foam business bottom play thought antique exhibit flat thrive dutch engage scorpion";

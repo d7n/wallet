@@ -1,1 +1,1 @@
-var mnemonic = "shift later banana paper property food young matter dash verb muscle flush";
+var mnemonic = "inject write wonder soda rain extend era end work thumb puppy degree";

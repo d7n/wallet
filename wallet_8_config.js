@@ -1,1 +1,1 @@
-var mnemonic = "base quote alone hollow since fun myself tonight town window cinnamon naive";
+var mnemonic = "swarm current sugar sibling subject museum appear output thumb rain noise affair";

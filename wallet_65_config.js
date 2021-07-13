@@ -1,1 +1,1 @@
-var mnemonic = "cereal marine weather blood eager august fossil mind ill coconut way material";
+var mnemonic = "result weather scout bone blanket dash bulk answer civil usage liquid prevent";

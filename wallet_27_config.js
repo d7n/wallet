@@ -1,1 +1,1 @@
-var mnemonic = "door rhythm know current stamp high before offer voyage section steak zoo";
+var mnemonic = "chronic giraffe garden elegant tone arrive rebuild mixture energy over problem radio";

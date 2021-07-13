@@ -1,1 +1,1 @@
-var mnemonic = "cupboard anxiety orphan firm super opinion glass soda unlock victory pull mixed";
+var mnemonic = "awesome equip expect zero dinner drill party parade cart lens cheese term";

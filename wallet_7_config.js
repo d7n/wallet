@@ -1,1 +1,1 @@
-var mnemonic = "say please walnut comic matter fabric uphold castle rubber because sugar actress";
+var mnemonic = "vendor output waste hungry actor obtain fox street rough print piano mango";

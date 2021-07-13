@@ -1,1 +1,1 @@
-var mnemonic = "supply violin quick panic layer glove other secret hour fine ensure novel";
+var mnemonic = "estate arena coach shrug exhibit crumble rack clever pole glare person obey";

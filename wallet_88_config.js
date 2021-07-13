@@ -1,1 +1,1 @@
-var mnemonic = "south wheel asthma kitten music choice replace document travel output stool mixed";
+var mnemonic = "raw open artefact rabbit gown fancy minor year nephew swap payment minor";

@@ -1,1 +1,1 @@
-var mnemonic = "club invite chef orchard better brick fan organ fluid tray luxury local";
+var mnemonic = "object movie fox become replace grunt humor card soon pudding abandon parent";

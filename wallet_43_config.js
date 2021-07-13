@@ -1,1 +1,1 @@
-var mnemonic = "spoon click beauty shrug denial payment ask hub when crunch double exchange";
+var mnemonic = "wheat social wear reveal laptop west salt limit crowd profit truth cricket";

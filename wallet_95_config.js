@@ -1,1 +1,1 @@
-var mnemonic = "often armor ecology autumn emotion liberty snake demand possible shallow ensure repair";
+var mnemonic = "artwork split pulp identify middle shoe whip already car foil hint buffalo";

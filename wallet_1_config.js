@@ -1,1 +1,1 @@
-var mnemonic = "attitude bag economy right give real satisfy issue rhythm oven immense gasp";
+var mnemonic = "account couch hat heart pen chase lift gauge couch suggest relax million";

@@ -1,1 +1,1 @@
-var mnemonic = "question know body uniform asthma gate tenant couple gap pet general cupboard";
+var mnemonic = "power woman feel afraid kingdom bar mesh inside pond pair weasel kick";

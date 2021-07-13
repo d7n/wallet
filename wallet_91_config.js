@@ -1,1 +1,1 @@
-var mnemonic = "swamp aspect eternal galaxy eyebrow panic undo cattle cake learn monkey path";
+var mnemonic = "raw attract runway stadium meadow agent summer laptop turtle mobile wrap fix";

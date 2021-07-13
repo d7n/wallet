@@ -1,1 +1,1 @@
-var mnemonic = "fire now brisk fiction fix glue debris muscle snow goose behave hammer";
+var mnemonic = "major before february wealth voice gasp agent clip circle comic weekend jealous";

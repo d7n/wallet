@@ -1,1 +1,1 @@
-var mnemonic = "nut trip endless settle shallow deal again aisle swap curve adapt possible";
+var mnemonic = "legend dizzy pilot cotton hurdle twelve verb buddy pumpkin crucial enact decrease";

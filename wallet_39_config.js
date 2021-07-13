@@ -1,1 +1,1 @@
-var mnemonic = "power lumber violin vicious salt choice ignore enable rule master ketchup opera";
+var mnemonic = "tortoise damage crystal spice enough brave true patch window company labor stove";

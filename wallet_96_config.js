@@ -1,1 +1,1 @@
-var mnemonic = "limb horror jar strong once dragon prepare sunny local poem sugar clock";
+var mnemonic = "tray kitten submit sketch ice dawn mandate world happy blanket option breeze";

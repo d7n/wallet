@@ -1,1 +1,1 @@
-var mnemonic = "select axis dice among asthma essence country old accident stem crater similar";
+var mnemonic = "million result virus speed diesel lawn assume tooth staff assault bike abandon";

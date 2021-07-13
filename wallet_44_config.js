@@ -1,1 +1,1 @@
-var mnemonic = "true owner evoke mention usual puppy evolve tiger anxiety jazz produce bright";
+var mnemonic = "walk axis discover allow olympic garment equip image whip rotate runway reform";

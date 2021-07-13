@@ -1,1 +1,1 @@
-var mnemonic = "napkin then disease wisdom type raccoon tail token immense laptop hello clog";
+var mnemonic = "labor jar bundle couple ostrich mammal equip burst language dove indoor prize";

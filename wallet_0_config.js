@@ -1,1 +1,1 @@
-var mnemonic = "unlock dolphin dynamic guide creek burst depth human similar gasp famous brick";
+var mnemonic = "brown benefit turn patient battle fly aisle uncle original sand coast month";

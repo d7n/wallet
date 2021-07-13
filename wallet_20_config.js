@@ -1,1 +1,1 @@
-var mnemonic = "awful among concert distance wing prefer suit index human erosion logic hammer";
+var mnemonic = "vast dilemma witness walnut tool feed deposit submit jelly pipe vivid concert";

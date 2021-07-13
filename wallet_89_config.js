@@ -1,1 +1,1 @@
-var mnemonic = "layer retreat filter gold dog october slim thrive kite stairs dry reduce";
+var mnemonic = "predict punch obvious account range warfare indicate kiss lock shop next able";

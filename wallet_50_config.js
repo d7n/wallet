@@ -1,1 +1,1 @@
-var mnemonic = "maple rich warfare border tobacco asset escape luxury wine shuffle victory sweet";
+var mnemonic = "release emerge base lounge beauty milk system sister anxiety solar legend victory";

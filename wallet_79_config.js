@@ -1,1 +1,1 @@
-var mnemonic = "poverty fun release often relax nest cattle solve note subject elegant patient";
+var mnemonic = "breeze scrap strike jaguar column around just borrow nephew car paper kiwi";

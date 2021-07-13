@@ -1,1 +1,1 @@
-var mnemonic = "sphere oil leg luxury cargo drum proof about large engine depth pelican";
+var mnemonic = "feature today garment north garden holiday horse pilot butter elder race radio";

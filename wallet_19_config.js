@@ -1,1 +1,1 @@
-var mnemonic = "bleak truth gas sort brother cry bomb suit high jaguar clay force";
+var mnemonic = "play hen arch gold swamp access prosper smart enrich dad beauty profit";

@@ -1,1 +1,1 @@
-var mnemonic = "guitar fall flavor umbrella planet couch brave gain fossil negative hybrid script";
+var mnemonic = "erase grit imitate soup rebel toward feel weekend axis field ethics shop";

@@ -1,1 +1,1 @@
-var mnemonic = "update pony spread canal pattern step illness enforce release road hotel fade";
+var mnemonic = "acquire furnace during manual ivory load false ability gold lady ketchup clean";

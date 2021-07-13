@@ -1,1 +1,1 @@
-var mnemonic = "brisk mind rabbit grab leopard warrior oak purpose bid roof stick insane";
+var mnemonic = "antique october vocal sausage tonight problem cruel giraffe defy hungry pyramid blood";

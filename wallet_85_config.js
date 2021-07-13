@@ -1,1 +1,1 @@
-var mnemonic = "bunker squeeze ranch prepare episode hunt morning flavor oval heart alter swear";
+var mnemonic = "face issue owner oval stage exhibit setup tomorrow erosion midnight pony poet";

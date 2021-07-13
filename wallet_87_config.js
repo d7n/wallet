@@ -1,1 +1,1 @@
-var mnemonic = "acquire swift blame captain fog way reject include beach venue pass pipe";
+var mnemonic = "silk unknown drink sweet install ripple fuel police often hurt town print";

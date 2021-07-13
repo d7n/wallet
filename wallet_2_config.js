@@ -1,1 +1,1 @@
-var mnemonic = "noise onion small mind hero foot spoon vessel candy hold two glide";
+var mnemonic = "wreck group harbor fun vault enlist velvet feed frog region sketch tunnel";

@@ -1,1 +1,1 @@
-var mnemonic = "bonus human artwork execute motor cross weekend ice cave vessel planet theory";
+var mnemonic = "piece daring rib there final include symptom buddy clever over empower smooth";

@@ -1,1 +1,1 @@
-var mnemonic = "type equal myth sausage degree cycle gravity agree orchard educate census amount";
+var mnemonic = "sand will puzzle piece enlist village desert name wool loan concert clog";

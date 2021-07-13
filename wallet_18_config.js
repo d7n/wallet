@@ -1,1 +1,1 @@
-var mnemonic = "crime humor pair absorb foot engine celery extra grape habit mass dismiss";
+var mnemonic = "rebel sample inch voyage round unit drip chronic elevator mistake burden bitter";

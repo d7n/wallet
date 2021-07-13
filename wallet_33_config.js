@@ -1,1 +1,1 @@
-var mnemonic = "false obtain hamster nest there injury mask follow devote smart goat zone";
+var mnemonic = "cheese bus bubble core random cannon predict photo much lunar alter away";

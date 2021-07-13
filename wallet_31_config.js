@@ -1,1 +1,1 @@
-var mnemonic = "chase over win leader frost crouch lyrics regret clump unknown donkey file";
+var mnemonic = "baby pull walk success tomorrow elegant bracket walnut easy bike brand tuna";

@@ -1,1 +1,1 @@
-var mnemonic = "hole system subway magnet metal devote curve alien bundle wheel route leader";
+var mnemonic = "artefact used simple bus conduct own person wheat panic very tennis goddess";
