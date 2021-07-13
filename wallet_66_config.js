@@ -1,1 +1,1 @@
-var mnemonic = "bicycle angry miss exist picnic put kick piano junk foam pistol view";
+var mnemonic = "spider ghost decorate element stock yard boy receive impulse spoil argue arch";

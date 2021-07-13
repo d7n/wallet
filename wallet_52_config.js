@@ -1,1 +1,1 @@
-var mnemonic = "boss age calm choose assume radio snap rebuild control delay narrow list";
+var mnemonic = "act brave miracle dad want movie parent flush flush someone account unit";

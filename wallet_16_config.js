@@ -1,1 +1,1 @@
-var mnemonic = "swift siren dutch goddess chaos source dumb lake among size drive six";
+var mnemonic = "pilot ice sell suggest tuna interest coral suit vehicle head vocal private";

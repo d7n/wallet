@@ -1,1 +1,1 @@
-var mnemonic = "series novel thrive behave point admit creek resemble emerge primary wet more";
+var mnemonic = "helmet toward awkward govern judge ginger case profit witness stadium design mouse";

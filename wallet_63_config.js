@@ -1,1 +1,1 @@
-var mnemonic = "blur jewel egg antenna indoor length depend master demand tongue admit proof";
+var mnemonic = "awful evolve illness immense hold advance roast question ball chef swing smooth";

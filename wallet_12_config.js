@@ -1,1 +1,1 @@
-var mnemonic = "lecture chest trend cage world practice waste trick reopen plunge fork wait";
+var mnemonic = "panda cup reward gasp obey tortoise grain cute swap multiply view color";

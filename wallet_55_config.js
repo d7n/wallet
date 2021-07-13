@@ -1,1 +1,1 @@
-var mnemonic = "awful decrease equal lawsuit ginger whisper doctor since mail copy metal rug";
+var mnemonic = "vast canvas fruit wagon saddle clown broken valve above where fiscal proof";

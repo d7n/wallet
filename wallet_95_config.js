@@ -1,1 +1,1 @@
-var mnemonic = "price wonder toward park autumn poem shiver badge actress shoe age dose";
+var mnemonic = "dynamic hero cotton dad copper brisk floor civil claw stable liquid sustain";

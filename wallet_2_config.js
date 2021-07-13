@@ -1,1 +1,1 @@
-var mnemonic = "calm series speed spin believe gym canvas need symptom awake renew point";
+var mnemonic = "inquiry similar ride biology near ivory filter pencil come jewel message soon";

@@ -1,1 +1,1 @@
-var mnemonic = "ten sadness whale pair wait pact cute between federal response awkward butter";
+var mnemonic = "believe soon essence success brown wonder reduce speed snow jump zone wide";

@@ -1,1 +1,1 @@
-var mnemonic = "pluck guess hamster boat galaxy ketchup slot brick tide depth bunker tilt";
+var mnemonic = "potato exclude off card chef admit wealth inform riot matrix symbol timber";

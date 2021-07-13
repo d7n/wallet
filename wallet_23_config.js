@@ -1,1 +1,1 @@
-var mnemonic = "siren marine clever insect lonely remind vital minor toe arrange capable science";
+var mnemonic = "wasp alert coral survey slender type attend orbit ski multiply prize erase";

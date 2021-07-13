@@ -1,1 +1,1 @@
-var mnemonic = "pledge mouse ozone reunion million game skate earth noodle smile buffalo extra";
+var mnemonic = "smile calm fly quality sadness turtle fade chief caution shoe rib clog";

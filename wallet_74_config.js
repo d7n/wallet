@@ -1,1 +1,1 @@
-var mnemonic = "creek another pave earn crawl gym high strategy bottom wonder income leader";
+var mnemonic = "wealth color exist leopard next forest member practice truth volcano lava evolve";

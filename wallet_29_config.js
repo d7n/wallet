@@ -1,1 +1,1 @@
-var mnemonic = "rural entire adapt approve phrase alarm woman fun volcano brisk produce into";
+var mnemonic = "lazy owner element rain hair lock obey anxiety pave talent cheap prize";

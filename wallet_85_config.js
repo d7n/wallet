@@ -1,1 +1,1 @@
-var mnemonic = "describe cliff winter soon pet zebra rally tail defy imitate voyage ahead";
+var mnemonic = "wedding learn prosper strike picture web chief shine guilt rival vendor buddy";

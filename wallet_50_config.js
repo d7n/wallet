@@ -1,1 +1,1 @@
-var mnemonic = "oblige awake harbor stem caution host blur pyramid gate cost genuine remove";
+var mnemonic = "afraid sentence delay drip come lake source there vicious process sword nominee";

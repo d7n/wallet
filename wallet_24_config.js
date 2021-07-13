@@ -1,1 +1,1 @@
-var mnemonic = "call honey excite twice scatter vivid shuffle enlist fade knock chronic raccoon";
+var mnemonic = "mention desk planet upon silly click noodle outside caught behave voice honey";

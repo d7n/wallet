@@ -1,1 +1,1 @@
-var mnemonic = "true enhance derive cabbage blush orange link cousin abuse hospital layer payment";
+var mnemonic = "bleak relief switch coral baby shy ribbon describe quote pen illegal mobile";

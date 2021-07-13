@@ -1,1 +1,1 @@
-var mnemonic = "camera obtain grab people turtle vacant better tiger visual leader blood eager";
+var mnemonic = "uncle type bulk zoo mirror train smoke water since youth effort judge";

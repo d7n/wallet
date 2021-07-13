@@ -1,1 +1,1 @@
-var mnemonic = "sugar trophy gadget crew feel fiction remember cargo project surge damp wrap";
+var mnemonic = "swear reward cabbage security spring track fun salon license mass front owner";

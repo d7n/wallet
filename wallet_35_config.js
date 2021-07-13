@@ -1,1 +1,1 @@
-var mnemonic = "repeat just flame pencil marriage install master come moment sleep range female";
+var mnemonic = "attitude fog page vehicle frog kingdom discover club steel best snap crouch";

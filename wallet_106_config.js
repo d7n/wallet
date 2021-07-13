@@ -1,1 +1,1 @@
-var mnemonic = "figure brush rack aisle faint lemon trade spike element noodle price smooth";
+var mnemonic = "improve embrace badge arch hotel large avocado alcohol stick end donate use";

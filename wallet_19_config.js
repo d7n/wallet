@@ -1,1 +1,1 @@
-var mnemonic = "volcano tray age drill resist reveal rib girl curve equip glass trim";
+var mnemonic = "awake innocent vicious melt great cook owner enemy surge unit puppy leisure";

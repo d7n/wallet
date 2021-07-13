@@ -1,1 +1,1 @@
-var mnemonic = "asset boy arrange soul legal canyon math matrix dumb people cable deliver";
+var mnemonic = "unfair ketchup flip swim rubber speed ginger horn open either tunnel half";

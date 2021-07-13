@@ -1,1 +1,1 @@
-var mnemonic = "rapid dizzy sting small such strike split own civil fly humble cargo";
+var mnemonic = "metal shine creek path bone afford rug magic topple month someone second";

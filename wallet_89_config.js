@@ -1,1 +1,1 @@
-var mnemonic = "yard script want device robot side energy legal raise try gift thought";
+var mnemonic = "observe raccoon silly fan exclude buzz couple stock useless jewel easily cattle";

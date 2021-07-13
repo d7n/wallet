@@ -1,1 +1,1 @@
-var mnemonic = "derive upper net nice arm maid attend express donate insane drastic aware";
+var mnemonic = "hover elbow property youth cheese example nature nice soccer layer business couple";

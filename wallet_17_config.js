@@ -1,1 +1,1 @@
-var mnemonic = "victory camp ocean insane cruel reunion blossom tent pizza choose intact sort";
+var mnemonic = "excess uncle gossip lonely vast sugar file enter plug amount hip visual";

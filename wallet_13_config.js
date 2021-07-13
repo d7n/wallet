@@ -1,1 +1,1 @@
-var mnemonic = "strategy brisk there dune husband lonely alcohol cotton chronic clay time order";
+var mnemonic = "inner lady section scorpion fever deliver kiwi smoke urban push maze private";

@@ -1,1 +1,1 @@
-var mnemonic = "phone crumble spider hero ritual system suit top luxury engage uncle auction";
+var mnemonic = "reject latin weapon output identify what club balance trap asset engage core";

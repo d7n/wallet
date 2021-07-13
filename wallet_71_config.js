@@ -1,1 +1,1 @@
-var mnemonic = "loan final gaze catch find measure fade during glimpse execute glimpse crash";
+var mnemonic = "quiz pass antenna razor split elegant chief fluid rose cinnamon bench trial";

@@ -1,1 +1,1 @@
-var mnemonic = "yellow fan suit split blanket unveil jar flock barrel north hair debate";
+var mnemonic = "potato seminar over acquire ceiling milk load control naive leisure bulb female";

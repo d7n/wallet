@@ -1,1 +1,1 @@
-var mnemonic = "fatal time crowd enough bacon hedgehog brand faint hand crime diamond one";
+var mnemonic = "pilot file slim fuel purity parent render season purchase shrimp unhappy garment";

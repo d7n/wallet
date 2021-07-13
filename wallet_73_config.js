@@ -1,1 +1,1 @@
-var mnemonic = "vehicle enable fire upset risk amazing confirm cake nation ocean apart spot";
+var mnemonic = "make humble busy hair radio exercise hundred mass panther soup only tree";

@@ -1,1 +1,1 @@
-var mnemonic = "vibrant palm another measure cat current holiday sustain deer fitness patch camera";
+var mnemonic = "jealous predict emotion bone village drama suspect bread rebel remain mango sword";

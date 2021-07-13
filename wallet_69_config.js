@@ -1,1 +1,1 @@
-var mnemonic = "sorry pride recall fish stick pear pave gorilla solar attract script seek";
+var mnemonic = "hybrid noise cannon inside grit prize fashion body escape always hour catalog";

@@ -1,1 +1,1 @@
-var mnemonic = "subway maid dolphin group trash problem gain crack chief spell hidden flower";
+var mnemonic = "device ride glove water add cotton quiz symbol buffalo ill dignity road";

@@ -1,1 +1,1 @@
-var mnemonic = "index banana left girl mixed acid shield heart venue cute palm outside";
+var mnemonic = "valid loyal hundred zero enhance humble stem move vibrant burst across forum";

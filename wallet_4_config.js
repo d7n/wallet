@@ -1,1 +1,1 @@
-var mnemonic = "alert depth hen welcome keep hamster rescue what inform window arm million";
+var mnemonic = "green soda welcome name capital dance relief gorilla leader knock develop night";

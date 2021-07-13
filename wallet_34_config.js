@@ -1,1 +1,1 @@
-var mnemonic = "alcohol jazz video pond void elder bulk bring badge tobacco design garden";
+var mnemonic = "enact ask song refuse source demand risk chef destroy tourist toy insane";

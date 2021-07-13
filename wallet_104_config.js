@@ -1,1 +1,1 @@
-var mnemonic = "picture speak scorpion size suggest easy number stumble illegal elevator occur cute";
+var mnemonic = "hood test rail matrix umbrella vehicle water social table panther oak goat";

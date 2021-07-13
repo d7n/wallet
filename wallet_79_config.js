@@ -1,1 +1,1 @@
-var mnemonic = "truth reveal repeat fatigue minor junior follow success loud patch bright throw";
+var mnemonic = "legal tortoise venture two army innocent open mammal medal turn robust pretty";

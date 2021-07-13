@@ -1,1 +1,1 @@
-var mnemonic = "weapon boat remember dial owner aunt divert divorce twist mimic worry traffic";
+var mnemonic = "measure famous erosion desert echo acquire ugly seek dutch furnace render cactus";

@@ -1,1 +1,1 @@
-var mnemonic = "okay tortoise income prison program danger cloud apology trouble twelve butter pause";
+var mnemonic = "fine helmet scatter elegant grant obey cradle coyote describe invite pride wreck";

@@ -1,1 +1,1 @@
-var mnemonic = "bulb acoustic suggest gym lift birth helmet blossom ostrich jewel member now";
+var mnemonic = "rival month series grape vivid reopen inject walnut job witness produce happy";

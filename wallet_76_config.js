@@ -1,1 +1,1 @@
-var mnemonic = "horse deposit benefit tourist item unlock era loud sphere gown way below";
+var mnemonic = "magic rely music require clean galaxy decide adult now lake planet ridge";

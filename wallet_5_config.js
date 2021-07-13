@@ -1,1 +1,1 @@
-var mnemonic = "reject crater rifle vocal another steel olive case solar aerobic deposit mix";
+var mnemonic = "toast dentist cake cabin federal pond duty weird setup elephant three auto";

@@ -1,1 +1,1 @@
-var mnemonic = "pact balance rocket various boring finger action render true knife task able";
+var mnemonic = "just vast echo oval flush wedding crunch road believe jewel fame tilt";

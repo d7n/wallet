@@ -1,1 +1,1 @@
-var mnemonic = "canvas sing memory undo winter pause frequent certain floor alert again planet";
+var mnemonic = "option solid budget vague east sponsor payment coyote rebel cluster jazz fault";

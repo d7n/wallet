@@ -1,1 +1,1 @@
-var mnemonic = "material miracle foster metal script water bounce devote enemy busy someone devote";
+var mnemonic = "black arm lend garlic local load master dove sun social left payment";

@@ -1,1 +1,1 @@
-var mnemonic = "caution spoon win account federal diary depth process oblige ensure city run";
+var mnemonic = "cabbage nominee lazy bread quality remember body daughter year short knee barrel";

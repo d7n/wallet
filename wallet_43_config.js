@@ -1,1 +1,1 @@
-var mnemonic = "setup silver amateur smart voice runway attract lawn inmate chef drop bag";
+var mnemonic = "wrestle prevent where love ship six cross eight cage patch vague correct";

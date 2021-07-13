@@ -1,1 +1,1 @@
-var mnemonic = "embark veteran major coil picnic nose nerve mistake panther siege leader tell";
+var mnemonic = "broken sort easily result chuckle west civil emotion spin absorb fog smooth";

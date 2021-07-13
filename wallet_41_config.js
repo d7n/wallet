@@ -1,1 +1,1 @@
-var mnemonic = "turtle razor worth chronic bike daughter infant sketch write state tip scissors";
+var mnemonic = "nut sunset toss volcano bunker rocket barrel quick winner warfare already riot";

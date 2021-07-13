@@ -1,1 +1,1 @@
-var mnemonic = "comic light lonely debris elite heart question crack penalty roast reason velvet";
+var mnemonic = "coyote sort sun powder human road sugar identify mom vanish sad tuition";

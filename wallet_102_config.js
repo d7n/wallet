@@ -1,1 +1,1 @@
-var mnemonic = "express shield town wire soccer drum opera bitter auto cover joy security";
+var mnemonic = "review account usage future bullet frost crack basket inmate love silver differ";

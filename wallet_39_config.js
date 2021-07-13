@@ -1,1 +1,1 @@
-var mnemonic = "arctic zebra swamp broom labor great near hip congress stem crop hockey";
+var mnemonic = "humor symbol rural shy brass exercise ceiling april lens acoustic deposit position";

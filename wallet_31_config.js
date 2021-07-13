@@ -1,1 +1,1 @@
-var mnemonic = "soft old rule coral humble follow damage liberty muffin celery teach praise";
+var mnemonic = "kitchen secret soccer benefit shrimp breeze logic topic diagram grow sign luxury";

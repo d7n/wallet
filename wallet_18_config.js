@@ -1,1 +1,1 @@
-var mnemonic = "paddle keen cricket enlist enrich cheap feed stone you nominee crumble seven";
+var mnemonic = "parent enable speed kitchen tired square gather seed goddess note unhappy corn";

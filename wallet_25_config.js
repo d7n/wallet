@@ -1,1 +1,1 @@
-var mnemonic = "erode fan cry special treat rib oppose sea chaos holiday inquiry moment";
+var mnemonic = "health salute panda roof session wire odor extra behave soccer kiwi rail";

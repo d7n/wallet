@@ -1,1 +1,1 @@
-var mnemonic = "antique shiver across void switch legal bag squeeze extend cave bonus vanish";
+var mnemonic = "ugly cannon razor nominee scrub please hour exist unique green swift busy";

@@ -1,1 +1,1 @@
-var mnemonic = "team empower retire sand angry torch climb submit vendor exotic snake maze";
+var mnemonic = "crane artefact connect curve puppy hint melt chalk income boat actual abstract";

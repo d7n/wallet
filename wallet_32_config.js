@@ -1,1 +1,1 @@
-var mnemonic = "announce top fame where tank turn attitude dinosaur genuine urban love ramp";
+var mnemonic = "ahead captain able connect west cloud uncle float prefer toy marble renew";

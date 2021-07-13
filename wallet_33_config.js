@@ -1,1 +1,1 @@
-var mnemonic = "soldier skill pyramid round federal manual ozone brain fiber differ tray initial";
+var mnemonic = "doll female venture alone jelly ugly immense sorry remove meadow waste truth";

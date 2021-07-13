@@ -1,1 +1,1 @@
-var mnemonic = "promote attitude any flavor episode page valley hurdle ring birth cube kitchen";
+var mnemonic = "sea spoil north fossil believe satisfy sign marine coach jungle result social";

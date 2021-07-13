@@ -1,1 +1,1 @@
-var mnemonic = "tooth echo return sort employ merge wing soda drink release during sell";
+var mnemonic = "catalog exhibit flower solution system rare menu hire radio enlist kidney mechanic";

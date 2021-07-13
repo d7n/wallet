@@ -1,1 +1,1 @@
-var mnemonic = "lift immune vault suffer simple good cave inject eternal invite math symptom";
+var mnemonic = "rather knee husband ignore adapt omit main legal flip wrist home capital";

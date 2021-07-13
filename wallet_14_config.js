@@ -1,1 +1,1 @@
-var mnemonic = "snake chimney book must grit trick logic dutch flame gloom champion program";
+var mnemonic = "unfair polar loud rabbit noodle diagram ketchup budget consider coffee much slow";

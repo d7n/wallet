@@ -1,1 +1,1 @@
-var mnemonic = "sing outer close soda shell habit become behave system erase column atom";
+var mnemonic = "arctic improve hundred cheese soft pulp wide obtain survey olive fish artwork";

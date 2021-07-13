@@ -1,1 +1,1 @@
-var mnemonic = "review jeans wolf churn perfect like kitten vanish false patrol enroll section";
+var mnemonic = "soccer ensure under secret bottom camera film clay affair grit useless flash";

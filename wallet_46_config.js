@@ -1,1 +1,1 @@
-var mnemonic = "iron business capable solve blue uphold victory october sight legal target cousin";
+var mnemonic = "dress film relax lady advice grit kite rebel people fever pull fresh";

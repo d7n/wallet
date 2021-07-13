@@ -1,1 +1,1 @@
-var mnemonic = "plate laundry ten toast peasant result play fringe purity remove foil hat";
+var mnemonic = "old drastic boy ship narrow price floor marble dinosaur husband people voice";

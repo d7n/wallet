@@ -1,1 +1,1 @@
-var mnemonic = "crack key rice trade banner chat hollow school noise walk demise reflect";
+var mnemonic = "soldier today mosquito jewel industry bachelor crater setup base wolf velvet sand";

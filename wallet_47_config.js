@@ -1,1 +1,1 @@
-var mnemonic = "ostrich present profit acoustic dose confirm volume pig bullet whisper nation inform";
+var mnemonic = "laugh license come true walnut alone engage thunder similar hedgehog select stable";

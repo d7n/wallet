@@ -1,1 +1,1 @@
-var mnemonic = "muscle grunt view table sure win express country bundle bundle silver seek";
+var mnemonic = "discover lens portion citizen awkward marble aim village idle eyebrow path battle";

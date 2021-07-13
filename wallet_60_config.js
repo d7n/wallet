@@ -1,1 +1,1 @@
-var mnemonic = "ostrich choose video join reveal trigger gate tide unable wet enrich connect";
+var mnemonic = "edit exclude define finger online midnight nephew blind six tuna destroy letter";

@@ -1,1 +1,1 @@
-var mnemonic = "danger scare desk mention swallow voyage hen april junior moral swim barrel";
+var mnemonic = "student hold inherit soap repair lizard umbrella sea machine avoid snow setup";

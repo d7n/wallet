@@ -1,1 +1,1 @@
-var mnemonic = "mimic just gold broken buyer wish carpet junk latin quick person powder";
+var mnemonic = "uncle grab vibrant question opinion prize sort catalog cricket wonder visit churn";

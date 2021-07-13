@@ -1,1 +1,1 @@
-var mnemonic = "search grief load diesel orange priority chase rotate sea always chapter fade";
+var mnemonic = "hero trash present satisfy bitter spoon dynamic account situate victory swear job";

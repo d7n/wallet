@@ -1,1 +1,1 @@
-var mnemonic = "advice trend post mutual palace gesture abstract visit culture congress cat novel";
+var mnemonic = "exercise east clump orphan evoke blame bamboo certain river wealth reject diet";

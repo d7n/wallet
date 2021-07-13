@@ -1,1 +1,1 @@
-var mnemonic = "grain absurd gap always fade explain apology miracle blame tornado glance theme";
+var mnemonic = "talk cereal valid primary disorder live review color lonely crystal silver rapid";

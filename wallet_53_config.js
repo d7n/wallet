@@ -1,1 +1,1 @@
-var mnemonic = "predict shop blast medal buzz relief doll oppose kit virus finger among";
+var mnemonic = "canoe acquire crop beauty spin turkey object pet define exhibit innocent boil";

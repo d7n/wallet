@@ -1,1 +1,1 @@
-var mnemonic = "faint panther maze run duty child cook goose hand solid wet fatal";
+var mnemonic = "pelican salmon resemble stereo post embark ring wheat quit initial mango auto";

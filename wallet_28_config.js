@@ -1,1 +1,1 @@
-var mnemonic = "myth tuition provide lyrics dust inside sudden cruise treat fancy flight lecture";
+var mnemonic = "live tenant spatial animal harvest giraffe erosion cart wealth balance rose sustain";

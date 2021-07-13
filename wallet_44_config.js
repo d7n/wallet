@@ -1,1 +1,1 @@
-var mnemonic = "glimpse wrestle point gospel extend educate always disagree power address lottery process";
+var mnemonic = "social omit island ribbon proud rescue casino hill course wrong increase veteran";
