@@ -1,1 +1,1 @@
-var mnemonic = "soldier today mosquito jewel industry bachelor crater setup base wolf velvet sand";
+var mnemonic = "busy praise genre toe vivid embody cable chapter flee tribe vintage insane";

@@ -1,1 +1,1 @@
-var mnemonic = "kitchen secret soccer benefit shrimp breeze logic topic diagram grow sign luxury";
+var mnemonic = "inspire daughter blue picnic shoe inspire tower flight witness wing mouse day";

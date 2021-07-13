@@ -1,1 +1,1 @@
-var mnemonic = "potato seminar over acquire ceiling milk load control naive leisure bulb female";
+var mnemonic = "sock either hard service galaxy flee winner harvest cover color kangaroo raise";

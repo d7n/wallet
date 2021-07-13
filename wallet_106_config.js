@@ -1,1 +1,1 @@
-var mnemonic = "improve embrace badge arch hotel large avocado alcohol stick end donate use";
+var mnemonic = "business chapter poet fetch genius plug sort asthma place fury omit car";

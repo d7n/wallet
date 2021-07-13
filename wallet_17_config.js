@@ -1,1 +1,1 @@
-var mnemonic = "excess uncle gossip lonely vast sugar file enter plug amount hip visual";
+var mnemonic = "proof chair brick again focus actual peanut about initial dwarf citizen shiver";

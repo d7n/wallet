@@ -1,1 +1,1 @@
-var mnemonic = "enact ask song refuse source demand risk chef destroy tourist toy insane";
+var mnemonic = "detect endorse puppy poet bread awkward october daughter side depth salon muffin";

@@ -1,1 +1,1 @@
-var mnemonic = "metal shine creek path bone afford rug magic topple month someone second";
+var mnemonic = "blade loan lend notable stairs toy antenna nose toe man weapon ozone";

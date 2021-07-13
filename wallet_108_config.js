@@ -1,1 +1,1 @@
-var mnemonic = "bleak relief switch coral baby shy ribbon describe quote pen illegal mobile";
+var mnemonic = "someone direct you gasp right van baby kitten cage crash swap uncle";

@@ -1,1 +1,1 @@
-var mnemonic = "catalog exhibit flower solution system rare menu hire radio enlist kidney mechanic";
+var mnemonic = "subject moment aware cousin critic desk hungry such humble hand track stick";

@@ -1,1 +1,1 @@
-var mnemonic = "panda cup reward gasp obey tortoise grain cute swap multiply view color";
+var mnemonic = "tuna unique useful repair satoshi table feed absent critic actress earth always";

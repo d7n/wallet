@@ -1,1 +1,1 @@
-var mnemonic = "kiss kind neither rely slush boil grace add fit assist matter cruel";
+var mnemonic = "jealous shop blanket noise moon shed junior address twist seed learn laundry";

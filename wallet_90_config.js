@@ -1,1 +1,1 @@
-var mnemonic = "valid loyal hundred zero enhance humble stem move vibrant burst across forum";
+var mnemonic = "warm person obvious dilemma arena main monitor shrimp genuine expect series turkey";

@@ -1,1 +1,1 @@
-var mnemonic = "canoe acquire crop beauty spin turkey object pet define exhibit innocent boil";
+var mnemonic = "accident camp junior subway school entire old select seminar boring slight wear";

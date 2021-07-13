@@ -1,1 +1,1 @@
-var mnemonic = "edit exclude define finger online midnight nephew blind six tuna destroy letter";
+var mnemonic = "empty share divert expect maze dinner stuff cost use arrive grain rebuild";

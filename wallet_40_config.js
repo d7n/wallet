@@ -1,1 +1,1 @@
-var mnemonic = "hero trash present satisfy bitter spoon dynamic account situate victory swear job";
+var mnemonic = "situate kidney mutual evolve valley owner nation federal monkey green tourist interest";

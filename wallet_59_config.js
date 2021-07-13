@@ -1,1 +1,1 @@
-var mnemonic = "diagram razor shoulder text boil useless advice govern talk artist wash social";
+var mnemonic = "quote practice draw cheap plunge chapter tourist raw mansion verify punch judge";

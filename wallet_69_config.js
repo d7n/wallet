@@ -1,1 +1,1 @@
-var mnemonic = "hybrid noise cannon inside grit prize fashion body escape always hour catalog";
+var mnemonic = "snap dream fiction feel caught desk waste check burst stadium battle number";

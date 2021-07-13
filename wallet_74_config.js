@@ -1,1 +1,1 @@
-var mnemonic = "wealth color exist leopard next forest member practice truth volcano lava evolve";
+var mnemonic = "elegant august jar rally submit evidence any credit illegal social transfer prosper";

@@ -1,1 +1,1 @@
-var mnemonic = "inner lady section scorpion fever deliver kiwi smoke urban push maze private";
+var mnemonic = "crack credit endorse beyond present poverty atom arrive poverty undo identify tired";

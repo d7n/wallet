@@ -1,1 +1,1 @@
-var mnemonic = "rather knee husband ignore adapt omit main legal flip wrist home capital";
+var mnemonic = "warfare hammer neglect clump ribbon powder state omit month wait nuclear final";

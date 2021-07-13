@@ -1,1 +1,1 @@
-var mnemonic = "just vast echo oval flush wedding crunch road believe jewel fame tilt";
+var mnemonic = "noise cream quality apple midnight scatter bargain spoon shine fall until depart";

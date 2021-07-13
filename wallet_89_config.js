@@ -1,1 +1,1 @@
-var mnemonic = "observe raccoon silly fan exclude buzz couple stock useless jewel easily cattle";
+var mnemonic = "squirrel burger oblige pizza zebra bounce embrace hub mail young crack winner";

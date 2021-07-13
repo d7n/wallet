@@ -1,1 +1,1 @@
-var mnemonic = "wheat sweet unfair vanish alarm hello portion menu output green hard into";
+var mnemonic = "census kiwi degree ancient cook will veteran bounce boost peanut shaft globe";

@@ -1,1 +1,1 @@
-var mnemonic = "parent enable speed kitchen tired square gather seed goddess note unhappy corn";
+var mnemonic = "leg lift cheese blouse crystal iron pencil trigger access ghost great alcohol";

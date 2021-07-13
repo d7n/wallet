@@ -1,1 +1,1 @@
-var mnemonic = "strategy fit document senior action main ethics program palace guilt short later";
+var mnemonic = "axis there gravity trophy ugly soldier capable family capable useful come uncover";

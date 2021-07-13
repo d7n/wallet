@@ -1,1 +1,1 @@
-var mnemonic = "device ride glove water add cotton quiz symbol buffalo ill dignity road";
+var mnemonic = "field still spend object share remember desert kid elegant immune project social";

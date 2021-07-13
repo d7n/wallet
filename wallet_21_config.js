@@ -1,1 +1,1 @@
-var mnemonic = "believe soon essence success brown wonder reduce speed snow jump zone wide";
+var mnemonic = "drink snake over battle give wink sibling supply scorpion recall junk enact";

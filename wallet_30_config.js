@@ -1,1 +1,1 @@
-var mnemonic = "uncle type bulk zoo mirror train smoke water since youth effort judge";
+var mnemonic = "happy embark super brother equip poem gym term buzz today gym skirt";

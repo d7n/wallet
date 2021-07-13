@@ -1,1 +1,1 @@
-var mnemonic = "hood test rail matrix umbrella vehicle water social table panther oak goat";
+var mnemonic = "spray team tool plastic foot pitch magnet sniff eight south code census";

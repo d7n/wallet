@@ -1,1 +1,1 @@
-var mnemonic = "attitude fog page vehicle frog kingdom discover club steel best snap crouch";
+var mnemonic = "only eight rifle increase mercy work busy prosper awesome project control mouse";

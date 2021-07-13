@@ -1,1 +1,1 @@
-var mnemonic = "rival month series grape vivid reopen inject walnut job witness produce happy";
+var mnemonic = "client boy enable fork cross monkey trophy portion tool cheese prefer into";

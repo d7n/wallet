@@ -1,1 +1,1 @@
-var mnemonic = "act brave miracle dad want movie parent flush flush someone account unit";
+var mnemonic = "theme lounge must sing thing infant that remain quantum equal swing today";

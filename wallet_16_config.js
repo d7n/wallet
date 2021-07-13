@@ -1,1 +1,1 @@
-var mnemonic = "pilot ice sell suggest tuna interest coral suit vehicle head vocal private";
+var mnemonic = "child canoe civil barrel abuse dirt foil rice feel answer allow person";

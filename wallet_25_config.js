@@ -1,1 +1,1 @@
-var mnemonic = "health salute panda roof session wire odor extra behave soccer kiwi rail";
+var mnemonic = "upset tobacco swamp diesel funny sausage detect silent kit deposit equip scissors";

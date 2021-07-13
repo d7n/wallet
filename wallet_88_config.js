@@ -1,1 +1,1 @@
-var mnemonic = "park pony globe twist bone push apple law nothing cotton finger save";
+var mnemonic = "ridge stay hamster practice riot trust young aunt cousin sauce install diagram";

@@ -1,1 +1,1 @@
-var mnemonic = "review account usage future bullet frost crack basket inmate love silver differ";
+var mnemonic = "click silent soup wife blood mimic burst punch south luxury spatial rain";

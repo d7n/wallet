@@ -1,1 +1,1 @@
-var mnemonic = "nut sunset toss volcano bunker rocket barrel quick winner warfare already riot";
+var mnemonic = "lawn slight phrase mesh raccoon plug menu warm ship hand weasel artefact";

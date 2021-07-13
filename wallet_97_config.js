@@ -1,1 +1,1 @@
-var mnemonic = "rather want noise movie success father hole pyramid real ankle toddler useless";
+var mnemonic = "route silk column right mistake hip parent bargain distance forward time artist";

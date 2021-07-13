@@ -1,1 +1,1 @@
-var mnemonic = "vast canvas fruit wagon saddle clown broken valve above where fiscal proof";
+var mnemonic = "cereal patient mosquito pottery art local grant verify inmate behind term syrup";

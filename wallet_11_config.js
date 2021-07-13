@@ -1,1 +1,1 @@
-var mnemonic = "coyote sort sun powder human road sugar identify mom vanish sad tuition";
+var mnemonic = "spell into license siren hub item deal memory gloom joke build arrange";

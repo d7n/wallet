@@ -1,1 +1,1 @@
-var mnemonic = "unfair polar loud rabbit noodle diagram ketchup budget consider coffee much slow";
+var mnemonic = "grass basket ginger muffin pink ski uniform gallery mobile inspire champion insect";

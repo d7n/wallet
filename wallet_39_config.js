@@ -1,1 +1,1 @@
-var mnemonic = "humor symbol rural shy brass exercise ceiling april lens acoustic deposit position";
+var mnemonic = "wage control square success uncle lazy bright wrap work fee extra valid";

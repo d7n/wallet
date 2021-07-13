@@ -1,1 +1,1 @@
-var mnemonic = "doll female venture alone jelly ugly immense sorry remove meadow waste truth";
+var mnemonic = "trash despair confirm all velvet sorry belt tell sausage naive annual time";

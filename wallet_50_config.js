@@ -1,1 +1,1 @@
-var mnemonic = "afraid sentence delay drip come lake source there vicious process sword nominee";
+var mnemonic = "tomato hawk exhaust excuse coconut also economy wing nurse wrestle defense heart";

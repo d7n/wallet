@@ -1,1 +1,1 @@
-var mnemonic = "grunt stove tongue whale okay hill orchard artist panda doctor dragon toast";
+var mnemonic = "bullet scrub initial vocal genius gentle rough multiply office arch polar treat";

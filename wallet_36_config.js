@@ -1,1 +1,1 @@
-var mnemonic = "pilot file slim fuel purity parent render season purchase shrimp unhappy garment";
+var mnemonic = "upon enter toddler random carbon pig ball palace mirror away sunset creek";

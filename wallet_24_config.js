@@ -1,1 +1,1 @@
-var mnemonic = "mention desk planet upon silly click noodle outside caught behave voice honey";
+var mnemonic = "spice sure bulb glide topple other swamp cheap defense ketchup degree winner";

@@ -1,1 +1,1 @@
-var mnemonic = "potato exclude off card chef admit wealth inform riot matrix symbol timber";
+var mnemonic = "ball garden truly garden neutral enlist what dish robust stick stamp bundle";

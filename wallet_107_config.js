@@ -1,1 +1,1 @@
-var mnemonic = "swear reward cabbage security spring track fun salon license mass front owner";
+var mnemonic = "shrug achieve modify remind brown furnace morning mixed type world guess scatter";

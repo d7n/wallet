@@ -1,1 +1,1 @@
-var mnemonic = "sea spoil north fossil believe satisfy sign marine coach jungle result social";
+var mnemonic = "trumpet cluster once rude dolphin payment diagram soup broken rent release margin";

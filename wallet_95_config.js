@@ -1,1 +1,1 @@
-var mnemonic = "dynamic hero cotton dad copper brisk floor civil claw stable liquid sustain";
+var mnemonic = "ability draw weather ladder ahead bright message outside fancy cheap beauty member";

@@ -1,1 +1,1 @@
-var mnemonic = "uncle grab vibrant question opinion prize sort catalog cricket wonder visit churn";
+var mnemonic = "canoe below april average possible neck kind unaware perfect cactus seat cabbage";

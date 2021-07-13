@@ -1,1 +1,1 @@
-var mnemonic = "wedding learn prosper strike picture web chief shine guilt rival vendor buddy";
+var mnemonic = "gaze marriage warfare damp rebel vintage moon mixed put unfold unlock excess";

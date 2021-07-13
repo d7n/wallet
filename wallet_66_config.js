@@ -1,1 +1,1 @@
-var mnemonic = "spider ghost decorate element stock yard boy receive impulse spoil argue arch";
+var mnemonic = "draw reopen monitor pull cousin enable chase rail sheriff random tongue educate";

@@ -1,1 +1,1 @@
-var mnemonic = "crane artefact connect curve puppy hint melt chalk income boat actual abstract";
+var mnemonic = "bless gun screen woman judge right sick point change warfare bracket vote";

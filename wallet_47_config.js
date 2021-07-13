@@ -1,1 +1,1 @@
-var mnemonic = "laugh license come true walnut alone engage thunder similar hedgehog select stable";
+var mnemonic = "depend argue claw awake enemy abandon original just swim tragic income ship";

@@ -1,1 +1,1 @@
-var mnemonic = "wasp alert coral survey slender type attend orbit ski multiply prize erase";
+var mnemonic = "tip near debate borrow symbol casual room decade fiction stand expand tennis";

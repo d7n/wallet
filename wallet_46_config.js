@@ -1,1 +1,1 @@
-var mnemonic = "dress film relax lady advice grit kite rebel people fever pull fresh";
+var mnemonic = "media patch upper worth airport great reward win ability pond only grit";

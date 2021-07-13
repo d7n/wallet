@@ -1,1 +1,1 @@
-var mnemonic = "make humble busy hair radio exercise hundred mass panther soup only tree";
+var mnemonic = "hard behind decade fresh test weasel rich saddle arena trend tumble badge";

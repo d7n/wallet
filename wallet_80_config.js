@@ -1,1 +1,1 @@
-var mnemonic = "talk cereal valid primary disorder live review color lonely crystal silver rapid";
+var mnemonic = "anxiety nephew turtle trigger pool awful early craft gospel roast inmate core";

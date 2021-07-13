@@ -1,1 +1,1 @@
-var mnemonic = "food thank divert main release burst ten donkey argue because model noodle";
+var mnemonic = "tornado glory stumble turkey ecology depart install copper rabbit truck receive recycle";

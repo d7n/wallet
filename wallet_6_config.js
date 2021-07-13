@@ -1,1 +1,1 @@
-var mnemonic = "physical frog enjoy useful alert enroll brother fog hunt oval favorite obvious";
+var mnemonic = "exact broom search zero viable subway drift owner popular beef gauge video";

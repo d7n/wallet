@@ -1,1 +1,1 @@
-var mnemonic = "jealous predict emotion bone village drama suspect bread rebel remain mango sword";
+var mnemonic = "female one black endless someone dash beauty across chapter short project rare";

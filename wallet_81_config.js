@@ -1,1 +1,1 @@
-var mnemonic = "regret pig twelve world assault civil only cup expect mean tag forum";
+var mnemonic = "deposit poet episode point walk foil leader destroy peace abstract erosion judge";

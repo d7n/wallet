@@ -1,1 +1,1 @@
-var mnemonic = "force tunnel gain diagram duty spot wing lounge increase agree mountain tumble";
+var mnemonic = "welcome shadow risk amused large reward vehicle lesson goose erosion script loyal";

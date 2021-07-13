@@ -1,1 +1,1 @@
-var mnemonic = "improve memory lobster review nut episode moral casino iron response movie birth";
+var mnemonic = "grid alarm zoo sun lady gift book spirit shallow team ignore twin";

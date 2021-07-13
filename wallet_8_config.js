@@ -1,1 +1,1 @@
-var mnemonic = "old drastic boy ship narrow price floor marble dinosaur husband people voice";
+var mnemonic = "pudding wide walk orchard shop divide used nose two banner assault crime";

@@ -1,1 +1,1 @@
-var mnemonic = "green soda welcome name capital dance relief gorilla leader knock develop night";
+var mnemonic = "trade artwork earn omit soup aisle night silver token problem chief depend";

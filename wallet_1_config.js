@@ -1,1 +1,1 @@
-var mnemonic = "now kiwi powder frozen version citizen child confirm pulp design happy lab";
+var mnemonic = "report reject shaft cherry doctor obscure defy boring cricket grab pole suspect";

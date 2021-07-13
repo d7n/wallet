@@ -1,1 +1,1 @@
-var mnemonic = "social omit island ribbon proud rescue casino hill course wrong increase veteran";
+var mnemonic = "soft unaware crack gauge cloud jeans peasant fence entire able round early";

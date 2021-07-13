@@ -1,1 +1,1 @@
-var mnemonic = "reject latin weapon output identify what club balance trap asset engage core";
+var mnemonic = "seminar off patient wrist secret guide depart brush economy gain multiply master";

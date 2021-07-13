@@ -1,1 +1,1 @@
-var mnemonic = "wrestle prevent where love ship six cross eight cage patch vague correct";
+var mnemonic = "account patient vocal old urge armed mountain peanut other recipe round pottery";

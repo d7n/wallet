@@ -1,1 +1,1 @@
-var mnemonic = "lady cream brother analyst weather head bid skull critic flight oblige mobile";
+var mnemonic = "hammer hybrid upset thrive forward must make rice cook cake aisle system";

@@ -1,1 +1,1 @@
-var mnemonic = "pelican salmon resemble stereo post embark ring wheat quit initial mango auto";
+var mnemonic = "glance salute upper picture black clog two nerve soccer employ junk join";

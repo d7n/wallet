@@ -1,1 +1,1 @@
-var mnemonic = "exercise east clump orphan evoke blame bamboo certain river wealth reject diet";
+var mnemonic = "tissue slide glare figure voyage brisk spread ketchup eight whisper nose spy";

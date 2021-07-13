@@ -1,1 +1,1 @@
-var mnemonic = "ugly cannon razor nominee scrub please hour exist unique green swift busy";
+var mnemonic = "card misery travel poet mixture great express element diet little piece core";

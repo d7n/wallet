@@ -1,1 +1,1 @@
-var mnemonic = "magic rely music require clean galaxy decide adult now lake planet ridge";
+var mnemonic = "fog relax number pattern person mechanic utility squirrel seat wire silk garment";

@@ -1,1 +1,1 @@
-var mnemonic = "arctic improve hundred cheese soft pulp wide obtain survey olive fish artwork";
+var mnemonic = "speak trumpet select subject diamond sausage reunion coconut expose zoo cannon frog";

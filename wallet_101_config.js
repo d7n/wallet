@@ -1,1 +1,1 @@
-var mnemonic = "fine helmet scatter elegant grant obey cradle coyote describe invite pride wreck";
+var mnemonic = "accuse property stool youth electric spray team pledge obvious cry annual paddle";

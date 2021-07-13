@@ -1,1 +1,1 @@
-var mnemonic = "option solid budget vague east sponsor payment coyote rebel cluster jazz fault";
+var mnemonic = "rather kidney alert divide valid movie barrel outdoor ball siege ball cave";

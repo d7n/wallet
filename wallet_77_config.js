@@ -1,1 +1,1 @@
-var mnemonic = "virtual ill warrior document version rent favorite moral awkward wink comfort volume";
+var mnemonic = "margin will plug furnace entire card muffin husband borrow hat cost kingdom";

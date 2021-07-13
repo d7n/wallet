@@ -1,1 +1,1 @@
-var mnemonic = "direct frog dune immense stove fly pretty street album tone where poverty";
+var mnemonic = "pupil stay pepper roof soccer square mango zebra jeans brick cluster ginger";

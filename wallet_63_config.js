@@ -1,1 +1,1 @@
-var mnemonic = "awful evolve illness immense hold advance roast question ball chef swing smooth";
+var mnemonic = "race hope scatter rubber strategy force wife giant lion route tube journey";

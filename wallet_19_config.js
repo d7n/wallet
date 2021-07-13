@@ -1,1 +1,1 @@
-var mnemonic = "awake innocent vicious melt great cook owner enemy surge unit puppy leisure";
+var mnemonic = "soul sing exhibit add jungle method actual food arrow beef nurse rifle";

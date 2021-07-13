@@ -1,1 +1,1 @@
-var mnemonic = "better canoe now gadget heart work modify collect vapor trophy enable chair";
+var mnemonic = "spoil tree grab unit nation genre behind original portion define unaware exclude";

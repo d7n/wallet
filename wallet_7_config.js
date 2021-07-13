@@ -1,1 +1,1 @@
-var mnemonic = "height sweet nest shock peace surprise person increase canyon harvest flush village";
+var mnemonic = "subway hurdle assume slender insect luggage subway clock require example mystery topple";

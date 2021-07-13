@@ -1,1 +1,1 @@
-var mnemonic = "depend access vote neglect file alpha matter enjoy cruise prepare math benefit";
+var mnemonic = "raven favorite document chuckle note they curve bench pink immense garlic cruel";

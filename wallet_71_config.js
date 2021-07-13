@@ -1,1 +1,1 @@
-var mnemonic = "quiz pass antenna razor split elegant chief fluid rose cinnamon bench trial";
+var mnemonic = "fluid nut undo foot liar immense trash run suit such museum forum";

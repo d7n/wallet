@@ -1,1 +1,1 @@
-var mnemonic = "discover lens portion citizen awkward marble aim village idle eyebrow path battle";
+var mnemonic = "lab buzz valley asthma pistol monitor panda snake grass chapter village knee";

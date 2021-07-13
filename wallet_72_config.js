@@ -1,1 +1,1 @@
-var mnemonic = "smile calm fly quality sadness turtle fade chief caution shoe rib clog";
+var mnemonic = "garment actor galaxy little cupboard city drift color rocket brave east then";
