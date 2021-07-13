@@ -1,1 +1,1 @@
-var mnemonic = "organ yard field buddy that mass pioneer image delay spy found walk";
+var mnemonic = "female bomb ramp seven candy artwork winner shallow consider rural journey drama";

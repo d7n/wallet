@@ -1,1 +1,1 @@
-var mnemonic = "sad grief fly explain fine eyebrow gesture first rocket nest knock bike";
+var mnemonic = "wish all round middle spring auction churn long hunt chimney stay bid";

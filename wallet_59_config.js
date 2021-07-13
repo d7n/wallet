@@ -1,1 +1,1 @@
-var mnemonic = "drama pen chuckle before exercise stove settle journey team room modify now";
+var mnemonic = "naive merit table offer castle film shiver blast sniff transfer absorb system";

@@ -1,1 +1,1 @@
-var mnemonic = "govern when punch envelope advance travel useful frequent summer rice vapor boost";
+var mnemonic = "liar february soup gym question debris what fame crack dinosaur type arrange";

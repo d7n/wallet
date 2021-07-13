@@ -1,1 +1,1 @@
-var mnemonic = "north track test meadow disagree betray silver scissors doll spring ugly hidden";
+var mnemonic = "crater census you drill hold student apart morning favorite industry depth mango";

@@ -1,1 +1,1 @@
-var mnemonic = "marriage either cliff provide foil crazy require valve obscure tattoo matter village";
+var mnemonic = "awake wall surround loop fork health reject prison rotate arch dad exist";

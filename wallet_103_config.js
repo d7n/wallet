@@ -1,1 +1,1 @@
-var mnemonic = "boss wait kitten grid behave promote trouble jar tenant pudding arrange idea";
+var mnemonic = "mesh flock blame zebra top jewel page gentle faith shoulder stool kitten";

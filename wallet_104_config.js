@@ -1,1 +1,1 @@
-var mnemonic = "pear leave bundle bachelor orbit traffic milk trigger carpet famous render lawn";
+var mnemonic = "canvas seek timber uniform meat sense village agree admit trend trial meadow";

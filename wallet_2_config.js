@@ -1,1 +1,1 @@
-var mnemonic = "vessel final kind goose gravity finger uncle pact assault cloud basket polar";
+var mnemonic = "spoil address walk ozone goat phrase invite excite life public cloth student";

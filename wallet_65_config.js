@@ -1,1 +1,1 @@
-var mnemonic = "canoe swear ten tennis crack divert explain jeans student eagle focus cruise";
+var mnemonic = "fresh bomb cash lend ice unit legend olive soap report media swap";

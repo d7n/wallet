@@ -1,1 +1,1 @@
-var mnemonic = "imitate often rally lecture matter fossil view cannon own never random fancy";
+var mnemonic = "wood margin picnic pistol net danger winner hand broom hawk question steak";

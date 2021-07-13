@@ -1,1 +1,1 @@
-var mnemonic = "allow slogan area paper kitten midnight orbit major elbow since angle champion";
+var mnemonic = "diagram shaft flat museum young scout member fee label minute census sleep";

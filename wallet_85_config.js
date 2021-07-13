@@ -1,1 +1,1 @@
-var mnemonic = "mesh gather wear salmon maximum lecture orchard speed melt jeans royal tag";
+var mnemonic = "prefer whale shallow bottom gadget pride rain sister endless arm cannon danger";

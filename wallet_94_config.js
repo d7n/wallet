@@ -1,1 +1,1 @@
-var mnemonic = "dinosaur extra program idea space champion pulse develop once grant file slight";
+var mnemonic = "run across author biology digital joke trigger grid uncle material real afraid";

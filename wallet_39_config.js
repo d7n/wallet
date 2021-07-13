@@ -1,1 +1,1 @@
-var mnemonic = "photo toast deal moon excite fog century guess horn beach sell lizard";
+var mnemonic = "into grace breeze gloom blanket side anchor debris crowd poverty secret matter";

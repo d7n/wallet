@@ -1,1 +1,1 @@
-var mnemonic = "erase decline churn call elevator unable change biology veteran uphold topic enact";
+var mnemonic = "faculty collect slim decade cube neck setup lend razor try inflict praise";

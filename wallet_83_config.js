@@ -1,1 +1,1 @@
-var mnemonic = "trial illness shadow property certain veteran diagram tag author beef rigid proof";
+var mnemonic = "local book discover adapt orange misery road where where eagle history limb";

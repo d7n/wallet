@@ -1,1 +1,1 @@
-var mnemonic = "wreck glove analyst evidence turkey yellow balcony topic saddle error impulse issue";
+var mnemonic = "genius rather media cloth original check tag genuine hidden will lift work";

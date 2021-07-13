@@ -1,1 +1,1 @@
-var mnemonic = "alone galaxy behave biology second subject atom enjoy electric bubble crane fish";
+var mnemonic = "swim chunk ridge transfer one expire ecology crawl side market skirt coyote";

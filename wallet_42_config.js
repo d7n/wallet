@@ -1,1 +1,1 @@
-var mnemonic = "garlic trip immune sing mad raccoon spatial winter easy thought oven much";
+var mnemonic = "east display into middle can floor horn network genuine pink acid stereo";

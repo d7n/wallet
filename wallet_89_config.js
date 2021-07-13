@@ -1,1 +1,1 @@
-var mnemonic = "apology cross stereo absent vacuum bleak creek note prison member mountain apple";
+var mnemonic = "eternal lift alien bargain light metal creek tent need duck atom pause";

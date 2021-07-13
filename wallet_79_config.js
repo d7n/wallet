@@ -1,1 +1,1 @@
-var mnemonic = "impact coin parrot fold predict media expect book excuse habit foot scheme";
+var mnemonic = "accuse unusual phrase coach beauty short train rely blue swap train agent";

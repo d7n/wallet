@@ -1,1 +1,1 @@
-var mnemonic = "push rebuild produce meadow couple medal swim focus already consider into mistake";
+var mnemonic = "tray yellow secret leader stove pluck figure ancient general sell between spring";

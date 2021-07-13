@@ -1,1 +1,1 @@
-var mnemonic = "bulb lecture tennis ahead visa govern author early suggest camera auction vibrant";
+var mnemonic = "street garage empower menu dignity lion boil expose cactus spice armed obtain";

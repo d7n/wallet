@@ -1,1 +1,1 @@
-var mnemonic = "imitate crawl wrap wisdom identify evil ripple fantasy arrive capable scout word";
+var mnemonic = "blame laundry speed black snack battle rapid report media panel iron awful";

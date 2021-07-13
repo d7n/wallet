@@ -1,1 +1,1 @@
-var mnemonic = "scan sample rather until mixed purchase modify burger region abuse east toy";
+var mnemonic = "chat together final token gossip brand real soccer clean whale era eagle";

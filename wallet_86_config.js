@@ -1,1 +1,1 @@
-var mnemonic = "afraid ask good accuse lens solve post toy horse person stereo raven";
+var mnemonic = "exile leader cool shoulder more brisk fitness knife feed pair remove connect";

@@ -1,1 +1,1 @@
-var mnemonic = "ordinary sunny fold width orient inquiry caught lazy scan vapor fatigue code";
+var mnemonic = "spawn aunt fix another ability destroy rule spider uncover chest try any";

@@ -1,1 +1,1 @@
-var mnemonic = "cover ski answer course float explain grass resist film drama doctor night";
+var mnemonic = "feed weapon drama noise list tuna leave guilt surprise enlist then hub";

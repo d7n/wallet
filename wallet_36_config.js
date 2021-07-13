@@ -1,1 +1,1 @@
-var mnemonic = "valid north venue eagle hundred flag repeat witness poet lizard behind hole";
+var mnemonic = "mad exclude club hire actress happy faith belt cluster mountain saddle magic";

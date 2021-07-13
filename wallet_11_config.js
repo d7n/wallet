@@ -1,1 +1,1 @@
-var mnemonic = "survey balcony pave demise alpha fruit road riot attack seek cute mimic";
+var mnemonic = "reunion ladder cactus clog order blouse faith door left drift birth light";

@@ -1,1 +1,1 @@
-var mnemonic = "utility near hub chalk question wall field learn cradle payment weird hobby";
+var mnemonic = "coffee flip seminar slice spice girl excess clutch brave capable invite health";

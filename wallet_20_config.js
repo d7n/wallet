@@ -1,1 +1,1 @@
-var mnemonic = "view employ crouch park state sweet move discover silent cream bind history";
+var mnemonic = "distance apology fetch cage couple visa save state ramp alcohol net arch";

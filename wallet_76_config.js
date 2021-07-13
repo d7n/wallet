@@ -1,1 +1,1 @@
-var mnemonic = "document answer sunset metal practice hero crew fence affair mail leaf model";
+var mnemonic = "any need stable wealth tennis kind skull pulp high skin base bless";

@@ -1,1 +1,1 @@
-var mnemonic = "reward put visa gap course bitter bacon pencil design give escape orchard";
+var mnemonic = "output sketch flock patrol other machine where manual boat tone token puzzle";

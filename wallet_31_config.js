@@ -1,1 +1,1 @@
-var mnemonic = "magic sign mixture shadow hill relief unveil permit rather ladder myself afraid";
+var mnemonic = "acid trap couple embrace theory broken over million people car drive tilt";

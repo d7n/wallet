@@ -1,1 +1,1 @@
-var mnemonic = "train sample lamp bench canvas unlock hotel pudding swarm empty blame wealth";
+var mnemonic = "apple screen main twice dress sound reunion pledge early other myself alone";

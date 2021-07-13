@@ -1,1 +1,1 @@
-var mnemonic = "frog exist fat exit robot icon speak raccoon toilet horn frog switch";
+var mnemonic = "attend canoe during call adult sentence prepare alien glove super human borrow";

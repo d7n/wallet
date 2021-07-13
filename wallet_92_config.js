@@ -1,1 +1,1 @@
-var mnemonic = "other reunion long scout focus aisle turkey marine leopard beach empower case";
+var mnemonic = "satisfy case session actress build shaft car solution dignity high dinner captain";

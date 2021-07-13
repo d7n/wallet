@@ -1,1 +1,1 @@
-var mnemonic = "kiwi whisper elbow boss congress resource core body angle weird weapon diary";
+var mnemonic = "only human certain run tape myth kind stuff orphan stereo report abstract";

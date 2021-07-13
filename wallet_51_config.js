@@ -1,1 +1,1 @@
-var mnemonic = "impulse problem earth dad lady zone artwork cancel zebra volume luggage regret";
+var mnemonic = "enjoy divert student video monster amused december step room faculty claw neutral";

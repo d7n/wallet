@@ -1,1 +1,1 @@
-var mnemonic = "layer roof antique sick have slab alert black theme can say boy";
+var mnemonic = "absorb seek slender box december use decrease toss phone adjust kitten bag";

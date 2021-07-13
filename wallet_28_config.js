@@ -1,1 +1,1 @@
-var mnemonic = "control walk income reveal naive attack anger hold debate endless assist slight";
+var mnemonic = "goose stool share utility cook blossom start key wink foster tortoise brain";

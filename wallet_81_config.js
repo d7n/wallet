@@ -1,1 +1,1 @@
-var mnemonic = "custom matrix raccoon rich spirit base remind silk crystal find sadness happy";
+var mnemonic = "depend ostrich fire atom marriage decline abuse much riot develop purse athlete";

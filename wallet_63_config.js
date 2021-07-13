@@ -1,1 +1,1 @@
-var mnemonic = "vocal dawn token fly syrup reward beyond ozone clip dawn position alcohol";
+var mnemonic = "real reunion exile corn slow vibrant load duty artefact finish offer cake";

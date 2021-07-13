@@ -1,1 +1,1 @@
-var mnemonic = "pool boring resemble evolve deputy federal quote axis ready skull endorse stable";
+var mnemonic = "pull practice clay beauty skull degree alien reject breeze absent identify toward";

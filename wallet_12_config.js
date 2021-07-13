@@ -1,1 +1,1 @@
-var mnemonic = "jaguar outside follow fork woman early detail child february bright tag calm";
+var mnemonic = "name sense rug because wear pass powder rocket alarm what jar enforce";

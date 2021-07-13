@@ -1,1 +1,1 @@
-var mnemonic = "faith measure van expire banner brick syrup salon beyond aunt can drink";
+var mnemonic = "fox rose amateur popular screen distance summer yellow next audit lyrics art";

@@ -1,1 +1,1 @@
-var mnemonic = "large what clean increase snow patrol lawsuit hungry fancy subject mask modify";
+var mnemonic = "flight emerge extra trigger arctic science exile purity exclude tuna pole device";

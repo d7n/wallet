@@ -1,1 +1,1 @@
-var mnemonic = "assume buzz ladder rubber blanket reunion random layer clap figure hire loud";
+var mnemonic = "flee sort torch open swap mushroom where fat join range load message";

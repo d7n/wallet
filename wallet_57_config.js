@@ -1,1 +1,1 @@
-var mnemonic = "ripple second merit arm bread strong wreck foam crew reunion umbrella grab";
+var mnemonic = "uniform spirit aware chalk teach scare solar strike coast reason usage vital";

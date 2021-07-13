@@ -1,1 +1,1 @@
-var mnemonic = "basket exhibit earth peanut fetch distance prison behave easily task used vendor";
+var mnemonic = "banana what receive arctic dune funny despair jar lonely crush consider burger";

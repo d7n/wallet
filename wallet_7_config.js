@@ -1,1 +1,1 @@
-var mnemonic = "pond fee infant cattle ketchup cousin program fresh grace reject flock grief";
+var mnemonic = "tide usual adjust occur jump mystery master empty isolate lyrics rescue teach";

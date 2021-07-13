@@ -1,1 +1,1 @@
-var mnemonic = "dream neutral there grit mesh child romance combine ginger garbage finish visual";
+var mnemonic = "hidden tissue obvious mean chase analyst decade animal moral artefact liquid paddle";

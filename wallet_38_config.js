@@ -1,1 +1,1 @@
-var mnemonic = "blanket among praise aware grit provide hurry ankle welcome tonight jelly oak";
+var mnemonic = "cruise sleep diamond small lazy install execute barely alert crunch whisper scatter";

@@ -1,1 +1,1 @@
-var mnemonic = "actor congress network desert shaft skirt seed appear nephew wreck ice range";
+var mnemonic = "impact chaos soap hawk twenty universe stock cloth rotate favorite finger rocket";

@@ -1,1 +1,1 @@
-var mnemonic = "syrup purse vibrant spare adjust sorry mutual damp number column acid reject";
+var mnemonic = "benefit cradle mandate mixture again make place broccoli okay robot provide thrive";

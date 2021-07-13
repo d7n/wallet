@@ -1,1 +1,1 @@
-var mnemonic = "beef unfold cube brand next permit appear since remain unaware style syrup";
+var mnemonic = "elder asthma coast brief resource tattoo ankle label cargo current effort blanket";

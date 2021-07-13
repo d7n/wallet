@@ -1,1 +1,1 @@
-var mnemonic = "note hold rebuild real strike half interest copper morning fat high fold";
+var mnemonic = "tail now pudding acid vapor toy kite emerge general supply finger rally";

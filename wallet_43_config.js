@@ -1,1 +1,1 @@
-var mnemonic = "book vote news kiss barrel kidney plate human join ethics dinner dutch";
+var mnemonic = "panel gasp vivid sunny fork cushion curious salute option until nuclear want";

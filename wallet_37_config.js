@@ -1,1 +1,1 @@
-var mnemonic = "border rookie assume debate glove artefact fork arena loop mind fashion rapid";
+var mnemonic = "fury learn jeans cattle agree corn swap scrap never code purse carbon";

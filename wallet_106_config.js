@@ -1,1 +1,1 @@
-var mnemonic = "street total coral ostrich lab help noise arctic talk sad giggle dust";
+var mnemonic = "pulp ticket envelope heavy claw stable ring remove diesel cluster erase easy";

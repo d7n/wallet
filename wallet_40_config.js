@@ -1,1 +1,1 @@
-var mnemonic = "raw aisle final device way bring creek shuffle oval second little hazard";
+var mnemonic = "tray essay blast ivory inner annual brave pigeon screen collect enable ribbon";

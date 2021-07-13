@@ -1,1 +1,1 @@
-var mnemonic = "model erode leopard coast senior left vintage regret purity awful virtual shy";
+var mnemonic = "rapid defy sail flight mesh food prosper normal floor bottom regular useless";

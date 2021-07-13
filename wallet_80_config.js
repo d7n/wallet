@@ -1,1 +1,1 @@
-var mnemonic = "virus wolf reform remain flight matrix manage rhythm orbit glad price peanut";
+var mnemonic = "monster useless theme pretty medal scrap street render hurdle debris grain educate";

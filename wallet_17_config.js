@@ -1,1 +1,1 @@
-var mnemonic = "wasp forget flash salon raven solve knee exact nurse doll winner track";
+var mnemonic = "cupboard until kitten jewel must fatigue excite other lend bounce basket bronze";

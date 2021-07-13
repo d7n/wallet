@@ -1,1 +1,1 @@
-var mnemonic = "truly often bus exhibit tribe enrich planet dynamic genius nominee differ slush";
+var mnemonic = "fit owner help aware inspire furnace unknown because sing task isolate bullet";

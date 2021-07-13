@@ -1,1 +1,1 @@
-var mnemonic = "board claim attend wrap grace document board tree soccer kiss orbit private";
+var mnemonic = "wash crater rate wild child hunt little like apart cup course output";

@@ -1,1 +1,1 @@
-var mnemonic = "welcome talk flash what amount wild salt credit cover student fuel vanish";
+var mnemonic = "provide crunch verify salt music surge mandate blue swarm neutral potato busy";

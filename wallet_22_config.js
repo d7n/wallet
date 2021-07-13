@@ -1,1 +1,1 @@
-var mnemonic = "warm hamster access own picnic borrow web bunker cup whip stereo cushion";
+var mnemonic = "enlist ship sustain breeze acid note ketchup thing virus together enjoy urge";

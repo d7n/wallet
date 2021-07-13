@@ -1,1 +1,1 @@
-var mnemonic = "nerve agent wolf limit meat chat salad sunset cover answer nephew breeze";
+var mnemonic = "yard photo ahead peasant real tobacco pottery club globe pulse frozen casino";

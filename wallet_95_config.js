@@ -1,1 +1,1 @@
-var mnemonic = "appear desk hurdle property mobile door escape riot jungle cash path level";
+var mnemonic = "walnut foil letter planet empower spot chat glimpse pact monkey blossom swarm";

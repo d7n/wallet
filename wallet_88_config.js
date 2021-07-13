@@ -1,1 +1,1 @@
-var mnemonic = "result wide shop region blade cool cabbage horror roast dress found track";
+var mnemonic = "brisk potato spike wet voyage lunar pilot pelican swap coil cute rose";

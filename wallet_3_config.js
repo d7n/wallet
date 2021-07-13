@@ -1,1 +1,1 @@
-var mnemonic = "supreme settle skin audit smile arrange hockey bitter silk eternal shiver athlete";
+var mnemonic = "middle mesh dizzy evoke wink shrug vacant consider black ritual advance sunny";

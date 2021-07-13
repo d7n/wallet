@@ -1,1 +1,1 @@
-var mnemonic = "arctic over plastic ancient monitor modify mobile future robot kid ivory exist";
+var mnemonic = "initial lion hawk bitter install limit sketch test legal canoe vibrant spoon";

@@ -1,1 +1,1 @@
-var mnemonic = "honey method cabbage deer twist patient honey reason pencil loop priority topple";
+var mnemonic = "violin hawk icon nice give tiny crop reject pet cruel worry rifle";

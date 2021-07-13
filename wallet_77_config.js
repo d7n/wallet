@@ -1,1 +1,1 @@
-var mnemonic = "message join scout vapor garlic pudding pave labor job evolve margin void";
+var mnemonic = "leopard garage lunch suggest volcano access witness rich pepper thunder trigger retire";

@@ -1,1 +1,1 @@
-var mnemonic = "dawn myself hamster kiwi motor end grab van bulb source vanish predict";
+var mnemonic = "help carry subject travel move upset evolve survey forget prosper gather dumb";

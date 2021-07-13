@@ -1,1 +1,1 @@
-var mnemonic = "chunk involve beauty jealous sail parrot escape sibling faith dignity brand distance";
+var mnemonic = "orchard course protect force fall puzzle music carpet breeze gate scan puppy";

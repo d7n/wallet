@@ -1,1 +1,1 @@
-var mnemonic = "promote riot ignore sting matter equal mention innocent ozone decrease buffalo another";
+var mnemonic = "under giggle sauce pottery rent gather animal engage horn keep term capable";

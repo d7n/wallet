@@ -1,1 +1,1 @@
-var mnemonic = "snow brush pumpkin tornado main room blossom catalog enhance link fit output";
+var mnemonic = "carpet tide pluck slim spy sword monster dog oil dinner quiz aspect";

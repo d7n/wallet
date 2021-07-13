@@ -1,1 +1,1 @@
-var mnemonic = "pipe swamp net lion income tower use risk idle response father spike";
+var mnemonic = "tape diesel spawn awful keep wool suffer celery hunt arrow shop virus";

@@ -1,1 +1,1 @@
-var mnemonic = "remove raw violin short sea setup admit wreck tray swim purpose museum";
+var mnemonic = "april twelve long sell useless embark brick divert inside bunker decrease tired";

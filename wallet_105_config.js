@@ -1,1 +1,1 @@
-var mnemonic = "gift addict end drastic wasp flight pave evil bird spin increase leopard";
+var mnemonic = "sport blame advance tiger charge valve guess bar coin autumn ritual give";
